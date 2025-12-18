@@ -1,0 +1,493 @@
+{
+  "metadata": {
+    "lChapter": "L-57",
+    "title": "Loan Applications & Creditworthiness",
+    "subtitle": "Master the loan application process and understand how lenders evaluate your creditworthiness",
+    "totalSlides": 20,
+    "hasStateVariables": true,
+    "stateVariablesUsed": [
+      "STATE_NAME",
+      "STATE_AVG_MORTGAGE_RATE",
+      "STATE_AVG_AUTO_LOAN_RATE_NEW",
+      "STATE_AVG_AUTO_LOAN_RATE_USED"
+    ]
+  },
+  "slides": [
+    {
+      "number": 1,
+      "type": "title",
+      "content": {
+        "title": "Loan Applications & Creditworthiness",
+        "titleSize": "large",
+        "subtitle": "Master the loan application process and understand how lenders evaluate your creditworthiness"
+      }
+    },
+    {
+      "number": 2,
+      "type": "hook",
+      "content": {
+        "label": "Essential Question",
+        "question": "What if the difference between a <em>5% interest rate</em> and an <em>8% rate</em> on a loan cost you <em>$2,000 extra</em>?"
+      }
+    },
+    {
+      "number": 3,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Learning Objectives",
+        "layout": "objectives-expanded",
+        "layoutData": {
+          "objectives": [
+            {
+              "number": 1,
+              "verb": "Complete",
+              "description": "a comprehensive loan application with accuracy and required documentation"
+            },
+            {
+              "number": 2,
+              "verb": "Identify",
+              "description": "and gather necessary documentation for different loan types"
+            },
+            {
+              "number": 3,
+              "verb": "Understand",
+              "description": "how lenders use the Five C's to evaluate creditworthiness"
+            },
+            {
+              "number": 4,
+              "verb": "Develop",
+              "description": "strategies to strengthen loan applications and improve approval odds"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 4,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Key Terms to Know",
+        "layout": "vocab-container",
+        "layoutData": {
+          "terms": [
+            {
+              "term": "Creditworthiness",
+              "definition": "A lender's assessment of your ability and willingness to repay debt, based on credit history, income, employment stability, and existing debts.",
+              "example": "High credit score + stable income = strong creditworthiness"
+            },
+            {
+              "term": "Debt-to-Income Ratio (DTI)",
+              "definition": "The percentage of your gross monthly income that goes toward debt payments. Lenders prefer DTI below 36-43%.",
+              "example": "$800 debt payments ÷ $4,000 income = 20% DTI"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 5,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "More Key Terms",
+        "layout": "vocab-container",
+        "layoutData": {
+          "terms": [
+            {
+              "term": "Collateral",
+              "definition": "An asset (car, house, savings) that secures a loan and can be seized if you fail to repay. Reduces lender risk and typically results in lower rates.",
+              "example": "Your car secures an auto loan; your home secures a mortgage"
+            },
+            {
+              "term": "Pre-approval",
+              "definition": "A preliminary evaluation where a lender reviews your finances and indicates willingness to lend up to a certain amount.",
+              "example": "Getting pre-approved for $280,000 before house hunting"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 6,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "The Five C's of Credit",
+        "layout": "concept-full",
+        "layoutData": {
+          "title": "Lenders evaluate every loan application using these five key factors",
+          "bulletPoints": [
+            "<strong>Character:</strong> Your credit history and track record of repaying debts",
+            "<strong>Capacity:</strong> Your ability to repay based on income and existing debts",
+            "<strong>Capital:</strong> Your savings, investments, and down payment available",
+            "<strong>Collateral:</strong> Assets that can secure the loan and reduce lender risk",
+            "<strong>Conditions:</strong> Loan purpose, economic environment, and circumstances"
+          ]
+        }
+      }
+    },
+    {
+      "number": 7,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Current Loan Rates in {{STATE_NAME}}",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "Understanding average rates helps you know if you're getting a good deal",
+            "paragraphs": []
+          },
+          "rightPanel": {
+            "stats": [
+              {
+                "value": "{{STATE_AVG_MORTGAGE_RATE}}%",
+                "label": "Average Mortgage Rate (30-Year Fixed)",
+                "color": "purple"
+              },
+              {
+                "value": "{{STATE_AVG_AUTO_LOAN_RATE_NEW}}%",
+                "label": "New Auto Loan Rate (60-Month Term)",
+                "color": "teal"
+              },
+              {
+                "value": "{{STATE_AVG_AUTO_LOAN_RATE_USED}}%",
+                "label": "Used Auto Loan Rate (60-Month Term)",
+                "color": "green"
+              }
+            ],
+            "infoCard": {
+              "title": "Why rates vary",
+              "color": "amber",
+              "items": [
+                "Your credit score can shift these rates by 2-4 percentage points.",
+                "A 760+ score gets the best rates, while below 620 may add 3%+ to these averages."
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 8,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "How Interest Rates Affect Your Payments",
+        "layout": "comparison-grid",
+        "layoutData": {
+          "leftColumn": {
+            "icon": "✓",
+            "title": "Excellent Credit (740+)",
+            "items": [
+              "Interest Rate: {{STATE_AVG_AUTO_LOAN_RATE_NEW}}%",
+              "Monthly Payment: ~$483",
+              "Total Interest Paid: ~$3,980"
+            ]
+          },
+          "rightColumn": {
+            "icon": "✗",
+            "title": "Poor Credit (Below 620)",
+            "items": [
+              "Interest Rate: 15%+",
+              "Monthly Payment: ~$595",
+              "Total Interest Paid: ~$10,700",
+              "<strong>Difference: $6,720 more in interest with poor credit!</strong>"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "number": 9,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Documentation You'll Need",
+        "layout": "concept-full",
+        "layoutData": {
+          "title": "Gather these documents before applying to streamline the process",
+          "bulletPoints": [
+            "Government-issued ID (driver's license or passport)",
+            "Social Security number",
+            "Recent pay stubs (2-3 months)",
+            "W-2 forms (past 2 years)",
+            "Bank statements (2-3 months)",
+            "Proof of residence (utility bills, lease)",
+            "Current debt statements",
+            "Tax returns (for mortgages or self-employed)"
+          ]
+        }
+      }
+    },
+    {
+      "number": 10,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Loan Types & Approval Timelines",
+        "layout": "comparison-grid",
+        "layoutData": {
+          "leftColumn": {
+            "icon": "🚗",
+            "title": "Auto Loans",
+            "items": [
+              "<strong>Amount:</strong> $10K-$50K",
+              "<strong>Timeline:</strong> Hours to days",
+              "<strong>Key Factor:</strong> Vehicle serves as collateral"
+            ]
+          },
+          "centerColumn": {
+            "icon": "💳",
+            "title": "Personal Loans",
+            "items": [
+              "<strong>Amount:</strong> $1K-$50K",
+              "<strong>Timeline:</strong> 1-7 days",
+              "<strong>Key Factor:</strong> No collateral = higher scrutiny"
+            ]
+          },
+          "rightColumn": {
+            "icon": "🏠",
+            "title": "Mortgages",
+            "items": [
+              "<strong>Amount:</strong> $100K-$500K+",
+              "<strong>Timeline:</strong> 30-45 days",
+              "<strong>Key Factor:</strong> Most documentation required"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "number": 11,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Real-World Application",
+        "layout": "scenario-layout",
+        "layoutData": {
+          "scenario": {
+            "icon": "👩",
+            "name": "Carmen's Prepared Auto Loan Application",
+            "paragraphs": [
+              "Living in {{STATE_NAME}}",
+              "",
+              "Carmen researched financing <strong>3 months before shopping</strong>. She checked her credit score (680), paid off an old medical bill, disputed a credit report error, and gathered all documentation.",
+              "",
+              "When she found a $22,000 car, she was ready. Her credit union approved her at <strong>{{STATE_AVG_AUTO_LOAN_RATE_NEW}}%</strong> while the dealer offered 7.2%. Using her pre-approval, she negotiated the dealer down to match.",
+              "",
+              "<strong>Her preparation saved ~$1,400 in interest.</strong>"
+            ]
+          },
+          "outcomes": []
+        }
+      }
+    },
+    {
+      "number": 12,
+      "type": "discussion",
+      "variant": "teal",
+      "content": {
+        "badge": "Think-Pair-Share",
+        "question": "What's the most important \"C\" of credit for a first-time borrower?<br><br>Consider: Young adults often lack credit history. How can they demonstrate creditworthiness? Which of the Five C's can they most easily influence?"
+      }
+    },
+    {
+      "number": 13,
+      "type": "content",
+      "headerColor": "amber",
+      "content": {
+        "headerTitle": "Preparation Is the Key to Approval",
+        "layout": "concept-full",
+        "layoutData": {
+          "title": "Key Insight",
+          "paragraphs": [
+            "The loan application process isn't random—lenders use predictable criteria.",
+            "",
+            "By understanding what they look for and preparing in advance, you can dramatically improve your approval odds and secure better terms."
+          ],
+          "keyPoint": "Success in loan applications comes from preparation, not luck."
+        }
+      }
+    },
+    {
+      "number": 14,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Strategies to Strengthen Your Application",
+        "layout": "takeaway-grid",
+        "layoutData": {
+          "takeaways": [
+            {
+              "number": 1,
+              "title": "Improve Your Credit",
+              "description": "Pay down credit cards below 30% utilization. Every 20-point improvement can save 0.25-0.5% on rates."
+            },
+            {
+              "number": 2,
+              "title": "Lower Your DTI",
+              "description": "Pay off smaller debts before applying. This frees up monthly capacity for larger loans."
+            },
+            {
+              "number": 3,
+              "title": "Increase Down Payment",
+              "description": "Larger down payments reduce lender risk and can eliminate PMI on mortgages."
+            },
+            {
+              "number": 4,
+              "title": "Stay Employed",
+              "description": "Avoid job changes during applications. Lenders prefer 2+ years of stable employment."
+            },
+            {
+              "number": 5,
+              "title": "Get Pre-Approved",
+              "description": "Pre-approval provides negotiating leverage and clarifies your budget before shopping."
+            },
+            {
+              "number": 6,
+              "title": "Consider a Co-signer",
+              "description": "A co-signer with strong credit can help if your profile is weak—use carefully."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 15,
+      "type": "discussion",
+      "variant": "teal",
+      "content": {
+        "badge": "Partner Discussion",
+        "question": "Is a co-signer worth the risk?<br><br>If a co-signer helps you get approved, what obligations are created? When might it be better to wait and build your own credit instead?"
+      }
+    },
+    {
+      "number": 16,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Common Mistakes to Avoid",
+        "layout": "comparison-grid",
+        "layoutData": {
+          "leftColumn": {
+            "icon": "✗",
+            "title": "What NOT to Do",
+            "items": [
+              "Apply without checking your credit first",
+              "Submit incomplete documentation",
+              "Accept the first offer without shopping",
+              "Make major purchases before closing",
+              "Change jobs during the application process"
+            ]
+          },
+          "rightColumn": {
+            "icon": "✓",
+            "title": "What TO Do",
+            "items": [
+              "Check and improve credit 3-6 months before",
+              "Gather all documents before applying",
+              "Shop multiple lenders within 14-45 days",
+              "Maintain stable finances during approval",
+              "Respond quickly to lender requests"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "number": 17,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Key Takeaways",
+        "layout": "takeaway-grid",
+        "layoutData": {
+          "takeaways": [
+            {
+              "number": 1,
+              "title": "The Five C's matter",
+              "description": "Lenders evaluate Character, Capacity, Capital, Collateral, and Conditions consistently"
+            },
+            {
+              "number": 2,
+              "title": "Preparation saves money",
+              "description": "Strong applications can save thousands in interest over a loan's life"
+            },
+            {
+              "number": 3,
+              "title": "Documentation is critical",
+              "description": "Gathering documents early prevents delays and shows responsibility"
+            },
+            {
+              "number": 4,
+              "title": "Shop around",
+              "description": "Compare rates from multiple lenders within a 14-45 day window to get the best deal"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 18,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Check for Understanding",
+        "layout": "check-grid",
+        "layoutData": {
+          "questions": [
+            {
+              "number": 1,
+              "question": "What does DTI stand for, and why do lenders care about it?"
+            },
+            {
+              "number": 2,
+              "question": "Name the Five C's of credit and explain which one you could most easily improve."
+            },
+            {
+              "number": 3,
+              "question": "If the average auto loan rate in {{STATE_NAME}} is {{STATE_AVG_AUTO_LOAN_RATE_NEW}}%, what might cause you to pay more?"
+            },
+            {
+              "number": 4,
+              "question": "Why is it smart to get pre-approved before shopping for a car or house?"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 19,
+      "type": "content",
+      "headerColor": "blue",
+      "content": {
+        "headerTitle": "Day 2: Loan Application Simulator",
+        "layout": "activity-layout",
+        "layoutData": {
+          "main": {
+            "icon": "🔬",
+            "title": "Coming Tomorrow",
+            "description": "Apply your knowledge in hands-on loan application practice"
+          },
+          "steps": [
+            "Complete realistic loan applications",
+            "Calculate your application strength",
+            "See how changes affect approval & rates"
+          ]
+        }
+      }
+    },
+    {
+      "number": 20,
+      "type": "closing",
+      "content": {
+        "tagline": "\"Building financial futures, one lesson at a time\"",
+        "website": "www.pflacademy.co",
+        "copyright": "© 2025 PFL Academy. All rights reserved."
+      }
+    }
+  ]
+}

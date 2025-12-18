@@ -1,0 +1,556 @@
+{
+  "metadata": {
+    "lChapter": "L-04",
+    "title": "Financial Goal Setting",
+    "subtitle": "Transforming financial wishes into actionable, achievable plans in {{STATE_NAME}} using the SMART framework",
+    "totalSlides": 20,
+    "hasStateVariables": true,
+    "stateVariablesUsed": [
+      "STATE_NAME"
+    ]
+  },
+  "slides": [
+    {
+      "number": 1,
+      "type": "title",
+      "content": {
+        "title": "Financial Goal Setting",
+        "titleSize": "large",
+        "subtitle": "Transforming financial wishes into actionable, achievable plans in {{STATE_NAME}} using the SMART framework"
+      }
+    },
+    {
+      "number": 2,
+      "type": "hook",
+      "content": {
+        "label": "Essential Question",
+        "question": "How do clear financial goals transform vague wishes into concrete achievements that shape your future?<br><br>Financial goals are the foundation of effective money management—they give purpose and direction to every financial decision you make"
+      }
+    },
+    {
+      "number": 3,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Learning Objectives",
+        "layout": "objectives-expanded",
+        "layoutData": {
+          "objectives": [
+            {
+              "number": 1,
+              "verb": "Apply",
+              "description": "Apply the SMART criteria to transform vague financial aspirations into effective, actionable goals"
+            },
+            {
+              "number": 2,
+              "verb": "Differentiate",
+              "description": "Differentiate between short-term and long-term financial goals and their distinct strategies"
+            },
+            {
+              "number": 3,
+              "verb": "Identify",
+              "description": "Identify methods for prioritizing multiple financial goals based on urgency, importance, and feasibility"
+            },
+            {
+              "number": 4,
+              "verb": "Evaluate",
+              "description": "Evaluate the impact of financial goal setting on overall life planning and financial well-being"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 4,
+      "type": "content",
+      "headerColor": "teal",
+      "content": {
+        "headerTitle": "Key Terms",
+        "layout": "vocab-container",
+        "layoutData": {
+          "terms": [
+            {
+              "term": "Financial Goal",
+              "definition": "A specific financial target you aim to achieve within a set timeframe. Financial goals provide direction for your saving, spending, and investing decisions",
+              "example": "Example: \"Save $800 for a laptop in 8 months\""
+            },
+            {
+              "term": "SMART Criteria",
+              "definition": "Framework for creating effective goals: Specific, Measurable, Achievable, Relevant, Time-bound—a proven structure for goal success",
+              "example": "Each component ensures your goal is clear and actionable"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 5,
+      "type": "content",
+      "headerColor": "blue",
+      "content": {
+        "headerTitle": "Key Terms",
+        "layout": "vocab-container",
+        "layoutData": {
+          "terms": [
+            {
+              "term": "Short-term Goal",
+              "definition": "Financial objective to be achieved within one year. Quick wins that build momentum and develop your goal-setting skills",
+              "example": "Examples: Emergency fund, new phone, concert tickets, paying off small debt"
+            },
+            {
+              "term": "Long-term Goal",
+              "definition": "Financial objective that takes more than one year to achieve. Requires patience and strategic planning but yields greater rewards",
+              "example": "Examples: College savings, buying a car, investment portfolio, travel fund"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 6,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Why Financial Goals Matter",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "Goals as Your Financial Roadmap",
+            "paragraphs": [
+              "Without clear goals, it's easy to spend impulsively and never afford what truly matters to you.",
+              "",
+              "• Transform vague wishes into actionable plans",
+              "• Allocate resources more effectively",
+              "• Measure progress objectively",
+              "• Experience satisfaction of achievement",
+              "• Build lifelong positive money habits"
+            ]
+          },
+          "rightPanel": {
+            "stats": [
+              {
+                "value": "42%",
+                "label": "More likely to achieve goals when written down",
+                "color": "teal"
+              },
+              {
+                "value": "3x",
+                "label": "Higher success rate with specific deadlines",
+                "color": "purple"
+              },
+              {
+                "value": "76%",
+                "label": "Of successful savers set clear goals first",
+                "color": "green"
+              }
+            ],
+            "infoCard": null
+          }
+        }
+      }
+    },
+    {
+      "number": 7,
+      "type": "content",
+      "headerColor": "teal",
+      "content": {
+        "headerTitle": "Short-Term vs. Long-Term Goals",
+        "layout": "comparison-grid",
+        "layoutData": {
+          "leftColumn": {
+            "icon": "⏰",
+            "title": "Short-Term Goals",
+            "items": [
+              "Achievable within 1 year",
+              "Require smaller amounts of money",
+              "Provide quick wins and motivation",
+              "More concrete and easier to visualize",
+              "Building blocks toward larger goals",
+              "Great for developing skills"
+            ]
+          },
+          "rightColumn": {
+            "icon": "📅",
+            "title": "Long-Term Goals",
+            "items": [
+              "Take more than 1 year to achieve",
+              "Require substantial resources",
+              "Teach patience and commitment",
+              "Yield greater rewards over time",
+              "Connect to major life milestones",
+              "Require strategic planning"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "number": 8,
+      "type": "content",
+      "headerColor": "blue",
+      "content": {
+        "headerTitle": "The SMART Framework",
+        "layout": "concept-full",
+        "layoutData": {
+          "title": "Transform vague aspirations into clear, actionable plans",
+          "paragraphs": [
+            "<strong>S - Specific:</strong> Define exactly what you want to accomplish",
+            "<strong>M - Measurable:</strong> Include concrete amounts to track progress",
+            "<strong>A - Achievable:</strong> Set realistic goals for your situation",
+            "<strong>R - Relevant:</strong> Align with your values and priorities",
+            "<strong>T - Time-bound:</strong> Set a specific deadline for completion"
+          ],
+          "bulletPoints": []
+        }
+      }
+    },
+    {
+      "number": 9,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "SMART Goal in Action",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "Transforming a Vague Goal",
+            "paragraphs": [
+              "❌ <strong>NOT SMART:</strong> \"I want to save money for a laptop.\"",
+              "",
+              "✅ <strong>SMART Version:</strong> \"I will save $800 for a new laptop by saving $100 per month for 8 months, tracking my progress in a savings app.\""
+            ]
+          },
+          "rightPanel": {
+            "stats": [],
+            "infoCard": {
+              "title": "Why It Works:",
+              "color": "amber",
+              "items": [
+                "✓ <strong>Specific:</strong> $800 for a laptop",
+                "✓ <strong>Measurable:</strong> $100 monthly",
+                "✓ <strong>Achievable:</strong> Realistic amount",
+                "✓ <strong>Relevant:</strong> Needed for school",
+                "✓ <strong>Time-bound:</strong> 8 months"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 10,
+      "type": "content",
+      "headerColor": "teal",
+      "content": {
+        "headerTitle": "Prioritizing Your Goals",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "When You Have Multiple Goals",
+            "paragraphs": [
+              "Prioritization helps you allocate limited resources effectively without abandoning any goal entirely.",
+              "",
+              "⏰ <strong>Urgency:</strong> Which goals have time-sensitive deadlines?",
+              "⭐ <strong>Importance:</strong> Which will have the biggest life impact?",
+              "🎯 <strong>Feasibility:</strong> Which can you realistically achieve now?"
+            ]
+          },
+          "rightPanel": {
+            "stats": [
+              {
+                "value": "4",
+                "label": "Key Factors in Goal Prioritization",
+                "color": "blue"
+              },
+              {
+                "value": "1st",
+                "label": "Emergency fund often recommended first",
+                "color": "teal"
+              },
+              {
+                "value": "✓",
+                "label": "Sequence matters: some goals are prerequisites",
+                "color": "green"
+              }
+            ],
+            "infoCard": null
+          }
+        }
+      }
+    },
+    {
+      "number": 11,
+      "type": "content",
+      "headerColor": "blue",
+      "content": {
+        "headerTitle": "Why It Matters",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "Impact on Your Financial Life",
+            "paragraphs": [
+              "Financial goal setting has far-reaching implications for your overall well-being and future success.",
+              "",
+              "• <strong>Financial Security:</strong> Clear path to stability, reducing money stress",
+              "• <strong>Better Decisions:</strong> Goals filter spending choices",
+              "• <strong>Life Planning:</strong> Connect money to life aspirations",
+              "• <strong>Confidence:</strong> Achieve goals = build self-efficacy",
+              "• <strong>Positive Habits:</strong> Establish lifelong money skills"
+            ]
+          },
+          "rightPanel": {
+            "stats": [
+              {
+                "value": "Life",
+                "label": "Goals you set today shape your relationship with money forever",
+                "color": "purple"
+              },
+              {
+                "value": "Every",
+                "label": "Life stage benefits: education, housing, retirement",
+                "color": "teal"
+              }
+            ],
+            "infoCard": null
+          }
+        }
+      }
+    },
+    {
+      "number": 12,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Modern Goal Setting",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "Today's Tools for Success",
+            "paragraphs": [
+              "Technology makes tracking and achieving financial goals easier than ever before.",
+              "",
+              "• Savings apps with automatic transfers",
+              "• Progress tracking and visualization",
+              "• Goal-based savings accounts",
+              "• Budgeting tools with goal features",
+              "• Social accountability through apps",
+              "• Round-up savings programs"
+            ]
+          },
+          "rightPanel": {
+            "stats": [
+              {
+                "value": "89%",
+                "label": "Of young adults use apps for money management",
+                "color": "green"
+              },
+              {
+                "value": "$150",
+                "label": "Average monthly auto-savings by goal setters",
+                "color": "blue"
+              },
+              {
+                "value": "2.5x",
+                "label": "Faster goal achievement with tracking apps",
+                "color": "purple"
+              }
+            ],
+            "infoCard": null
+          }
+        }
+      }
+    },
+    {
+      "number": 13,
+      "type": "content",
+      "headerColor": "teal",
+      "content": {
+        "headerTitle": "Real-World Example",
+        "layout": "scenario-layout",
+        "layoutData": {
+          "scenario": {
+            "icon": "👤",
+            "name": "Riley's Success with SMART Goals",
+            "paragraphs": [
+              "Riley wants to buy an $800 laptop for college in 8 months. Using the SMART framework, Riley creates a specific plan: save $100 each month through automatic transfers to a dedicated savings account and track progress using a savings app.",
+              "",
+              "Riley makes the goal achievable by identifying specific adjustments: reducing eating out by $50 monthly and earning another $50 through a part-time job."
+            ]
+          },
+          "outcomes": [
+            {
+              "type": "before",
+              "label": "Goal Amount",
+              "value": "$800",
+              "detail": "Clear target amount"
+            },
+            {
+              "type": "after",
+              "label": "Monthly Savings",
+              "value": "$100",
+              "detail": "Specific action plan"
+            },
+            {
+              "type": "after",
+              "label": "Result",
+              "value": "Goal Achieved!",
+              "detail": "Strategic planning leads to success"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 14,
+      "type": "content",
+      "headerColor": "blue",
+      "content": {
+        "headerTitle": "Real-World Example",
+        "layout": "scenario-layout",
+        "layoutData": {
+          "scenario": {
+            "icon": "👤",
+            "name": "Morgan's Struggles with Vague Goals",
+            "paragraphs": [
+              "Morgan wants to \"save some money for the future.\" Without specific amounts or deadlines, Morgan doesn't feel any urgency to save consistently. Some months, Morgan puts away $50; other months, nothing at all.",
+              "",
+              "Morgan doesn't track progress or have a clear target to work toward. After a year, Morgan has saved only $275 sporadically and feels discouraged about financial planning."
+            ]
+          },
+          "outcomes": [
+            {
+              "type": "before",
+              "label": "Goal",
+              "value": "Undefined",
+              "detail": "No clear target"
+            },
+            {
+              "type": "before",
+              "label": "Saved After 1 Year",
+              "value": "$275",
+              "detail": "Sporadic savings"
+            },
+            {
+              "type": "before",
+              "label": "Feeling",
+              "value": "Discouraged",
+              "detail": "Lack of structure leads to frustration"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 15,
+      "type": "discussion",
+      "variant": "teal",
+      "content": {
+        "badge": "Discussion",
+        "question": "Which approach—Riley's or Morgan's—would help you achieve your goals, and why?<br><br><strong>Prompts:</strong> What made Riley's approach successful? • What could Morgan do differently? • How do you currently set financial goals?"
+      }
+    },
+    {
+      "number": 16,
+      "type": "discussion",
+      "variant": "purple",
+      "content": {
+        "badge": "Personal Reflection",
+        "question": "What specific financial goal would make the biggest positive impact on your life right now?<br><br><strong>Prompts:</strong> How can SMART criteria help you achieve it? • What potential obstacles might you face? • How will achieving this goal affect other areas of your life?"
+      }
+    },
+    {
+      "number": 17,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Check for Understanding",
+        "layout": "check-grid",
+        "layoutData": {
+          "questions": [
+            {
+              "number": 1,
+              "question": "What are the five components of a SMART goal, and why is each one important?"
+            },
+            {
+              "number": 2,
+              "question": "How do short-term goals differ from long-term goals in terms of strategy and timeline?"
+            },
+            {
+              "number": 3,
+              "question": "What factors should you consider when prioritizing multiple financial goals?"
+            },
+            {
+              "number": 4,
+              "question": "Transform this vague goal into a SMART goal: \"I want to save money for a trip.\""
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 18,
+      "type": "content",
+      "headerColor": "teal",
+      "content": {
+        "headerTitle": "Key Takeaways",
+        "layout": "takeaway-grid",
+        "layoutData": {
+          "takeaways": [
+            {
+              "number": 1,
+              "title": "SMART Framework Works",
+              "description": "The SMART framework transforms vague wishes into specific, measurable, achievable, relevant, and time-bound plans"
+            },
+            {
+              "number": 2,
+              "title": "Balance Short and Long-Term",
+              "description": "Balance short-term goals (quick wins, motivation) with long-term goals (major life milestones)"
+            },
+            {
+              "number": 3,
+              "title": "Prioritize Strategically",
+              "description": "Prioritize goals based on urgency, importance, feasibility, and sequence—but don't abandon any goal entirely"
+            },
+            {
+              "number": 4,
+              "title": "Build Positive Habits",
+              "description": "Effective goal setting builds confidence, self-discipline, and positive financial habits for life"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 19,
+      "type": "content",
+      "headerColor": "blue",
+      "content": {
+        "headerTitle": "Skill Builder: SMART Goals Worksheet",
+        "layout": "activity-layout",
+        "layoutData": {
+          "main": {
+            "icon": "📋",
+            "title": "Create Your SMART Goals",
+            "description": "Practice turning financial aspirations into actionable, achievable goals using the SMART framework for both short-term and long-term objectives. Materials: SMART Goals Worksheet, calculator, savings app (optional)"
+          },
+          "steps": [
+            "Choose one short-term goal (within 1 year) and one long-term goal (more than 1 year)",
+            "Apply each SMART criterion to both goals: Specific, Measurable, Achievable, Relevant, Time-bound",
+            "Write your complete SMART goal statement in one clear sentence for each",
+            "Identify potential obstacles and strategies to overcome them",
+            "Plan specific actions you'll take in the next week to begin working toward each goal"
+          ]
+        }
+      }
+    },
+    {
+      "number": 20,
+      "type": "closing",
+      "content": {
+        "tagline": "Set Goals. Take Action. Build Your Future.",
+        "website": "www.pflacademy.co",
+        "copyright": "© 2025 PFL Academy. All rights reserved."
+      }
+    }
+  ]
+}
