@@ -25,9 +25,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Alex borrowed <em>$20,000 in federal student loans</em> at 5% fixed interest with income-driven repayment options.<br><br>Jordan borrowed <em>$15,000 federal + $10,000 private</em> at 10% variable interest, requiring a parent co-signer.<br><br>Both graduated with similar degrees, but their post-graduation financial situations look <em>very different</em>.<br><br>What key differences in their loan choices will impact Alex and Jordan for years to come?"
+        "question": "Alex borrowed <em>$20,000 in federal student loans</em> at 5% fixed interest with income-driven repayment options. Jordan borrowed <em>$15,000 federal + $10,000 private</em> at 10% variable interest, requiring a parent co-signer.   What key differences in their loan choices will impact Alex and Jordan for years to come?    What key differences in their loan choices will impact Alex and Jordan for years to come? <br><br>   What key differences in their loan choices will impact Alex and Jordan for years to come?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n• Read Alex and Jordan's contrasting scenarios.\n• Ask: \"What do you already know about student loans? Federal vs. private?\"\n"
     },
     {
       "number": 3,
@@ -74,12 +75,12 @@
             {
               "term": "Federal Student Loans",
               "definition": "Loans from the U.S. Department of Education with fixed rates set by Congress, flexible repayment options, and borrower protections.",
-              "example": "Direct Subsidized, Direct Unsubsidized, and PLUS loans\u2014rates and terms are the same for all borrowers."
+              "example": "Direct Subsidized, Direct Unsubsidized, and PLUS loans—rates and terms are the same for all borrowers."
             },
             {
               "term": "Private Student Loans",
               "definition": "Loans from banks, credit unions, or online lenders. Rates vary based on credit score and typically offer less flexibility.",
-              "example": "A student with excellent credit might get 6% while fair credit gets 12%\u2014rates are lender and borrower specific."
+              "example": "A student with excellent credit might get 6% while fair credit gets 12%—rates are lender and borrower specific."
             }
           ]
         }
@@ -97,11 +98,11 @@
             {
               "term": "Income-Driven Repayment (IDR)",
               "definition": "Federal loan plans that cap monthly payments at a percentage of your discretionary income, with forgiveness after 20-25 years.",
-              "example": "SAVE, IBR, PAYE, ICR\u2014payments adjust based on income and family size."
+              "example": "SAVE, IBR, PAYE, ICR—payments adjust based on income and family size."
             },
             {
               "term": "Loan Default",
-              "definition": "Failure to repay student loans as agreed\u2014typically after 270 days of missed payments for federal loans.",
+              "definition": "Failure to repay student loans as agreed—typically after 270 days of missed payments for federal loans.",
               "example": "Default damages credit for years, can result in wage garnishment, tax refund seizure, and even loss of professional licenses."
             }
           ]
@@ -117,7 +118,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83c\udfdb\ufe0f",
+            "icon": "🏛️",
             "title": "FEDERAL LOANS",
             "items": [
               "Fixed interest rate (set by Congress)",
@@ -130,7 +131,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83c\udfe6",
+            "icon": "🏦",
             "title": "PRIVATE LOANS",
             "items": [
               "Variable OR fixed (credit-based)",
@@ -164,7 +165,7 @@
             "<strong>Direct Consolidation:</strong> Combine multiple federal loans into one payment."
           ],
           "keyPoint": {
-            "text": "\ud83d\udca1 Always max out subsidized loans first\u2014free interest while in school is huge!"
+            "text": "💡 Always max out subsidized loans first—free interest while in school is huge!"
           }
         }
       }
@@ -212,7 +213,7 @@
               "items": [
                 "Private rates can increase over time",
                 "10% can become 12%, 15%, or higher",
-                "Federal rates are fixed\u2014predictable"
+                "Federal rates are fixed—predictable"
               ]
             }
           }
@@ -238,7 +239,7 @@
               "If your income drops (job loss, lower salary), payments drop too!"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "IDR plans provide a safety net. If you earn $35,000, your payment might be $150/month instead of $300."
             }
           },
@@ -280,7 +281,7 @@
             "<strong>Total and Permanent Disability:</strong> Discharge if you become disabled"
           ],
           "keyPoint": {
-            "text": "\u26a0\ufe0f PSLF requires specific loan types (Direct Loans) and qualifying employers. Verify eligibility BEFORE counting on forgiveness!"
+            "text": "⚠️ PSLF requires specific loan types (Direct Loans) and qualifying employers. Verify eligibility BEFORE counting on forgiveness!"
           }
         }
       }
@@ -304,7 +305,7 @@
               "<strong>Professional license issues:</strong> Some states can revoke or deny licenses"
             ],
             "highlightBox": {
-              "icon": "\u26a0\ufe0f",
+              "icon": "⚠️",
               "text": "Unlike most debt, student loans are extremely difficult to discharge in bankruptcy."
             }
           },
@@ -333,7 +334,8 @@
             }
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"Private loans are always cheaper because banks compete.\"\n   → Federal loans have government-subsidized rates. Private loans vary by credit and can be much more expensive, especially for borrowers with fair credit.\n\n2. \"Student loans disappear in bankruptcy.\"\n   → Student loans are extremely difficult to discharge in bankruptcy. Unlike other debts, they typically follow you until repaid.\n\n3. \"I should borrow the maximum to have spending money.\"\n   → Only borrow what you need for educational expenses. Every dollar borrowed costs more to repay with interest.\n\n"
     },
     {
       "number": 12,
@@ -356,7 +358,7 @@
             "<strong>Exhaust federal loans before private:</strong> Better rates, better protections"
           ],
           "keyPoint": {
-            "text": "\ud83c\udfaf Rule of thumb: Don't borrow more than your expected first-year salary after graduation."
+            "text": "🎯 Rule of thumb: Don't borrow more than your expected first-year salary after graduation."
           }
         }
       }
@@ -370,7 +372,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc64",
+            "icon": "👤",
             "name": "Alex's Federal-Only Strategy",
             "paragraphs": [
               "Alex borrowed $20,000 total in federal loans at 5% fixed. After graduating with a teaching degree, Alex earns $38,000/year.",
@@ -410,7 +412,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc64",
+            "icon": "👤",
             "name": "Jordan's Mixed Strategy",
             "paragraphs": [
               "Jordan borrowed $15,000 federal + $10,000 private at 10% variable. The private loan required Jordan's parent as co-signer.",
@@ -423,7 +425,7 @@
               "type": "negative",
               "label": "Private Rate",
               "value": "12% (was 10%)",
-              "detail": "Variable\u2014increased"
+              "detail": "Variable—increased"
             },
             {
               "type": "negative",
@@ -486,7 +488,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (Federal student loans)\n\n2. Any two: damaged credit (7+ years), wage garnishment (up to 15%), tax refund seizure, ineligibility for future federal aid, professional license restrictions.\n\n3. $212 × 120 months = $25,440 total. Interest = $25,440 − $20,000 = $5,440\n\n4. Income-driven repayment caps payments at a percentage of discretionary income. With $35,000 salary, Alex's payment would be affordable and any remaining balance forgiven after 20-25 years.\n\n5. Responses should include specific strategies: scholarships, part-time work, community college, choosing affordable schools, and understanding loan terms before borrowing.\n\n"
     },
     {
       "number": 18,
@@ -530,9 +533,9 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83c\udf93",
+            "icon": "🎓",
             "title": "Student Loan Strategy Builder",
-            "description": "Alex and Jordan made different choices\u2014but what would YOU do? Tomorrow you'll analyze loan scenarios, compare costs, and create a personal education financing strategy."
+            "description": "Alex and Jordan made different choices—but what would YOU do? Tomorrow you'll analyze loan scenarios, compare costs, and create a personal education financing strategy."
           },
           "steps": [
             "Compare federal vs. private loan features for real scenarios",
@@ -550,7 +553,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

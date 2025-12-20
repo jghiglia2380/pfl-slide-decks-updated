@@ -24,7 +24,8 @@
         "label": "The Challenge",
         "question": "You have $5,000 to invest. The market drops <em>15%</em> in two weeks.<br>Your portfolio is now worth <em>$4,250</em>.<br>What do you do?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n• Read Marcus's pandemic panic story—emphasize his pre-written rule saved him.\n• Discussion: \"How did it feel to keep investing when everything was crashing?\"\n• Key insight: The rule was written BEFORE the crisis, not during.\n"
     },
     {
       "number": 3,
@@ -142,8 +143,8 @@
               "<strong>Difference: $4,000</strong> over 30 years. Is automation + behavioral protection worth it? That's personal."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u26a0\ufe0f \"Free\" apps with $3/month subscriptions on $500 = 7.2% annual fee! Watch for hidden costs."
+              "icon": "💡",
+              "text": "⚠️ \"Free\" apps with $3/month subscriptions on $500 = 7.2% annual fee! Watch for hidden costs."
             }
           },
           "rightPanel": {
@@ -202,11 +203,11 @@
               "<strong>S&amp;P 500 Returns:</strong> 10.7% annually (1992-2021)",
               "<strong>Average Equity Investor:</strong> 7.1% annually",
               "<strong>Gap: 3.6 percentage points</strong> lost to behavioral mistakes.",
-              "This gap comes almost entirely from buying high (after markets rise) and selling low (after markets fall)\u2014exactly what biases cause."
+              "This gap comes almost entirely from buying high (after markets rise) and selling low (after markets fall)—exactly what biases cause."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udca1 Understanding YOUR biases can recover those lost percentage points. Psychology matters more than platform choice!"
+              "icon": "���",
+              "text": "��� Understanding YOUR biases can recover those lost percentage points. Psychology matters more than platform choice!"
             }
           },
           "rightPanel": {
@@ -245,7 +246,7 @@
         "layoutData": {
           "title": "Rules-Based Investing Beats Emotional Investing",
           "paragraphs": [
-            "Create rules BEFORE volatility hits. When emotions run high, you follow the rules\u2014not your gut."
+            "Create rules BEFORE volatility hits. When emotions run high, you follow the rules—not your gut."
           ],
           "bulletPoints": [
             "<strong>Rule 1:</strong> \"I will invest $X every month regardless of market conditions\"",
@@ -256,7 +257,7 @@
             "<strong>Rule 6:</strong> \"I will automate as much as possible to remove emotion from the process\""
           ],
           "keyPoint": {
-            "text": "\ud83c\udfaf The right platform can ENFORCE good behavior\u2014automatic investing, rebalancing, and barriers to panic selling."
+            "text": "🎯 The right platform can ENFORCE good behavior—automatic investing, rebalancing, and barriers to panic selling."
           }
         }
       }
@@ -270,10 +271,10 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69\u200d\ud83d\udcbc",
+            "icon": "👩‍💼",
             "name": "Keisha: Robo-Advisor Success",
             "paragraphs": [
-              "At 24, Keisha started her first job with $5,000 saved and $200/month to invest. She was <span class=\"highlight-text\">overwhelmed by options</span> and honest with herself\u2014she'd likely chase performance on Robinhood.",
+              "At 24, Keisha started her first job with $5,000 saved and $200/month to invest. She was <span class=\"highlight-text\">overwhelmed by options</span> and honest with herself—she'd likely chase performance on Robinhood.",
               "She chose <strong>Betterment</strong>. Set up automatic $200 monthly deposits. The platform built a 90/10 stock/bond portfolio and handled rebalancing automatically.",
               "During the 2022 drop, friends panic-sold. Keisha's automation kept her investing. <span class=\"highlight-text\">Behavioral protection worth more than the 0.25% fee.</span>"
             ]
@@ -299,7 +300,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"Smart people don't have behavioral biases.\"\n   → Biases are hardwired into human psychology—even Nobel Prize-winning economists exhibit them. Awareness helps but doesn't eliminate biases; systems and rules are required.\n\n2. \"I'll be able to stay calm during a crash.\"\n   → Everyone thinks this until they experience 30%+ losses. Pre-written rules and automation are essential because you CAN'T trust your future panicked self.\n\n3. \"Robo-advisors are only for beginners.\"\n   → Many sophisticated investors use robo-advisors specifically for behavioral guardrails. Automation prevents even experienced investors from making emotional mistakes.\n\n"
     },
     {
       "number": 12,
@@ -310,7 +312,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\u26a0\ufe0f",
+            "icon": "⚠️",
             "name": "Marcus: Pandemic Panic Survived",
             "paragraphs": [
               "Marcus, 28, had $18,000 invested when COVID-19 hit in March 2020. Markets crashed <span class=\"highlight-text\">34% in 23 days</span>. His portfolio fell to $11,880.",
@@ -350,11 +352,11 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udd0d",
+            "icon": "🔍",
             "name": "Jasmine: Confirmation Bias Trap",
             "paragraphs": [
               "Jasmine, 26, loved sustainable energy and invested $3,000 in a solar company at $45/share. She followed solar news obsessively, joined Reddit communities, and <span class=\"highlight-text\">only read positive articles</span>.",
-              "Warning signs she missed: declining margins, lost contracts, competitor advances. Stock fell to $38\u2014she saw it as a \"buying opportunity.\"",
+              "Warning signs she missed: declining margins, lost contracts, competitor advances. Stock fell to $38—she saw it as a \"buying opportunity.\"",
               "A friend asked: \"What would make you sell?\" Jasmine couldn't answer. She forced herself to read critical analyses, discovered real problems, sold half at $38. The stock eventually fell to <span class=\"highlight-text\">$25</span>. Her diversification into a clean energy ETF saved her."
             ]
           },
@@ -440,7 +442,7 @@
             {
               "number": 1,
               "title": "Match Platform to Personality",
-              "description": "Robo-advisors for hands-off, brokerages for DIY enthusiasts, apps for beginners\u2014no single best choice."
+              "description": "Robo-advisors for hands-off, brokerages for DIY enthusiasts, apps for beginners—no single best choice."
             },
             {
               "number": 2,
@@ -459,7 +461,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (Loss aversion)\n\n2. Recency bias causes buying after rallies (high) and selling after crashes (low). Loss aversion causes panic selling during downturns. Herd mentality amplifies both behaviors. Result: systematically buying high, selling low.\n\n4. Robo-advisors automate rebalancing and remove the \"sell\" button during panic. They make it harder to act on emotional impulses. Automation creates friction that prevents rash decisions.\n\n"
     },
     {
       "number": 18,
@@ -470,8 +473,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udcca Investment Platform Evaluator",
+            "icon": "���",
+            "title": "��� Investment Platform Evaluator",
             "description": "Compare investment platforms for different investor profiles. See how costs, features, and suitability change based on account size, experience level, and investing interest. Discover patterns: When do robo-advisor fees become worthwhile? How do subscription apps hurt small accounts?"
           },
           "steps": [
@@ -501,11 +504,11 @@
             "<strong>Behavioral Bias Self-Assessment:</strong> Discover YOUR biggest psychological risks",
             "<strong>Investment Decision Simulator:</strong> Experience how biases affect choices in real-time",
             "<strong>Personal Rules Builder:</strong> Create YOUR system to counter emotions during volatility",
-            "<strong>40-Year Fee Calculator:</strong> See exactly how costs compound\u2014numbers that will shock you",
+            "<strong>40-Year Fee Calculator:</strong> See exactly how costs compound—numbers that will shock you",
             "<strong>Portfolio Simulation:</strong> Test strategies through simulated market cycles"
           ],
           "keyPoint": {
-            "text": "\ud83d\udca1 Come ready to work. This is about figuring out YOUR investment psychology and YOUR platform preferences."
+            "text": "💡 Come ready to work. This is about figuring out YOUR investment psychology and YOUR platform preferences."
           }
         }
       }
@@ -516,7 +519,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

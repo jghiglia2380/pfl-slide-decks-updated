@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "What's the difference between working a <em>job</em> and building a <em>career</em>?<br><br>How can you take control of your <em>professional future</em>?"
+        "question": "What's the difference between working a  job  and building a  career ?.<br><br><strong>How can you take control of your professional future?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Miguel's career exploration scenario aloud or have students read silently. Discussion prompt: \"Has anyone changed their mind about what career they want? What made you reconsider?\" Preview how systematic exploration helps discover unexpected career paths."
     },
     {
       "number": 3,
@@ -116,7 +117,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udcbc",
+            "icon": "💼",
             "title": "Job",
             "items": [
               "Specific position or role",
@@ -127,7 +128,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d\ude80",
+            "icon": "🚀",
             "title": "Career",
             "items": [
               "Long-term professional journey",
@@ -156,7 +157,7 @@
               "<strong>3. Values:</strong> What matters most to you in work? What kind of environment do you thrive in?"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "Self-awareness is the foundation of smart career planning. Know yourself before exploring careers."
             }
           },
@@ -191,7 +192,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udd27",
+            "icon": "🔧",
             "title": "Hard Skills",
             "items": [
               "Technical, teachable abilities",
@@ -203,7 +204,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83e\udd1d",
+            "icon": "🤝",
             "title": "Soft Skills",
             "items": [
               "Personal attributes and interpersonal",
@@ -233,7 +234,7 @@
               "<strong>CareerOneStop</strong>: Career assessments, training opportunities, and job search resources."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "Use multiple resources to get a complete picture of potential career paths and their requirements."
             }
           },
@@ -272,7 +273,7 @@
             "<strong>R</strong>elevant: Does this align with your broader career aspirations and personal values?",
             "<strong>T</strong>ime-bound: What is your target date for completion? When will you reach milestones?"
           ],
-          "keyPoint": "\ud83d\udca1 SMART goals transform \"I want to work in healthcare\" into \"I will complete my nursing prerequisites with a 3.5 GPA by May 2026.\""
+          "keyPoint": "💡 SMART goals transform \"I want to work in healthcare\" into \"I will complete my nursing prerequisites with a 3.5 GPA by May 2026.\""
         }
       }
     },
@@ -285,7 +286,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\u274c",
+            "icon": "❌",
             "title": "Vague Goal",
             "items": [
               "\"I want to work in healthcare.\"",
@@ -296,7 +297,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u2705",
+            "icon": "✅",
             "title": "SMART Goal",
             "items": [
               "\"I will become a registered nurse in pediatric care.\"",
@@ -307,7 +308,8 @@
             ]
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"A career requires a college degree.\"\" → Careers exist in all fields—trades, arts, services. A career is defined by long-term growth and development, not the type of credential required.\n• \"\"I should know my career by now.\"\" → Career exploration is an ongoing process. Many successful professionals changed career directions multiple times. The goal is to develop a plan, not have all the answers.\n• \"\"Soft skills don't matter as much as hard skills.\"\" → Employers consistently rank soft skills (communication, teamwork, adaptability) as equally or more important than technical skills for career success."
     },
     {
       "number": 12,
@@ -329,7 +331,7 @@
             "<strong>Networking:</strong> Professional organizations and mentors",
             "<strong>Timeline & Milestones:</strong> Short, mid, and long-term goals"
           ],
-          "keyPoint": "\ud83d\udccb A career development plan is your personalized roadmap\u2014it turns dreams into actionable steps."
+          "keyPoint": "📋 A career development plan is your personalized roadmap—it turns dreams into actionable steps."
         }
       }
     },
@@ -342,10 +344,10 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69\u200d\u2695\ufe0f",
+            "icon": "👩‍⚕️",
             "name": "Sarah: From Job to Career",
             "paragraphs": [
-              "Sarah started as a <strong>receptionist at a medical clinic</strong> right after high school\u2014viewing it as just a job to pay bills.",
+              "Sarah started as a <strong>receptionist at a medical clinic</strong> right after high school—viewing it as just a job to pay bills.",
               "",
               "After observing nurses and medical assistants, she became interested in healthcare as a career. She created a development plan with short, mid, and long-term goals:",
               "",
@@ -390,7 +392,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcbb",
+            "icon": "💻",
             "name": "Miguel: Career Exploration Process",
             "paragraphs": [
               "Miguel, a high school junior interested in technology, wasn't sure which specific career to pursue. He used a systematic exploration process:",
@@ -472,7 +474,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. B (Involves long-term growth and multiple positions over time)\n2. C (Computer programming - it's a technical, teachable ability specific to certain jobs)\n3. Self-assessment helps identify your interests, skills, and values before exploring careers. This ensures you research paths that align with who you are, increasing the likelihood of long-term satisfaction and success.\n4. \"A\" stands for Achievable. It's important because goals must be realistic given your current situation and resources; otherwise, you may become discouraged or set yourself up for failure.\n5. Responses will vary. Look for specific, actionable steps such as: conducting an informational interview, using O*NET to research the career, job shadowing, joining a related club, or taking a relevant course."
     },
     {
       "number": 18,
@@ -485,7 +488,7 @@
           "takeaways": [
             {
               "number": 1,
-              "title": "Jobs \u2260 Careers",
+              "title": "Jobs ≠ Careers",
               "description": "Jobs provide immediate income; careers offer long-term growth aligned with your goals and values"
             },
             {
@@ -516,7 +519,7 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83e\udded",
+            "icon": "🧭",
             "title": "Career Path Planner",
             "description": "Use the Career Path Planner skill builder to create your own comprehensive career development plan. This interactive tool will guide you through self-assessment, career research, and goal-setting to build a personalized roadmap for your professional future."
           },
@@ -534,9 +537,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "\"Your career is a marathon, not a sprint\u2014plan accordingly\"",
+        "tagline": "\"Your career is a marathon, not a sprint—plan accordingly\"",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

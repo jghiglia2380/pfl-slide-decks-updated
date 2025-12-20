@@ -27,9 +27,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "How can you finance your education <em>strategically</em><br>to maximize opportunity while <em>minimizing debt</em>?"
+        "question": "Jordan, a high school senior with strong academics and leadership, researched 50 scholarships and dedicated 5 hours weekly to applications starting junior year. By graduation, Jordan had secured $25,500 in free money—scholarships and grants that never need repayment.<br><br>How can you finance your education <em>strategically</em> to maximize opportunity while <em>minimizing debt</em>?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Jordan's scholarship strategy scenario aloud. Ask the discussion question: 'What funding sources have you or your family researched for college?' Allow 2-3 students to share what they know. This establishes baseline knowledge and introduces the concept of strategic, proactive planning for education funding."
     },
     {
       "number": 3,
@@ -85,7 +86,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "Review all 5 key terms (this slide shows 2; next slide shows 3 more). Emphasize the fundamental distinction: 'free money' (scholarships and grants) versus debt (loans). Read the Background paragraph together and discuss the $1.75 trillion student debt statistic—this is a real crisis affecting millions of Americans. Quick check: Ask students to rank funding sources from most to least desirable (answer: scholarships/grants → work-study → federal subsidized loans → federal unsubsidized loans → private loans). This reinforces the priority pyramid of funding strategies."
     },
     {
       "number": 5,
@@ -335,7 +337,8 @@
             "<strong>Compound Effect:</strong> Money not spent on loans can be invested for your future"
           ]
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS TO ADDRESS:\n\n1. 'I won't qualify for financial aid because my family makes too much' → CLARIFY: Everyone should complete the FAFSA. Unsubsidized federal loans are available regardless of income, and many merit-based scholarships don't consider family finances at all.\n\n2. 'Scholarships are only for straight-A students or athletes' → CLARIFY: Thousands of scholarships exist for community service, specific majors, hobbies, heritage, career interests, and more. Small scholarships ($500-$2,000) add up significantly—$1,000 here and $500 there can cover textbooks, fees, or living expenses.\n\n3. 'All student loans are the same' → CLARIFY: Federal and private loans differ dramatically in interest rates, repayment flexibility, and forgiveness options. Federal loans should ALWAYS be explored first because they offer income-driven repayment, deferment options, and potential loan forgiveness for public service careers.\n\nAddress these misconceptions proactively if students express them during discussion. They are pervasive and can prevent students from accessing aid they actually qualify for."
     },
     {
       "number": 12,
@@ -508,7 +511,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ANSWER KEY:\n\nQ1: Scholarships are merit-based (academic, athletic, leadership achievements) and do not need to be repaid; grants are need-based (family financial situation) and also don't require repayment. You should apply for BOTH simultaneously—scholarships based on your achievements and grants based on demonstrated financial need via FAFSA. A high-achieving student from a wealthy family would qualify for scholarships but not need-based grants.\n\nQ2: Federal student loans should be considered first because they offer: (1) Lower interest rates than private loans, (2) Government pays interest while in school (subsidized loans), (3) Income-driven repayment options that adjust based on your earnings, (4) Loan forgiveness programs available for public service careers, (5) Deferment and forbearance options during financial hardship. Private loans rarely offer these protections and typically have higher interest rates.\n\nQ3: FAFSA is the Free Application for Federal Student Aid—it's the gateway to ALL federal aid including grants, work-study, and federal loans. Complete it early (opens October 1 annually) because: (1) Some aid is first-come, first-served, (2) Unsubsidized federal loans are available regardless of income, (3) Many scholarships require FAFSA completion, (4) You may qualify for more than you think—income thresholds vary by family size and circumstances.\n\nQ4: Starting at community college for 2 years, then transferring to a 4-year university saves approximately $((STATE_TUITION_PUBLIC - STATE_TUITION_COMMUNITY) × 2) while earning the exact same bachelor's degree. This strategy minimizes debt by completing general education requirements at lower cost. The diploma shows only the university you graduated from, not where you started."
     },
     {
       "number": 18,

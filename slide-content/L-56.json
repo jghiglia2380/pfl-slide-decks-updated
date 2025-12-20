@@ -22,9 +22,11 @@
       "type": "hook",
       "content": {
         "label": "Marcus's $210 Mistake",
-        "question": "Friday: Banking app shows <strong>$650</strong>. Marcus spends $194 on groceries, gas, and a night out. \"I have plenty of money!\"<br><br>Monday Morning: Outstanding items Marcus forgot about hit his account\u2014Rent check $1,100 (written 2 weeks ago!), Auto-pay insurance $180.<br><br><strong>Result: 6 overdraft fees = $210!</strong><br><br><em>Key Lesson: Your bank app balance is NOT your actual available balance. Outstanding transactions can cost you hundreds!</em>"
+        "question": "Marcus sees $650 in his banking app and spends $194, but forgot about a $1,100 rent check written two weeks ago and a $180 auto-pay insurance bill. The result: $210 in overdraft fees from one forgotten check.<br><br><strong>What should be done in this situation?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "**Discussion Prompts:**\n- \"Has anyone ever been surprised by an overdraft or mysterious charge?\"\n- Key point: Banking apps show what the bank knows, not what you've committed to spend.",
+      "speakerNotes": "Read Marcus's overdraft cascade story—$210 in fees from one forgotten check. Ask: \"Has anyone ever been surprised by an overdraft or mysterious charge?\" Key point: Banking apps show what the bank knows, not what you've committed to spend."
     },
     {
       "number": 3,
@@ -70,7 +72,7 @@
           "terms": [
             {
               "term": "Checkbook Register",
-              "definition": "Personal record tracking all deposits, withdrawals, and purchases\u2014your own log before transactions clear the bank",
+              "definition": "Personal record tracking all deposits, withdrawals, and purchases—your own log before transactions clear the bank",
               "example": "Writing down every check, debit card purchase, and deposit immediately"
             },
             {
@@ -103,12 +105,12 @@
             },
             {
               "term": "Cleared Balance",
-              "definition": "The bank's balance\u2014only includes transactions they've already processed",
+              "definition": "The bank's balance—only includes transactions they've already processed",
               "example": "What shows in your banking app, but doesn't include outstanding checks"
             },
             {
               "term": "NSF (Non-Sufficient Funds)",
-              "definition": "Overdraft when account doesn't have enough to cover a transaction\u2014results in expensive fees",
+              "definition": "Overdraft when account doesn't have enough to cover a transaction—results in expensive fees",
               "example": "$35 fee for spending more than your available balance"
             }
           ]
@@ -124,7 +126,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udcb5",
+            "icon": "💵",
             "title": "Prevent Costly Mistakes",
             "items": [
               "Americans pay <strong>$15+ BILLION</strong> in overdraft fees annually",
@@ -134,7 +136,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d\udee1\ufe0f",
+            "icon": "🛡️",
             "title": "Detect Fraud + Better Documentation",
             "items": [
               "<strong>Fraud Detection:</strong> Criminals make small \"test charges\" before big ones",
@@ -172,7 +174,7 @@
           "rightPanel": {
             "stats": [
               {
-                "value": "\u26a0\ufe0f",
+                "value": "⚠️",
                 "label": "Critical Warning: Your ending balance may NOT be your true available funds!",
                 "color": "rose"
               }
@@ -181,10 +183,10 @@
               "title": "Why It's Different",
               "color": "amber",
               "items": [
-                "\u2022 Outstanding checks not yet cleared",
-                "\u2022 Pending auto-payments scheduled",
-                "\u2022 Deposits not yet fully credited",
-                "\u2022 Holds on recent deposits",
+                "• Outstanding checks not yet cleared",
+                "• Pending auto-payments scheduled",
+                "• Deposits not yet fully credited",
+                "• Holds on recent deposits",
                 "",
                 "<strong>Quick Check:</strong> If bank shows $800 but you wrote a $200 check yesterday... <strong>Actual balance: $600!</strong>"
               ]
@@ -224,7 +226,7 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\u2696\ufe0f",
+            "icon": "⚖️",
             "title": "5-Step Reconciliation Process",
             "description": "Follow these steps every week to ensure your records match the bank and catch any errors"
           },
@@ -262,10 +264,10 @@
               "",
               "<strong>ADJUSTED BANK BALANCE: $697.00</strong>",
               "",
-              "<strong>Your Checkbook Register Balance: $697.00 \u2713</strong>"
+              "<strong>Your Checkbook Register Balance: $697.00 ✓</strong>"
             ],
             "highlightBox": {
-              "icon": "\u2713",
+              "icon": "✓",
               "text": "They Match! When your adjusted bank balance equals your register balance, you're RECONCILED!"
             }
           },
@@ -277,11 +279,11 @@
               "items": [
                 "Check for these common issues:",
                 "",
-                "\u2022 Math errors in your register",
-                "\u2022 Forgotten transactions you didn't record",
-                "\u2022 Transposed numbers (wrote $54 instead of $45)",
-                "\u2022 Bank fees you didn't record",
-                "\u2022 Unauthorized charges\u2014fraud!"
+                "• Math errors in your register",
+                "• Forgotten transactions you didn't record",
+                "• Transposed numbers (wrote $54 instead of $45)",
+                "• Bank fees you didn't record",
+                "• Unauthorized charges—fraud!"
               ]
             }
           }
@@ -297,37 +299,39 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udcd6",
+            "icon": "📖",
             "title": "Paper Register",
             "items": [
               "<strong>Pros:</strong>",
-              "\u2713 No technology needed",
-              "\u2713 Simple and straightforward",
-              "\u2713 Works anywhere",
+              "✓ No technology needed",
+              "✓ Simple and straightforward",
+              "✓ Works anywhere",
               "",
               "<strong>Cons:</strong>",
-              "\u2717 Manual calculations (math errors possible)",
-              "\u2717 Easy to lose or damage",
+              "✗ Manual calculations (math errors possible)",
+              "✗ Easy to lose or damage",
               "",
               "<strong>Best for:</strong> Simple finances, tech-averse users"
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d\udcca",
+            "icon": "📊",
             "title": "Spreadsheet or Apps",
             "items": [
               "<strong>Spreadsheet Pros:</strong> Auto-calculations, customizable, charts",
               "<strong>Apps (Mint, YNAB) Pros:</strong> Auto-import, real-time tracking, budgeting tools",
               "",
               "<strong>Cons:</strong>",
-              "\u2717 Spreadsheets require setup",
-              "\u2717 Apps still need manual review!",
+              "✗ Spreadsheets require setup",
+              "✗ Apps still need manual review!",
               "",
               "<strong>Best for:</strong> Moderate to complex finances"
             ]
           }
         }
-      }
+      },
+      "notes": "## Common Misconceptions\n\n| Misconception | Clarification |\n|--------------|---------------|\n| \"My banking app shows my real balance.\" | Banking apps show what the bank knows—not checks you've written that haven't cleared, not auto-pays scheduled, not holds from gas stations or hotels. Your ACTUAL available may be much less. |\n| \"Checkbook balancing is outdated.\" | The CONCEPT matters more than the tool. Whether you use paper, spreadsheet, or app, you must track committed funds independently of what your bank shows. |\n| \"Small unauthorized charges aren't worth worrying about.\" | Small charges are often TEST transactions by fraudsters. Report immediately—larger charges typically follow within days if test succeeds. |\n| \"Overdraft protection is free safety net.\" | Overdraft fees are $30-$35 EACH. Banks may process transactions large-to-small to maximize fees. Better protection: maintain your own records and buffer. |",
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"My banking app shows my real balance.\"\" → Banking apps show what the bank knows—not checks you've written that haven't cleared, not auto-pays scheduled, not holds from gas stations or hotels. Your ACTUAL available may be much less.\n• \"\"Checkbook balancing is outdated.\"\" → The CONCEPT matters more than the tool. Whether you use paper, spreadsheet, or app, you must track committed funds independently of what your bank shows.\n• \"\"Small unauthorized charges aren't worth worrying about.\"\" → Small charges are often TEST transactions by fraudsters. Report immediately—larger charges typically follow within days if test succeeds.\n• \"\"Overdraft protection is free safety net.\"\" → Overdraft fees are $30-$35 EACH. Banks may process transactions large-to-small to maximize fees. Better protection: maintain your own records and buffer."
     },
     {
       "number": 12,
@@ -347,18 +351,18 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udee1\ufe0f",
+            "icon": "🛡️",
             "name": "Keisha's Weekly Habit Saves Thousands",
             "paragraphs": [
               "<strong>Keisha's System:</strong>",
-              "\u2022 Reconciles every Sunday evening (only 15 minutes)",
-              "\u2022 Records EVERY transaction in her register",
-              "\u2022 Categorizes spending for budget analysis",
+              "• Reconciles every Sunday evening (only 15 minutes)",
+              "• Records EVERY transaction in her register",
+              "• Categorizes spending for budget analysis",
               "",
               "<strong>What She Found One Week:</strong> Three small charges she didn't recognize:",
-              "\u2022 $2.99 - Unknown merchant",
-              "\u2022 $4.50 - Unknown merchant",
-              "\u2022 $7.25 - Unknown merchant",
+              "• $2.99 - Unknown merchant",
+              "• $4.50 - Unknown merchant",
+              "• $7.25 - Unknown merchant",
               "",
               "<strong>She Called the Bank:</strong> Bank confirmed her account was compromised! Criminals make small \"test charges\" first to see if anyone notices, then make big purchases.",
               "",
@@ -370,13 +374,13 @@
               "type": "before",
               "label": "Without Weekly Reconciliation",
               "value": "Thousands Lost",
-              "detail": "Most people take weeks to notice fraud\u2014criminals charge $1,000+ before detection"
+              "detail": "Most people take weeks to notice fraud—criminals charge $1,000+ before detection"
             },
             {
               "type": "after",
               "label": "With Weekly Reconciliation",
               "value": "$0 Lost",
-              "detail": "\u2713 Charges reversed, \u2713 New card issued, \u2713 $0 lost. 15 minutes/week saved potentially thousands!"
+              "detail": "✓ Charges reversed, ✓ New card issued, ✓ $0 lost. 15 minutes/week saved potentially thousands!"
             }
           ]
         }
@@ -391,21 +395,21 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcbc",
+            "icon": "💼",
             "name": "Jordan: Freelance Designer",
             "paragraphs": [
               "<strong>Jordan's Record Keeping System (30 minutes/week):</strong>",
-              "\u2022 Every transaction categorized (business vs. personal)",
-              "\u2022 All receipts organized and scanned",
-              "\u2022 Monthly expense summaries prepared",
+              "• Every transaction categorized (business vs. personal)",
+              "• All receipts organized and scanned",
+              "• Monthly expense summaries prepared",
               "",
               "<strong>Tax Time: Documented Deductions = $8,400</strong>",
-              "\u2022 Software/equipment: $2,200",
-              "\u2022 Home office: $3,100",
-              "\u2022 Professional development: $1,800",
-              "\u2022 Client meals/travel: $1,300",
+              "• Software/equipment: $2,200",
+              "• Home office: $3,100",
+              "• Professional development: $1,800",
+              "• Client meals/travel: $1,300",
               "",
-              "<strong>Jordan's Tax Savings: $2,100</strong> (25% tax bracket \u00d7 $8,400 deductions)",
+              "<strong>Jordan's Tax Savings: $2,100</strong> (25% tax bracket × $8,400 deductions)",
               "",
               "<strong>Compare: Friend Taylor (poor records):</strong> Also freelancer, but could only claim HALF the deductions due to inadequate documentation. Paid $1,000+ MORE in taxes!"
             ]
@@ -415,13 +419,13 @@
               "type": "before",
               "label": "Time Investment",
               "value": "26 hours/year",
-              "detail": "30 minutes/week \u00d7 52 weeks"
+              "detail": "30 minutes/week × 52 weeks"
             },
             {
               "type": "after",
               "label": "Effective Wage",
               "value": "$80/hour",
-              "detail": "$2,100 tax savings \u00f7 26 hours = $80/hour \"wage\" for record keeping!"
+              "detail": "$2,100 tax savings ÷ 26 hours = $80/hour \"wage\" for record keeping!"
             }
           ]
         }
@@ -445,33 +449,33 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\u2717",
+            "icon": "✗",
             "title": "What NOT to Do",
             "items": [
               "<strong>Mistake #1:</strong> \"My banking app shows my balance\"",
-              "\u2022 WRONG! App doesn't show outstanding items",
+              "• WRONG! App doesn't show outstanding items",
               "",
               "<strong>Mistake #2:</strong> \"I only check once a month\"",
-              "\u2022 RISKY! Fraud goes undetected for weeks",
+              "• RISKY! Fraud goes undetected for weeks",
               "",
               "<strong>Mistake #3:</strong> \"I don't track small purchases\"",
-              "\u2022 ADDS UP! $4/day coffee = $1,460/year",
+              "• ADDS UP! $4/day coffee = $1,460/year",
               "",
               "<strong>Mistake #4:</strong> \"If there's a problem, it's the bank's error\"",
-              "\u2022 UNLIKELY! Most discrepancies are user errors"
+              "• UNLIKELY! Most discrepancies are user errors"
             ]
           },
           "rightColumn": {
-            "icon": "\u2713",
+            "icon": "✓",
             "title": "What TO Do Instead",
             "items": [
-              "\u2713 Maintain your own register of ALL transactions",
+              "✓ Maintain your own register of ALL transactions",
               "",
-              "\u2713 Reconcile weekly to catch fraud and errors quickly",
+              "✓ Reconcile weekly to catch fraud and errors quickly",
               "",
-              "\u2713 Track EVERY purchase, no matter how small",
+              "✓ Track EVERY purchase, no matter how small",
               "",
-              "\u2713 Take responsibility\u2014assume errors are yours first, verify carefully",
+              "✓ Take responsibility—assume errors are yours first, verify carefully",
               "",
               "<strong>Solution:</strong> Own records + weekly reconciliation = complete financial clarity!"
             ]
@@ -506,7 +510,9 @@
             }
           ]
         }
-      }
+      },
+      "notes": "## Answer Key\n\n**1.** C ($70). Start with $450, subtract outstanding check ($200) and scheduled auto-pay ($180). Only $70 is truly available.\n\n**2.** Cleared balance = only transactions the bank has processed. Available balance = cleared balance adjusted for pending transactions and holds. Neither reflects checks you've written that haven't been deposited yet.\n\n**3.** Contact bank's fraud department immediately. This pattern (small test charges) indicates criminals verifying stolen card info before making larger purchases. Request new card, dispute charges, set up fraud alerts.\n\n**4.** Overdraft fees: 4 × $35 = $140. Total impact: $140 in fees + whatever overdraft balance must be covered. The $150 check still cleared, so total cost of the mistake: $140 in avoidable fees.\n\n**5.** *Should include: specific tracking method chosen (app, spreadsheet, paper), reconciliation frequency (daily, weekly, monthly), and strategy for tracking outstanding transactions before spending.*",
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. C ($70). Start with $450, subtract outstanding check ($200) and scheduled auto-pay ($180). Only $70 is truly available.\n2. Cleared balance = only transactions the bank has processed. Available balance = cleared balance adjusted for pending transactions and holds. Neither reflects checks you've written that haven't been deposited yet.\n3. Contact bank's fraud department immediately. This pattern (small test charges) indicates criminals verifying stolen card info before making larger purchases. Request new card, dispute charges, set up fraud alerts.\n4. Overdraft fees: 4 × $35 = $140. Total impact: $140 in fees + whatever overdraft balance must be covered. The $150 check still cleared, so total cost of the mistake: $140 in avoidable fees.\n5. Should include: specific tracking method chosen (app, spreadsheet, paper), reconciliation frequency (daily, weekly, monthly), and strategy for tracking outstanding transactions before spending."
     },
     {
       "number": 18,
@@ -519,7 +525,7 @@
           "takeaways": [
             {
               "number": 1,
-              "title": "Bank app balance \u2260 actual available balance",
+              "title": "Bank app balance ≠ actual available balance",
               "description": "Your banking app doesn't show outstanding checks, pending auto-payments, or uncleared deposits"
             },
             {
@@ -540,7 +546,7 @@
             {
               "number": 5,
               "title": "Choose your system and stick with it",
-              "description": "Paper register, spreadsheet, or app\u2014consistency matters more than the method"
+              "description": "Paper register, spreadsheet, or app—consistency matters more than the method"
             }
           ]
         }
@@ -555,7 +561,7 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83e\uddee",
+            "icon": "🧮",
             "title": "Tomorrow's Learning Lab",
             "description": "Practice hands-on reconciliation with realistic scenarios and build your personal tracking system"
           },
@@ -575,7 +581,7 @@
       "content": {
         "tagline": "\"15-30 minutes per week of financial record keeping can save you thousands in fees, fraud losses, and taxes\"",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

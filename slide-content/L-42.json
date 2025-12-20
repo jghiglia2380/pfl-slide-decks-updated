@@ -26,7 +26,8 @@
         "label": "The Challenge",
         "question": "How can you make a <em>memorable first impression</em><br>when an employer spends only <em>6-7 seconds</em><br>reviewing your resume?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Carlos's resume transformation story aloud or have students read silently. Discussion prompt: \"What do you think employers look for in the first 30 seconds of reviewing a resume?\" Preview how specific, quantified achievements make a dramatic difference."
     },
     {
       "number": 3,
@@ -73,7 +74,7 @@
             {
               "term": "Resume",
               "definition": "A document summarizing your education, work experience, skills, and achievements for potential employers.",
-              "example": "Your personal marketing document\u2014designed to get you an interview"
+              "example": "Your personal marketing document—designed to get you an interview"
             },
             {
               "term": "Personal Brand",
@@ -124,8 +125,8 @@
               "<strong>Get you an interview</strong> where you can elaborate on your qualifications"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "A resume is your personal marketing document\u2014its job is to sell you!"
+              "icon": "💡",
+              "text": "A resume is your personal marketing document—its job is to sell you!"
             }
           },
           "rightPanel": {
@@ -164,14 +165,14 @@
             "Every effective resume includes these key components:"
           ],
           "bulletPoints": [
-            "<strong>\ud83d\udccb Contact Information:</strong> Full name, phone, professional email, location, LinkedIn",
-            "<strong>\ud83d\udcdd Professional Summary:</strong> 2-4 sentence overview tailored to the position",
-            "<strong>\ud83c\udf93 Education:</strong> Institution, degree, major, graduation date, GPA if 3.0+",
-            "<strong>\ud83d\udcbc Work Experience:</strong> Company, location, dates, title, 3-5 quantified bullet points",
-            "<strong>\u2699\ufe0f Skills:</strong> Technical skills, software proficiency, certifications",
-            "<strong>\ud83c\udfc6 Additional:</strong> Volunteer work, leadership, projects, awards"
+            "<strong>📋 Contact Information:</strong> Full name, phone, professional email, location, LinkedIn",
+            "<strong>📝 Professional Summary:</strong> 2-4 sentence overview tailored to the position",
+            "<strong>🎓 Education:</strong> Institution, degree, major, graduation date, GPA if 3.0+",
+            "<strong>💼 Work Experience:</strong> Company, location, dates, title, 3-5 quantified bullet points",
+            "<strong>⚙️ Skills:</strong> Technical skills, software proficiency, certifications",
+            "<strong>🏆 Additional:</strong> Volunteer work, leadership, projects, awards"
           ],
-          "keyPoint": "\ud83d\udca1 Order these sections strategically\u2014put your strongest qualifications near the top where employers look first."
+          "keyPoint": "💡 Order these sections strategically—put your strongest qualifications near the top where employers look first."
         }
       }
     },
@@ -184,7 +185,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udc65",
+            "icon": "👥",
             "title": "Leadership & Communication",
             "items": [
               "Led, Managed, Coordinated",
@@ -195,7 +196,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d\udcca",
+            "icon": "📊",
             "title": "Analysis & Achievement",
             "items": [
               "Analyzed, Evaluated, Researched",
@@ -217,7 +218,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\u274c",
+            "icon": "❌",
             "title": "Weak (Vague)",
             "items": [
               "\"Managed social media accounts\"",
@@ -228,10 +229,10 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u2705",
+            "icon": "✅",
             "title": "Strong (Quantified)",
             "items": [
-              "\"Increased Instagram followers by 45% (2,000\u21922,900) in 6 months\"",
+              "\"Increased Instagram followers by 45% (2,000→2,900) in 6 months\"",
               "\"Managed $15,000 event budget, came in 8% under budget\"",
               "\"Trained 12 new employees, reducing onboarding time by 20%\"",
               "\"Boosted customer satisfaction scores from 3.2 to 4.1 out of 5\"",
@@ -252,11 +253,11 @@
           "title": "Three Keys to Resume Success",
           "paragraphs": [],
           "bulletPoints": [
-            "<strong>Keep It Concise:</strong> One page for entry-level positions, use bullet points (not paragraphs), include only relevant information\u2014quality over quantity",
+            "<strong>Keep It Concise:</strong> One page for entry-level positions, use bullet points (not paragraphs), include only relevant information—quality over quantity",
             "<strong>Consistent Formatting:</strong> Same font style and size throughout, consistent spacing and alignment, use bold/italics sparingly, make it easy to scan quickly",
             "<strong>Tailor for Each Job:</strong> Research the job description carefully, highlight relevant skills that match, mirror key terms from posting, adjust professional summary to align with role"
           ],
-          "keyPoint": "\ud83d\udca1 Applicant Tracking Systems (ATS) scan for keywords\u2014use exact terms from job descriptions to get past automated filters."
+          "keyPoint": "💡 Applicant Tracking Systems (ATS) scan for keywords—use exact terms from job descriptions to get past automated filters."
         }
       }
     },
@@ -277,8 +278,8 @@
               "<strong>Attract Opportunities:</strong> Draw positions aligned with your goals"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "Your personal brand is how you present yourself professionally to the world\u2014it's your reputation."
+              "icon": "💡",
+              "text": "Your personal brand is how you present yourself professionally to the world—it's your reputation."
             }
           },
           "rightPanel": {
@@ -295,7 +296,8 @@
             }
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"I don't have enough experience for a resume.\"\" → Everyone has experiences to include—school projects, volunteer work, extracurriculars, and even household responsibilities demonstrate transferable skills.\n• \"\"Longer resumes look more impressive.\"\" → Entry-level resumes should typically be one page. Quality and relevance matter more than quantity. Hiring managers often spend only 6-7 seconds on an initial resume scan.\n• \"\"Personal branding is just for social media influencers.\"\" → Everyone has a personal brand—it's how you present yourself professionally. Even without a large following, your professional reputation matters for career opportunities."
     },
     {
       "number": 12,
@@ -311,11 +313,11 @@
           ],
           "bulletPoints": [
             "<strong>1. Self-Assessment:</strong> What are your core strengths? What makes you different? What are your professional values?",
-            "<strong>2. Brand Statement:</strong> Create a brief statement capturing your professional identity\u2014like an elevator pitch",
+            "<strong>2. Brand Statement:</strong> Create a brief statement capturing your professional identity—like an elevator pitch",
             "<strong>3. Visual Identity:</strong> Professional photo, consistent colors/fonts, clean professional email address",
             "<strong>4. Content Strategy:</strong> Topics you'll discuss, expertise you'll demonstrate, tone and style"
           ],
-          "keyPoint": "\ud83d\udccc Example Brand Statement: \"I'm a business analytics student with strong data visualization skills and experience in retail market research. I combine technical expertise with creative problem-solving to help organizations translate data into actionable strategies.\""
+          "keyPoint": "📌 Example Brand Statement: \"I'm a business analytics student with strong data visualization skills and experience in retail market research. I combine technical expertise with creative problem-solving to help organizations translate data into actionable strategies.\""
         }
       }
     },
@@ -328,7 +330,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcbb",
+            "icon": "💻",
             "name": "Carlos: Resume Transformation",
             "paragraphs": [
               "Carlos was applying for programming internships but wasn't getting interview calls despite having relevant coursework and projects.",
@@ -336,9 +338,9 @@
               "<strong>Before:</strong> Listed coursework without practical applications, used generic descriptions like \"Worked on database project,\" had a vague objective statement: \"Seeking an internship to gain experience.\"",
               "",
               "<strong>After Transformation:</strong>",
-              "\u2022 Added specific programming languages and tools to skills section",
-              "\u2022 Transformed descriptions: \"Developed a Python-based database application that reduced data retrieval time by 40% using optimized SQL queries\"",
-              "\u2022 Created a targeted professional summary: \"Computer Science student with expertise in Python, SQL, and database optimization. Proven ability to develop efficient applications that solve real-world problems.\"",
+              "• Added specific programming languages and tools to skills section",
+              "• Transformed descriptions: \"Developed a Python-based database application that reduced data retrieval time by 40% using optimized SQL queries\"",
+              "• Created a targeted professional summary: \"Computer Science student with expertise in Python, SQL, and database optimization. Proven ability to develop efficient applications that solve real-world problems.\"",
               "",
               "The result: Carlos's applications started generating interview requests."
             ]
@@ -375,7 +377,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83c\udfa8",
+            "icon": "🎨",
             "name": "Maya: Building a Personal Brand",
             "paragraphs": [
               "Maya wanted to establish herself in graphic design but was competing with many other design graduates in her market.",
@@ -386,7 +388,7 @@
               "",
               "<strong>Content Strategy:</strong> Shared case studies emphasizing environmental impact of design choices, posted design tips on sustainable practices, wrote about eco-friendly design trends.",
               "",
-              "Her clear brand identity made her memorable\u2014the hiring manager later said Maya's \"clear brand made her memorable among dozens of qualified applicants.\""
+              "Her clear brand identity made her memorable—the hiring manager later said Maya's \"clear brand made her memorable among dozens of qualified applicants.\""
             ]
           },
           "outcomes": [
@@ -457,7 +459,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. C (Increased quarterly sales by 23% through targeted email campaigns)\n2. B (To highlight the skills and experiences most relevant to each specific position)\n3. \"Managed a $5,000 budget\" is stronger because it: (1) Uses an action verb (Managed), (2) Includes a specific quantifiable amount ($5,000), (3) Demonstrates responsibility level, and (4) Is professional and concise rather than vague.\n4. Key elements include: (1) Unique value proposition/what makes you different, (2) Consistency across platforms, (3) Authenticity reflecting genuine strengths, (4) Clear target audience. Accept any two.\n5. Responses will vary. Look for: Strong action verb at the start, specific description of the task/responsibility, and ideally a quantifiable result or impact."
     },
     {
       "number": 18,
@@ -471,7 +474,7 @@
             {
               "number": 1,
               "title": "Resume = Marketing Document",
-              "description": "Your resume's job is to get you an interview\u2014make every word count in those 6-7 seconds"
+              "description": "Your resume's job is to get you an interview—make every word count in those 6-7 seconds"
             },
             {
               "number": 2,
@@ -501,7 +504,7 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udcc4",
+            "icon": "📄",
             "title": "Resume Builder",
             "description": "Use the Resume Builder skill builder to create your own professional resume that highlights your unique qualifications and experiences. The tool will guide you through each section with tips and action verb suggestions to help you craft powerful bullet points."
           },
@@ -519,9 +522,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "\"Your resume opens doors\u2014your skills keep them open\"",
+        "tagline": "\"Your resume opens doors—your skills keep them open\"",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

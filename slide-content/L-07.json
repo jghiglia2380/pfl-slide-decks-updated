@@ -27,7 +27,8 @@
         "label": "The Challenge",
         "question": "Jared earns <em>$50,000/year</em> as a single filer. His coworker told him he's 'in the 22% tax bracket,' so Jared assumes he pays <em>$11,000</em> in federal income tax.<br><br>His actual federal tax bill? Only <em>$6,307</em>\u2014a difference of $4,693!<br><br>This misconception causes many people to turn down raises or overtime, fearing they'll 'lose money' by moving to a higher bracket.<br><br>How do progressive tax brackets actually work, and why is understanding the difference between marginal and effective tax rates essential for financial decisions?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Jared's tax misconception scenario aloud. Ask the discussion question: 'Has anyone heard that you can lose money by getting a raise? Why is this a myth?' Allow 2-3 students to share what they've heard about tax brackets. This is one of the most common financial misconceptions—correcting it is the core objective of this lesson."
     },
     {
       "number": 3,
@@ -83,7 +84,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "Draw a 'staircase' visual of progressive brackets on the board to illustrate how income fills up each bracket step-by-step. EMPHASIZE repeatedly: ONLY income in each bracket is taxed at that rate—not your entire income. Define marginal rate (the highest bracket you reach) vs. effective rate (the average rate across all your income). Show 2023 tax brackets for single filers and married filing jointly on the board or handout. This visual representation is critical for student understanding."
     },
     {
       "number": 5,
@@ -320,7 +322,8 @@
             ]
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS TO ADDRESS:\n\n1. 'Moving to a higher bracket means ALL my income is taxed at that rate' → CLARIFY: Only income WITHIN each bracket is taxed at that rate. If you earn $50,000, only $5,275 is taxed at 22%—not all $50,000. This is THE most critical misconception to correct in this entire lesson.\n\n2. 'I could make less money after a raise if it pushes me into a higher bracket' → CLARIFY: Mathematically impossible. Even if a $1,000 raise is taxed at 22%, you still keep $780 more. You ALWAYS come out ahead with more income. The fear of \"losing money\" from a raise has caused countless people to turn down career opportunities.\n\n3. 'My marginal rate is what I pay on all my income' → CLARIFY: Your effective rate (total tax ÷ total income) is your actual tax burden. Someone \"in the 22% bracket\" likely pays 12-15% overall on all their income. Use marginal rate for planning new income; use effective rate for budgeting.\n\nAddress these proactively and repeatedly—these misconceptions are deeply embedded in popular culture."
     },
     {
       "number": 12,
@@ -471,7 +474,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ANSWER KEY:\n\nQ1: If someone earns $60,000 in the 22% bracket, only $12,850 of their income is taxed at 22%. Calculation: The 22% bracket starts at $47,150 for single filers, so $60,000 - $47,150 = $12,850. The first $11,000 is taxed at 10%, the next $35,550 at 12%, and only the last $12,850 at 22%.\n\nQ2: It's a myth that earning more money could result in taking home less because only the income IN the new bracket is taxed at the higher rate. All previous income stays at the lower rates. Even if your last dollar is taxed at 37%, you still keep 63 cents of it. A raise always increases take-home pay—you just keep a smaller percentage of each additional dollar at higher brackets, but you ALWAYS keep more total money.\n\nQ3: Legal tax avoidance examples: (1) Contributing to a 401(k) or traditional IRA to reduce taxable income, (2) Claiming legitimate home office deduction if you qualify. Illegal tax evasion examples: (1) Not reporting cash tips or side income, (2) Claiming false business expenses or deductions you don't qualify for. The key difference: avoidance uses legal strategies within tax law; evasion involves dishonesty or fraud.\n\nQ4: Taylor's tax on $75,000 (single filer):\n• $11,000 × 10% = $1,100\n• $33,725 × 12% = $4,047\n• $30,275 × 22% = $6,660.50\n• TOTAL TAX: $11,807.50\n• Effective Rate: $11,807.50 ÷ $75,000 = 15.7%\n\nNote that Taylor's marginal rate is 22% but effective rate is only 15.7%—a 6.3 percentage point difference! This illustrates why understanding both rates is essential."
     },
     {
       "number": 18,

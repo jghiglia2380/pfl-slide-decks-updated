@@ -26,7 +26,8 @@
         "label": "The Challenge",
         "question": "How do you plan financially for a retirement that could last <em>20, 30, or even 40 years</em>?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n‚Ä¢ Present Morgan vs. Jordan scenario. Ask: \"Who do you think has more at 65?\"\n‚Ä¢ Most students will guess Jordan (who invested 4√ó more). The actual answer surprises them.\n‚Ä¢ This counterintuitive result demonstrates why longevity planning starts NOW.\n"
     },
     {
       "number": 3,
@@ -119,11 +120,11 @@
             "title": "Retirement Is Getting Longer",
             "paragraphs": [
               "Life expectancy has increased dramatically over the past century. Today, a <strong>65-year-old can expect to live into their mid-80s</strong>, with many living well into their 90s or beyond.",
-              "This extended lifespan means retirement savings may need to last <strong>20, 30, or even 40 years</strong>\u2014far longer than previous generations planned for."
+              "This extended lifespan means retirement savings may need to last <strong>20, 30, or even 40 years</strong>‚Äîfar longer than previous generations planned for."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udca1 The traditional 10-15 year retirement has evolved into potentially 20-30+ years, requiring substantially more savings."
+              "icon": "Ì†Ω",
+              "text": "Ì≤° The traditional 10-15 year retirement has evolved into potentially 20-30+ years, requiring substantially more savings."
             }
           },
           "rightPanel": {
@@ -163,7 +164,7 @@
         "layoutData": {
           "leftColumn": {
             "icon": "",
-            "title": "\u23f0 Jordan Waits",
+            "title": "‚è∞ Jordan Waits",
             "items": [
               "Starts at age 31",
               "Invests $2,000/year for 35 years",
@@ -174,8 +175,8 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d",
-            "title": "\ude80 Morgan Starts Early",
+            "icon": "Ì†Ω",
+            "title": "Ì∫Ä Morgan Starts Early",
             "items": [
               "Starts at age 22",
               "Invests $2,000/year for 9 years only",
@@ -203,8 +204,8 @@
               "Morgan invested only $18,000 but ended up with nearly as much as Jordan who invested $70,000. Why? Because Morgan's money had <strong>more time to compound</strong>."
             ],
             "highlightBox": {
-              "icon": "\ud83c",
-              "text": "\udfaf Starting 9 years earlier with less money nearly matched investing 4x more but starting later. Time beats money!"
+              "icon": "Ì†º",
+              "text": "ÌæØ Starting 9 years earlier with less money nearly matched investing 4x more but starting later. Time beats money!"
             }
           },
           "rightPanel": {
@@ -253,7 +254,7 @@
             "<strong>Rule of 72:</strong> Prices double approximately every 24 years at 3% inflation"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcb0 A 25-year retirement means you'll need nearly twice as much income at age 90 as at age 65 just to maintain the same lifestyle!"
+            "text": "üí∞ A 25-year retirement means you'll need nearly twice as much income at age 90 as at age 65 just to maintain the same lifestyle!"
           }
         }
       }
@@ -321,7 +322,8 @@
             "<strong>Tax advantages:</strong> Roth IRAs provide tax-free growth over decades"
           ]
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"I'll only need my retirement savings for 10-15 years.\"\n   ‚Üí A 65-year-old today has a 25%+ chance of living past 90. Plan for 25-30 years of retirement, not 10-15. Underestimating longevity is one of the biggest retirement planning mistakes.\n\n2. \"I can catch up later when I earn more.\"\n   ‚Üí Math doesn't support this. As Morgan vs. Jordan shows, early dollars are worth FAR more than later dollars due to compounding time. You can't \"catch up\" on lost time‚Äîyou can only start now.\n\n3. \"Inflation doesn't matter much for retirement.\"\n   ‚Üí Over 25 years, 3% inflation doubles prices. What costs $50,000/year at retirement costs $100,000/year 25 years later. Inflation is the \"silent thief\" that erodes retirement security.\n\n"
     },
     {
       "number": 12,
@@ -338,8 +340,8 @@
               "Consider your personal circumstances across these dimensions when developing your retirement strategy."
             ],
             "highlightBox": {
-              "icon": "\ud83c",
-              "text": "\udfe5 These factors affect both how long you'll live AND your healthcare costs in retirement\u2014plan accordingly."
+              "icon": "Ì†º",
+              "text": "Ìø• These factors affect both how long you'll live AND your healthcare costs in retirement‚Äîplan accordingly."
             }
           },
           "rightPanel": {
@@ -367,10 +369,10 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc75",
+            "icon": "üëµ",
             "name": "Keisha's Grandmother: Financial Security at 90",
             "paragraphs": [
-              "Keisha's grandmother lived to be <strong>90 years old</strong>\u2014significantly longer than the average life expectancy for her generation. Through careful planning and smart investments, she maintained financial security until the end.",
+              "Keisha's grandmother lived to be <strong>90 years old</strong>‚Äîsignificantly longer than the average life expectancy for her generation. Through careful planning and smart investments, she maintained financial security until the end.",
               "Her winning strategy:"
             ]
           },
@@ -406,10 +408,10 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc68\u200d\ud83d\udcbc",
+            "icon": "üë®‚Äçüíº",
             "name": "Micah's Long-Term Planning at Age 25",
             "paragraphs": [
-              "Micah, at age 25, has already begun planning for retirement, recognizing that his generation may <span class=\"highlight-text\">live even longer than previous ones</span>. He anticipates retiring at 65 and potentially living until 90\u2014meaning retirement could last <strong>25 years or more</strong>.",
+              "Micah, at age 25, has already begun planning for retirement, recognizing that his generation may <span class=\"highlight-text\">live even longer than previous ones</span>. He anticipates retiring at 65 and potentially living until 90‚Äîmeaning retirement could last <strong>25 years or more</strong>.",
               "His comprehensive strategy:"
             ]
           },
@@ -481,7 +483,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (The risk of outliving your savings)\n\n2. Why 22 beats 32: The money invested at 22 has 43 years to compound vs. 33 years for age-32 money. At 7% returns, $1 at age 22 becomes $18.34 at 65; $1 at age 32 becomes only $9.33. Starting 10 years earlier nearly doubles the growth per dollar.\n\n3. Strategies for living 30 years instead of 20: Part-time work in early retirement, delay Social Security claiming to increase benefits, maintain some growth investments throughout retirement, downsize housing, reduce discretionary spending, relocate to lower-cost area. Multiple strategies may be needed.\n\n4. Why start in teens/20s: Compounding requires TIME to work its magic. Starting at 20 gives 45+ years of growth. Starting at 45 gives only 20 years. The early years are worth far more per dollar than later years. Even $50/month at 20 beats $200/month at 40 over the long run.\n\n"
     },
     {
       "number": 18,
@@ -495,17 +498,17 @@
             {
               "number": 1,
               "title": "Retirement Is Longer",
-              "description": "Today's retirees may need savings to last 20-30+ years\u2014far longer than previous generations planned for"
+              "description": "Today's retirees may need savings to last 20-30+ years‚Äîfar longer than previous generations planned for"
             },
             {
               "number": 2,
               "title": "Time Beats Money",
-              "description": "Starting early with small amounts outperforms starting later with larger amounts\u2014compounding is powerful"
+              "description": "Starting early with small amounts outperforms starting later with larger amounts‚Äîcompounding is powerful"
             },
             {
               "number": 3,
               "title": "Inflation Is Silent",
-              "description": "At 3% inflation, purchasing power is cut in half over 24 years\u2014plan for rising costs throughout retirement"
+              "description": "At 3% inflation, purchasing power is cut in half over 24 years‚Äîplan for rising costs throughout retirement"
             },
             {
               "number": 4,
@@ -525,8 +528,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udcca Life Expectancy & Retirement Analysis",
+            "icon": "Ì†Ω",
+            "title": "Ì≥ä Life Expectancy & Retirement Analysis",
             "description": "Analyze life expectancy data across different countries and factors, then consider how this analysis applies to your own retirement planning. Reflect on how <strong>healthcare spending, lifestyle choices, and environmental factors</strong> might influence both your longevity and retirement needs."
           },
           "steps": [
@@ -545,7 +548,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "¬© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

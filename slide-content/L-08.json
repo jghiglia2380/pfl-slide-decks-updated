@@ -27,7 +27,8 @@
         "label": "The Challenge",
         "question": "Ava earned <em>$4,500</em> at her part-time job last year. Since she's below the <em>$13,850</em> filing threshold, she assumed she didn't need to file taxes.<br><br>But her employer withheld <em>$450</em> in federal income tax. By not filing, Ava is leaving <em>$450 on the table</em>\u2014money that's rightfully hers!<br><br>Meanwhile, Ben earns $32,000 at his retail job plus $5,000 from freelance work, but didn't realize his freelance income triggers additional filing requirements.<br><br>How do you determine if you need to file taxes, and when might filing benefit you even if it's not required?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Ava and Ben's scenarios aloud. Ask the discussion question: 'Has anyone had taxes withheld from a paycheck? Did you file to get it back?' Allow 2-3 students to share experiences with withholding or tax filing. This introduces the critical distinction between 'required to file' vs. 'should file to get refund'—many young workers leave money on the table by not filing when they have withholding."
     },
     {
       "number": 3,
@@ -83,7 +84,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "Display 2023 filing thresholds on the board: Single $13,850, Married Filing Jointly $27,700, etc. EMPHASIZE the $400 self-employment trigger—even if total income is below the threshold, any self-employment income over $400 requires filing. Show sample W-2 and 1099 forms (physical or projected). Identify key fields on each: Box 1 (wages), Box 2 (federal withholding) on W-2; Box 1 (non-employee compensation) on 1099-NEC. Explain the critical difference between 'required to file' (legally obligated) vs. 'should file to get refund' (financially smart). Cover the April 15 deadline and extension process—stress that an extension is to FILE, not to PAY."
     },
     {
       "number": 5,
@@ -341,7 +343,8 @@
             "infoCard": null
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS TO ADDRESS:\n\n1. 'I made under the threshold, so I don't need to do anything' → CLARIFY: If taxes were withheld from your paychecks, you're leaving money on the table! File to claim your refund. This is especially common for part-time workers and students. Also, any self-employment income over $400 requires filing regardless of your total income level.\n\n2. 'An extension means I don't owe anything until October' → CLARIFY: An extension is ONLY to FILE, not to PAY. Taxes owed are still due April 15. Interest and failure-to-pay penalties (0.5% per month) accrue on unpaid amounts starting April 16. Use Form 4868 to get automatic extension to October 15 for filing.\n\n3. 'I only need to report income if I receive a form for it' → CLARIFY: ALL income is taxable and must be reported, whether or not you receive a W-2 or 1099. This includes cash payments, tips (even if under $20/month from one employer), small gig earnings, and side hustle income. The IRS can audit and penalize unreported income.\n\nAddress these proactively, especially #1 which causes young workers to lose hundreds of dollars annually."
     },
     {
       "number": 12,
@@ -491,7 +494,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ANSWER KEY:\n\nQ1: Which form reports your wages and taxes withheld from your employer?\n• Answer: B (W-2). Your employer must send you a W-2 by January 31 showing your total wages (Box 1), federal income tax withheld (Box 2), Social Security wages (Box 3), and Medicare wages (Box 5). This is the most common tax form for employees.\n\nQ2: Why should someone file a tax return even if their income is below the filing threshold?\n• Answer: To recover taxes withheld from paychecks (refund), claim refundable tax credits like EITC (Earned Income Tax Credit), prevent identity theft by filing first, and establish a filing history for future loan applications or financial aid. Many young workers leave hundreds of dollars unclaimed each year by not filing.\n\nQ3: A single person earned $12,000 in wages and $600 from freelance work. Are they required to file? Why?\n• Answer: YES, required to file. Even though wage income ($12,000) is below the threshold ($13,850), the self-employment income ($600) exceeds the $400 trigger for self-employment tax. Must file Schedule C (business income) and Schedule SE (self-employment tax) in addition to Form 1040.\n\nQ4: What is the standard tax filing deadline, and what should you do if you can't file by that date?\n• Answer: April 15 (adjusted if it falls on a weekend or holiday—in those cases, the deadline is the next business day). If you can't file by the deadline, request an automatic extension using Form 4868, which gives you until October 15 to FILE. CRITICAL NOTE: An extension is to FILE, not to PAY. Taxes owed are still due April 15, and interest plus 0.5% monthly penalties accrue on unpaid amounts."
     },
     {
       "number": 18,

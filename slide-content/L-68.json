@@ -29,9 +29,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "What if you could add <em>$200,000+</em> to your lifetime wealth<br>without picking better stocks—just by being <em>smarter about taxes</em>?<br><br>In {{STATE_NAME}}, your state tax rate of <em>{{STATE_INCOME_TAX_RATE}}%</em> impacts every investment decision."
+        "question": "What if you could add <em>$200,000+</em> to your lifetime wealth<br>without picking better stocks—just by being <em>smarter about taxes</em>? In {{STATE_NAME}}, your state tax rate of <em>{{STATE_INCOME_TAX_RATE}}%</em> impacts every investment decision. <br><br> In {{STATE_NAME}}, your state tax rate of <em>{{STATE_INCOME_TAX_RATE}}%</em> impacts every investment decision."
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n• Present Jamal vs. Tyler comparison—same investments, $264,000 difference.\n• Discussion: \"How can two identical investments end up so different at retirement?\"\n• Key insight: Tax efficiency is entirely within your control—no extra risk required.\n"
     },
     {
       "number": 3,
@@ -304,7 +305,8 @@
             "text": "Tax efficiency is the only \"free money\" in investing—it costs nothing to implement but can dramatically increase your wealth."
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"Traditional is always better because you get a tax deduction.\"\n   → Deduction now at 12% but tax at 22% later means you lose. Roth is better when your future tax rate exceeds your current rate. The math depends on bracket comparison.\n\n2. \"Tax-loss harvesting means giving up on losing investments.\"\n   → You immediately reinvest in similar assets, maintaining your portfolio strategy. You keep market exposure while capturing the tax benefit.\n\n3. \"Taxes don't matter much compared to investment returns.\"\n   → A 1-2% annual tax drag compounds to $200,000-$500,000 over a lifetime. Tax efficiency is one of the highest-impact, lowest-risk strategies available.\n\n"
     },
     {
       "number": 12,
@@ -460,7 +462,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (Roth IRA)\n\n2. Bond interest is taxed as ordinary income annually (up to 37%), making bonds tax-inefficient. Stock index funds generate mostly qualified dividends (0-20% rate) and unrealized appreciation you control when to realize. Bonds belong in tax-advantaged accounts; stocks can go in taxable.\n\n4. Tax-loss harvesting lets you reduce taxes while maintaining market exposure. Immediately after harvesting, you buy a similar (not identical) investment to stay invested. You get the tax deduction without abandoning your strategy.\n\n"
     },
     {
       "number": 18,

@@ -34,7 +34,8 @@
         "label": "The Challenge",
         "question": "In <em>{{STATE_NAME}}</em>, is it smarter to <em>rent and invest</em> the difference,<br>or <em>buy a home</em> and build equity?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Amy's scenario‚Äîemphasize the competing factors she faces. Ask: \"What would YOU do in Amy's situation? Why?\" Poll class for initial reactions, then revisit at end of lesson."
     },
     {
       "number": 3,
@@ -58,7 +59,7 @@
             {
               "number": 3,
               "verb": "Evaluate",
-              "description": "Assess how personal circumstances\u2014career stability, family plans, and financial position\u2014affect which housing choice is optimal."
+              "description": "Assess how personal circumstances‚Äîcareer stability, family plans, and financial position‚Äîaffect which housing choice is optimal."
             },
             {
               "number": 4,
@@ -85,7 +86,7 @@
             },
             {
               "term": "Equity",
-              "definition": "The difference between a property's current market value and the amount still owed on the mortgage\u2014your ownership stake.",
+              "definition": "The difference between a property's current market value and the amount still owed on the mortgage‚Äîyour ownership stake.",
               "example": "Home worth ${{STATE_MEDIAN_HOME_PRICE}} with $350K mortgage = significant equity (your net worth in the property)"
             }
           ]
@@ -128,11 +129,11 @@
             "paragraphs": [
               "Renting involves paying a property owner for the right to live in their property for a specific period governed by a lease agreement.",
               "<strong>Monthly costs include:</strong> Rent payment, renter's insurance ($15-30/mo), utilities, and sometimes parking.",
-              "<strong>Upfront costs:</strong> Security deposit (1-2 months' rent) and first month's rent\u2014typically $3,000-$5,000 total in {{STATE_NAME}}."
+              "<strong>Upfront costs:</strong> Security deposit (1-2 months' rent) and first month's rent‚Äîtypically $3,000-$5,000 total in {{STATE_NAME}}."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udca1 Renters are NOT responsible for major repairs, property taxes, or maintenance\u2014the landlord covers these costs."
+              "icon": "Ì†Ω",
+              "text": "Ì≤° Renters are NOT responsible for major repairs, property taxes, or maintenance‚Äîthe landlord covers these costs."
             }
           },
           "rightPanel": {
@@ -171,8 +172,8 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83c",
-            "title": "\udfe2 Renting",
+            "icon": "Ì†º",
+            "title": "Ìø¢ Renting",
             "items": [
               "Lower upfront costs (deposit only)",
               "Flexibility to move when lease ends",
@@ -183,8 +184,8 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83c",
-            "title": "\udfe0 Owning",
+            "icon": "Ì†º",
+            "title": "Ìø† Owning",
             "items": [
               "Large down payment required (3-20%)",
               "Stability and permanence",
@@ -213,8 +214,8 @@
               "<strong>Upfront costs:</strong> Down payment (3-20% of ${{STATE_MEDIAN_HOME_PRICE}}) plus closing costs (2-5%)."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udcb0 Each mortgage payment builds equity\u2014your ownership stake grows over time as you pay down the loan."
+              "icon": "Ì†Ω",
+              "text": "Ì≤∞ Each mortgage payment builds equity‚Äîyour ownership stake grows over time as you pay down the loan."
             }
           },
           "rightPanel": {
@@ -254,7 +255,7 @@
         "layoutData": {
           "title": "What Should Guide Your Housing Choice?",
           "paragraphs": [
-            "The rent vs. buy decision is deeply personal and depends on multiple interconnected factors. There's no universally \"right\" answer\u2014only what's right for your specific situation in {{STATE_NAME}}."
+            "The rent vs. buy decision is deeply personal and depends on multiple interconnected factors. There's no universally \"right\" answer‚Äîonly what's right for your specific situation in {{STATE_NAME}}."
           ],
           "bulletPoints": [
             "<strong>Financial Readiness:</strong> Savings for down payment, credit score, stable income, emergency fund",
@@ -310,7 +311,8 @@
             "<strong>{{STATE_NAME}} Market:</strong> Local conditions affect which option makes more sense"
           ]
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n‚Ä¢ \"\"Renting is throwing money away.\"\" ‚Üí Rent provides housing, flexibility, and no maintenance responsibility. Homeownership has costs that don't build equity either (interest, taxes, insurance, maintenance).\n‚Ä¢ \"\"Buying is always a good investment.\"\" ‚Üí Homes can lose value; transaction costs are high; and if you move within 5-7 years, you may not recoup your costs. Location and timing matter significantly.\n‚Ä¢ \"\"I need 20% down to buy a home.\"\" ‚Üí Many loans allow 3-10% down, but lower down payments mean PMI (private mortgage insurance) and higher monthly costs. 20% is optimal but not required."
     },
     {
       "number": 12,
@@ -324,12 +326,12 @@
             "title": "Current Housing Reality",
             "paragraphs": [
               "Today's housing market presents unique challenges for young adults. Rising prices, higher interest rates, and limited inventory have made homeownership increasingly difficult.",
-              "Many successful financial strategies now include renting while investing the difference\u2014sometimes outperforming homeownership in high-cost markets.",
+              "Many successful financial strategies now include renting while investing the difference‚Äîsometimes outperforming homeownership in high-cost markets.",
               "<strong>The key is making an informed decision</strong> based on your specific circumstances in {{STATE_NAME}}, not following outdated rules or social pressure."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udd04 Housing needs change over time. The right choice today might be different five years from now."
+              "icon": "Ì†Ω",
+              "text": "Ì¥Ñ Housing needs change over time. The right choice today might be different five years from now."
             }
           },
           "rightPanel": {
@@ -352,7 +354,7 @@
                 "Consider house hacking (rent out rooms)",
                 "Explore first-time buyer programs",
                 "Compare price-to-rent ratios locally",
-                "Don't rush\u2014patience pays off"
+                "Don't rush‚Äîpatience pays off"
               ]
             }
           }
@@ -368,7 +370,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69\u200d\ud83d\udcbb",
+            "icon": "üë©‚Äçüíª",
             "name": "Amy's Smart Renting Decision",
             "paragraphs": [
               "Amy is a 25-year-old software developer who recently started her career in {{STATE_NAME}}. She chose to rent an apartment near downtown for <span class=\"highlight-text\">${{STATE_MEDIAN_RENT}}/month</span>, close to her workplace and entertainment options.",
@@ -408,7 +410,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc6b",
+            "icon": "üë´",
             "name": "John & Maria's Homeownership",
             "paragraphs": [
               "John and Maria, a married couple in their 30s with stable careers in {{STATE_NAME}}, purchased a home at the median price of <span class=\"highlight-text\">${{STATE_MEDIAN_HOME_PRICE}}</span> with a 10% down payment and closing costs.",
@@ -484,7 +486,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. C (5-7 years or more) ‚Äî This timeframe allows buyers to recoup closing costs, build equity, and potentially benefit from appreciation.\n2. The Martinez family has: (1) stable careers with no relocation risk, (2) a 10+ year commitment allowing equity building and cost recovery, (3) sufficient savings for down payment plus emergency fund, (4) the need for school district stability.\n3. Amy should prioritize RENTING because: (1) potential relocation in 2-3 years doesn't allow time to recover buying costs, (2) her savings would be depleted by a down payment, leaving no emergency fund.\n4. Equity is the difference between your home's value and what you owe. As you pay down your mortgage, you own more of your home. It's like \"forced savings\" and can be accessed through sale or home equity loans.\n5. Responses should reflect thoughtful consideration of career stability, family plans, location preferences, and financial readiness. Look for recognition that housing needs change with life circumstances."
     },
     {
       "number": 18,
@@ -503,7 +506,7 @@
             {
               "number": 2,
               "title": "Renting Has Advantages",
-              "description": "Flexibility, lower upfront costs, no maintenance\u2014renting is NOT \"throwing money away\""
+              "description": "Flexibility, lower upfront costs, no maintenance‚Äîrenting is NOT \"throwing money away\""
             },
             {
               "number": 3,
@@ -528,8 +531,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udccb {{STATE_NAME}} Housing Analysis",
+            "icon": "Ì†Ω",
+            "title": "Ì≥ã {{STATE_NAME}} Housing Analysis",
             "description": "Using the {{STATE_NAME}} housing data we've discussed, analyze whether renting or buying makes more sense for different life scenarios. Consider factors like affordability, location, flexibility, equity building, and lifestyle preferences as you complete the comparison."
           },
           "steps": [
@@ -548,7 +551,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "¬© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

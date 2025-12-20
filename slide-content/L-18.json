@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "What could go wrong with your <em>savings and investments</em>?<br><br>And how can you <em>protect yourself</em> from financial risks?"
+        "question": "What could go wrong with your <em>savings and investments</em>? And how can you <em>protect yourself</em> from financial risks? <br><br> And how can you <em>protect yourself</em> from financial risks?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n• Read Maya's three-option scenario. Poll: \"Which friend's advice sounds best?\"\n• Discuss why each option might seem appealing (and dangerous).\n• Preview that today reveals how to identify and manage different types of risk.\n"
     },
     {
       "number": 3,
@@ -72,13 +73,13 @@
           "terms": [
             {
               "term": "Market Risk",
-              "definition": "The possibility of losses due to factors affecting the overall financial markets\u2014recessions, global events, policy changes.",
-              "example": "Tech stocks fell 30% during a market downturn\u2014affecting all investors in that sector"
+              "definition": "The possibility of losses due to factors affecting the overall financial markets—recessions, global events, policy changes.",
+              "example": "Tech stocks fell 30% during a market downturn—affecting all investors in that sector"
             },
             {
               "term": "Financial Risk",
               "definition": "Risk related to a specific company's ability to manage debt and meet its financial obligations.",
-              "example": "A company goes bankrupt and can't repay bondholders\u2014investors lose money"
+              "example": "A company goes bankrupt and can't repay bondholders—investors lose money"
             }
           ]
         }
@@ -95,7 +96,7 @@
           "terms": [
             {
               "term": "Inflation Risk",
-              "definition": "The risk that your money's purchasing power decreases over time as prices rise\u2014the \"silent thief.\"",
+              "definition": "The risk that your money's purchasing power decreases over time as prices rise—the \"silent thief.\"",
               "example": "$10,000 earning 1% while inflation is 3% = losing 2% buying power yearly"
             },
             {
@@ -122,8 +123,8 @@
               "This can mean:"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u26a0\ufe0f It's impossible to eliminate all risk\u2014but you CAN manage it with the right strategies!"
+              "icon": "💡",
+              "text": "⚠️ It's impossible to eliminate all risk—but you CAN manage it with the right strategies!"
             }
           },
           "rightPanel": {
@@ -157,12 +158,12 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcc9",
+            "icon": "📉",
             "name": "Anna's Tech Stock Investment",
             "paragraphs": [
               "Anna invested <strong>$5,000</strong> in a technology company's stock, believing in the industry's growth potential.",
-              "When a new competitor entered the market and tech stocks generally declined, her investment dropped to <span class=\"highlight-text\">$4,200</span>\u2014a loss of $800.",
-              "<strong>Key Lesson:</strong> Market-wide factors (recessions, political events, industry shifts) can affect individual investments\u2014even good companies can lose value when the whole market drops."
+              "When a new competitor entered the market and tech stocks generally declined, her investment dropped to <span class=\"highlight-text\">$4,200</span>—a loss of $800.",
+              "<strong>Key Lesson:</strong> Market-wide factors (recessions, political events, industry shifts) can affect individual investments—even good companies can lose value when the whole market drops."
             ]
           },
           "outcomes": [
@@ -204,8 +205,8 @@
               "<strong>Lesson:</strong> Always evaluate a company's financial stability before investing. Strong finances = lower financial risk."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udd0d Check credit ratings and financial statements before buying bonds!"
+              "icon": "���",
+              "text": "��� Check credit ratings and financial statements before buying bonds!"
             }
           },
           "rightPanel": {
@@ -231,8 +232,8 @@
               "By recognizing these <strong>red flags</strong>, Taylor avoided a potential scam!"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u26a0\ufe0f If it sounds too good to be true, it probably IS too good to be true!"
+              "icon": "💡",
+              "text": "⚠️ If it sounds too good to be true, it probably IS too good to be true!"
             }
           },
           "rightPanel": {
@@ -277,7 +278,7 @@
             "<strong>Key factors:</strong> Your age, time horizon, financial goals, income stability, and emotional response to losses."
           ],
           "keyPoint": {
-            "text": "\ud83c\udfaf Knowing your risk tolerance helps you choose investments you can stick with through market ups and downs!"
+            "text": "🎯 Knowing your risk tolerance helps you choose investments you can stick with through market ups and downs!"
           }
         }
       }
@@ -294,18 +295,18 @@
             "title": "Don't Put All Your Eggs in One Basket",
             "paragraphs": [
               "<strong>Diversification</strong> means spreading your money across different types of investments to reduce risk.",
-              "Different assets respond differently to economic events. When one investment goes down, others might go up\u2014smoothing out your overall returns.",
+              "Different assets respond differently to economic events. When one investment goes down, others might go up—smoothing out your overall returns.",
               "<strong>The Power:</strong> If all your money is in one stock and it tanks, you could lose everything. But if you're spread across 20 investments, one failure won't devastate you."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\ud83e\udd5a Diversification is one of the few \"free lunches\" in investing\u2014reduce risk without sacrificing returns!"
+              "icon": "💡",
+              "text": "🥚 Diversification is one of the few \"free lunches\" in investing—reduce risk without sacrificing returns!"
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "\u2193 Risk",
+                "value": "↓ Risk",
                 "label": "More Diversification",
                 "color": "green"
               }
@@ -322,7 +323,8 @@
             }
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"Risk means I could lose everything.\"\n   → Risk means uncertainty, not guaranteed loss. With diversification, you're unlikely to lose everything. Risk is the trade-off for potential returns—managed properly, it's a tool, not a danger.\n\n2. \"Savings accounts are completely safe.\"\n   → Safe from market drops and FDIC insured, yes. But NOT safe from inflation. Over long periods, \"safe\" savings actually lose purchasing power. Different types of safety for different risks.\n\n3. \"Higher risk always means higher returns.\"\n   → Higher risk means higher POTENTIAL returns, not guaranteed higher returns. You're compensated for taking risk, but that compensation isn't automatic—it's a possibility that works out over long time periods.\n\n"
     },
     {
       "number": 12,
@@ -341,8 +343,8 @@
               "<strong>Cash/Equivalents:</strong> Lower risk, lower return. Safe but doesn't grow much."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u2696\ufe0f Your ideal mix depends on when you need the money and how much volatility you can handle!"
+              "icon": "💡",
+              "text": "⚖️ Your ideal mix depends on when you need the money and how much volatility you can handle!"
             }
           },
           "rightPanel": {
@@ -377,7 +379,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\ude30",
+            "icon": "😰",
             "name": "Jamie's Single-Stock Disaster",
             "paragraphs": [
               "Jamie loved a particular tech company and invested their entire <strong>$20,000</strong> savings in that one stock.",
@@ -417,7 +419,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\ude0a",
+            "icon": "😊",
             "name": "Morgan's Diversified Portfolio",
             "paragraphs": [
               "Morgan invested the same <strong>$20,000</strong> but spread it across an index fund covering 500 companies.",
@@ -463,7 +465,7 @@
       "variant": "purple",
       "content": {
         "badge": "Personal Reflection",
-        "question": "Based on what you know about yourself\u2014your goals, timeline, and comfort with uncertainty\u2014would you describe yourself as Conservative, Moderate, or Aggressive?<br><br>Why?"
+        "question": "Based on what you know about yourself—your goals, timeline, and comfort with uncertainty—would you describe yourself as Conservative, Moderate, or Aggressive?<br><br>Why?"
       }
     },
     {
@@ -493,7 +495,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n12. Questions before investing: Is the seller/company registered with regulators? What's the verifiable track record? Why is this \"tip\" being shared? What are the actual risks? Can I verify claims independently? How would I get my money back?\n\n1. C (Inflation Risk—money in savings loses purchasing power over 30 years)\n\n2. Main purpose of diversification: Reduce overall portfolio risk by spreading investments across different asset types. When one investment declines, others may hold steady or rise, smoothing out returns.\n\n3. Asset allocation should become more conservative (more bonds, less stocks) as one approaches retirement. Less time to recover from market drops means less tolerance for volatility.\n\n4. \"Safe\" investments can be risky for long-term goals because inflation erodes purchasing power. A savings account might be \"safe\" from market drops, but if it earns less than inflation, you're actually losing real value over time. For retirement (30+ years), you need growth to maintain purchasing power.\n\n"
     },
     {
       "number": 18,
@@ -507,12 +510,12 @@
             {
               "number": 1,
               "title": "Know the Four Risks",
-              "description": "Market, financial, inflation, and fraud risks can all affect your investments\u2014be aware of each"
+              "description": "Market, financial, inflation, and fraud risks can all affect your investments—be aware of each"
             },
             {
               "number": 2,
               "title": "Understand Your Tolerance",
-              "description": "Your risk tolerance determines which investments are right for you\u2014conservative to aggressive"
+              "description": "Your risk tolerance determines which investments are right for you—conservative to aggressive"
             },
             {
               "number": 3,
@@ -522,7 +525,7 @@
             {
               "number": 4,
               "title": "Watch for Fraud",
-              "description": "If it promises high returns with no risk, it's probably a scam\u2014always research before investing"
+              "description": "If it promises high returns with no risk, it's probably a scam—always research before investing"
             }
           ]
         }
@@ -537,8 +540,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udcca Discover Your Risk Tolerance",
+            "icon": "���",
+            "title": "��� Discover Your Risk Tolerance",
             "description": "Take the Risk Tolerance Quiz to discover whether you're Conservative, Moderate, or Aggressive. Then match your profile to appropriate investment options and reflect on how this aligns with your financial goals."
           },
           "steps": [
@@ -557,7 +560,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

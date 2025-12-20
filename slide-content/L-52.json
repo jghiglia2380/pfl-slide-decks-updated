@@ -22,9 +22,11 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Should We Break Up Big Tech?<br><br><strong>Arguments FOR:</strong> Too much market power, stifle competition, privacy concerns, prices higher than with competition<br><br><strong>Arguments AGAINST:</strong> Services are free, innovation benefits users, breaking up reduces efficiency, successful companies shouldn't be punished<br><br><em>Today you'll learn WHEN government intervention makes economic sense\u2014and when it doesn't!</em>"
+        "question": "Malik's neighborhood benefits from environmental protection and public services funded by taxes, but new business regulations are making it harder for his parents to operate their small shop. He wonders when government helps the economy and when it gets in the way.<br><br><strong>What should be done in this situation?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "**Discussion Prompts:**\n- \"Can you think of a time government helped or hurt your finances?\"\n- Preview: Today we'll develop a framework to evaluate when intervention makes sense.",
+      "speakerNotes": "Read Malik's scenario aloud—connects to environmental protection, public services, and excessive regulation. Discussion: \"Can you think of a time government helped or hurt your finances?\" Preview: Today we'll develop a framework to evaluate when intervention makes sense."
     },
     {
       "number": 3,
@@ -99,7 +101,7 @@
             {
               "term": "Monopoly Power",
               "definition": "When one or few sellers control a market, restricting output and raising prices above competitive levels",
-              "example": "Your electric company\u2014only one provider in your area"
+              "example": "Your electric company—only one provider in your area"
             },
             {
               "term": "Information Asymmetry",
@@ -134,7 +136,7 @@
             "<strong>4. Public Goods:</strong> Free-rider problem, underprovided (national defense, parks)",
             "<strong>5. Information Asymmetry:</strong> One party knows more than other (used cars, insurance)"
           ],
-          "keyPoint": "Not all market failures justify intervention\u2014must weigh costs vs. benefits of government action"
+          "keyPoint": "Not all market failures justify intervention—must weigh costs vs. benefits of government action"
         }
       }
     },
@@ -150,15 +152,15 @@
             "title": "The Problem",
             "paragraphs": [
               "<strong>What happens:</strong>",
-              "\u2022 Single seller (or few) restricts output",
-              "\u2022 Raises prices above competitive level",
-              "\u2022 Reduces consumer surplus",
-              "\u2022 Creates deadweight loss (inefficiency)",
+              "• Single seller (or few) restricts output",
+              "• Raises prices above competitive level",
+              "• Reduces consumer surplus",
+              "• Creates deadweight loss (inefficiency)",
               "",
-              "<strong>Example:</strong> Your electric company\u2014only one provider, you pay their rate with no alternatives!"
+              "<strong>Example:</strong> Your electric company—only one provider, you pay their rate with no alternatives!"
             ],
             "highlightBox": {
-              "icon": "\u26a0\ufe0f",
+              "icon": "⚠️",
               "text": "Without competition, monopolies have no incentive to lower prices or improve quality"
             }
           },
@@ -168,8 +170,8 @@
               "title": "Government Solutions",
               "color": "amber",
               "items": [
-                "\u2702\ufe0f <strong>Antitrust Enforcement:</strong> Break up monopolies (Standard Oil 1911, AT&T 1982)",
-                "\ud83d\udccb <strong>Regulate Natural Monopolies:</strong> Set maximum prices for utilities where competition is impossible",
+                "✂️ <strong>Antitrust Enforcement:</strong> Break up monopolies (Standard Oil 1911, AT&T 1982)",
+                "📋 <strong>Regulate Natural Monopolies:</strong> Set maximum prices for utilities where competition is impossible",
                 "",
                 "<strong>Trade-off:</strong> Protection vs. enforcement costs"
               ]
@@ -187,29 +189,29 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83c\udf2b\ufe0f",
+            "icon": "🌫️",
             "title": "Negative Externalities",
             "items": [
               "<strong>Third parties are HARMED</strong>",
-              "\u2022 Pollution harms downstream residents",
-              "\u2022 Your driving slows everyone else",
-              "\u2022 Secondhand smoke harms non-smokers",
+              "• Pollution harms downstream residents",
+              "• Your driving slows everyone else",
+              "• Secondhand smoke harms non-smokers",
               "",
-              "<strong>Problem:</strong> Market ignores these costs \u2192 Overproduction",
+              "<strong>Problem:</strong> Market ignores these costs → Overproduction",
               "",
               "<strong>Solution:</strong> TAX the activity (carbon tax, cigarette tax, gas tax)"
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d\udc89",
+            "icon": "💉",
             "title": "Positive Externalities",
             "items": [
               "<strong>Third parties BENEFIT</strong>",
-              "\u2022 Vaccination protects everyone (herd immunity)",
-              "\u2022 Education benefits society beyond the individual",
-              "\u2022 R&D benefits extend beyond the inventor",
+              "• Vaccination protects everyone (herd immunity)",
+              "• Education benefits society beyond the individual",
+              "• R&D benefits extend beyond the inventor",
               "",
-              "<strong>Problem:</strong> Individual doesn't capture all benefits \u2192 Underproduction",
+              "<strong>Problem:</strong> Individual doesn't capture all benefits → Underproduction",
               "",
               "<strong>Solution:</strong> SUBSIDIZE the activity (free K-12, vaccine programs)"
             ]
@@ -232,13 +234,13 @@
               "<strong>2. Non-rivalrous:</strong> One person's use doesn't reduce availability for others",
               "",
               "<strong>Examples:</strong>",
-              "\ud83d\udee1\ufe0f National defense protects everyone",
-              "\ud83d\udca1 Street lights illuminate for all",
-              "\ud83c\udf32 Public parks are open to everyone",
-              "\ud83d\udcda Basic research benefits all"
+              "🛡️ National defense protects everyone",
+              "💡 Street lights illuminate for all",
+              "🌲 Public parks are open to everyone",
+              "📚 Basic research benefits all"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udeab",
+              "icon": "🚫",
               "text": "The Free-Rider Problem: People benefit without paying, so private companies won't provide"
             }
           },
@@ -248,7 +250,7 @@
               "title": "Government Solution",
               "color": "green",
               "items": [
-                "\ud83c\udfdb\ufe0f Government provides directly",
+                "🏛️ Government provides directly",
                 "Funds with taxes from everyone",
                 "Everyone pays, everyone benefits",
                 "",
@@ -269,14 +271,14 @@
         "layoutData": {
           "title": "When one party knows more than the other in a transaction",
           "paragraphs": [
-            "<strong>\ud83d\ude97 Used Cars (The Lemons Problem):</strong>",
+            "<strong>🚗 Used Cars (The Lemons Problem):</strong>",
             "Seller knows problems, buyers assume all are 'lemons,' good cars exit market",
             "",
-            "<strong>\ud83d\udc93 Health Insurance (Adverse Selection):</strong>",
+            "<strong>💓 Health Insurance (Adverse Selection):</strong>",
             "You know your health, sick people buy while healthy skip, leading to market collapse",
             "",
-            "<strong>\ud83d\udcc8 Financial Products:</strong>",
-            "Sellers know risks, buyers often don't\u20142008 financial crisis example"
+            "<strong>📈 Financial Products:</strong>",
+            "Sellers know risks, buyers often don't—2008 financial crisis example"
           ],
           "bulletPoints": [
             "<strong>Disclosure Requirements:</strong> Nutrition labels, ingredient lists",
@@ -284,7 +286,7 @@
             "<strong>Licensing:</strong> Doctors, lawyers, contractors must meet standards",
             "<strong>Consumer Protection Laws:</strong> Lemon laws, return policies"
           ],
-          "keyPoint": "Information asymmetry can cause markets to collapse entirely\u2014government can restore function through disclosure and standards"
+          "keyPoint": "Information asymmetry can cause markets to collapse entirely—government can restore function through disclosure and standards"
         }
       }
     },
@@ -299,16 +301,18 @@
           "title": "Beyond market failure correction, government provides essential economic functions",
           "paragraphs": [],
           "bulletPoints": [
-            "\u2696\ufe0f <strong>1. Enforce Property Rights:</strong> Courts, police, legal system that enables market transactions",
-            "\ud83d\udee1\ufe0f <strong>2. Provide Public Goods:</strong> Defense, parks, street lights that markets won't provide",
-            "\ud83c\udf2b\ufe0f <strong>3. Correct Externalities:</strong> Tax pollution, subsidize education to align private/social costs",
-            "\ud83d\udccb <strong>4. Regulate Markets:</strong> Antitrust, safety standards, disclosure requirements",
-            "\ud83d\udcca <strong>5. Stabilize Economy:</strong> Fiscal and monetary policy to reduce business cycles (L-53)",
-            "\ud83d\udcb5 <strong>6. Redistribute Income:</strong> Progressive taxes and safety nets to reduce inequality"
+            "⚖️ <strong>1. Enforce Property Rights:</strong> Courts, police, legal system that enables market transactions",
+            "🛡️ <strong>2. Provide Public Goods:</strong> Defense, parks, street lights that markets won't provide",
+            "🌫️ <strong>3. Correct Externalities:</strong> Tax pollution, subsidize education to align private/social costs",
+            "📋 <strong>4. Regulate Markets:</strong> Antitrust, safety standards, disclosure requirements",
+            "📊 <strong>5. Stabilize Economy:</strong> Fiscal and monetary policy to reduce business cycles (L-53)",
+            "💵 <strong>6. Redistribute Income:</strong> Progressive taxes and safety nets to reduce inequality"
           ],
           "keyPoint": "Even supporters of free markets recognize these roles as necessary for markets to function properly"
         }
-      }
+      },
+      "notes": "## Common Misconceptions\n\n| Misconception | Clarification |\n|--------------|---------------|\n| \"Markets always work perfectly without government.\" | Market failures (externalities, public goods, monopolies, info asymmetry) are real and can justify intervention. The question is whether intervention makes things better or worse. |\n| \"Government intervention always helps.\" | Intervention has costs (taxes, reduced freedom, unintended consequences) and may make things worse. Price controls often create shortages or surpluses. |\n| \"Taxes just take money away.\" | Taxes fund services (roads, schools, defense, safety). The question is whether you're getting good value for your taxes, not whether taxes exist. |\n| \"Regulations only hurt businesses.\" | Regulations protect consumers (safety, information, quality) but do impose costs. Good policy weighs both sides. |",
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"Markets always work perfectly without government.\"\" → Market failures (externalities, public goods, monopolies, info asymmetry) are real and can justify intervention. The question is whether intervention makes things better or worse.\n• \"\"Government intervention always helps.\"\" → Intervention has costs (taxes, reduced freedom, unintended consequences) and may make things worse. Price controls often create shortages or surpluses.\n• \"\"Taxes just take money away.\"\" → Taxes fund services (roads, schools, defense, safety). The question is whether you're getting good value for your taxes, not whether taxes exist.\n• \"\"Regulations only hurt businesses.\"\" → Regulations protect consumers (safety, information, quality) but do impose costs. Good policy weighs both sides."
     },
     {
       "number": 12,
@@ -328,12 +332,12 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\u26fd",
+            "icon": "⛽",
             "name": "The Gasoline Tax Story",
             "paragraphs": [
               "When government taxes gasoline:",
               "",
-              "<strong>Supply curve shifts LEFT (up)</strong>\u2014sellers receive less, buyers pay more",
+              "<strong>Supply curve shifts LEFT (up)</strong>—sellers receive less, buyers pay more",
               "",
               "<strong>Both consumers and producers share the tax burden</strong>",
               "",
@@ -369,12 +373,12 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\ude9c",
+            "icon": "🚜",
             "name": "Agricultural Subsidies in Action",
             "paragraphs": [
               "When government subsidizes corn production:",
               "",
-              "<strong>Supply curve shifts RIGHT (down)</strong>\u2014lower costs for producers",
+              "<strong>Supply curve shifts RIGHT (down)</strong>—lower costs for producers",
               "",
               "<strong>Consumers pay lower prices</strong>",
               "",
@@ -421,14 +425,14 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\u2b07\ufe0f",
+            "icon": "⬇️",
             "title": "Price Ceiling (Maximum Price)",
             "items": [
               "<strong>Example:</strong> Rent Control",
               "<strong>Intent:</strong> Affordable housing",
               "",
               "<strong>Actual Effects:</strong>",
-              "\u26a0\ufe0f Shortage (demand > supply)",
+              "⚠️ Shortage (demand > supply)",
               "Landlords don't maintain properties",
               "Black markets develop",
               "Reduces new construction",
@@ -438,17 +442,17 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u2b06\ufe0f",
+            "icon": "⬆️",
             "title": "Price Floor (Minimum Price)",
             "items": [
               "<strong>Example:</strong> Minimum Wage",
               "<strong>Intent:</strong> Higher income for workers",
               "",
               "<strong>Actual Effects:</strong>",
-              "\ud83d\udeab Some unemployment possible (debated)",
+              "🚫 Some unemployment possible (debated)",
               "Higher prices for consumers",
               "Reduced hours or automation",
-              "\u2713 Workers who keep jobs earn more",
+              "✓ Workers who keep jobs earn more",
               "",
               "Winners: Workers who keep jobs",
               "Losers: Some workers lose jobs (magnitude debated)"
@@ -484,7 +488,9 @@
             }
           ]
         }
-      }
+      },
+      "notes": "## Answer Key\n\n**1.** B (Externality)\n\n**2.** National defense is a public good—non-excludable (protects everyone regardless of payment) and non-rivalrous (protecting one person doesn't reduce protection for others). Private markets underprovide due to free-rider problem.\n\n**3.** Original: 1,000 tons × $50 = $50,000. But emissions reduce 40%, so 600 tons remain. Tax revenue: 600 × $50 = **$30,000**. Remaining emissions: **600 tons**.\n\n**4.** At below-market prices, quantity demanded exceeds quantity supplied. Landlords don't build new units (low profit), some exit market, but more renters want cheap apartments. Result: more people want apartments than are available = shortage.\n\n**5.** *Reflection should include specific policy examples and clear reasoning. Evaluate quality of argument, not political position.*",
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. B (Externality)\n2. National defense is a public good—non-excludable (protects everyone regardless of payment) and non-rivalrous (protecting one person doesn't reduce protection for others). Private markets underprovide due to free-rider problem.\n3. Original: 1,000 tons × $50 = $50,000. But emissions reduce 40%, so 600 tons remain. Tax revenue: 600 × $50 =$30,000. Remaining emissions:600 tons.\n4. At below-market prices, quantity demanded exceeds quantity supplied. Landlords don't build new units (low profit), some exit market, but more renters want cheap apartments. Result: more people want apartments than are available = shortage.\n5. Reflection should include specific policy examples and clear reasoning. Evaluate quality of argument, not political position."
     },
     {
       "number": 18,
@@ -508,12 +514,12 @@
             {
               "number": 3,
               "title": "Taxes shift supply LEFT",
-              "description": "Leading to higher prices and lower quantities\u2014used to discourage negative externalities or raise revenue"
+              "description": "Leading to higher prices and lower quantities—used to discourage negative externalities or raise revenue"
             },
             {
               "number": 4,
               "title": "Subsidies shift supply RIGHT",
-              "description": "Leading to lower prices and higher quantities\u2014used to encourage positive externalities"
+              "description": "Leading to lower prices and higher quantities—used to encourage positive externalities"
             },
             {
               "number": 5,
@@ -523,7 +529,7 @@
             {
               "number": 6,
               "title": "Every policy has trade-offs",
-              "description": "Benefits vs. costs, winners vs. losers\u2014smart citizens evaluate whether intervention improves outcomes"
+              "description": "Benefits vs. costs, winners vs. losers—smart citizens evaluate whether intervention improves outcomes"
             }
           ]
         }
@@ -538,7 +544,7 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udd0d",
+            "icon": "🔍",
             "title": "Tomorrow's Learning Lab",
             "description": "Apply your knowledge by analyzing real government policies and their economic impact"
           },
@@ -556,9 +562,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "\"Understanding when markets need government\u2014and when they don't\"",
+        "tagline": "\"Understanding when markets need government—and when they don't\"",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

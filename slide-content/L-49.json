@@ -24,7 +24,8 @@
         "label": "The Challenge",
         "question": "Sarah, 18, was deciding between Elite Private College (<em>$55,000/year</em>) and State University (<em>$15,000/year</em>).<br><br>Simple analysis: Elite costs $160,000 more over four years.<br><br>But Sarah calculated the FULL opportunity cost: Elite's total including foregone wages was <em>$372,000</em> vs State's <em>$252,000</em>\u2014a $120,000 difference.<br><br>She chose State and invested the difference. By age 65, that investment grew to <em>$1,800,000</em>.<br><br><strong>What are you REALLY giving up when you make financial decisions?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "**Discussion Prompts:**\n- What's the difference between the 'sticker price' of college and the REAL cost?\n- Why did Sarah's opportunity cost calculation reveal such a larger number?\n- How does opportunity cost thinking transform decisions?"
     },
     {
       "number": 3,
@@ -315,7 +316,8 @@
             "text": "\ud83d\udca1 Every \"yes\" to one thing is a \"no\" to something else. Opportunity cost reveals what you're really giving up."
           }
         }
-      }
+      },
+      "notes": "## Common Misconceptions\n\n| Misconception | Clarification |\n|---------------|---------------|\n| \"Opportunity cost is just the price of something.\" | Price is only the explicit cost. Opportunity cost includes implicit costs like time, foregone alternatives, and what else you could do with the money. Often implicit costs exceed explicit costs. |\n| \"Doing something myself always saves money.\" | Only if your time has no value. If you earn $50/hour and spend 3 hours to save $30, you've lost $120 in opportunity cost. \"Saving money\" actually cost you $90. |\n| \"I should consider what I already spent when making decisions.\" | Sunk costs are irrelevant to future decisions because they can't be recovered. Only compare future benefits to future costs. Past spending shouldn't trap you in bad choices. |"
     },
     {
       "number": 12,
@@ -474,7 +476,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "## Answer Key\n\n**Question 1:** B (Unlimited wants exceed limited resources, forcing trade-offs). Scarcity affects everyone because time is the ultimate scarce resource—everyone gets exactly 24 hours per day, regardless of wealth. Even billionaires can't buy more time or be in two places at once. This forces everyone to make trade-offs about how to use their limited time, energy, and attention.\n\n**Question 2:** You spent 3 hours worth $20/hour = $60 in opportunity cost. But you only saved $30. So the actual cost of \"saving\" that money was $30 net loss ($60 in time value - $30 saved = -$30). The mistake: looking at absolute savings ($30) instead of opportunity cost ($60).\n\n**Question 3:** For college, **explicit costs** = tuition, books, fees (easily measured); **implicit costs** = foregone wages, experience, time, investment returns on money spent (harder to measure but often larger). Example: Explicit = $80K tuition; Implicit = $120K foregone wages over 4 years. The implicit costs nearly equal or exceed tuition because those years could have been spent earning income.\n\n**Question 4:** B (Next-best alternative forgone when making a choice). **Incentive:** Employer match provides free money (100% return on contribution). **Response:** Contribute at least enough to capture full match. **Opportunity cost of NOT participating:** Leaving free money on the table—if employer matches 6% and you don't contribute, you're giving up 6% of your salary for free.\n\n**Additional Context:**\n- **Sunk costs:** Can't be recovered, so they're irrelevant to future decisions. What matters is comparing future benefits to future costs. Letting sunk costs influence decisions leads to irrational choices (like staying in bad investment \"to recover losses\").\n- **Personal application:** Identify both explicit costs (dollar amounts) AND implicit costs (time, foregone alternatives, opportunity costs of money), and reflect on whether total opportunity cost changes the decision."
     },
     {
       "number": 18,

@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "If <em>70-80% of jobs</em> are never publicly advertised,<br>how can you access the <em>hidden job market</em><br>and stand out in a competitive application process?"
+        "question": "Alex applied to dozens of jobs randomly without success, but after implementing a strategic multi-channel approach—combining job boards, networking, and internal referrals—he landed a job offer within 2 weeks despite 200+ applicants. <br><br> If <em>70-80% of jobs</em> are never publicly advertised, how can you access the <em>hidden job market</em> and stand out in a competitive application process?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "Discussion prompts:\n• \"Have you or someone you know ever applied to many jobs without hearing back? What do you think went wrong?\"\n• Preview how strategic application approaches dramatically improve success rates."
     },
     {
       "number": 3,
@@ -282,7 +283,8 @@
           ],
           "keyPoint": "\ud83d\udca1 75% of resumes are rejected by ATS before a human sees them\u2014format and keywords matter!"
         }
-      }
+      },
+      "notes": "Common Misconceptions:\n\n| Misconception | Clarification |\n|--------------|---------------|\n| \"Applying to more jobs always increases my chances.\" | Quality beats quantity. 10 tailored applications typically outperform 50 generic ones. Strategic, customized applications have significantly higher response rates. |\n| \"Creative resume designs help me stand out.\" | Creative designs may hurt you with ATS systems. Clean, simple formatting with standard headings is most effective for passing automated screening. |\n| \"Networking is only for people who are outgoing.\" | Networking can take many forms—informational interviews, online communities, professional associations. Introverts often excel at building deeper one-on-one professional relationships. |"
     },
     {
       "number": 12,
@@ -478,7 +480,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "Answer Key:\n\n1. Networking is essential because 70-80% of jobs are never publicly advertised (hidden job market). About 70% of people land jobs through networking connections rather than applications alone.\n\n2. \"Decoding\" a job description means analyzing key components to understand true requirements. Required qualifications are must-have attributes; lacking these may disqualify you. Preferred qualifications are nice-to-have that give competitive advantage. Apply if you meet ~70-80% of requirements, especially the essential ones.\n\n3. Four ATS optimization strategies:\n   • Use simple, clean formatting with standard section headings\n   • Include exact keywords from job description naturally\n   • Use .docx or .pdf format with professional file naming\n   • Complete all required fields thoroughly\n\n4. Follow-up timing: Wait 1-2 weeks after application deadline. Tone: Professional, polite, and brief. Should express continued interest, reference the specific position, and offer to provide additional information."
     },
     {
       "number": 18,

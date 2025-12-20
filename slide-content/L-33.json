@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Riley just bought her first car\u2014a used vehicle worth <em>$8,000</em>.<br><br>She needs to decide: minimum liability insurance for <em>$75/month</em>, or comprehensive coverage for <em>$150/month</em> with a $500 deductible. She also installed an anti-theft device that qualifies for a discount.<br><br><strong>How can understanding risk management strategies help Riley make the best insurance decision for her situation?</strong>"
+        "question": "Riley just bought her first car—a used vehicle worth  $8,000 ..<br><br><strong>How can understanding risk management strategies help Riley make the best insurance decision for her situation?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Riley's car insurance scenario aloud. Discussion: \"What factors would you consider when choosing insurance?\" Brainstorm: List risks students face daily (driving, technology, health, etc.)."
     },
     {
       "number": 3,
@@ -73,12 +74,12 @@
             {
               "term": "Risk",
               "definition": "The possibility of loss or gain in any situation where the outcome is uncertain.",
-              "example": "Driving a car involves risk\u2014you might arrive safely, have an accident, or experience a breakdown."
+              "example": "Driving a car involves risk—you might arrive safely, have an accident, or experience a breakdown."
             },
             {
               "term": "Risk Avoidance",
               "definition": "Eliminating the possibility of loss by avoiding the activity entirely.",
-              "example": "Not investing in stocks to avoid market losses\u2014but you also miss potential gains."
+              "example": "Not investing in stocks to avoid market losses—but you also miss potential gains."
             }
           ]
         }
@@ -116,15 +117,15 @@
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
-            "title": "Risk Is Unavoidable\u2014But Manageable",
+            "title": "Risk Is Unavoidable—But Manageable",
             "paragraphs": [
               "Every financial decision involves some level of risk. The question isn't whether to take risks, but how to manage them wisely.",
-              "Unmanaged risks can devastate your financial future\u2014a single unexpected event can wipe out years of savings.",
+              "Unmanaged risks can devastate your financial future—a single unexpected event can wipe out years of savings.",
               "Understanding risk management strategies helps you make informed decisions about what risks to take and how to protect yourself."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "The goal isn't to eliminate all risk\u2014that's impossible. The goal is to manage risk intelligently."
+              "icon": "💡",
+              "text": "The goal isn't to eliminate all risk—that's impossible. The goal is to manage risk intelligently."
             }
           },
           "rightPanel": {
@@ -165,11 +166,11 @@
           "bulletPoints": [
             "<strong>AVOID:</strong> Don't do the risky activity at all. Example: Not buying a motorcycle eliminates motorcycle accident risk.",
             "<strong>REDUCE:</strong> Take precautions to lower risk. Example: Wearing a seatbelt reduces injury severity in an accident.",
-            "<strong>ACCEPT:</strong> Pay for small losses yourself. Example: Not insuring a $20 phone case\u2014just replace it if lost.",
+            "<strong>ACCEPT:</strong> Pay for small losses yourself. Example: Not insuring a $20 phone case—just replace it if lost.",
             "<strong>TRANSFER:</strong> Shift risk to another party. Example: Buying health insurance transfers major medical costs to the insurer."
           ],
           "keyPoint": {
-            "text": "\ud83c\udfaf The best strategy depends on: likelihood of loss, potential impact, and your financial resources."
+            "text": "🎯 The best strategy depends on: likelihood of loss, potential impact, and your financial resources."
           }
         }
       }
@@ -183,7 +184,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udc64",
+            "icon": "👤",
             "title": "Personal & Property Risks",
             "items": [
               "Personal: Injury, illness, disability, death",
@@ -195,7 +196,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u2696\ufe0f",
+            "icon": "⚖️",
             "title": "Liability & Financial Risks",
             "items": [
               "Liability: Being held responsible for harm",
@@ -226,7 +227,7 @@
               "<strong>Claim:</strong> Your request for payment when a covered loss occurs."
             ],
             "highlightBox": {
-              "icon": "\u2696\ufe0f",
+              "icon": "⚖️",
               "text": "Trade-off: Higher deductible = lower premium. Lower deductible = higher premium."
             }
           },
@@ -259,13 +260,13 @@
             "Choose your strategy based on the risk's characteristics:"
           ],
           "bulletPoints": [
-            "<strong>AVOID</strong> when: The risk is too high and the activity isn't essential. Don't text while driving\u2014the risk isn't worth it.",
+            "<strong>AVOID</strong> when: The risk is too high and the activity isn't essential. Don't text while driving—the risk isn't worth it.",
             "<strong>REDUCE</strong> when: You want the activity but can minimize danger. Wear a helmet while biking to reduce injury severity.",
             "<strong>ACCEPT</strong> when: The potential loss is small and affordable. Self-insure for minor expenses like replacing broken headphones.",
-            "<strong>TRANSFER</strong> when: The potential loss is large and rare. Buy insurance for your home\u2014fire is unlikely but devastating."
+            "<strong>TRANSFER</strong> when: The potential loss is large and rare. Buy insurance for your home—fire is unlikely but devastating."
           ],
           "keyPoint": {
-            "text": "\ud83d\udca1 Most real situations use MULTIPLE strategies together\u2014reduce risk AND transfer remaining risk through insurance."
+            "text": "💡 Most real situations use MULTIPLE strategies together—reduce risk AND transfer remaining risk through insurance."
           }
         }
       }
@@ -282,11 +283,11 @@
             "title": "It's Not Just the Premium",
             "paragraphs": [
               "When comparing insurance options, consider the <strong>total potential cost</strong>:",
-              "\u2022 Annual premiums over time",
-              "\u2022 Deductible if you file a claim",
-              "\u2022 Out-of-pocket maximum",
-              "\u2022 Coverage gaps (what's NOT covered)",
-              "The cheapest premium isn't always the best value\u2014especially if a claim would leave you with huge out-of-pocket costs."
+              "• Annual premiums over time",
+              "• Deductible if you file a claim",
+              "• Out-of-pocket maximum",
+              "• Coverage gaps (what's NOT covered)",
+              "The cheapest premium isn't always the best value—especially if a claim would leave you with huge out-of-pocket costs."
             ],
             "highlightBox": null
           },
@@ -311,7 +312,8 @@
             "infoCard": null
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"Insurance is a waste if you never file a claim.\"\" → Insurance provides peace of mind and protection against catastrophic loss. It's like a seatbelt—you hope you never need it, but you're glad it's there if you do.\n• \"\"The lowest premium is always the best choice.\"\" → Low premiums often mean high deductibles or limited coverage. Total cost (premium + potential out-of-pocket) matters more than premium alone.\n• \"\"Risk avoidance is always the safest strategy.\"\" → Avoiding all risk means missing opportunities. Sometimes accepting or managing risk is necessary for growth, education, or financial advancement."
     },
     {
       "number": 12,
@@ -330,10 +332,10 @@
             "<strong>Bundle policies:</strong> Same company for auto + home often earns a multi-policy discount",
             "<strong>Install safety devices:</strong> Security systems, anti-theft devices, smoke detectors can qualify for discounts",
             "<strong>Maintain good records:</strong> Safe driving history, good credit score can lower rates",
-            "<strong>Shop annually:</strong> Compare quotes every year\u2014loyalty doesn't always pay"
+            "<strong>Shop annually:</strong> Compare quotes every year—loyalty doesn't always pay"
           ],
           "keyPoint": {
-            "text": "\ud83c\udfaf Riley's anti-theft device could save 5-15% on her auto insurance premium."
+            "text": "🎯 Riley's anti-theft device could save 5-15% on her auto insurance premium."
           }
         }
       }
@@ -347,7 +349,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcf1",
+            "icon": "📱",
             "name": "Smartphone Protection Decision",
             "paragraphs": [
               "You just bought a new smartphone for $1,000. You use it constantly for school, work, and entertainment.",
@@ -386,7 +388,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\ude97",
+            "icon": "🚗",
             "name": "Riley's Auto Insurance Decision",
             "paragraphs": [
               "Riley's car is worth $8,000. Minimum liability insurance costs $75/month ($900/year) but covers NOTHING if her car is damaged or totaled.",
@@ -431,7 +433,7 @@
       "variant": "indigo",
       "content": {
         "badge": "Reflection",
-        "question": "Think about a significant financial decision you or your family might face\u2014buying a car, renting an apartment, starting a business.<br><br>What risks are associated with it?<br><br>Which risk management strategies would be most appropriate, and why?"
+        "question": "Think about a significant financial decision you or your family might face—buying a car, renting an apartment, starting a business.<br><br>What risks are associated with it?<br><br>Which risk management strategies would be most appropriate, and why?"
       }
     },
     {
@@ -461,7 +463,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\nQ6:Accept any reasonable personal risks and appropriate strategies.\nCYU 1:D (Risk Transfer)\nCYU 2:Premium = amount paid regularly (monthly/yearly) to maintain coverage. Example: $100/month for car insurance. Deductible = amount you pay out-of-pocket before insurance kicks in. Example: $500 deductible means you pay first $500 of a claim.\nCYU 3:Annual premium: $200 × 12 = $2,400. Plus $1,000 deductible. Total:$3,400(Insurance pays remaining $4,000 of the $5,000 loss)\nCYU 4:Marcus could: REDUCE (proper training, warm-ups, protective gear), TRANSFER (sports insurance through school), AVOID during injury recovery. He might not choose complete avoidance because the benefits (health, enjoyment, teamwork, college opportunities) outweigh the managed risks."
     },
     {
       "number": 18,
@@ -475,7 +478,7 @@
             {
               "number": 1,
               "title": "Four Risk Strategies",
-              "description": "Avoid, Reduce, Accept, or Transfer\u2014choose based on likelihood, impact, and your resources."
+              "description": "Avoid, Reduce, Accept, or Transfer—choose based on likelihood, impact, and your resources."
             },
             {
               "number": 2,
@@ -490,7 +493,7 @@
             {
               "number": 4,
               "title": "Combine Strategies",
-              "description": "Most situations use multiple strategies\u2014reduce risk AND transfer remaining risk through insurance."
+              "description": "Most situations use multiple strategies—reduce risk AND transfer remaining risk through insurance."
             }
           ]
         }
@@ -505,9 +508,9 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udcca",
+            "icon": "📊",
             "title": "Personal Risk Assessment Lab",
-            "description": "You've learned the four risk management strategies\u2014but what risks do YOU actually face? Tomorrow you'll conduct a personal risk audit and develop your own risk management plan."
+            "description": "You've learned the four risk management strategies—but what risks do YOU actually face? Tomorrow you'll conduct a personal risk audit and develop your own risk management plan."
           },
           "steps": [
             "Identify risks you face in each category (personal, property, liability, financial)",
@@ -525,7 +528,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

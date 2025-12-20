@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Imagine yourself at <em>age 65</em>.<br><br>What kind of lifestyle do you envision?<br>What steps can you start taking <em>now</em>?"
+        "question": "Imagine yourself at <em>age 65</em>. What kind of lifestyle do you envision?<br>What steps can you start taking <em>now</em>? <br><br> What kind of lifestyle do you envision?<br>What steps can you start taking <em>now</em>?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n‚Ä¢ Present the 50/30/20 calculation challenge. Ask: \"What salary would you need?\"\n‚Ä¢ Let students estimate before revealing the math‚Äîmost will underestimate.\n‚Ä¢ Preview that today connects all previous concepts to real retirement planning.\n"
     },
     {
       "number": 3,
@@ -72,12 +73,12 @@
           "terms": [
             {
               "term": "Compounding",
-              "definition": "The process where returns on your money generate their own returns\u2014earning interest on interest.",
+              "definition": "The process where returns on your money generate their own returns‚Äîearning interest on interest.",
               "example": "$10,000 at 7% for 40 years = $150,000 (without adding any more money!)"
             },
             {
               "term": "Opportunity Cost",
-              "definition": "What you give up when making one financial choice over another\u2014the road not taken.",
+              "definition": "What you give up when making one financial choice over another‚Äîthe road not taken.",
               "example": "Spending $200 on sneakers means losing $200 that could have grown in your 401(k)"
             }
           ]
@@ -124,8 +125,8 @@
               "Same monthly investment, 10 years earlier = <strong>more than DOUBLE the result!</strong>"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u23f0 Every year you wait to start investing for retirement costs you thousands in potential growth!"
+              "icon": "üí°",
+              "text": "‚è∞ Every year you wait to start investing for retirement costs you thousands in potential growth!"
             }
           },
           "rightPanel": {
@@ -160,8 +161,8 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83c",
-            "title": "\udfe6 Saving",
+            "icon": "Ì†º",
+            "title": "Ìø¶ Saving",
             "items": [
               "Short-term needs (1-3 years)",
               "Lower risk to principal",
@@ -172,8 +173,8 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d",
-            "title": "\udcc8 Investing",
+            "icon": "Ì†Ω",
+            "title": "Ì≥à Investing",
             "items": [
               "Long-term goals (3+ years)",
               "Higher risk (varies by type)",
@@ -205,7 +206,7 @@
             "<strong>Social Security:</strong> Government program, funded by payroll taxes. Provides baseline income in retirement"
           ],
           "keyPoint": {
-            "text": "\ud83d\udca1 Pro tip: If your employer offers a 401(k) match, ALWAYS contribute enough to get the full match\u2014it's free money!"
+            "text": "üí° Pro tip: If your employer offers a 401(k) match, ALWAYS contribute enough to get the full match‚Äîit's free money!"
           }
         }
       }
@@ -226,8 +227,8 @@
               "<strong>Example:</strong> High earners in their peak earning years who will have lower income in retirement."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udcca Reduces your taxable income TODAY = lower current tax bill"
+              "icon": "Ì†Ω",
+              "text": "Ì≥ä Reduces your taxable income TODAY = lower current tax bill"
             }
           },
           "rightPanel": {
@@ -249,13 +250,13 @@
             "title": "A Framework for Saving",
             "paragraphs": [
               "The 50/30/20 rule is a simple budgeting guideline that helps you allocate your after-tax income:",
-              "<strong>50% \u2192 Needs:</strong> Housing, utilities, food, transportation, insurance, minimum payments",
-              "<strong>30% \u2192 Wants:</strong> Entertainment, dining out, hobbies, subscriptions, upgrades",
-              "<strong>20% \u2192 Savings &amp; Investing:</strong> Emergency fund, retirement contributions, extra debt payments"
+              "<strong>50% ‚Üí Needs:</strong> Housing, utilities, food, transportation, insurance, minimum payments",
+              "<strong>30% ‚Üí Wants:</strong> Entertainment, dining out, hobbies, subscriptions, upgrades",
+              "<strong>20% ‚Üí Savings &amp; Investing:</strong> Emergency fund, retirement contributions, extra debt payments"
             ],
             "highlightBox": {
-              "icon": "\ud83c",
-              "text": "\udfaf If you can put 20% toward savings/investing, you're building a strong financial foundation!"
+              "icon": "Ì†º",
+              "text": "ÌæØ If you can put 20% toward savings/investing, you're building a strong financial foundation!"
             }
           },
           "rightPanel": {
@@ -295,11 +296,11 @@
               "Many employers offer to <strong>match</strong> your 401(k) contributions up to a certain percentage. This is essentially free money!",
               "<strong>Example:</strong> Your employer matches 100% of contributions up to 4% of your salary.",
               "If you earn $50,000 and contribute 4% ($2,000), your employer adds another $2,000 = <strong>$4,000 total!</strong>",
-              "That's an immediate 100% return on your investment\u2014no other investment can guarantee that."
+              "That's an immediate 100% return on your investment‚Äîno other investment can guarantee that."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u26a0\ufe0f Not contributing enough to get the full employer match is literally leaving free money on the table!"
+              "icon": "üí°",
+              "text": "‚ö†Ô∏è Not contributing enough to get the full employer match is literally leaving free money on the table!"
             }
           },
           "rightPanel": {
@@ -326,7 +327,8 @@
             }
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"I can't afford to save for retirement yet.\"\n   ‚Üí Even small amounts matter enormously due to compounding. $50/month starting at 22 can grow to $150,000+ by 65. Waiting 10 years to \"afford\" more actually costs you money.\n\n2. \"Social Security will take care of my retirement.\"\n   ‚Üí Social Security replaces only about 40% of pre-retirement income for average earners. It's a supplement, not a full retirement plan. You need personal savings.\n\n3. \"I should max out my IRA before my 401(k).\"\n   ‚Üí If your employer offers a match, ALWAYS contribute enough to get the full match first. That's a guaranteed 50-100% return. Then consider IRA. Only then consider additional 401(k) beyond the match.\n\n"
     },
     {
       "number": 12,
@@ -347,7 +349,7 @@
             "<strong>Under 10 Years (Age 55+):</strong> Conservative. Prioritize preserving what you've built (40-50% stocks)."
           ],
           "keyPoint": {
-            "text": "\ud83d\udd04 Target-date funds automatically shift from aggressive to conservative as you approach retirement!"
+            "text": "üîÑ Target-date funds automatically shift from aggressive to conservative as you approach retirement!"
           }
         }
       }
@@ -361,7 +363,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc68\u200d\ud83d\udcbc",
+            "icon": "üë®‚Äçüíº",
             "name": "Micah's Smart Start at 22",
             "paragraphs": [
               "Micah gets his first job at 22, earning $45,000/year. His employer offers a 401(k) with 4% match.",
@@ -401,12 +403,12 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\ude2c",
+            "icon": "üò¨",
             "name": "Jordan Waits Until 32",
             "paragraphs": [
               "Jordan earns the same as Micah and has the same employer match. But Jordan waits until age 32 to start contributing.",
               "Jordan contributes the same <span class=\"highlight-text\">$4,500/year ($2,700 + $1,800 match)</span> for 33 years until retirement.",
-              "<strong>Result:</strong> At 7% average returns, Jordan's 401(k) grows to about <strong>$525,000</strong>\u2014less than HALF of what Micah has, even though Jordan contributed for only 10 fewer years.",
+              "<strong>Result:</strong> At 7% average returns, Jordan's 401(k) grows to about <strong>$525,000</strong>‚Äîless than HALF of what Micah has, even though Jordan contributed for only 10 fewer years.",
               "<strong>The cost of waiting:</strong> Those 10 extra years of compounding are worth over $575,000!"
             ]
           },
@@ -478,7 +480,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (Tax-free withdrawals in retirement)\n\n2. Employer match = free money: If your employer matches 50%, that's an immediate 50% return on your contribution before any investment growth. No other investment offers guaranteed 50% returns. You should always contribute at least enough to get the full match.\n\n3. The 25-year-old will have more (~$1.2M vs ~$900K) despite lower monthly contributions. The extra 10 years of compounding is more valuable than the extra $250/month. Time beats amount.\n\n"
     },
     {
       "number": 18,
@@ -497,12 +500,12 @@
             {
               "number": 2,
               "title": "Get the Match",
-              "description": "Always contribute enough to get your full employer 401(k) match\u2014it's free money with 100% instant return."
+              "description": "Always contribute enough to get your full employer 401(k) match‚Äîit's free money with 100% instant return."
             },
             {
               "number": 3,
               "title": "Choose Your Tax Timing",
-              "description": "Young people often benefit from Roth accounts\u2014pay taxes now while in a low bracket, enjoy tax-free growth."
+              "description": "Young people often benefit from Roth accounts‚Äîpay taxes now while in a low bracket, enjoy tax-free growth."
             },
             {
               "number": 4,
@@ -522,15 +525,15 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udccb Retirement Planning Worksheet",
+            "icon": "Ì†Ω",
+            "title": "Ì≥ã Retirement Planning Worksheet",
             "description": "Explore different retirement options and compare their benefits, risks, and tax implications. Then calculate: Using the 50/30/20 rule, if you want to max out 401(k) + Traditional IRA + Roth IRA contributions, what annual income would you need?"
           },
           "steps": [
             "Review retirement options: 401(k), IRAs, Social Security",
             "Compare benefits, risks, and tax implications",
             "Calculate max contributions: $23K + $7K + $7K = $37K",
-            "Apply 50/30/20: $37K \u00f7 0.20 = target income",
+            "Apply 50/30/20: $37K √∑ 0.20 = target income",
             "Reflect: Is this realistic? What's your strategy?"
           ]
         }
@@ -542,7 +545,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "¬© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

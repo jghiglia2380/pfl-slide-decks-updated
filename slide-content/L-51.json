@@ -22,9 +22,11 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Why do some markets have lots of competition while others have <em>few sellers with more pricing power</em>?<br><br>Compare: Gasoline (all ~$3.89) vs. Smartphones (only 3 major options) vs. Electricity (usually 1 provider) vs. Coffee Shops (many options, different prices)"
+        "question": "Eliana notices that gasoline prices at nearby stations are nearly identical, but coffee shops charge wildly different prices. Her electric company raised rates, and she has no choice but to pay.<br><br><strong>What should be done in this situation?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "**Discussion Prompts:**\n- \"Why do you think the electric company can charge so much when coffee shops compete for your business?\"\n- Connect to prior knowledge: Remind students of supply/demand from L-50.",
+      "speakerNotes": "Read Eliana's scenario aloud or have students read silently. Discussion prompt: \"Why do you think the electric company can charge so much when coffee shops compete for your business?\" Connect to prior knowledge: Remind students of supply/demand from L-50."
     },
     {
       "number": 3,
@@ -127,11 +129,11 @@
             "title": "Characteristics: Many sellers, identical products, no barriers",
             "paragraphs": [
               "<strong>Key Features:</strong>",
-              "\u2022 Many buyers and sellers",
-              "\u2022 Identical (homogeneous) products",
-              "\u2022 Perfect information available",
-              "\u2022 Free entry and exit",
-              "\u2022 Sellers are \"price takers\"",
+              "• Many buyers and sellers",
+              "• Identical (homogeneous) products",
+              "• Perfect information available",
+              "• Free entry and exit",
+              "• Sellers are \"price takers\"",
               "",
               "<strong>Examples:</strong> Wheat, corn, stocks, farmer's markets, generic medications"
             ],
@@ -176,11 +178,11 @@
             "title": "Characteristics: Many sellers, differentiated products, low barriers",
             "paragraphs": [
               "<strong>Key Features:</strong>",
-              "\u2022 Many sellers with competition",
-              "\u2022 Product differentiation (brand, quality, location)",
-              "\u2022 Some price control",
-              "\u2022 Low entry barriers",
-              "\u2022 Non-price competition",
+              "• Many sellers with competition",
+              "• Product differentiation (brand, quality, location)",
+              "• Some price control",
+              "• Low entry barriers",
+              "• Non-price competition",
               "",
               "<strong>Examples:</strong> Restaurants, coffee shops, clothing stores, hair salons, gyms"
             ],
@@ -225,10 +227,10 @@
             "title": "Characteristics: Few sellers (3-10), high barriers, significant price control",
             "paragraphs": [
               "<strong>Key Characteristic: Interdependence</strong>",
-              "\u2022 Each firm's decisions affect competitors",
-              "\u2022 Strategic behavior (watch each other)",
-              "\u2022 Massive capital/technology required",
-              "\u2022 Price leadership is common",
+              "• Each firm's decisions affect competitors",
+              "• Strategic behavior (watch each other)",
+              "• Massive capital/technology required",
+              "• Price leadership is common",
               "",
               "<strong>Examples:</strong> Cell carriers (AT&T, Verizon, T-Mobile), airlines, auto manufacturers, streaming services"
             ],
@@ -298,7 +300,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\ude04",
+            "icon": "😄",
             "title": "Perfect Competition",
             "items": [
               "MAXIMUM consumer surplus",
@@ -307,7 +309,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d\ude1f",
+            "icon": "😟",
             "title": "Monopoly",
             "items": [
               "MINIMUM consumer surplus",
@@ -337,7 +339,9 @@
           ],
           "keyPoint": "Understanding market structure helps you identify where you have the least power as a consumer"
         }
-      }
+      },
+      "notes": "## Common Misconceptions\n\n| Misconception | Clarification |\n|--------------|---------------|\n| \"Monopolies are always illegal.\" | Natural monopolies (utilities) and legal monopolies (patents) are legal. Only anticompetitive behavior to gain or maintain monopoly power is illegal. |\n| \"More sellers always means lower prices.\" | Generally true, but monopolistic competition shows that differentiation allows price premiums even with many sellers. A branded product can cost 3x a generic. |\n| \"I can't do anything about monopoly prices.\" | While you can't change the price, you can reduce consumption, use off-peak pricing, seek substitutes (streaming vs. cable), or advocate for regulation. |\n| \"Oligopolies compete fiercely on price.\" | Oligopolies often engage in tacit price coordination. When all 3 carriers charge similar rates, it benefits all firms to keep prices high. |",
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"Monopolies are always illegal.\"\" → Natural monopolies (utilities) and legal monopolies (patents) are legal. Only anticompetitive behavior to gain or maintain monopoly power is illegal.\n• \"\"More sellers always means lower prices.\"\" → Generally true, but monopolistic competition shows that differentiation allows price premiums even with many sellers. A branded product can cost 3x a generic.\n• \"\"I can't do anything about monopoly prices.\"\" → While you can't change the price, you can reduce consumption, use off-peak pricing, seek substitutes (streaming vs. cable), or advocate for regulation.\n• \"\"Oligopolies compete fiercely on price.\"\" → Oligopolies often engage in tacit price coordination. When all 3 carriers charge similar rates, it benefits all firms to keep prices high."
     },
     {
       "number": 12,
@@ -357,7 +361,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\u2615",
+            "icon": "☕",
             "name": "Sarah's Coffee Choices",
             "paragraphs": [
               "Sarah wants coffee before work. She has several options near her office:",
@@ -367,7 +371,7 @@
               "<strong>Dunkin':</strong> $3.00 for latte (speed, value)",
               "<strong>Home-brewed:</strong> $0.50 per cup (same caffeine, no convenience)",
               "",
-              "This is <strong>monopolistic competition</strong>\u2014many sellers, differentiated products, and she has choices!"
+              "This is <strong>monopolistic competition</strong>—many sellers, differentiated products, and she has choices!"
             ]
           },
           "outcomes": [
@@ -396,7 +400,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\u2708\ufe0f",
+            "icon": "✈️",
             "name": "Oligopoly in Action: Airline Baggage Fees",
             "paragraphs": [
               "<strong>The Story:</strong>",
@@ -404,7 +408,7 @@
               "",
               "<strong>Why?</strong> In an oligopoly, firms watch each other closely. No one wants to start a price war, but they'll all match fee increases.",
               "",
-              "<strong>Result:</strong> All major airlines now charge $30-35 for first checked bag. Consumers have little choice\u2014all carriers have similar fees."
+              "<strong>Result:</strong> All major airlines now charge $30-35 for first checked bag. Consumers have little choice—all carriers have similar fees."
             ]
           },
           "outcomes": [
@@ -442,7 +446,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\u2713",
+            "icon": "✓",
             "title": "High Competition (Perfect, Monopolistic)",
             "items": [
               "Shop by price - use comparison tools",
@@ -452,7 +456,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u26a0\ufe0f",
+            "icon": "⚠️",
             "title": "Low Competition (Oligopoly, Monopoly)",
             "items": [
               "Compare ALL available options carefully",
@@ -491,7 +495,9 @@
             }
           ]
         }
-      }
+      },
+      "notes": "## Answer Key\n\n**1.** B (Monopolistic competition)\n\n**2.** In perfect competition, many sellers compete on price alone, driving prices to the lowest sustainable level—consumers pay minimum and keep maximum surplus. In monopoly, the single seller has complete pricing power and can charge much higher prices, transferring surplus from consumers to the monopolist.\n\n**3.** ($55 − $30) = $25 savings/month. $25 × 12 = **$300 saved per year.**\n\n**4.** OLIGOPOLY (few sellers, similar prices, high barriers). Strategy: Negotiate by threatening to switch, ask for retention discounts, compare all carriers thoroughly, time switch for promotional periods, consider MVNOs (smaller carriers using major networks) for better rates.\n\n**5.** *Reflection should include: specific purchase identified, correct market structure classification, and concrete strategy for improvement (negotiation, shopping around, timing, etc.)*",
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. B (Monopolistic competition)\n2. In perfect competition, many sellers compete on price alone, driving prices to the lowest sustainable level—consumers pay minimum and keep maximum surplus. In monopoly, the single seller has complete pricing power and can charge much higher prices, transferring surplus from consumers to the monopolist.\n3. ($55 − $30) = $25 savings/month. $25 × 12 =$300 saved per year.\n4. OLIGOPOLY (few sellers, similar prices, high barriers). Strategy: Negotiate by threatening to switch, ask for retention discounts, compare all carriers thoroughly, time switch for promotional periods, consider MVNOs (smaller carriers using major networks) for better rates.\n5. Reflection should include: specific purchase identified, correct market structure classification, and concrete strategy for improvement (negotiation, shopping around, timing, etc.)."
     },
     {
       "number": 18,
@@ -535,7 +541,7 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udd0d",
+            "icon": "🔍",
             "title": "Analyze Your Local Markets",
             "description": "Tomorrow you'll identify market structures for YOUR regular purchases and develop consumer strategies for each one"
           },
@@ -555,7 +561,7 @@
       "content": {
         "tagline": "\"Understanding market structure helps you become a smarter consumer and save money\"",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

@@ -22,9 +22,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Marcus discovered an <em>incorrect debt of $3,500</em> on his credit report\u2014a medical bill from a hospital he never visited.<br><br>A debt collector has been calling him at <em>11 PM</em> demanding payment.<br><br>When he applied for an apartment, he was <em>denied without explanation</em>.<br><br>What laws protect Marcus in this situation, and what steps can he take to resolve these issues?"
+        "question": "Marcus discovered an <em>incorrect debt of $3,500</em> on his credit report—a medical bill from a hospital he never visited. A debt collector has been calling him at <em>11 PM</em> demanding payment.   What laws protect Marcus in this situation, and what steps can he take to resolve these issues?    What laws protect Marcus in this situation, and what steps can he take to resolve these issues? <br><br>   What laws protect Marcus in this situation, and what steps can he take to resolve these issues?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n• Read Marcus's scenario—he faces three distinct violations.\n• Ask: \"What do you think Marcus can do about each problem?\"\n"
     },
     {
       "number": 3,
@@ -162,7 +163,7 @@
               "This must be in writing, clear language, before signing."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udccb",
+              "icon": "📋",
               "text": "If a fee wasn't disclosed before signing, you may have grounds to challenge it under TILA."
             }
           },
@@ -253,7 +254,7 @@
             "<strong>Must honor written cease contact requests:</strong> If you send a letter saying stop, they must stop (except to confirm)"
           ],
           "keyPoint": {
-            "text": "\u26a0\ufe0f Note: FDCPA applies to third-party collectors, not the original creditor. Different rules may apply."
+            "text": "⚠️ Note: FDCPA applies to third-party collectors, not the original creditor. Different rules may apply."
           }
         }
       }
@@ -267,7 +268,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udeab",
+            "icon": "🚫",
             "title": "CANNOT Consider",
             "items": [
               "Race, color, or national origin",
@@ -280,7 +281,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u2713",
+            "icon": "✓",
             "title": "CAN Consider",
             "items": [
               "Credit history and score",
@@ -341,7 +342,8 @@
             }
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"Debt collectors can call anytime they want.\"\n   → FDCPA limits calls to 8 AM-9 PM local time. You can also request in writing that they stop calling entirely.\n\n2. \"I can't do anything about errors on my credit report.\"\n   → FCRA gives you the right to dispute errors. Bureaus must investigate within 30 days and correct verified errors.\n\n3. \"Lenders can deny credit for any reason.\"\n   → ECOA prohibits discrimination based on protected characteristics. Lenders must provide specific, legitimate reasons for denial.\n\n"
     },
     {
       "number": 12,
@@ -360,10 +362,10 @@
             "<strong>Stop debt collector harassment:</strong> Send a written cease contact letter by certified mail. Keep a copy.",
             "<strong>Request adverse action explanation:</strong> If denied credit, you have 60 days to request specific reasons.",
             "<strong>File complaints:</strong> Consumer Financial Protection Bureau (CFPB), Federal Trade Commission (FTC), state attorney general",
-            "<strong>Document everything:</strong> Keep records of calls, letters, and violations\u2014dates, times, what was said"
+            "<strong>Document everything:</strong> Keep records of calls, letters, and violations—dates, times, what was said"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcdd Written documentation is your best protection. Keep copies of everything!"
+            "text": "📝 Written documentation is your best protection. Keep copies of everything!"
           }
         }
       }
@@ -377,7 +379,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc64",
+            "icon": "👤",
             "name": "Marcus's Three Problems",
             "paragraphs": [
               "Problem 1: A $3,500 debt on his credit report from a hospital he never visited.",
@@ -396,7 +398,7 @@
               "type": "positive",
               "label": "Problem 2 Solution",
               "value": "FDCPA",
-              "detail": "11 PM calls are illegal\u2014file complaint"
+              "detail": "11 PM calls are illegal—file complaint"
             },
             {
               "type": "positive",
@@ -417,7 +419,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69",
+            "icon": "👩",
             "name": "Sophia's Credit Denial",
             "paragraphs": [
               "Sophia has excellent credit (780 score) and applied for a credit card. She was denied.",
@@ -493,7 +495,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (Truth in Lending Act)\n\n2. Before FDCPA, collectors used harassment, threats, late-night calls, and deception. The law established hours (8 AM-9 PM), banned threats, and gave consumers right to demand written verification.\n\n3. 30 days to investigate and respond.\n\n4. Incorrect debt: FCRA (dispute rights). Late-night calls: FDCPA (prohibits calls after 9 PM). Denial without explanation: ECOA (must provide reasons).\n\n5. Responses should mention: preventing abuse, ensuring transparency, protecting vulnerable consumers, creating fair marketplace. Without laws, lenders could hide costs, discriminate freely, and collectors could use any tactics.\n\n"
     },
     {
       "number": 18,
@@ -537,9 +540,9 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\u2696\ufe0f",
+            "icon": "⚖️",
             "title": "Consumer Rights Case Analysis",
-            "description": "Marcus learned his rights\u2014but can you help others identify violations and take action? Tomorrow you'll analyze real scenarios, match them to the correct laws, and determine the proper steps to resolve each situation."
+            "description": "Marcus learned his rights—but can you help others identify violations and take action? Tomorrow you'll analyze real scenarios, match them to the correct laws, and determine the proper steps to resolve each situation."
           },
           "steps": [
             "Analyze scenarios and identify which consumer protection law applies",
@@ -557,7 +560,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

@@ -24,7 +24,8 @@
         "label": "The Challenge",
         "question": "How can combining investments that behave <em>differently</em><br>reduce your risk without sacrificing <em>returns</em>?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n‚Ä¢ Read Destiny vs. Jordan story. Emphasize: Destiny had higher PEAK but lower ENDPOINT.\n‚Ä¢ Discussion: \"Why did Destiny end up with less money even though she gained more initially?\"\n‚Ä¢ Key insight: Diversification's true value is preventing catastrophic losses that force panic.\n"
     },
     {
       "number": 3,
@@ -76,7 +77,7 @@
             {
               "term": "Correlation",
               "definition": "The degree to which two investments move together. +1.0 = lockstep, -1.0 = opposite directions, 0 = independent.",
-              "example": "Low correlation between assets means when one drops, the other may rise\u2014reducing overall volatility."
+              "example": "Low correlation between assets means when one drops, the other may rise‚Äîreducing overall volatility."
             }
           ]
         }
@@ -94,12 +95,12 @@
             {
               "term": "Asset Allocation",
               "definition": "The percentage breakdown of your portfolio across major asset classes (stocks, bonds, real estate, cash).",
-              "example": "Asset allocation determines ~90% of portfolio behavior\u2014more important than individual stock picks!"
+              "example": "Asset allocation determines ~90% of portfolio behavior‚Äîmore important than individual stock picks!"
             },
             {
               "term": "Rebalancing",
               "definition": "Periodically adjusting your portfolio back to target allocations by selling overweight assets and buying underweight ones.",
-              "example": "Forces you to \"buy low, sell high\" automatically\u2014selling winners at peaks, buying losers at lows."
+              "example": "Forces you to \"buy low, sell high\" automatically‚Äîselling winners at peaks, buying losers at lows."
             }
           ]
         }
@@ -118,11 +119,11 @@
             "paragraphs": [
               "When you own two investments that don't move in perfect lockstep, you create a stabilizing effect.",
               "<strong>Example:</strong> You have $10,000. Tech Stock X drops 40%, but Healthcare Stock Y rises 10%. If split equally:",
-              "\u2022 $5,000 \u00d7 -40% = -$2,000<br>\u2022 $5,000 \u00d7 +10% = +$500<br>\u2022 <strong>Net loss: Only 15%</strong> instead of 40%!"
+              "‚Ä¢ $5,000 √ó -40% = -$2,000<br>‚Ä¢ $5,000 √ó +10% = +$500<br>‚Ä¢ <strong>Net loss: Only 15%</strong> instead of 40%!"
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udca1 By combining uncorrelated assets, you keep most upside potential while dramatically cutting downside risk."
+              "icon": "Ì†Ω",
+              "text": "Ì≤° By combining uncorrelated assets, you keep most upside potential while dramatically cutting downside risk."
             }
           },
           "rightPanel": {
@@ -161,7 +162,7 @@
         "layoutData": {
           "leftColumn": {
             "icon": "",
-            "title": "\u26a0\ufe0f Concentrated",
+            "title": "‚ö†Ô∏è Concentrated",
             "items": [
               "All eggs in one basket",
               "Massive gains OR massive losses",
@@ -172,8 +173,8 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d",
-            "title": "\udee1\ufe0f Diversified",
+            "icon": "Ì†Ω",
+            "title": "Ìª°Ô∏è Diversified",
             "items": [
               "Eggs across many baskets",
               "Steady growth, manageable dips",
@@ -203,8 +204,8 @@
               "<strong>Gold/Commodities:</strong> Very low correlation with stocks. Crisis hedge."
             ],
             "highlightBox": {
-              "icon": "\ud83c",
-              "text": "\udfaf Combining assets with LOW correlation to each other = maximum diversification benefit."
+              "icon": "Ì†º",
+              "text": "ÌæØ Combining assets with LOW correlation to each other = maximum diversification benefit."
             }
           },
           "rightPanel": {
@@ -252,7 +253,7 @@
             "<strong>Age 70 (50% stocks):</strong> Income focus. Steady withdrawals need steady portfolio."
           ],
           "keyPoint": {
-            "text": "\ud83d\udcc8 Being too conservative when young costs more than being too aggressive\u2014you miss decades of compound growth!"
+            "text": "üìà Being too conservative when young costs more than being too aggressive‚Äîyou miss decades of compound growth!"
           }
         }
       }
@@ -270,11 +271,11 @@
             "paragraphs": [
               "<strong>Without rebalancing:</strong> After stocks surge, you're taking more risk than planned. After crashes, less.",
               "<strong>Example:</strong>",
-              "\u2022 Start: $70K stocks / $30K bonds (70/30)<br> \u2022 After stock rise: $84K stocks / $31K bonds (73/27)<br> \u2022 Rebalance: Sell $3.5K stocks, buy bonds<br> \u2022 Result: Back to 70/30, profits locked in!"
+              "‚Ä¢ Start: $70K stocks / $30K bonds (70/30)<br> ‚Ä¢ After stock rise: $84K stocks / $31K bonds (73/27)<br> ‚Ä¢ Rebalance: Sell $3.5K stocks, buy bonds<br> ‚Ä¢ Result: Back to 70/30, profits locked in!"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u26a1 Rebalancing forces discipline: sell winners at highs, buy losers at lows\u2014emotionlessly!"
+              "icon": "üí°",
+              "text": "‚ö° Rebalancing forces discipline: sell winners at highs, buy losers at lows‚Äîemotionlessly!"
             }
           },
           "rightPanel": {
@@ -313,7 +314,7 @@
         "layoutData": {
           "title": "The Real Power: Staying Invested",
           "paragraphs": [
-            "Diversification's true value isn't just reducing volatility\u2014it's <strong>enabling you to stay invested</strong> through crashes instead of panic-selling and locking in losses."
+            "Diversification's true value isn't just reducing volatility‚Äîit's <strong>enabling you to stay invested</strong> through crashes instead of panic-selling and locking in losses."
           ],
           "bulletPoints": [
             "<strong>Diversified investors:</strong> See 20-25% drops, feel uncomfortable but manageable. Stay invested. Capture recovery.",
@@ -322,10 +323,11 @@
             "<strong>The math:</strong> $500/month at 8% for 30 years = $680K. At 3% (panic selling) = $290K. Diversification = $390K saved!"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcb0 Diversification makes crashes survivable, which is how you actually achieve long-term market returns."
+            "text": "üí∞ Diversification makes crashes survivable, which is how you actually achieve long-term market returns."
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"Diversification means owning lots of different stocks.\"\n   ‚Üí True diversification requires DIFFERENT asset classes with low correlation. 50 tech stocks still crash together. Need stocks + bonds + international + real estate for real protection.\n\n2. \"Diversification reduces returns.\"\n   ‚Üí Diversification reduces VOLATILITY, not necessarily returns. More importantly, it enables you to actually ACHIEVE returns by preventing panic-selling.\n\n3. \"Young people don't need bonds.\"\n   ‚Üí Small bond allocation (10-15%) provides \"dry powder\" to rebalance into stocks during crashes, potentially improving returns while slightly reducing volatility.\n\n"
     },
     {
       "number": 12,
@@ -339,14 +341,14 @@
             "title": "One Fund, Complete Diversification",
             "paragraphs": [
               "Target-date funds (e.g., \"Target 2060 Fund\") automatically handle everything:",
-              "\u2022 <strong>Diversification:</strong> Holds US stocks, international stocks, bonds, sometimes REITs",
-              "\u2022 <strong>Age-based allocation:</strong> Starts aggressive (90% stocks), gradually shifts conservative",
-              "\u2022 <strong>Automatic rebalancing:</strong> No manual work required",
-              "\u2022 <strong>One decision:</strong> Pick the year closest to your retirement"
+              "‚Ä¢ <strong>Diversification:</strong> Holds US stocks, international stocks, bonds, sometimes REITs",
+              "‚Ä¢ <strong>Age-based allocation:</strong> Starts aggressive (90% stocks), gradually shifts conservative",
+              "‚Ä¢ <strong>Automatic rebalancing:</strong> No manual work required",
+              "‚Ä¢ <strong>One decision:</strong> Pick the year closest to your retirement"
             ],
             "highlightBox": {
-              "icon": "\ud83c",
-              "text": "\udfaf Perfect for investors who want professional-level diversification without managing it themselves."
+              "icon": "Ì†º",
+              "text": "ÌæØ Perfect for investors who want professional-level diversification without managing it themselves."
             }
           },
           "rightPanel": {
@@ -357,7 +359,7 @@
                 "color": "teal"
               },
               {
-                "value": "90\u219230%",
+                "value": "90‚Üí30%",
                 "label": "Stock Glide Path Over Time",
                 "color": "purple"
               }
@@ -384,12 +386,12 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69\u200d\ud83d\udcbc",
+            "icon": "üë©‚Äçüíº",
             "name": "Aaliyah's Target-Date Success",
             "paragraphs": [
-              "At 24, Aaliyah started her first job and chose a Target 2060 Fund for her 401(k), contributing $400/month. She never changed her allocation\u2014the fund handled everything automatically.",
+              "At 24, Aaliyah started her first job and chose a Target 2060 Fund for her 401(k), contributing $400/month. She never changed her allocation‚Äîthe fund handled everything automatically.",
               "When the market crashed 35% at age 32, she <span class=\"highlight-text\">kept contributing monthly</span>, automatically buying stocks at depressed prices. The fund rebalanced, selling some bonds to buy more stocks on sale.",
-              "By age 39, her $95,000 in contributions had grown to <span class=\"highlight-text\">$142,000</span>\u2014on track for $2.1 million by retirement."
+              "By age 39, her $95,000 in contributions had grown to <span class=\"highlight-text\">$142,000</span>‚Äîon track for $2.1 million by retirement."
             ]
           },
           "outcomes": [
@@ -424,12 +426,12 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\u26a0\ufe0f",
+            "icon": "‚ö†Ô∏è",
             "name": "Destiny's Costly Concentration",
             "paragraphs": [
-              "At 28, Destiny invested her $25,000 savings entirely in tech stocks and Bitcoin, convinced diversification was \"outdated advice.\" For three years, she seemed brilliant\u2014her portfolio surged to <span class=\"highlight-text\">$95,000</span>.",
+              "At 28, Destiny invested her $25,000 savings entirely in tech stocks and Bitcoin, convinced diversification was \"outdated advice.\" For three years, she seemed brilliant‚Äîher portfolio surged to <span class=\"highlight-text\">$95,000</span>.",
               "Then tech crashed 60%. Her portfolio plummeted to $38,000. <strong>Psychologically devastated</strong>, she panic-sold at the bottom, locking in losses.",
-              "Her diversified friend Jordan had only grown to $42K, then dropped to $35K\u2014but <span class=\"highlight-text\">stayed invested</span> and recovered. By age 35: Jordan had $74K, Destiny had $40K in cash."
+              "Her diversified friend Jordan had only grown to $42K, then dropped to $35K‚Äîbut <span class=\"highlight-text\">stayed invested</span> and recovered. By age 35: Jordan had $74K, Destiny had $40K in cash."
             ]
           },
           "outcomes": [
@@ -500,7 +502,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (Unsystematic risk)\n\n2. Destiny's assets were highly correlated‚Äîwhen tech crashed, everything crashed together. No protection. Jordan had stocks AND bonds‚Äîwhen stocks fell, bonds buffered the loss, preventing panic.\n\n4. Rebalancing forces selling assets that have risen (high prices) and buying those that have fallen (low prices). It feels wrong because we want to \"let winners run\" and avoid \"throwing money at losers.\" But mechanically, it enforces discipline.\n\n"
     },
     {
       "number": 18,
@@ -514,7 +517,7 @@
             {
               "number": 1,
               "title": "Correlation Is Key",
-              "description": "Combine assets that move differently\u2014stocks + bonds, US + international\u2014to reduce risk without sacrificing returns"
+              "description": "Combine assets that move differently‚Äîstocks + bonds, US + international‚Äîto reduce risk without sacrificing returns"
             },
             {
               "number": 2,
@@ -544,8 +547,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udcca Portfolio Diversification Builder",
+            "icon": "Ì†Ω",
+            "title": "Ì≥ä Portfolio Diversification Builder",
             "description": "Using the interactive tool, you'll construct portfolios for investors at different life stages and see how diversification affects risk and returns through simulated market cycles. Compare a diversified approach vs. a concentrated approach and observe the difference in maximum losses and final wealth."
           },
           "steps": [
@@ -564,7 +567,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "¬© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

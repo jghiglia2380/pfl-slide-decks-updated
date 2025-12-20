@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Where should you <em>keep your money</em>,<br>and how do you choose between the<br><em>many financial institutions</em> available to you?"
+        "question": "Maria just got her first job and needs somewhere to deposit her paychecks. She's comparing a national bank ($12/month fee, 0.01% savings interest), a local credit union ($0 fee, 0.5% savings interest, but membership required), and an online bank ($0 fee, 1.5% savings interest, but no physical branches).<br><br>Where should you <em>keep your money</em>, and how do you choose between the <em>many financial institutions</em> available to you?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Maria's scenario aloud or have students read silently. Ask the discussion question: 'Have you or your family ever compared banks or credit unions? What did you consider?' Allow 2-3 students to share experiences. This introduces the core concept that different financial service providers offer different value propositions—there's no one-size-fits-all answer."
     },
     {
       "number": 3,
@@ -82,7 +83,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "Review the 5 key terms on this and the next slide. EMPHASIZE the for-profit vs. not-for-profit distinction between banks and credit unions—this explains why credit unions typically offer better rates and lower fees (they return profits to members rather than shareholders). Read the Background paragraph together if using supplemental materials. Quick check: Ask students to name one financial service provider they or their family uses. This activates prior knowledge and makes the content personally relevant."
     },
     {
       "number": 5,
@@ -297,7 +299,8 @@
             "<strong>Security features</strong> = Your money and identity stay protected"
           ]
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS TO ADDRESS:\n\n1. 'Credit unions are less safe than banks' → CLARIFY: Both have federal deposit insurance up to $250,000. FDIC (Federal Deposit Insurance Corporation) covers banks; NCUA (National Credit Union Administration) covers credit unions. Same level of protection, different agencies.\n\n2. 'Online banks aren't real banks' → CLARIFY: Online banks are FDIC-insured and offer the same protections as traditional banks. They often have BETTER rates (savings and CDs) and LOWER fees due to no physical branches reducing overhead costs. They're legitimate financial institutions.\n\n3. 'You should use one provider for all financial needs' → CLARIFY: It's often SMART to use multiple providers to maximize benefits—online bank for high-yield savings, local credit union for checking/loans, investment firm for retirement accounts, insurance company for protection. No single provider excels at everything.\n\nAddress these proactively to combat outdated assumptions about financial services."
     },
     {
       "number": 12,
@@ -467,7 +470,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ANSWER KEY:\n\nQ1: What is the main structural difference between a bank and a credit union?\n• Answer: B (Banks are for-profit; credit unions are member-owned cooperatives). Banks are owned by shareholders and aim to maximize profits for investors. Credit unions are owned by their members (account holders) and are not-for-profit, returning surplus back to members through better rates, lower fees, and improved services. This fundamental difference drives their different fee structures and rate offerings.\n\nQ2: Name two financial service providers and explain what services they offer.\n• Answer: Accept any two with accurate descriptions. Examples: (1) Banks: Checking/savings accounts, loans, credit cards, ATM access, online banking. (2) Credit Unions: Similar to banks but member-owned with typically better rates. (3) Investment Firms: Stock/bond trading, retirement accounts (401k, IRA), financial planning. (4) Insurance Companies: Life, auto, home, health insurance policies. (5) Mortgage Companies: Specialize in home loans with competitive rates.\n\nQ3: How much deposit insurance protection do FDIC and NCUA provide?\n• Answer: Both provide $250,000 of deposit insurance per depositor, per institution. FDIC (Federal Deposit Insurance Corporation) covers banks. NCUA (National Credit Union Administration) covers credit unions. This means your deposits up to $250,000 are protected even if the institution fails.\n\nQ4: If someone wants to buy a home, which financial service providers might they work with?\n• Answer: (1) Mortgage Company or Credit Union for the home loan—they often offer better rates than traditional banks. (2) Insurance Company for homeowner's insurance (required by lenders). (3) Bank/Credit Union for the checking account to manage mortgage payments. (4) Possibly a Financial Advisor to ensure the purchase fits overall financial plan."
     },
     {
       "number": 18,

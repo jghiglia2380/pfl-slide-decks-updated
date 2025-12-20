@@ -22,9 +22,11 @@
       "type": "hook",
       "content": {
         "label": "Look at What You're Wearing Right Now",
-        "question": "Check the tags. <em>Where were your clothes made?</em> Probably Vietnam, Bangladesh, or China. Your shoes? China, Vietnam, Indonesia. Your phone? Assembled in China with parts from 43 countries.<br><br><strong>Your iPhone:</strong> Designed in California | Parts from 43 countries | Assembled in China | Software from USA | Sold worldwide<br><br><em>This is GLOBALIZATION\u2014your everyday life depends on international trade!</em>"
+        "question": "Students check their clothing tags and discover most items were made in China, Vietnam, or Bangladesh. The iPhone supply chain involves 43 countries, demonstrating how globalization has become inescapable in everyday life.<br><br><strong>What should be done in this situation?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "**Discussion Prompts:**\n- Have students check clothing tags—most will say China, Vietnam, Bangladesh. Make trade tangible.\n- Mention iPhone supply chain (43 countries)—globalization is inescapable.\n- \"Should we make everything in America? Why or why not?\"",
+      "speakerNotes": "Have students check clothing tags—most will say China, Vietnam, Bangladesh. Make trade tangible. Mention iPhone supply chain (43 countries)—globalization is inescapable. Discussion: \"Should we make everything in America? Why or why not?\""
     },
     {
       "number": 3,
@@ -70,8 +72,8 @@
           "terms": [
             {
               "term": "Comparative Advantage",
-              "definition": "Countries benefit by specializing in what they do relatively best\u2014even if one country is better at everything",
-              "example": "USA focuses on high-tech and finance, China on manufacturing\u2014both benefit from trade"
+              "definition": "Countries benefit by specializing in what they do relatively best—even if one country is better at everything",
+              "example": "USA focuses on high-tech and finance, China on manufacturing—both benefit from trade"
             },
             {
               "term": "Tariff",
@@ -98,12 +100,12 @@
           "terms": [
             {
               "term": "Exchange Rate",
-              "definition": "Price of one currency in terms of another\u2014determines how much foreign currency you get for your dollar",
+              "definition": "Price of one currency in terms of another—determines how much foreign currency you get for your dollar",
               "example": "$1 USD = 150 Japanese Yen, 0.92 Euro, or 7.3 Chinese Yuan"
             },
             {
               "term": "Trade Deficit",
-              "definition": "When a country imports more than it exports\u2014buying more from other countries than selling to them",
+              "definition": "When a country imports more than it exports—buying more from other countries than selling to them",
               "example": "US imports more goods from China than it exports to China"
             },
             {
@@ -136,8 +138,8 @@
               "<strong>Result:</strong> Both tasks done in less total time!"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "Specializing in your comparative advantage creates gains for both parties\u2014even if one is absolutely better at everything!"
+              "icon": "💡",
+              "text": "Specializing in your comparative advantage creates gains for both parties—even if one is absolutely better at everything!"
             }
           },
           "rightPanel": {
@@ -176,7 +178,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udc64",
+            "icon": "👤",
             "title": "For Consumers (YOU)",
             "items": [
               "<strong>Lower Prices:</strong> iPhone $800 vs. $2,000+ if made entirely in USA",
@@ -187,7 +189,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83c\udfe2",
+            "icon": "🏢",
             "title": "For Businesses & Economy",
             "items": [
               "<strong>Larger Markets:</strong> Sell to billions of customers globally",
@@ -237,9 +239,9 @@
               "color": "amber",
               "items": [
                 "Dependence on other countries for critical goods:",
-                "\u2022 Semiconductors (Taiwan) - 90% of advanced chips",
-                "\u2022 Rare earth minerals (China) - essential for tech",
-                "\u2022 Pharmaceuticals (India, China) - 80% of ingredients",
+                "• Semiconductors (Taiwan) - 90% of advanced chips",
+                "• Rare earth minerals (China) - essential for tech",
+                "• Pharmaceuticals (India, China) - 80% of ingredients",
                 "",
                 "<em>COVID-19 lesson: Supply chain disruption = shortages</em>"
               ]
@@ -269,29 +271,29 @@
               "This makes foreign cars more expensive, protecting domestic car manufacturers from competition."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udccb",
+              "icon": "📋",
               "text": "Recent Example: Trump Tariffs (2018-19) imposed 25% tariffs on $250B of Chinese goods to protect US manufacturing. China retaliated with tariffs on US agriculture, hurting farmers."
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "\u2713",
-                "label": "Protects domestic jobs - Foreign goods more expensive \u2192 domestic more competitive",
+                "value": "✓",
+                "label": "Protects domestic jobs - Foreign goods more expensive → domestic more competitive",
                 "color": "green"
               },
               {
-                "value": "\u2713",
+                "value": "✓",
                 "label": "Government revenue - Tariff payments can fund programs",
                 "color": "green"
               },
               {
-                "value": "\u2717",
+                "value": "✗",
                 "label": "Hurts consumers - Higher prices, less choice, reduced purchasing power",
                 "color": "rose"
               },
               {
-                "value": "\u2717",
+                "value": "✗",
                 "label": "Retaliation risk - Trade wars hurt everyone, reducing exports",
                 "color": "rose"
               }
@@ -319,8 +321,8 @@
               "$1 USD = 7.3 Chinese Yuan"
             ],
             "highlightBox": {
-              "icon": "\u2708\ufe0f",
-              "text": "Travel Example: Hotel costs \u20ac100/night. At $1 = \u20ac0.92: \u20ac100/0.92 = $108.70. At $1 = \u20ac1.00: \u20ac100/1.00 = $100.00. Strong dollar = Cheaper travel abroad!"
+              "icon": "✈️",
+              "text": "Travel Example: Hotel costs €100/night. At $1 = €0.92: €100/0.92 = $108.70. At $1 = €1.00: €100/1.00 = $100.00. Strong dollar = Cheaper travel abroad!"
             }
           },
           "rightPanel": {
@@ -365,13 +367,15 @@
           "title": "Three Key Factors Drive Exchange Rate Changes",
           "paragraphs": [],
           "bulletPoints": [
-            "<strong>Interest Rates:</strong> Higher US interest rates \u2192 Foreign investors buy dollars to earn higher returns \u2192 Dollar strengthens (Fed policy from L-53 directly affects exchange rates!)",
-            "<strong>Economic Growth:</strong> Strong US economic growth \u2192 Investors want dollars to invest in growing economy \u2192 Dollar strengthens",
-            "<strong>Inflation:</strong> Higher US inflation \u2192 Dollar loses purchasing power \u2192 Dollar weakens (L-54 connection: Inflation erodes currency value)"
+            "<strong>Interest Rates:</strong> Higher US interest rates → Foreign investors buy dollars to earn higher returns → Dollar strengthens (Fed policy from L-53 directly affects exchange rates!)",
+            "<strong>Economic Growth:</strong> Strong US economic growth → Investors want dollars to invest in growing economy → Dollar strengthens",
+            "<strong>Inflation:</strong> Higher US inflation → Dollar loses purchasing power → Dollar weakens (L-54 connection: Inflation erodes currency value)"
           ],
           "keyPoint": "Exchange rates connect to everything you've learned: Fed policy (L-53), inflation (L-54), and economic growth all influence the value of the dollar"
         }
-      }
+      },
+      "notes": "## Common Misconceptions\n\n| Misconception | Clarification |\n|--------------|---------------|\n| \"We should make everything here to create jobs.\" | We COULD make everything here, but at MUCH higher cost. $2,500 iPhones and $50 t-shirts would hurt all consumers. Specialization through trade creates MORE total wealth. |\n| \"Trade deficits mean we're losing.\" | Trade deficit just means we import more than export. We get real goods (cars, electronics); they get dollars. Not inherently bad—reflects consumer preferences. |\n| \"A strong dollar is always good.\" | Good for consumers (cheaper imports, cheaper travel abroad). BAD for exporters and US workers in export industries (our goods more expensive for foreigners). |\n| \"Tariffs only hurt foreign countries.\" | Tariffs are taxes paid by IMPORTERS (often US businesses), then passed to consumers as higher prices. Foreign countries don't pay the tariff—you do. |",
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"We should make everything here to create jobs.\"\" → We COULD make everything here, but at MUCH higher cost. $2,500 iPhones and $50 t-shirts would hurt all consumers. Specialization through trade creates MORE total wealth.\n• \"\"Trade deficits mean we're losing.\"\" → Trade deficit just means we import more than export. We get real goods (cars, electronics); they get dollars. Not inherently bad—reflects consumer preferences.\n• \"\"A strong dollar is always good.\"\" → Good for consumers (cheaper imports, cheaper travel abroad). BAD for exporters and US workers in export industries (our goods more expensive for foreigners).\n• \"\"Tariffs are paid by foreign countries.\"\" → Tariffs are paid by US IMPORTERS and passed to US CONSUMERS through higher prices. Foreign producers may lose sales, but Americans pay the tax."
     },
     {
       "number": 12,
@@ -391,7 +395,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83c\udf0d",
+            "icon": "🌍",
             "title": "Free Trade Position",
             "items": [
               "<strong>Arguments FOR free trade:</strong>",
@@ -407,7 +411,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d\udee1\ufe0f",
+            "icon": "🛡️",
             "title": "Protectionist Position",
             "items": [
               "<strong>Arguments FOR trade restrictions:</strong>",
@@ -434,7 +438,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcf1",
+            "icon": "📱",
             "name": "Should Apple Make iPhones in the USA?",
             "paragraphs": [
               "<strong>Current Situation:</strong> iPhones are designed in California but assembled in China using parts from 43 countries. This keeps costs low and allows Apple to sell iPhones for ~$800.",
@@ -481,7 +485,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\u2713",
+            "icon": "✓",
             "title": "What Most Economists Agree On",
             "items": [
               "Total benefits of trade > total costs",
@@ -493,7 +497,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u26a0\ufe0f",
+            "icon": "⚠️",
             "title": "But They Acknowledge",
             "items": [
               "Job losses are REAL and PAINFUL for affected workers",
@@ -534,7 +538,9 @@
             }
           ]
         }
-      }
+      },
+      "notes": "## Answer Key\n\n**1.** B (Bangladesh has comparative advantage—lower opportunity cost in clothing)\n\n**2.** BENEFITS: Domestic steel producers and workers (protected from competition). HURTS: Consumers and businesses that use steel (cars, construction, appliances)—they pay higher prices. Also hurts foreign steel producers.\n\n**3.** Dollar STRENGTHENED (buys more euros). American tourists in Europe benefit—their dollars go further. Hotels, meals, souvenirs all cost fewer dollars.\n\n**4.** Total benefits (lower prices for ALL consumers) exceed total costs (job losses in specific industries). Benefits are diffuse ($100s/year per person), costs are concentrated (entire livelihoods). Solution: free trade + compensation programs for displaced workers.\n\n**5.** *Should identify specific threat (e.g., \"coding jobs could be outsourced\") and opportunity (e.g., \"work for multinational company\"). Strong answers connect to L-54 structural unemployment and propose skill development strategy.*",
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. B (Bangladesh has comparative advantage—lower opportunity cost in clothing)\n2. BENEFITS: Domestic steel producers and workers (protected from competition). HURTS: Consumers and businesses that use steel (cars, construction, appliances)—they pay higher prices. Also hurts foreign steel producers.\n3. Dollar STRENGTHENED (buys more euros). American tourists in Europe benefit—their dollars go further. Hotels, meals, souvenirs all cost fewer dollars.\n4. Total benefits (lower prices for ALL consumers) exceed total costs (job losses in specific industries). Benefits are diffuse ($100s/year per person), costs are concentrated (entire livelihoods). Solution: free trade + compensation programs for displaced workers.\n5. Should identify specific threat (e.g., \"coding jobs could be outsourced\") and opportunity (e.g., \"work for multinational company\"). Strong answers connect to L-54 structural unemployment and propose skill development strategy."
     },
     {
       "number": 18,
@@ -583,7 +589,7 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udcb1",
+            "icon": "💱",
             "title": "Tomorrow's Learning Lab",
             "description": "Use the Currency Exchange Simulator and Trade Impact Analyzer to see how global trade affects YOUR life and career"
           },
@@ -603,7 +609,7 @@
       "content": {
         "tagline": "\"In a globalized economy, understanding trade helps you make smarter consumer and career decisions\"",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

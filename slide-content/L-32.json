@@ -26,9 +26,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "What does it <em>really take</em> to buy a home\u2014<br>and is it the right financial move <em>for you</em>?"
+        "question": "What does it <em>really take</em> to buy a home—<br>and is it the right financial move <em>for you</em>?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Maria's scenario aloud or have students read silently. Discussion: \"What would you need to know before helping Maria decide?\" Connect to previous lesson: How is buying different from the rental costs we studied?"
     },
     {
       "number": 3,
@@ -52,7 +53,7 @@
             {
               "number": 3,
               "verb": "Calculate",
-              "description": "Determine the true costs of homeownership\u2014upfront, ongoing, and hidden expenses\u2014beyond just the purchase price."
+              "description": "Determine the true costs of homeownership—upfront, ongoing, and hidden expenses—beyond just the purchase price."
             },
             {
               "number": 4,
@@ -97,12 +98,12 @@
           "terms": [
             {
               "term": "PMI",
-              "definition": "Private Mortgage Insurance\u2014required when down payment is less than 20%, protecting the lender if you default.",
+              "definition": "Private Mortgage Insurance—required when down payment is less than 20%, protecting the lender if you default.",
               "example": "Adds 0.5-1% of loan annually; can be removed once you reach 20% equity"
             },
             {
               "term": "Home Equity",
-              "definition": "The difference between your home's market value and what you still owe\u2014your ownership stake.",
+              "definition": "The difference between your home's market value and what you still owe—your ownership stake.",
               "example": "Home worth $350K, mortgage balance $250K = $100K equity (your wealth)"
             }
           ]
@@ -119,7 +120,7 @@
         "layoutData": {
           "title": "6 Steps from Preparation to Keys in Hand",
           "paragraphs": [
-            "Purchasing a home typically takes <strong>2-3 months</strong> from offer to closing\u2014but <strong>preparation starts 6-12 months earlier</strong>."
+            "Purchasing a home typically takes <strong>2-3 months</strong> from offer to closing—but <strong>preparation starts 6-12 months earlier</strong>."
           ],
           "bulletPoints": [
             "<strong>1. Financial Prep (6-12 mo):</strong> Improve credit, save for down payment, reduce debt",
@@ -148,8 +149,8 @@
               "<strong>FHA Loans:</strong> Government-backed, as low as 3.5% down, 580+ credit, ideal for first-time buyers."
             ],
             "highlightBox": {
-              "icon": "\ud83c",
-              "text": "\udfe0 Special programs exist for veterans (VA loans) and rural buyers (USDA loans)\u2014both offer 0% down options."
+              "icon": "���",
+              "text": "��� Special programs exist for veterans (VA loans) and rural buyers (USDA loans)—both offer 0% down options."
             }
           },
           "rightPanel": {
@@ -190,7 +191,7 @@
           "leftPanel": {
             "title": "Understanding PITI Payments",
             "paragraphs": [
-              "Your total monthly mortgage payment includes four components\u2014<strong>PITI</strong>:"
+              "Your total monthly mortgage payment includes four components—<strong>PITI</strong>:"
             ],
             "highlightBox": null
           },
@@ -276,10 +277,10 @@
             "<strong>PMI (if applicable):</strong> 0.5-1% of loan amount annually",
             "<strong>HOA Fees:</strong> $100-$700+ monthly in applicable communities",
             "<strong>Maintenance:</strong> Budget ~1% of home value annually ($2,500 for $250K home)",
-            "<strong>Utilities:</strong> All utilities now your responsibility\u2014budget $200-$400+/month"
+            "<strong>Utilities:</strong> All utilities now your responsibility—budget $200-$400+/month"
           ],
           "keyPoint": {
-            "text": "\ud83d\udca1 A common mistake: only budgeting for the mortgage. Total housing costs are typically 30-50% higher."
+            "text": "💡 A common mistake: only budgeting for the mortgage. Total housing costs are typically 30-50% higher."
           }
         }
       }
@@ -293,23 +294,23 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\u2713",
-            "title": "\u2713 Benefits",
+            "icon": "✓",
+            "title": "✓ Benefits",
             "items": [
               "Building equity with each payment",
               "Potential home appreciation",
               "Tax deductions available",
-              "Stability\u2014no landlord surprises",
+              "Stability—no landlord surprises",
               "Freedom to customize",
               "Legacy asset for family"
             ]
           },
           "rightColumn": {
             "icon": "",
-            "title": "\u2717 Challenges",
+            "title": "✗ Challenges",
             "items": [
               "Large down payment required",
-              "Market risk\u2014values can drop",
+              "Market risk—values can drop",
               "All maintenance is your problem",
               "Less flexibility to relocate",
               "Money tied up (illiquid)",
@@ -317,7 +318,8 @@
             ]
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"The mortgage payment is my total housing cost.\"\" → The mortgage (P&I) is just the start. Add property taxes, insurance, PMI (if applicable), HOA fees, and maintenance (1% of home value annually).\n• \"\"Renting is throwing money away.\"\" → Renting provides housing value and flexibility. In the early years of a mortgage, most of your payment goes to interest, not equity. Short-term homeowners often lose money.\n• \"\"I need 20% down to buy a home.\"\" → Many loans require much less: FHA (3.5%), Conventional (3-5%), VA and USDA (0%). However, less than 20% means paying PMI."
     },
     {
       "number": 12,
@@ -336,8 +338,8 @@
               "<strong>Market:</strong> Interest rates, local housing prices, rent-vs-buy math in your area."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udcca Use the 28/36 rule: Housing costs under 28% of income, total debt under 36%."
+              "icon": "���",
+              "text": "��� Use the 28/36 rule: Housing costs under 28% of income, total debt under 36%."
             }
           },
           "rightPanel": {
@@ -376,7 +378,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+            "icon": "👨‍👩‍👧",
             "name": "The Garcias' First Home Purchase",
             "paragraphs": [
               "David and Sofia Garcia, ages 32 and 30, saved for 4 years while renting. They purchased a <span class=\"highlight-text\">${{STATE_MEDIAN_HOME_PRICE}} home in {{STATE_NAME}}</span> using an FHA loan with 3.5% down payment.",
@@ -422,7 +424,7 @@
           "bulletPoints": [
             "<strong>\"You need 20% down\":</strong> Many programs allow 3-3.5% down (though you'll pay PMI)",
             "<strong>\"Buying is always better than renting\":</strong> Depends on how long you stay, market conditions, opportunity cost",
-            "<strong>\"Real estate always goes up\":</strong> Values can and do decline\u2014see 2008",
+            "<strong>\"Real estate always goes up\":</strong> Values can and do decline—see 2008",
             "<strong>\"Mortgage payment = housing cost\":</strong> True cost includes taxes, insurance, maintenance, repairs",
             "<strong>\"Buy the most expensive home you qualify for\":</strong> Being house-poor leaves no room for other goals",
             "<strong>\"Renting is throwing money away\":</strong> Renting provides flexibility and frees capital for other investments"
@@ -475,7 +477,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. C (Conventional Loan) — typically requires 3-20% down, higher than FHA (3.5%) or VA/USDA (0%)\n2. PMI (Private Mortgage Insurance) protects the lender if you default. Avoid it by: (1) putting 20% down, (2) choosing VA loan if eligible, (3) paying down mortgage until you reach 20% equity.\n3. Down payment: $200,000 × 5% = $10,000. Closing: $200,000 × 4% = $8,000. Total:$18,000 cash needed\n4. Maria needs: ${{STATE_MEDIAN_HOME_PRICE}} × 3.5% = $(({{STATE_MEDIAN_HOME_PRICE}} * 0.035)) (down) + ${{STATE_MEDIAN_HOME_PRICE}} × 3% = $(({{STATE_MEDIAN_HOME_PRICE}} * 0.03)) (closing) = $(({{STATE_MEDIAN_HOME_PRICE}} * 0.065)) total. She has $8,000. She needs${{(({{STATE_MEDIAN_HOME_PRICE}} * 0.065)) - 8000}} more.\n5. Accept thoughtful responses mentioning: stable income, emergency fund (3-6 months), adequate down payment savings, good credit score, low debt-to-income ratio, job stability, plan to stay 3-5+ years."
     },
     {
       "number": 18,
@@ -489,22 +492,22 @@
             {
               "number": 1,
               "title": "Preparation Is Key",
-              "description": "Start preparing 6-12 months before buying\u2014credit, savings, and debt all matter"
+              "description": "Start preparing 6-12 months before buying—credit, savings, and debt all matter"
             },
             {
               "number": 2,
               "title": "Know Your True Costs",
-              "description": "Budget for PITI plus maintenance, repairs, and utilities\u2014not just the mortgage"
+              "description": "Budget for PITI plus maintenance, repairs, and utilities—not just the mortgage"
             },
             {
               "number": 3,
               "title": "Choose the Right Loan",
-              "description": "Different mortgage types suit different situations\u2014FHA, VA, conventional each have pros/cons"
+              "description": "Different mortgage types suit different situations—FHA, VA, conventional each have pros/cons"
             },
             {
               "number": 4,
               "title": "It's Personal",
-              "description": "Homeownership isn't for everyone at every stage\u2014align with your goals and timeline"
+              "description": "Homeownership isn't for everyone at every stage—align with your goals and timeline"
             }
           ]
         }
@@ -519,8 +522,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udccb Homeownership Readiness Evaluation",
+            "icon": "���",
+            "title": "��� Homeownership Readiness Evaluation",
             "description": "In this activity, you'll assess your potential readiness for homeownership across different time frames: now, in 5 years, and in 10 years. Rate yourself on key factors like savings, credit, income stability, and lifestyle readiness to identify areas for growth."
           },
           "steps": [
@@ -539,7 +542,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

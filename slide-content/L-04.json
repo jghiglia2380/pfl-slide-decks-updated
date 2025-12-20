@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "How do clear financial goals transform vague wishes into concrete achievements that shape your future?<br><br>Financial goals are the foundation of effective money management\u2014they give purpose and direction to every financial decision you make"
+        "question": "Riley wants to save money for the future but doesn't have a specific plan. Some months Riley saves $50, other months nothing at all, and after a year has only $275 saved—feeling discouraged about financial planning.<br><br>How do clear financial goals transform vague wishes into concrete achievements that shape your future?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Riley's goal-setting scenario aloud. Ask the discussion question: 'What's something you've wanted to buy or save for? Did you have a specific plan?' Allow 2-3 students to share. This sets up the contrast between vague aspirations and SMART goals that we'll explore throughout the lesson."
     },
     {
       "number": 3,
@@ -82,7 +83,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "Review all 5 key terms (shown across this slide and slide 5). Write SMART acronym on board and unpack each letter with examples. Compare two examples: 'save money' (vague) vs. 'save $500 by June 1st by putting aside $100/month' (SMART). Quick check: Have students identify which SMART element is missing from sample goals like 'I want to buy a car' (missing: measurable amount, achievable plan, timeline)."
     },
     {
       "number": 5,
@@ -315,7 +317,8 @@
             "infoCard": null
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS TO ADDRESS:\n\n1. 'Big goals are more motivating than small ones' → CLARIFY: Overwhelming goals can cause paralysis and inaction. Breaking large goals into smaller milestones provides regular 'wins' that maintain motivation. Riley's $100/month felt achievable; 'save $800' might have felt impossible without a plan.\n\n2. 'I can work on goals when I have extra money' → CLARIFY: 'Extra money' rarely appears on its own. Successful savers treat savings like a bill—it comes out FIRST ('pay yourself first'), not last. This is why Riley used automatic transfers instead of waiting to see what's left over.\n\n3. 'I need to focus on one goal at a time' → CLARIFY: Multiple goals can be pursued simultaneously by allocating percentages of your savings to each. However, having too many active goals (more than 4-5) can dilute your focus. The key is strategic prioritization, not abandoning goals entirely.\n\nAddress these proactively, especially #2 which contradicts how most people think about saving."
     },
     {
       "number": 12,
@@ -486,7 +489,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ANSWER KEY:\n\nQ1: The five SMART components are: (S) Specific - clearly defined target, (M) Measurable - concrete amount to track, (A) Achievable - realistic for your situation, (R) Relevant - aligns with your values/priorities, (T) Time-bound - specific deadline. Each component ensures your goal is actionable rather than just a wish.\n\nQ2: Short-term goals are achievable within 1 year and require smaller amounts of money (examples: emergency fund, concert tickets, new phone). They provide quick wins and build momentum. Long-term goals take more than 1 year, require substantial resources, and connect to major life milestones (examples: college savings, car purchase, house down payment). They require patience and strategic planning.\n\nQ3: When prioritizing goals, consider: (1) Urgency - which have time-sensitive deadlines?, (2) Importance - which will have the biggest life impact?, (3) Feasibility - which can you realistically achieve now?, (4) Sequence - are some goals prerequisites for others? (e.g., emergency fund before investing). Emergency fund is often recommended first for financial security.\n\nQ4: Sample SMART version: 'I will save $1,500 for a trip to Colorado by saving $150/month for 10 months, tracked in a separate savings account, funded by reducing dining out spending by $100/month and earning $50/month from odd jobs. Trip planned for July 2026.' Accept any answer that includes all 5 SMART elements with specific numbers and timeline."
     },
     {
       "number": 18,

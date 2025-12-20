@@ -27,9 +27,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "What if the difference between a <em>5% interest rate</em> and an <em>8% rate</em> on a loan cost you <em>$2,000 extra</em>?"
+        "question": "Carmen prepared ahead and secured a 5.8% interest rate on her auto loan, while Marcus rushed in unprepared and received a 22% rate. For the same loan amount over 5 years, Marcus paid approximately $2,000 more in interest. <br><br> How can preparation turn the same loan into vastly different financial outcomes?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "<strong>Discussion Prompts:</strong><br>• Contrast Carmen (prepared, got 5.8% rate) vs. Marcus (unprepared, got 22% rate).<br>• Calculate the difference: ~$2,000 in extra interest over 5 years.<br>• Key insight: Same loan, VASTLY different outcomes based on preparation."
     },
     {
       "number": 3,
@@ -284,7 +285,8 @@
           },
           "outcomes": []
         }
-      }
+      },
+      "notes": "<strong>Common Misconceptions:</strong><br><table style='width:100%; border-collapse: collapse; margin-top: 8px;'><tr><th style='background: #fee2e2; color: #991b1b; padding: 6px; border: 1px solid #fca5a5; text-align: left;'>Misconception</th><th style='background: #dcfce7; color: #166534; padding: 6px; border: 1px solid #86efac; text-align: left;'>Clarification</th></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"My credit score is the only thing that matters.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Credit score (Character) is ONE of five factors. Someone with 800 score but 60% DTI will struggle. All Five C's matter.</td></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"Checking my credit hurts my score.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>YOU checking your own credit (soft inquiry) doesn't affect score. Only lenders checking for applications (hard inquiries) have small, temporary impact.</td></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"Higher income means automatic approval.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Income affects Capacity, but high income with high debt still means high DTI. Lenders care about what percentage of income is available, not raw income amount.</td></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"I should apply everywhere to find best rate.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Multiple applications create multiple hard inquiries. Exception: Rate shopping for same loan type within 14-45 days often counts as single inquiry. Better: get pre-approved, THEN compare.</td></tr></table>"
     },
     {
       "number": 12,
@@ -429,7 +431,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "<strong>Assessment Answer Key (Check Your Understanding - Slide 18):</strong><br><br><strong>Q1:</strong> What does DTI stand for, and why do lenders care about it?<br><em>Answer:</em> DTI measures ability to afford the new payment. High DTI = too much income already committed to debt = higher risk of default because less buffer for unexpected expenses.<br><br><strong>Q2:</strong> Name the Five C's of credit and explain which one you could most easily improve.<br><em>Answer:</em> Character, Capacity, Capital, Collateral, and Conditions. Students should identify which they can most easily improve with specific actions (e.g., \"Capacity by reducing DTI through paying off smaller debts\").<br><br><strong>Q3:</strong> If the average auto loan rate in {{STATE_NAME}} is {{STATE_AVG_AUTO_LOAN_RATE_NEW}}%, what might cause you to pay more?<br><em>Answer:</em> Lower credit score (below 700), high DTI ratio, minimal down payment, limited credit history, or job instability. Each 20-point drop in credit score can add 0.25-0.5% to the rate.<br><br><strong>Q4:</strong> Why is it smart to get pre-approved before shopping for a car or house?<br><em>Answer:</em> Pre-approval shows sellers you're serious with financing ready (competitive advantage), clarifies your budget, lets you negotiate from strength (can walk away from dealer financing if rates are worse), and identifies issues early."
     },
     {
       "number": 18,

@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Sophia, a 25-year-old, is choosing between two health plans at her new job:<br><br>Plan A: <em>$250/month</em> premium with a <em>$500</em> deductible.<br>Plan B: <em>$150/month</em> premium with a <em>$2,000</em> deductible (HSA-eligible).<br><br>She's generally healthy and only has routine check-ups.<br><br><strong>Which plan will cost her less over a year\u2014and how do you decide?</strong>"
+        "question": "Sophia, a 25-year-old, is choosing between two health plans at her new job:.<br><br><strong>Which plan will cost her less over a year—and how do you decide?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Sophia's health plan comparison scenario. Ask: \"Without calculating, which plan do you think is better for someone healthy? Why?\" Note that the \"obvious\" answer (lower premium) may not always be correct."
     },
     {
       "number": 3,
@@ -101,7 +102,7 @@
             {
               "term": "Bundling",
               "definition": "Combining multiple insurance policies (auto + home, for example) with one company to receive discounts.",
-              "example": "Bundling auto and renter's insurance saves 15%\u2014that's $225/year on $1,500 in premiums."
+              "example": "Bundling auto and renter's insurance saves 15%—that's $225/year on $1,500 in premiums."
             }
           ]
         }
@@ -121,10 +122,10 @@
               "Insurance costs involve a key trade-off:",
               "<strong>Higher premiums</strong> = Lower out-of-pocket costs when you file claims",
               "<strong>Lower premiums</strong> = Higher costs if you need care",
-              "The best plan depends on your personal situation\u2014not just the lowest monthly payment."
+              "The best plan depends on your personal situation—not just the lowest monthly payment."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "The lowest premium isn't always the cheapest option. Calculate your total potential costs."
             }
           },
@@ -153,7 +154,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udccb",
+            "icon": "📋",
             "title": "Plan A: Low Deductible",
             "items": [
               "Premium: $250/month ($3,000/year)",
@@ -165,7 +166,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d\udccb",
+            "icon": "📋",
             "title": "Plan B: High Deductible",
             "items": [
               "Premium: $150/month ($1,800/year)",
@@ -192,12 +193,12 @@
             "If Sophia stays healthy and only has routine check-ups (covered 100%):"
           ],
           "bulletPoints": [
-            "<strong>Plan A:</strong> $250 \u00d7 12 months = $3,000 total",
-            "<strong>Plan B:</strong> $150 \u00d7 12 months = $1,800 total",
+            "<strong>Plan A:</strong> $250 × 12 months = $3,000 total",
+            "<strong>Plan B:</strong> $150 × 12 months = $1,800 total",
             "<strong>Savings with Plan B:</strong> $3,000 - $1,800 = <strong>$1,200/year</strong>"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcb0 If healthy, Plan B saves Sophia $1,200/year. But what if she needs significant medical care?"
+            "text": "💰 If healthy, Plan B saves Sophia $1,200/year. But what if she needs significant medical care?"
           }
         }
       }
@@ -220,7 +221,7 @@
             "<strong>Result:</strong> Both plans cost the same at $8,000 in medical expenses!"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcca The break-even point is around $8,000. Below that, Plan B wins. Above that, Plan A may be better."
+            "text": "📊 The break-even point is around $8,000. Below that, Plan B wins. Above that, Plan A may be better."
           }
         }
       }
@@ -239,7 +240,7 @@
               "<strong>1. Tax-Free Contributions:</strong> Money goes in before taxes, reducing your taxable income.",
               "<strong>2. Tax-Free Growth:</strong> Any interest or investment gains are not taxed.",
               "<strong>3. Tax-Free Withdrawals:</strong> No taxes when used for qualified medical expenses.",
-              "Funds roll over year to year\u2014no 'use it or lose it' like FSAs. At 65, you can use it for any expense (taxed like income)."
+              "Funds roll over year to year—no 'use it or lose it' like FSAs. At 65, you can use it for any expense (taxed like income)."
             ],
             "highlightBox": null
           },
@@ -277,14 +278,14 @@
           "leftPanel": {
             "title": "Staying In-Network Saves Serious Money",
             "paragraphs": [
-              "In-network providers have negotiated rates with your insurance company\u2014often 50-70% less than out-of-network rates.",
+              "In-network providers have negotiated rates with your insurance company—often 50-70% less than out-of-network rates.",
               "<strong>Example:</strong> Elena needs a $5,000 procedure.",
-              "\u2022 In-network (20% co-insurance): $1,000",
-              "\u2022 Out-of-network (50% co-insurance): $2,500",
-              "\u2022 <strong>Savings:</strong> $1,500 for the same procedure!"
+              "• In-network (20% co-insurance): $1,000",
+              "• Out-of-network (50% co-insurance): $2,500",
+              "• <strong>Savings:</strong> $1,500 for the same procedure!"
             ],
             "highlightBox": {
-              "icon": "\u26a0\ufe0f",
+              "icon": "⚠️",
               "text": "Always verify a provider is in-network BEFORE scheduling. Networks change, and mistakes are costly."
             }
           },
@@ -309,7 +310,8 @@
             "infoCard": null
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"The lowest premium is always the best choice.\"\" → Total cost = Premiums + Out-of-pocket. A low premium with high deductible can cost more if you need care. Always calculate scenarios.\n• \"\"HSAs are only useful if you're sick.\"\" → HSA funds roll over forever and can be invested. They're excellent retirement savings vehicles since funds can be withdrawn for any purpose after age 65.\n• \"\"Red cars cost more to insure.\"\" → This is a persistent myth. Insurers don't ask about car color. They care about make, model, age, and safety ratings."
     },
     {
       "number": 12,
@@ -328,11 +330,11 @@
             "<strong>Bundle policies:</strong> Combine auto + home/renter's with one company for 10-25% discounts.",
             "<strong>Maintain good records:</strong> Safe driving, good credit, and claims-free history lower premiums.",
             "<strong>Use HSAs:</strong> High-deductible health plans + HSA can save 25%+ in taxes.",
-            "<strong>Shop annually:</strong> Compare quotes every year\u2014loyalty doesn't guarantee best rates.",
+            "<strong>Shop annually:</strong> Compare quotes every year—loyalty doesn't guarantee best rates.",
             "<strong>Ask for discounts:</strong> Security systems, good student, professional memberships, paperless billing."
           ],
           "keyPoint": {
-            "text": "\ud83c\udfaf Marcus bundles auto ($1,200) + renter's ($300) = $1,500. With 15% discount: saves $225/year."
+            "text": "🎯 Marcus bundles auto ($1,200) + renter's ($300) = $1,500. With 15% discount: saves $225/year."
           }
         }
       }
@@ -346,7 +348,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\ude97",
+            "icon": "🚗",
             "name": "Carlos's Auto Insurance Deductible Choice",
             "paragraphs": [
               "Carlos is choosing a deductible for his auto insurance collision coverage. He has three options:",
@@ -358,13 +360,13 @@
               "type": "before",
               "label": "5 Years No Accidents",
               "value": "Option C wins",
-              "detail": "$900 \u00d7 5 = $4,500 total"
+              "detail": "$900 × 5 = $4,500 total"
             },
             {
               "type": "after",
               "label": "1 Accident in Year 3",
               "value": "Option B wins",
-              "detail": "$1,050 \u00d7 5 + $500 = $5,750"
+              "detail": "$1,050 × 5 + $500 = $5,750"
             },
             {
               "type": "positive",
@@ -385,7 +387,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83c\udfe5",
+            "icon": "🏥",
             "name": "Sophia's Health Plan Decision",
             "paragraphs": [
               "Sophia is 25, healthy, and starting her career. She expects only routine preventive care this year.",
@@ -460,7 +462,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\nQ5 Strategies:Increase deductible, use HSA, bundle policies, stay in-network, maintain good credit, ask about discounts, shop around annually, use preventive care.\nCYU 1:C (Car color) — This is a common myth. Color does not affect premiums.\nCYU 2:HSA Triple Tax Advantage: (1) Contributions are tax-deductible, (2) Investment growth is tax-free, (3) Withdrawals for qualified medical expenses are tax-free.\nCYU 3:In-network: $5,000 × 20% = $1,000. Out-of-network: $5,000 × 50% = $2,500. Savings:$1,500\nCYU 4:Combined before discount: $1,200 + $300 = $1,500. Discount: $1,500 × 15% =$225 savings"
     },
     {
       "number": 18,
@@ -479,7 +482,7 @@
             {
               "number": 2,
               "title": "Calculate Total Costs",
-              "description": "Compare plans under different scenarios\u2014healthy year, moderate use, and worst-case\u2014not just monthly premiums."
+              "description": "Compare plans under different scenarios—healthy year, moderate use, and worst-case—not just monthly premiums."
             },
             {
               "number": 3,
@@ -504,9 +507,9 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udcca",
+            "icon": "📊",
             "title": "Insurance Cost Optimization Lab",
-            "description": "You've learned to compare insurance costs\u2014but can you optimize for your specific situation? Tomorrow you'll build a personalized insurance strategy."
+            "description": "You've learned to compare insurance costs—but can you optimize for your specific situation? Tomorrow you'll build a personalized insurance strategy."
           },
           "steps": [
             "Compare three health plan options under multiple usage scenarios",
@@ -524,7 +527,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

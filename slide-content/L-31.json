@@ -26,9 +26,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "How much does it <em>really cost</em> to rent your first apartment\u2014<br>and what should you know <em>before signing a lease</em>?"
+        "question": "How much does it <em>really cost</em> to rent your first apartment—<br>and what should you know <em>before signing a lease</em>?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Emma's apartment scenario aloud or have students read silently. Discussion: \"What surprised you most about Emma's costs?\" Ask students to estimate what they think renting costs in your local area."
     },
     {
       "number": 3,
@@ -79,7 +80,7 @@
             },
             {
               "term": "Security Deposit",
-              "definition": "Money paid upfront to cover potential damages beyond normal wear and tear\u2014typically refundable.",
+              "definition": "Money paid upfront to cover potential damages beyond normal wear and tear—typically refundable.",
               "example": "Usually 1-2 months' rent; returned within 14-30 days after move-out (varies by state)"
             }
           ]
@@ -98,7 +99,7 @@
             {
               "term": "Renter's Insurance",
               "definition": "Insurance policy that protects a tenant's personal belongings and provides liability coverage.",
-              "example": "Landlord insurance only covers the building\u2014YOUR stuff isn't protected without renter's insurance"
+              "example": "Landlord insurance only covers the building—YOUR stuff isn't protected without renter's insurance"
             },
             {
               "term": "Utilities",
@@ -119,7 +120,7 @@
         "layoutData": {
           "title": "7 Key Components of Every Lease Agreement",
           "paragraphs": [
-            "A lease is a legally binding contract. <strong>Read every word before signing</strong>\u2014you're agreeing to follow these terms for the entire lease duration."
+            "A lease is a legally binding contract. <strong>Read every word before signing</strong>—you're agreeing to follow these terms for the entire lease duration."
           ],
           "bulletPoints": [
             "<strong>Names &amp; Addresses:</strong> All tenants listed, property address, landlord contact info",
@@ -150,8 +151,8 @@
               "<strong>Excessive fees</strong> for basic services or common situations."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u26a0\ufe0f Never sign a lease that requires you to waive legal rights or contains clauses that violate tenant protection laws."
+              "icon": "💡",
+              "text": "⚠️ Never sign a lease that requires you to waive legal rights or contains clauses that violate tenant protection laws."
             }
           },
           "rightPanel": {
@@ -192,7 +193,7 @@
           "leftPanel": {
             "title": "What You'll Pay Before Move-In",
             "paragraphs": [
-              "Moving into a rental requires significant upfront investment\u2014often <strong>3-4 months of rent</strong> before you ever unpack a box.",
+              "Moving into a rental requires significant upfront investment—often <strong>3-4 months of rent</strong> before you ever unpack a box.",
               "<strong>Typical upfront costs include:</strong>"
             ],
             "highlightBox": null
@@ -200,7 +201,7 @@
           "rightPanel": {
             "stats": [
               {
-                "value": "${{STATE_MEDIAN_RENT}} \u00d7 3+",
+                "value": "${{STATE_MEDIAN_RENT}} × 3+",
                 "label": "Typical Move-In Costs",
                 "color": "teal"
               },
@@ -245,7 +246,7 @@
             "<strong>Parking:</strong> $0-$300/month (city apartments can be expensive)"
           ],
           "keyPoint": {
-            "text": "\ud83d\udca1 Always ask \"What's included in rent?\" and budget 25-35% extra for utilities and fees."
+            "text": "💡 Always ask \"What's included in rent?\" and budget 25-35% extra for utilities and fees."
           }
         }
       }
@@ -262,13 +263,13 @@
             "title": "Costs That Surprise New Renters",
             "paragraphs": [
               "Even careful budgeters can be caught off guard by fees and costs that aren't obvious upfront.",
-              "<strong>Late payment fees</strong> are typically 5-10% of your rent\u2014a $1,200 rent could mean a $60-$120 late fee.",
+              "<strong>Late payment fees</strong> are typically 5-10% of your rent—a $1,200 rent could mean a $60-$120 late fee.",
               "<strong>Annual rent increases</strong> of 3-5% are standard. A $1,200 apartment could be $1,260 next year.",
               "<strong>Early termination fees</strong> if you need to break your lease are often 2-3 months' rent."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udd0d Ask about ALL fees before signing. Get a complete list in writing."
+              "icon": "���",
+              "text": "��� Ask about ALL fees before signing. Get a complete list in writing."
             }
           },
           "rightPanel": {
@@ -307,8 +308,8 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\u2713",
-            "title": "\u2713 Advantages",
+            "icon": "✓",
+            "title": "✓ Advantages",
             "items": [
               "Flexibility to relocate easily",
               "Predictable monthly costs",
@@ -320,7 +321,7 @@
           },
           "rightColumn": {
             "icon": "",
-            "title": "\u2717 Disadvantages",
+            "title": "✗ Disadvantages",
             "items": [
               "No equity building",
               "Limited control over space",
@@ -331,7 +332,8 @@
             ]
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"The security deposit is the same as first month's rent.\"\" → They serve different purposes. First month's rent pays for housing; security deposit is held for potential damages and should be returned when you move out.\n• \"\"Landlords can enter whenever they want.\"\" → Tenants have privacy rights. Landlords must provide advance notice (usually 24-48 hours) except in genuine emergencies like fire or flood.\n• \"\"Renter's insurance only covers stolen items.\"\" → It also provides liability coverage if someone is injured in your apartment and protects against various damages (fire, water, etc.)."
     },
     {
       "number": 12,
@@ -350,8 +352,8 @@
               "<strong>Right to Security Deposit Protection:</strong> Laws regulate how deposits are held and returned."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u2696\ufe0f If your landlord violates your rights, document everything and know how to file complaints with local housing authorities."
+              "icon": "💡",
+              "text": "⚖️ If your landlord violates your rights, document everything and know how to file complaints with local housing authorities."
             }
           },
           "rightPanel": {
@@ -390,7 +392,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69\u200d\ud83d\udcbc",
+            "icon": "👩‍💼",
             "name": "Emma's First Apartment",
             "paragraphs": [
               "Emma recently graduated from college and moved to a new city for her first job. She found a one-bedroom apartment for <span class=\"highlight-text\">$1,200/month</span> in a convenient location near work.",
@@ -436,7 +438,7 @@
             "<strong>Pay Rent on Time:</strong> Late payments = fees + negative rental history",
             "<strong>Maintain the Property:</strong> Keep it clean, don't cause damage beyond normal wear",
             "<strong>Report Problems Promptly:</strong> Small issues become big (expensive) problems",
-            "<strong>Follow Lease Terms:</strong> Pets, guests, noise\u2014violations can lead to eviction",
+            "<strong>Follow Lease Terms:</strong> Pets, guests, noise—violations can lead to eviction",
             "<strong>Provide Proper Notice:</strong> Usually 30-60 days before moving out",
             "<strong>Allow Reasonable Access:</strong> Let landlord in for repairs/inspections with notice"
           ]
@@ -458,7 +460,7 @@
       "variant": "purple",
       "content": {
         "badge": "Personal Reflection",
-        "question": "What would be most important to you in a first apartment\u2014location, price, size, amenities, or something else?<br><br>How would you prioritize these factors?"
+        "question": "What would be most important to you in a first apartment—location, price, size, amenities, or something else?<br><br>How would you prioritize these factors?"
       }
     },
     {
@@ -488,7 +490,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. B (30%)\n2. Advantages: Flexibility to move, no maintenance responsibility, lower upfront costs, no property tax. Disadvantages: No equity building, rent can increase, limited control over property, less privacy.\n3. $1,100 (security) + $1,100 (first) + $1,100 (last) + $45 (app fee) =$3,345 total upfront\n4. \"Jointly and severally liable\" means each tenant is responsible for the full rent, not just their share. Options: (1) Find a replacement roommate, (2) Negotiate with landlord, (3) Sublet if lease allows, (4) Pay full rent temporarily while pursuing roommate for their share.\n5. Look for specific steps like: build savings for deposits, establish credit history, create a rental budget, research typical costs in desired area, maintain good references."
     },
     {
       "number": 18,
@@ -502,12 +505,12 @@
             {
               "number": 1,
               "title": "Read Your Lease Carefully",
-              "description": "Every clause matters\u2014understand fees, policies, and termination terms before signing"
+              "description": "Every clause matters—understand fees, policies, and termination terms before signing"
             },
             {
               "number": 2,
               "title": "Budget for True Costs",
-              "description": "Rent is just the beginning\u2014utilities, insurance, and fees add 25-35% to monthly costs"
+              "description": "Rent is just the beginning—utilities, insurance, and fees add 25-35% to monthly costs"
             },
             {
               "number": 3,
@@ -517,7 +520,7 @@
             {
               "number": 4,
               "title": "Know Your Rights",
-              "description": "Tenants have legal protections\u2014learn local laws and document any issues"
+              "description": "Tenants have legal protections—learn local laws and document any issues"
             }
           ]
         }
@@ -532,8 +535,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udccb Rental Property Comparison",
+            "icon": "���",
+            "title": "��� Rental Property Comparison",
             "description": "In this activity, you'll research real rental listings and compare them using a structured checklist based on your personal priorities. This helps you practice the research and comparison skills you'll need when looking for your first apartment."
           },
           "steps": [
@@ -552,7 +555,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

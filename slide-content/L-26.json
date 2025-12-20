@@ -22,9 +22,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "James received a credit card with a <em>$5,000 limit</em> and quickly maxed it out on electronics, clothes, and dinners.<br><br>Unable to pay the full balance, he started making only <em>minimum payments</em>.<br><br>Two years later, James still owes <em>$4,200</em> and has paid over <em>$1,500 in interest</em> alone\u2014on purchases he barely remembers.<br><br>What mistakes did James make, and how could he have avoided this debt trap?"
+        "question": "James received a credit card with a <em>$5,000 limit</em> and quickly maxed it out on electronics, clothes, and dinners. Unable to pay the full balance, he started making only <em>minimum payments</em>.   What mistakes did James make, and how could he have avoided this debt trap?    What mistakes did James make, and how could he have avoided this debt trap? <br><br>   What mistakes did James make, and how could he have avoided this debt trap?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n• Read James's story—emphasize $1,500 interest on forgotten purchases.\n• Ask: \"How many of you have seen credit card offers? What do they promise?\"\n"
     },
     {
       "number": 3,
@@ -76,7 +77,7 @@
             {
               "term": "Grace Period",
               "definition": "Time (usually 21-25 days) after your statement closes to pay your balance in full before interest is charged.",
-              "example": "If you pay in full by the due date, you pay $0 interest\u2014it's like a free short-term loan!"
+              "example": "If you pay in full by the due date, you pay $0 interest—it's like a free short-term loan!"
             }
           ]
         }
@@ -93,8 +94,8 @@
           "terms": [
             {
               "term": "Minimum Payment",
-              "definition": "The smallest payment required to keep your account in good standing\u2014usually 1-3% of balance or $25-35, whichever is greater.",
-              "example": "On a $2,000 balance, minimum might be $40\u2014but most goes to interest, barely touching the principal."
+              "definition": "The smallest payment required to keep your account in good standing—usually 1-3% of balance or $25-35, whichever is greater.",
+              "example": "On a $2,000 balance, minimum might be $40—but most goes to interest, barely touching the principal."
             },
             {
               "term": "Credit Utilization",
@@ -114,7 +115,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\u2713",
+            "icon": "✓",
             "title": "PAY IN FULL (Smart)",
             "items": [
               "Pay full balance monthly",
@@ -126,7 +127,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u2717",
+            "icon": "✗",
             "title": "CARRY A BALANCE (Costly)",
             "items": [
               "Pay less than full balance",
@@ -153,14 +154,14 @@
             "paragraphs": [
               "Minimum payments are designed to keep you paying forever:",
               "<strong>$2,000 balance at 18% APR:</strong>",
-              "\u2022 Minimum payment: $40/month",
-              "\u2022 Time to pay off: 9+ years",
-              "\u2022 Total interest paid: $2,200+",
+              "• Minimum payment: $40/month",
+              "• Time to pay off: 9+ years",
+              "• Total interest paid: $2,200+",
               "You pay MORE in interest than the original balance!",
-              "Most of each minimum payment goes to interest\u2014only a few dollars reduce the principal."
+              "Most of each minimum payment goes to interest—only a few dollars reduce the principal."
             ],
             "highlightBox": {
-              "icon": "\u26a0\ufe0f",
+              "icon": "⚠️",
               "text": "At minimum payments, a $2,000 purchase costs you $4,200+ total. That's 2x the price!"
             }
           },
@@ -248,16 +249,16 @@
           "leftPanel": {
             "title": "Keep Your Balance Low",
             "paragraphs": [
-              "Credit utilization = Balance \u00f7 Credit Limit",
+              "Credit utilization = Balance ÷ Credit Limit",
               "<strong>Example:</strong> $1,000 limit",
-              "\u2022 $300 balance = 30% (acceptable)",
-              "\u2022 $100 balance = 10% (great for score)",
-              "\u2022 $900 balance = 90% (hurts score badly)",
-              "High utilization signals risk to lenders\u2014even if you pay in full each month.",
+              "• $300 balance = 30% (acceptable)",
+              "• $100 balance = 10% (great for score)",
+              "• $900 balance = 90% (hurts score badly)",
+              "High utilization signals risk to lenders—even if you pay in full each month.",
               "Your utilization is reported when your statement closes, not when you pay."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "Pro tip: Pay down your balance BEFORE the statement closes to report lower utilization."
             }
           },
@@ -294,18 +295,18 @@
         "layoutData": {
           "title": "Beyond Interest Rates",
           "paragraphs": [
-            "Credit cards have many features\u2014some helpful, some costly:"
+            "Credit cards have many features—some helpful, some costly:"
           ],
           "bulletPoints": [
             "<strong>Rewards/Cashback:</strong> Free money IF you pay in full. Worthless if you carry a balance (interest > rewards).",
             "<strong>Annual Fee:</strong> Some cards charge $0, premium cards $95-$695. Only worth it if benefits exceed the fee.",
-            "<strong>Cash Advance:</strong> Borrowing cash from your card. AVOID\u2014higher APR (25%+), no grace period, fees.",
+            "<strong>Cash Advance:</strong> Borrowing cash from your card. AVOID—higher APR (25%+), no grace period, fees.",
             "<strong>Balance Transfer:</strong> Moving debt to a lower-rate card. Watch for transfer fees (3-5%) and promotional period end.",
             "<strong>Foreign Transaction Fee:</strong> 1-3% on purchases abroad. Get a no-fee card if you travel.",
-            "<strong>Purchase Protection:</strong> Extended warranties, fraud protection\u2014a real benefit of credit cards over debit."
+            "<strong>Purchase Protection:</strong> Extended warranties, fraud protection—a real benefit of credit cards over debit."
           ],
           "keyPoint": {
-            "text": "\ud83c\udfaf Focus on cards with no annual fee and good basic cashback until you have a clear strategy for premium cards."
+            "text": "🎯 Focus on cards with no annual fee and good basic cashback until you have a clear strategy for premium cards."
           }
         }
       }
@@ -324,17 +325,18 @@
           ],
           "bulletPoints": [
             "<strong>Never charge more than you can pay off this month:</strong> Treat it like a debit card with benefits.",
-            "<strong>Pay in full, every month:</strong> Set up autopay for the full balance\u2014never pay interest.",
+            "<strong>Pay in full, every month:</strong> Set up autopay for the full balance—never pay interest.",
             "<strong>Keep utilization under 30%:</strong> Better yet, under 10% for the best credit score impact.",
             "<strong>Don't use cash advances:</strong> Expensive, immediate interest, no grace period.",
             "<strong>Check statements monthly:</strong> Catch fraud and review your spending patterns.",
             "<strong>Have a plan before buying:</strong> If you can't pay it off, you can't afford it (with rare exceptions)."
           ],
           "keyPoint": {
-            "text": "\u2728 Used right, credit cards = free 21-day loans + rewards + fraud protection + credit building. Used wrong = expensive debt trap."
+            "text": "✨ Used right, credit cards = free 21-day loans + rewards + fraud protection + credit building. Used wrong = expensive debt trap."
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"The minimum payment is what I should pay.\"\n   → The minimum keeps you in good standing but maximizes interest costs. Always pay more—ideally the full balance.\n\n2. \"I need to carry a balance to build credit.\"\n   → False. You build credit by using the card and paying it off. Carrying a balance just costs you money.\n\n3. \"Credit cards are always bad.\"\n   → Credit cards are tools. Paid in full monthly, they provide free short-term loans, rewards, fraud protection, and credit building.\n\n"
     },
     {
       "number": 12,
@@ -348,7 +350,7 @@
             "title": "Credit Cards Build Credit History",
             "paragraphs": [
               "Credit cards are one of the best tools for building credit because they report monthly:",
-              "<strong>Payment history (35%):</strong> Pay on time every month\u2014even minimum counts as on-time",
+              "<strong>Payment history (35%):</strong> Pay on time every month—even minimum counts as on-time",
               "<strong>Credit utilization (30%):</strong> Keep balances low relative to limits",
               "<strong>Length of credit history (15%):</strong> Keep old cards open, even unused",
               "<strong>Credit mix (10%):</strong> Having a credit card diversifies your credit profile"
@@ -381,10 +383,10 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69",
+            "icon": "👩",
             "name": "Sarah's Smart Strategy",
             "paragraphs": [
-              "Sarah uses her credit card for all regular purchases\u2014groceries, gas, subscriptions\u2014but never charges more than $500/month on her $3,000 limit.",
+              "Sarah uses her credit card for all regular purchases—groceries, gas, subscriptions—but never charges more than $500/month on her $3,000 limit.",
               "She pays her full balance every month before the due date and earns 2% cashback on everything."
             ]
           },
@@ -393,7 +395,7 @@
               "type": "positive",
               "label": "Interest Paid",
               "value": "$0",
-              "detail": "Pays in full\u2014grace period applies"
+              "detail": "Pays in full—grace period applies"
             },
             {
               "type": "positive",
@@ -405,7 +407,7 @@
               "type": "positive",
               "label": "Annual Cashback",
               "value": "$120",
-              "detail": "2% \u00d7 $6,000/year = free money"
+              "detail": "2% × $6,000/year = free money"
             }
           ]
         }
@@ -420,7 +422,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc64",
+            "icon": "👤",
             "name": "James's Mistakes",
             "paragraphs": [
               "James maxed out his $5,000 limit on things he wanted but didn't need. Unable to pay the full balance, he started making only minimum payments.",
@@ -438,7 +440,7 @@
               "type": "negative",
               "label": "Utilization",
               "value": "100%",
-              "detail": "Maxed out\u2014hurts credit badly"
+              "detail": "Maxed out—hurts credit badly"
             },
             {
               "type": "negative",
@@ -495,7 +497,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (You pay no interest on purchases)\n\n2. Cash advances have higher APR (often 25%+), no grace period (interest starts immediately), and often have fees (3-5% of amount). Never a good choice.\n\n3. $2,500 × 0.30 = $750 maximum\n\n4. (1) He spent more than he could afford to pay off—maxed out his card. (2) He only made minimum payments. He should have only charged what he could pay in full and stopped using the card while paying down the balance.\n\n5. Balanced responses recognize credit cards as tools. Used wisely (pay in full, low utilization), they build credit and offer rewards. Used poorly (carrying balances, overspending), they create costly debt.\n\n"
     },
     {
       "number": 18,
@@ -509,7 +512,7 @@
             {
               "number": 1,
               "title": "Pay in Full = Pay No Interest",
-              "description": "The grace period means you get a free short-term loan\u2014but only if you pay the full balance by the due date."
+              "description": "The grace period means you get a free short-term loan—but only if you pay the full balance by the due date."
             },
             {
               "number": 2,
@@ -539,9 +542,9 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udcb3",
+            "icon": "💳",
             "title": "Credit Card Strategy Challenge",
-            "description": "James learned the hard way\u2014but can you avoid his mistakes? Tomorrow you'll analyze real credit card scenarios, calculate true costs, and develop your personal credit card strategy."
+            "description": "James learned the hard way—but can you avoid his mistakes? Tomorrow you'll analyze real credit card scenarios, calculate true costs, and develop your personal credit card strategy."
           },
           "steps": [
             "Analyze credit card scenarios and predict outcomes",
@@ -559,7 +562,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

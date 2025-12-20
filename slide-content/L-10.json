@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "What's the difference between <em>legal tax planning</em><br>and <em>illegal tax evasion</em>\u2014and why does it<br>matter for your financial future?"
+        "question": "Kate tracks her income year-round, contributes to a retirement account to reduce taxable income, researches tax law changes each December, and files in February to get her refund quickly.<br><br>Dave scrambles in April with a shoebox of receipts, doesn't track deductions, and sometimes files late paying penalties. He's never contributed to retirement accounts and doesn't understand why Kate gets refunds while he owes money.<br><br>What's the difference between <em>legal tax planning</em> and <em>illegal tax evasion</em>\u2014and why does it matter for your financial future?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Kate vs. Dave comparison scenario aloud. Ask the discussion question: 'Which approach sounds more like you or your family? What are the consequences of each?' This establishes that tax planning isn't just about rules—it's about taking a proactive vs. reactive approach to finances. Kate's strategic approach saves money and reduces stress; Dave's reactive approach costs money in penalties and missed opportunities."
     },
     {
       "number": 3,
@@ -82,7 +83,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "EMPHASIZE the LEGAL LINE clearly: Planning = legal and smart; Evasion = criminal with serious consequences. List examples of each on the board side-by-side. Connect to real-world consequences—show that tax evasion can lead to huge penalties (up to 75% of unpaid tax), interest, criminal prosecution, and even imprisonment. Introduce tax-advantaged accounts: 401(k), IRA, HSA, 529. Explain these aren't loopholes—they're incentives government WANTS you to use. Cover the Traditional vs. Roth decision: Choose Traditional if you're in a high bracket now and expect lower taxes in retirement; choose Roth if you're in a low bracket now (like most students!) and expect higher taxes later."
     },
     {
       "number": 5,
@@ -323,7 +325,8 @@
             "<strong>Life Stage Optimization:</strong> Strategies evolve with your changing circumstances"
           ]
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS TO ADDRESS:\n\n1. 'Tax planning is only for wealthy people' → CLARIFY: Everyone benefits from basic tax planning. Even students with part-time jobs can benefit by contributing to a Roth IRA, claiming education credits, or tracking deductible expenses. Tax planning scales with income—you don't need to be wealthy to benefit from smart strategies.\n\n2. 'If I get paid in cash, I don't have to report it' → CLARIFY: ALL income is taxable, regardless of payment method. Cash, checks, Venmo, PayPal, barter exchanges—it ALL counts and must be reported. Not reporting cash income is tax evasion (illegal), not tax planning. The IRS has sophisticated systems to detect unreported income.\n\n3. 'I'm young, so retirement accounts don't matter yet' → CLARIFY: Starting early is the MOST powerful advantage you have! Due to compound growth, $100/month from age 18 to 65 grows to over $500,000 at 8% returns. Starting at age 30 with $200/month only reaches $350,000—less total despite contributing more per month. Time is your biggest asset.\n\nAddress these proactively, especially #3 which is critical for students to understand NOW."
     },
     {
       "number": 12,
@@ -491,7 +494,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ANSWER KEY:\n\nQ1: What is the key difference between tax planning and tax evasion? Why is this distinction so important?\n• Answer: Tax planning uses LEGAL strategies to reduce tax liability (deductions, credits, timing, tax-advantaged accounts). Tax evasion uses ILLEGAL methods like hiding income, claiming false deductions, or not reporting taxable income. The distinction matters because: (1) Planning saves money legally; evasion leads to penalties, interest, criminal prosecution, and imprisonment. (2) Planning builds wealth; evasion destroys it through fines and legal consequences. (3) Planning is encouraged by government; evasion is prosecuted aggressively.\n\nQ2: Name two tax-advantaged accounts and explain how they provide tax benefits.\n• Answer: (1) 401(k)/Traditional IRA: Contributions reduce current taxable income (pre-tax), money grows tax-deferred, withdrawals in retirement are taxed as ordinary income. Best for high earners now who expect lower taxes later. (2) Roth IRA/401(k): Contributions made with after-tax dollars, money grows tax-FREE, qualified withdrawals are completely tax-free. Best for low earners now (like students) who expect higher taxes later. (3) HSA: Triple tax advantage—contributions deductible, growth tax-free, withdrawals for medical expenses tax-free.\n\nQ3: What are the penalties for filing your taxes late versus paying late? Why should you always file on time?\n• Answer: Failure-to-FILE penalty: 5% of unpaid taxes per month (up to 25%). Failure-to-PAY penalty: 0.5% of unpaid taxes per month (up to 25%). Filing late is 10x WORSE than paying late! ALWAYS file on time even if you can't pay—you can set up a payment plan with the IRS, but the failure-to-file penalty is brutal. Plus interest compounds daily on unpaid amounts.\n\nQ4: A college student can claim either the American Opportunity Credit ($2,000) or Student Loan Interest Deduction ($500). Which is better and why?\n• Answer: American Opportunity Credit is FAR better. Credits reduce tax dollar-for-dollar ($2,000 off tax bill), while deductions only reduce taxable income ($500 deduction in 12% bracket = $60 tax savings). The AOC is worth $2,000 vs. $60—that's a massive difference! Plus, 40% of the AOC ($1,000) is refundable, meaning you can get money back even if you owe no tax. Always choose credits over deductions when given the option."
     },
     {
       "number": 18,

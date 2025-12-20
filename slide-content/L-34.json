@@ -26,9 +26,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Sarah, a 28-year-old graphic designer, needs an appendectomy costing <em>$20,000</em>.<br><br>Her health insurance has a <em>$2,000 deductible</em> and <em>80/20 co-insurance</em>.<br><br>She's confused about how much she'll actually pay\u2014and whether her $300/month premium is worth it.<br><br><strong>How do insurance components like deductibles and co-insurance work together to determine your actual out-of-pocket costs?</strong>"
+        "question": "Sarah, a 28-year-old graphic designer, needs an appendectomy costing  $20,000 ..<br><br><strong>How do insurance components like deductibles and co-insurance work together to determine your actual out-of-pocket costs?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Sarah's appendectomy scenario aloud. Ask: \"Before we calculate, guess how much Sarah will pay out of $20,000.\" Record guesses to compare after the lesson."
     },
     {
       "number": 3,
@@ -125,8 +126,8 @@
               "The insurance company pools money from many policyholders to pay claims for the few who suffer losses."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "Insurance works best for high-impact, low-probability events\u2014rare but costly occurrences."
+              "icon": "💡",
+              "text": "Insurance works best for high-impact, low-probability events—rare but costly occurrences."
             }
           },
           "rightPanel": {
@@ -158,14 +159,14 @@
             "Each type of insurance serves a specific purpose in your overall financial protection:"
           ],
           "bulletPoints": [
-            "<strong>Health Insurance:</strong> Covers medical expenses\u2014doctor visits, hospital stays, prescriptions, surgeries",
+            "<strong>Health Insurance:</strong> Covers medical expenses—doctor visits, hospital stays, prescriptions, surgeries",
             "<strong>Auto Insurance:</strong> Liability (injuries/damage you cause), collision (damage to your car), comprehensive (theft, weather)",
             "<strong>Homeowner's/Renter's:</strong> Property damage + personal liability + theft protection",
             "<strong>Life Insurance:</strong> Provides financial support to dependents after your death",
             "<strong>Disability Insurance:</strong> Replaces income if you're unable to work due to illness or injury"
           ],
           "keyPoint": {
-            "text": "\u26a0\ufe0f Common exclusion: Most homeowner's policies do NOT cover flood damage\u2014separate flood insurance is required."
+            "text": "⚠️ Common exclusion: Most homeowner's policies do NOT cover flood damage—separate flood insurance is required."
           }
         }
       }
@@ -186,12 +187,12 @@
             "<strong>Step 1:</strong> Total bill = $20,000",
             "<strong>Step 2:</strong> Sarah pays deductible first = $2,000",
             "<strong>Step 3:</strong> Remaining amount = $20,000 - $2,000 = $18,000",
-            "<strong>Step 4:</strong> Co-insurance (Sarah's 20%) = $18,000 \u00d7 0.20 = $3,600",
+            "<strong>Step 4:</strong> Co-insurance (Sarah's 20%) = $18,000 × 0.20 = $3,600",
             "<strong>Step 5:</strong> Sarah's total out-of-pocket = $2,000 + $3,600 = <strong>$5,600</strong>",
             "<strong>Step 6:</strong> Insurance pays = $20,000 - $5,600 = <strong>$14,400</strong>"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcca Without insurance, Sarah would pay $20,000. With insurance, she pays $5,600\u2014a savings of $14,400."
+            "text": "📊 Without insurance, Sarah would pay $20,000. With insurance, she pays $5,600—a savings of $14,400."
           }
         }
       }
@@ -205,7 +206,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\ude97",
+            "icon": "🚗",
             "title": "Coverage for Others",
             "items": [
               "Liability: Bodily injury you cause",
@@ -217,12 +218,12 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d\udd27",
+            "icon": "🔧",
             "title": "Coverage for Your Car",
             "items": [
               "Collision: Damage from accidents",
               "Comprehensive: Theft, weather, vandalism",
-              "Optional\u2014often required if financing",
+              "Optional—often required if financing",
               "Has its own deductible (often $500)",
               "Value based on car's actual cash value",
               "May not be worth it on older cars"
@@ -240,19 +241,19 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udcc5",
+            "icon": "📅",
             "title": "Term Life Insurance",
             "items": [
               "Coverage for a specific period (10, 20, 30 years)",
               "Much lower premiums",
-              "No cash value\u2014pure protection",
+              "No cash value—pure protection",
               "Best for temporary needs (mortgage, kids)",
               "Expires if you outlive the term",
               "Most cost-effective protection"
             ]
           },
           "rightColumn": {
-            "icon": "\u267e\ufe0f",
+            "icon": "♾️",
             "title": "Whole Life Insurance",
             "items": [
               "Coverage for your entire lifetime",
@@ -275,13 +276,13 @@
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
-            "title": "Limits Protect the Insurance Company\u2014Not Just You",
+            "title": "Limits Protect the Insurance Company—Not Just You",
             "paragraphs": [
               "Coverage limits cap what the insurance company will pay. Costs above the limit are YOUR responsibility.",
               "<strong>Example:</strong> Marcus has auto liability limits of $100,000/$300,000.",
               "He causes an accident injuring two people:",
-              "\u2022 Person A has $120,000 in medical bills",
-              "\u2022 Person B has $80,000 in medical bills",
+              "• Person A has $120,000 in medical bills",
+              "• Person B has $80,000 in medical bills",
               "Insurance pays: Person A gets $100,000 (the per-person limit), Person B gets $80,000.",
               "Marcus owes Person A the remaining $20,000 out of pocket."
             ],
@@ -308,7 +309,8 @@
             "infoCard": null
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"After I pay the deductible, insurance covers everything.\"\" → After the deductible, you still pay co-insurance (your percentage) until you reach the out-of-pocket maximum.\n• \"\"Homeowner's insurance covers flood damage.\"\" → Standard homeowner's policies exclude floods. You need a separate flood insurance policy, often through FEMA's National Flood Insurance Program.\n• \"\"Young people don't need life insurance.\"\" → Life insurance is actually cheapest when you're young and healthy. If you have dependents or co-signed debt, you may need coverage."
     },
     {
       "number": 12,
@@ -320,7 +322,7 @@
         "layoutData": {
           "title": "What Insurance Typically Doesn't Cover",
           "paragraphs": [
-            "Every insurance policy has exclusions\u2014situations or damages NOT covered. Know them BEFORE you need to file a claim:"
+            "Every insurance policy has exclusions—situations or damages NOT covered. Know them BEFORE you need to file a claim:"
           ],
           "bulletPoints": [
             "<strong>Homeowner's:</strong> Flood damage, earthquake damage, normal wear and tear, intentional damage",
@@ -329,7 +331,7 @@
             "<strong>Life:</strong> Suicide within first 2 years, death during illegal activities, fraud on application"
           ],
           "keyPoint": {
-            "text": "\ud83d\udccb In {{STATE_NAME}}, flood insurance is purchased separately through the National Flood Insurance Program (NFIP)."
+            "text": "📋 In {{STATE_NAME}}, flood insurance is purchased separately through the National Flood Insurance Program (NFIP)."
           }
         }
       }
@@ -343,7 +345,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udd25",
+            "icon": "🔥",
             "name": "Aisha's Apartment Fire",
             "paragraphs": [
               "A fire damages Aisha's apartment, destroying $15,000 worth of personal belongings.",
@@ -382,7 +384,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+            "icon": "👨‍👩‍👧",
             "name": "New Parent's Life Insurance Decision",
             "paragraphs": [
               "Marcus, age 30, has a newborn child. His spouse is a stay-at-home parent.",
@@ -394,13 +396,13 @@
               "type": "before",
               "label": "Term Life Cost",
               "value": "$7,200 total",
-              "detail": "$30/month \u00d7 20 years"
+              "detail": "$30/month × 20 years"
             },
             {
               "type": "after",
               "label": "Whole Life Cost",
               "value": "$60,000 total",
-              "detail": "$250/month \u00d7 20 years"
+              "detail": "$250/month × 20 years"
             },
             {
               "type": "positive",
@@ -457,7 +459,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\nQ5 (Jordan):Consider: coverage quality, network of doctors, future health needs, cost if staying free, independence/portability, tax benefits of own plan. There's no single right answer.\nCYU 1:C (Flood damage) — Floods require separate flood insurance policy.\nCYU 2:Term life: Temporary coverage for a set period (10-30 years), lower premiums, no cash value. Good for young families needing coverage while children grow up. Whole life: Permanent coverage for entire life, higher premiums, builds cash value. Good for estate planning or lifelong dependents.\nCYU 3:Person A: $100,000 (capped at per-person limit). Person B: $80,000 (full amount, under limit). Total: $180,000, which is under the $300,000 per-accident limit. Marcus pays $20,000 out of pocket for Person A's remaining bills.\nCYU 4:$15,000 - $500 deductible =$14,500(well under the $20,000 coverage limit)."
     },
     {
       "number": 18,
@@ -481,7 +484,7 @@
             {
               "number": 3,
               "title": "Know Your Exclusions",
-              "description": "Every policy has things it doesn't cover\u2014read the fine print before you need to file a claim."
+              "description": "Every policy has things it doesn't cover—read the fine print before you need to file a claim."
             },
             {
               "number": 4,
@@ -501,9 +504,9 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udcca",
+            "icon": "📊",
             "title": "Insurance Policy Comparison Lab",
-            "description": "You've learned how insurance works\u2014but can you compare real policies? Tomorrow you'll analyze actual insurance quotes and calculate total costs for different life scenarios."
+            "description": "You've learned how insurance works—but can you compare real policies? Tomorrow you'll analyze actual insurance quotes and calculate total costs for different life scenarios."
           },
           "steps": [
             "Compare three health insurance plans for a hypothetical scenario",
@@ -521,7 +524,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

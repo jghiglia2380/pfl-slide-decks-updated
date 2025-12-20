@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Alex received an urgent email from <em>\"BankofAmerica1@secure-verify.net\"</em> claiming suspicious activity on his account.<br><br>The email looked professional\u2014complete with the bank's logo and colors\u2014and demanded he click a link to verify his SSN and password within <em>24 hours</em> or his account would be frozen.<br><br><strong>How can Alex tell if this email is legitimate, and what should he do?</strong>"
+        "question": "Alex received an urgent email from <em>\"BankofAmerica1@secure-verify.net\"</em> claiming suspicious activity on his account. The email looked professional—complete with the bank's logo and colors—and demanded he click a link to verify his SSN and password within <em>24 hours</em> or his account would be frozen.   <strong>How can Alex tell if this email is legitimate, and what should he do?</strong>    <strong>How can Alex tell if this email is legitimate, and what should he do?</strong> <br><br>   <strong>How can Alex tell if this email is legitimate, and what should he do?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n• Read Alex's phishing email scenario aloud.\n• Ask: \"What seems suspicious about this email?\" List responses on board.\n"
     },
     {
       "number": 3,
@@ -123,7 +124,7 @@
               "The best defense is <strong>verification</strong>: contact companies directly through official channels, never through links in unsolicited messages."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udee1\ufe0f",
+              "icon": "🛡️",
               "text": "Legitimate organizations NEVER ask for passwords or SSN via email or text."
             }
           },
@@ -171,7 +172,7 @@
             "<strong>Tech Support Scams:</strong> Fake warnings claiming your computer is infected"
           ],
           "keyPoint": {
-            "text": "\ud83d\udca1 All scams share one thing: they want you to act FAST before you can think clearly or verify."
+            "text": "💡 All scams share one thing: they want you to act FAST before you can think clearly or verify."
           }
         }
       }
@@ -185,7 +186,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d\udea9",
+            "icon": "🚩",
             "title": "Warning Signs",
             "items": [
               "Unofficial email domains (@secure-verify.net)",
@@ -197,7 +198,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u2713",
+            "icon": "✓",
             "title": "Legitimate Communications",
             "items": [
               "Official company domains (@bankofamerica.com)",
@@ -224,7 +225,7 @@
             "Protecting yourself requires both good habits and quick action when something seems wrong."
           ],
           "bulletPoints": [
-            "<strong>Verify independently:</strong> Contact companies directly via official channels\u2014never click links in messages",
+            "<strong>Verify independently:</strong> Contact companies directly via official channels—never click links in messages",
             "<strong>Use strong passwords:</strong> Unique passwords for each account, with two-factor authentication enabled",
             "<strong>Monitor your accounts:</strong> Check bank statements regularly, set up transaction alerts",
             "<strong>Limit social sharing:</strong> Don't post birthdates, addresses, or vacation plans publicly",
@@ -232,7 +233,7 @@
             "<strong>Use credit freezes:</strong> Prevents anyone from opening accounts in your name"
           ],
           "keyPoint": {
-            "text": "\ud83d\udd10 A credit freeze is FREE and stops 90% of identity theft\u2014unfreeze when YOU need credit."
+            "text": "🔐 A credit freeze is FREE and stops 90% of identity theft—unfreeze when YOU need credit."
           }
         }
       }
@@ -246,10 +247,10 @@
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
-            "title": "Act Fast\u2014Every Hour Matters",
+            "title": "Act Fast—Every Hour Matters",
             "paragraphs": [
               "<strong>Step 1:</strong> Contact your bank immediately to freeze accounts and dispute charges.",
-              "<strong>Step 2:</strong> Change all compromised passwords\u2014use a password manager.",
+              "<strong>Step 2:</strong> Change all compromised passwords—use a password manager.",
               "<strong>Step 3:</strong> Document everything: save emails, take screenshots, note dates.",
               "<strong>Step 4:</strong> Report to the FTC at ReportFraud.ftc.gov.",
               "<strong>Step 5:</strong> Place fraud alerts with all three credit bureaus.",
@@ -289,7 +290,7 @@
               "Social media provides scammers with personal details they use to craft convincing attacks."
             ],
             "highlightBox": {
-              "icon": "\u26a0\ufe0f",
+              "icon": "⚠️",
               "text": "Young adults lose more money per incident because they're more likely to use payment apps and cryptocurrency."
             }
           },
@@ -314,7 +315,8 @@
             "infoCard": null
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"Only gullible people fall for scams.\"\n   → Scammers are sophisticated professionals. Anyone can be targeted, especially under stress or urgency. Awareness, not intelligence, is the key protection.\n\n2. \"If an email has a company logo, it's real.\"\n   → Logos are easily copied. Always verify the sender's email domain and never trust visual appearance alone.\n\n3. \"I'll know a scam when I see one.\"\n   → Modern scams are highly convincing. The best protection is systematic verification—always contact companies directly through official channels.\n\n"
     },
     {
       "number": 12,
@@ -335,7 +337,7 @@
             "<strong>Government agencies will NEVER:</strong> Accept payment in cryptocurrency or gift cards"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcde When in doubt, hang up and call the official number on your card or statement\u2014never the number they give you."
+            "text": "📞 When in doubt, hang up and call the official number on your card or statement—never the number they give you."
           }
         }
       }
@@ -349,7 +351,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udce7",
+            "icon": "📧",
             "name": "Alex's Phishing Email",
             "paragraphs": [
               "Alex received an email from 'BankofAmerica1@secure-verify.net' with an urgent subject line: 'URGENT: Verify Your Account.'",
@@ -388,7 +390,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcac",
+            "icon": "💬",
             "name": "Miguel's Investment 'Opportunity'",
             "paragraphs": [
               "Miguel met someone online claiming to be a financial advisor. After weeks of friendly chatting, they offered him a 'guaranteed 50% return' on an investment.",
@@ -463,7 +465,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. C (Request to verify password and SSN)\n\n2. The IRS initiates contact by mail, never by phone, text, or email. They never ask for sensitive information electronically and don't threaten arrest or demand immediate payment.\n\n3. Go directly to bankofamerica.com (type it, don't click), log in normally, or call the number on his card. Check for any actual alerts through official channels.\n\n4. All legitimate investments carry risk. \"Guaranteed\" high returns are mathematically impossible and legally prohibited for advisors to promise. This language is always a scam indicator.\n\n5. Responses should be supportive, not condescending. Explain that scams are sophisticated and victims aren't \"stupid.\" Focus on specific tips: verify before clicking, when in doubt call the company directly, it's okay to hang up and call back.\n\n"
     },
     {
       "number": 18,
@@ -477,7 +480,7 @@
             {
               "number": 1,
               "title": "Know the Fraud Types",
-              "description": "Phishing, spoofing, identity theft, and Ponzi schemes all aim to steal your money or information\u2014recognize each."
+              "description": "Phishing, spoofing, identity theft, and Ponzi schemes all aim to steal your money or information—recognize each."
             },
             {
               "number": 2,
@@ -487,7 +490,7 @@
             {
               "number": 3,
               "title": "Verify Before You Act",
-              "description": "Contact companies directly through official channels\u2014never click links in unsolicited messages."
+              "description": "Contact companies directly through official channels—never click links in unsolicited messages."
             },
             {
               "number": 4,
@@ -507,9 +510,9 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udd0d",
+            "icon": "🔍",
             "title": "Fraud Investigation Lab",
-            "description": "You've learned to spot red flags\u2014but can you investigate like a fraud analyst? Tomorrow you'll examine real-world scam examples, trace the manipulation tactics, and build your personal protection system."
+            "description": "You've learned to spot red flags—but can you investigate like a fraud analyst? Tomorrow you'll examine real-world scam examples, trace the manipulation tactics, and build your personal protection system."
           },
           "steps": [
             "Analyze authentic phishing emails and identify ALL warning signs",
@@ -527,7 +530,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "What <em>three-digit number</em> could save\u2014or cost\u2014you <em>thousands of dollars</em> over your lifetime?"
+        "question": "What <em>three-digit number</em> could save‚Äîor cost‚Äîyou <em>thousands of dollars</em> over your lifetime?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n‚Ä¢ Read Jason's scenario aloud‚Äîemphasize the unintended consequences.\n‚Ä¢ Discussion: \"What do you know about credit scores? Has anyone checked theirs?\"\n"
     },
     {
       "number": 3,
@@ -73,7 +74,7 @@
             {
               "term": "Credit Score",
               "definition": "A numerical representation of your creditworthiness, typically ranging from 300 to 850, used by lenders to assess risk.",
-              "example": "300-579: Poor \u2022 580-669: Fair \u2022 670-739: Good \u2022 740-799: Very Good \u2022 800-850: Excellent"
+              "example": "300-579: Poor ‚Ä¢ 580-669: Fair ‚Ä¢ 670-739: Good ‚Ä¢ 740-799: Very Good ‚Ä¢ 800-850: Excellent"
             },
             {
               "term": "FICO Score",
@@ -100,7 +101,7 @@
             },
             {
               "term": "Credit Utilization",
-              "definition": "The percentage of your available credit that you're currently using. Lower is better\u2014experts recommend staying under 30%.",
+              "definition": "The percentage of your available credit that you're currently using. Lower is better‚Äîexperts recommend staying under 30%.",
               "example": "$3,000 credit limit with $900 balance = 30% utilization. Keep it below $900 for optimal score impact."
             }
           ]
@@ -118,7 +119,7 @@
           "leftPanel": {
             "title": "Five Factors, Different Weights",
             "paragraphs": [
-              "Your FICO score isn't random\u2014it's calculated from five specific categories of your credit behavior.",
+              "Your FICO score isn't random‚Äîit's calculated from five specific categories of your credit behavior.",
               "Understanding these weights helps you prioritize which behaviors matter most for building excellent credit."
             ],
             "highlightBox": null
@@ -159,7 +160,7 @@
         "layoutData": {
           "leftColumn": {
             "icon": "",
-            "title": "\u26a0\ufe0f Hard Inquiries",
+            "title": "‚ö†Ô∏è Hard Inquiries",
             "items": [
               "Applying for credit cards",
               "Applying for auto loans",
@@ -171,7 +172,7 @@
           },
           "rightColumn": {
             "icon": "",
-            "title": "\u2705 Soft Inquiries",
+            "title": "‚úÖ Soft Inquiries",
             "items": [
               "Checking your own credit",
               "Pre-approval offers",
@@ -201,8 +202,8 @@
               "<strong>Insurance:</strong> Many insurers use credit-based scores to determine your premiums for auto and home insurance."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udca1 Your credit score is your financial reputation\u2014it follows you everywhere."
+              "icon": "Ì†Ω",
+              "text": "Ì≤° Your credit score is your financial reputation‚Äîit follows you everywhere."
             }
           },
           "rightPanel": {
@@ -251,7 +252,7 @@
             "<strong>620-659 Score:</strong> 7.8% rate = $2,159/month = $477,240 total interest"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcb0 <strong>A 100-point score difference could cost you $94,680 in extra interest on just one mortgage!</strong>"
+            "text": "üí∞ <strong>A 100-point score difference could cost you $94,680 in extra interest on just one mortgage!</strong>"
           }
         }
       }
@@ -267,13 +268,13 @@
           "leftPanel": {
             "title": "Smart Habits Start Now",
             "paragraphs": [
-              "Building excellent credit isn't complicated\u2014it just requires <strong>consistent good habits</strong> over time.",
+              "Building excellent credit isn't complicated‚Äîit just requires <strong>consistent good habits</strong> over time.",
               "The earlier you start, the longer your credit history and the better your score potential.",
               "DO:",
-              "\u2022 Pay every bill on time, every time",
-              "\u2022 Keep credit utilization under 30%",
-              "\u2022 Keep old accounts open",
-              "\u2022 Check your credit report annually"
+              "‚Ä¢ Pay every bill on time, every time",
+              "‚Ä¢ Keep credit utilization under 30%",
+              "‚Ä¢ Keep old accounts open",
+              "‚Ä¢ Check your credit report annually"
             ],
             "highlightBox": null
           },
@@ -325,10 +326,11 @@
             "<strong>Insurance Costs:</strong> Auto and home insurance premiums often factor in credit scores"
           ],
           "keyPoint": {
-            "text": "\ud83c\udfaf <strong>Building credit is a marathon, not a sprint. Start good habits now and maintain them consistently.</strong>"
+            "text": "üéØ <strong>Building credit is a marathon, not a sprint. Start good habits now and maintain them consistently.</strong>"
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"Checking my own credit hurts my score.\"\n   ‚Üí Checking your own credit is a soft inquiry with no impact. Only hard inquiries (applying for credit) affect your score.\n\n2. \"I should close unused credit cards.\"\n   ‚Üí Closing accounts can hurt your score by shortening credit history and increasing utilization ratio. Keep old accounts open but inactive.\n\n3. \"I need to carry a balance to build credit.\"\n   ‚Üí You build credit by using your card and paying it off completely. Carrying a balance just costs you interest without extra score benefit.\n\n"
     },
     {
       "number": 12,
@@ -341,12 +343,12 @@
           "leftPanel": {
             "title": "The Digital Age of Credit",
             "paragraphs": [
-              "Credit monitoring has never been easier\u2014many banks and apps now offer <strong>free credit score tracking</strong>.",
+              "Credit monitoring has never been easier‚Äîmany banks and apps now offer <strong>free credit score tracking</strong>.",
               "You can check your score weekly without any impact (soft inquiry). This helps you:"
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udcf1 Most major banks and credit card companies offer free score access to customers."
+              "icon": "Ì†Ω",
+              "text": "Ì≥± Most major banks and credit card companies offer free score access to customers."
             }
           },
           "rightPanel": {
@@ -385,11 +387,11 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc68",
+            "icon": "üë®",
             "name": "Jason's Hard Inquiry Mistake",
             "paragraphs": [
               "Jason was shopping for his first credit card. He thought he'd compare offers by <span class=\"highlight-text\">applying for three different cards within one month</span>.",
-              "What he didn't realize: Each application created a <strong>hard inquiry</strong> on his credit report. His score dropped 25 points\u2014from 680 to 655.",
+              "What he didn't realize: Each application created a <strong>hard inquiry</strong> on his credit report. His score dropped 25 points‚Äîfrom 680 to 655.",
               "Now he's having trouble getting approved for an apartment lease because his score dropped below the landlord's minimum requirement of 660. His dream apartment went to someone else."
             ]
           },
@@ -425,10 +427,10 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69",
+            "icon": "üë©",
             "name": "Sophia's Credit History Setback",
             "paragraphs": [
-              "Sophia wanted to simplify her finances, so she decided to <span class=\"highlight-text\">close her oldest credit card account</span>\u2014one she'd had for 8 years but rarely used.",
+              "Sophia wanted to simplify her finances, so she decided to <span class=\"highlight-text\">close her oldest credit card account</span>‚Äîone she'd had for 8 years but rarely used.",
               "The unintended consequences:",
               "Her score dropped <strong>40 points</strong>, affecting her ability to qualify for a low-interest auto loan."
             ]
@@ -501,7 +503,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (Payment history at 35%)\n\n2. High utilization signals to lenders that you may be overextended financially. Below 30% shows responsible credit management and ability to pay.\n\n3. $2,000 √ó 0.30 = $600 maximum balance\n\n4. Jason should have used pre-qualification tools (soft inquiries) to compare offers without affecting his score. Hard inquiries typically affect scores for 12 months and remain on reports for 2 years.\n\n5. Credit scores affect: rental applications, insurance premiums, utility deposits, cell phone contracts, and some employment decisions. Even without borrowing, credit impacts daily life.\n\n"
     },
     {
       "number": 18,
@@ -545,8 +548,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udccb Credit Score Factor Analysis",
+            "icon": "Ì†Ω",
+            "title": "Ì≥ã Credit Score Factor Analysis",
             "description": "In the Skill Builder activity, you'll analyze the five FICO factors and reflect on which you could most easily control as you begin building your credit history. Consider your current situation and future financial goals as you complete this reflection."
           },
           "steps": [
@@ -565,7 +568,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "¬© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

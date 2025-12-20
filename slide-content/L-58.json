@@ -31,9 +31,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Why does a cup of coffee cost $3 at one shop<br>but $6 at another\u2014and how can understanding<br><em>market forces</em> save you <em>thousands</em> of dollars?"
+        "question": "Coffee prices vary dramatically across different shops—from $3 to $6 for the same drink—and this variation stems from supply and demand dynamics combined with market structure. Understanding these economic forces empowers you to make smarter purchasing decisions that can save thousands of dollars over time. <br><br> How can understanding market forces transform you from a price-taker into a strategic consumer?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "<strong>Discussion Prompts:</strong><br>• Ask students: \"Why does coffee cost $3 here but $6 downtown?\" Start with price variation they experience.<br>• Introduce the two key frameworks: supply/demand dynamics AND market structure.<br>• Key insight: Understanding these forces = making smarter purchasing decisions."
     },
     {
       "number": 3,
@@ -333,7 +334,8 @@
             "<strong>Be an Informed Citizen:</strong> Evaluate policy proposals based on economic reasoning"
           ]
         }
-      }
+      },
+      "notes": "<strong>Common Misconceptions:</strong><br><table style='width:100%; border-collapse: collapse; margin-top: 8px;'><tr><th style='background: #fee2e2; color: #991b1b; padding: 6px; border: 1px solid #fca5a5; text-align: left;'>Misconception</th><th style='background: #dcfce7; color: #166534; padding: 6px; border: 1px solid #86efac; text-align: left;'>Clarification</th></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"More competition always means lower prices.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Generally true, but more competition can also mean more product differentiation, advertising costs, and innovation that can keep prices from falling to cost. Perfect competition with identical products produces lowest prices.</td></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"Monopolies are always illegal.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Natural monopolies (utilities) are often legal and even regulated. Being a monopoly isn't illegal—using monopoly power to harm competition is. Many monopolies exist through innovation or patents.</td></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"Price increases are always bad for consumers.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Price increases signal scarcity and encourage conservation of scarce resources. They also incentivize new supply. After a hurricane, higher gas prices encourage people to buy less and motivate suppliers to increase shipments.</td></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"If I wait, prices always come down.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Not always! If supply is decreasing or demand is growing, prices may continue rising. Understanding current trends matters—waiting only helps if supply is increasing or demand is falling.</td></tr></table>"
     },
     {
       "number": 12,
@@ -493,7 +495,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "<strong>Assessment Answer Key (Check Your Understanding):</strong><br><br><strong>Q1:</strong> When frost damages orange crops in Florida, what typically happens to orange juice prices?<br><em>Answer:</em> B (Prices increase because supply decreases). Orange crop damage reduces supply, shifting supply curve left, raising equilibrium price.<br><br><strong>Q2:</strong> Which market structure typically offers consumers the BEST prices?<br><em>Answer:</em> C (Perfect competition). Many sellers competing drives prices toward cost, maximizing consumer surplus.<br><br><strong>Q3:</strong> Why do products with inelastic demand (like gasoline or insulin) have more volatile prices?<br><em>Answer:</em> B (Small supply disruptions cause large price swings). Inelastic demand means quantity doesn't fall much when prices rise, so prices must rise MORE to restore equilibrium.<br><br><strong>Q4:</strong> In an oligopoly (like wireless carriers), why do companies often avoid lowering prices below competitors?<br><em>Answer:</em> B (Each firm watches competitors and avoids price wars). Oligopolists are interdependent—cutting prices triggers retaliation, hurting all firms.<br><br><strong>Q5:</strong> If you need to find an apartment in a college town, which months would likely offer the BEST and WORST rental deals?<br><em>Answer:</em> WORST: July-August (peak student demand, limited supply available). BEST: October-November or January (after semester rush). Reasoning: Student demand creates seasonal peak in summer; searching off-peak means more options and lower prices."
     },
     {
       "number": 18,

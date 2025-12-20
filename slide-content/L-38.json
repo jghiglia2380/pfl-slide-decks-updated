@@ -26,7 +26,8 @@
         "label": "The Challenge",
         "question": "When debt becomes <em>overwhelming</em>, what options exist to<br><em>regain control</em> of your financial future?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Emily's debt scenario aloud. Note the variety of debt types. Ask: \"What makes some debts more dangerous than others?\" Brainstorm what factors would influence the best strategy choice."
     },
     {
       "number": 3,
@@ -123,8 +124,8 @@
               "You make <strong>one monthly payment</strong> to the agency, which distributes funds to your creditors."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udca1 DMPs work best for unsecured debts like credit cards and medical bills\u2014not mortgages, auto loans, or student loans."
+              "icon": "Ì†Ω",
+              "text": "Ì≤° DMPs work best for unsecured debts like credit cards and medical bills‚Äînot mortgages, auto loans, or student loans."
             }
           },
           "rightPanel": {
@@ -173,7 +174,7 @@
             "<strong>401(k) Loans:</strong> Borrow from retirement; impacts long-term financial security"
           ],
           "keyPoint": {
-            "text": "\u26a0\ufe0f Warning: Consolidation only works if you address the spending habits that created the debt\u2014or you'll end up with both the consolidation loan AND new debt."
+            "text": "‚ö†Ô∏è Warning: Consolidation only works if you address the spending habits that created the debt‚Äîor you'll end up with both the consolidation loan AND new debt."
           }
         }
       }
@@ -194,8 +195,8 @@
               "Once the creditor agrees and you pay, the debt is considered <strong>satisfied</strong>."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u26a0\ufe0f Significant risks: Credit score damage, late fees, collection actions, and taxes on forgiven debt."
+              "icon": "üí°",
+              "text": "‚ö†Ô∏è Significant risks: Credit score damage, late fees, collection actions, and taxes on forgiven debt."
             }
           },
           "rightPanel": {
@@ -216,7 +217,7 @@
               "color": "amber",
               "items": [
                 "Forgiven debt = taxable income",
-                "$12,000 forgiven \u2248 $3,000 tax bill",
+                "$12,000 forgiven ‚âà $3,000 tax bill",
                 "IRS Form 1099-C issued",
                 "Plan for this in your budget"
               ]
@@ -234,8 +235,8 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d",
-            "title": "\udccb Chapter 7 (Liquidation)",
+            "icon": "Ì†Ω",
+            "title": "Ì≥ã Chapter 7 (Liquidation)",
             "items": [
               "Discharges most unsecured debts",
               "Completed in 3-6 months",
@@ -246,8 +247,8 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d",
-            "title": "\udcca Chapter 13 (Reorganization)",
+            "icon": "Ì†Ω",
+            "title": "Ì≥ä Chapter 13 (Reorganization)",
             "items": [
               "Creates 3-5 year repayment plan",
               "Keep your assets while paying",
@@ -327,10 +328,11 @@
             "<strong>Family Assistance:</strong> Borrow from family (with a clear repayment agreement)"
           ],
           "keyPoint": {
-            "text": "\ud83d\udca1 Seek professional guidance: A credit counselor can help you evaluate all options and choose the best path for your situation."
+            "text": "üí° Seek professional guidance: A credit counselor can help you evaluate all options and choose the best path for your situation."
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n‚Ä¢ \"\"Bankruptcy erases all debt and lets you start completely fresh.\"\" ‚Üí Bankruptcy doesn't discharge student loans, child support, alimony, most taxes, or recent purchases. It also stays on your credit report for 7-10 years.\n‚Ä¢ \"\"Debt settlement companies always get you the best deal.\"\" ‚Üí Many are for-profit and charge high fees. Nonprofit credit counseling agencies often get similar or better results without fees. Some settlement companies are outright scams.\n‚Ä¢ \"\"After bankruptcy, you can never get credit again.\"\" ‚Üí While bankruptcy severely impacts credit, rebuilding is possible. Many people receive credit card offers within a year, though with high rates. Full recovery typically takes 3-7 years of responsible credit use."
     },
     {
       "number": 12,
@@ -343,7 +345,7 @@
           "leftPanel": {
             "title": "The Path Back to Financial Health",
             "paragraphs": [
-              "After significant debt problems or bankruptcy, rebuilding credit is <strong>essential</strong> and <strong>possible</strong>\u2014but requires patience and discipline.",
+              "After significant debt problems or bankruptcy, rebuilding credit is <strong>essential</strong> and <strong>possible</strong>‚Äîbut requires patience and discipline.",
               "Start with these foundational steps:"
             ],
             "highlightBox": null
@@ -379,7 +381,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcb3",
+            "icon": "üí≥",
             "name": "Maria: Debt Settlement Success",
             "paragraphs": [
               "Maria accumulated <strong>$30,000 in credit card debt</strong> after losing her job and experiencing medical issues. After finding employment again, she worked with a debt settlement company.",
@@ -419,7 +421,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcc8",
+            "icon": "üìà",
             "name": "James: Rebuilding After Bankruptcy",
             "paragraphs": [
               "After his business failed, James filed for <strong>Chapter 7 bankruptcy</strong> to discharge $45,000 in credit card debt, medical bills, and personal loans.",
@@ -494,7 +496,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\nQ3 Credit rebuilding strategies:Any FOUR of: Get secured credit card, become authorized user on family member's account, apply for credit-builder loan, monitor credit report for errors, create budget to avoid future debt, build emergency fund, pay all bills on time, keep credit utilization low.\nCYU 1:B (Chapter 7 liquidates assets to discharge debt; Chapter 13 creates a repayment plan while keeping assets)\nCYU 2:Forgiven debt over $600 is considered taxable income by the IRS. If you settle $30,000 for $18,000, the $12,000 forgiven is added to your taxable income for that year.\nCYU 3:Forgiven amount: $30,000 - $18,000 = $12,000. Tax at 22%: $12,000 x 0.22 =$2,640\nCYU 4:A secured credit card requires a cash deposit (e.g., $500) that becomes your credit limit. It helps rebuild credit because the card issuer reports your payment history to credit bureaus, demonstrating responsible use."
     },
     {
       "number": 18,
@@ -538,8 +541,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udccb Debt Reduction Planner",
+            "icon": "Ì†Ω",
+            "title": "Ì≥ã Debt Reduction Planner",
             "description": "Create a personalized debt management plan for Emily's case study scenario. Analyze her debts, evaluate options, and develop a strategy for financial recovery. Emily has $35,500 in total debt with $800/month available after expenses. Her credit score is 580."
           },
           "steps": [
@@ -558,7 +561,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "¬© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

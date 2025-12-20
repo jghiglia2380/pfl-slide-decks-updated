@@ -40,7 +40,8 @@
         "label": "The Challenge",
         "question": "Two identical apartments. Same rent. One costs you<br><em>$1,200 more per year</em> to live in.<br><br>How is this possible?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "<strong>Discussion Prompts:</strong><br>• Ask: \"Does anyone know what their parents pay in property taxes?\" (Most won't know.)<br>• Reveal: Property taxes can add $300-$1,000+ monthly to housing costs.<br>• Connection: Even renters pay indirectly—landlords factor taxes into rent."
     },
     {
       "number": 3,
@@ -136,7 +137,7 @@
               "Property taxes are the #1 source of local government revenue, funding essential services you use every day."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "Higher taxes often = better schools, safer neighborhoods, well-maintained roads. The question is: are you getting good value?"
             }
           },
@@ -215,8 +216,8 @@
               "<strong>Step 4:</strong> Multiply by millage rate"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "Formula: (Assessed Value - Exemptions) \u00d7 Millage Rate \u00f7 1,000 = Annual Tax"
+              "icon": "💡",
+              "text": "Formula: (Assessed Value - Exemptions) × Millage Rate ÷ 1,000 = Annual Tax"
             }
           },
           "rightPanel": {
@@ -263,7 +264,7 @@
             "<strong>Vehicle Registration:</strong> Local fees added to state registration"
           ],
           "keyPoint": {
-            "text": "The same home in different jurisdictions can cost thousands more annually in local taxes\u2014always calculate the TOTAL burden."
+            "text": "The same home in different jurisdictions can cost thousands more annually in local taxes—always calculate the TOTAL burden."
           }
         }
       }
@@ -279,12 +280,12 @@
           "leftPanel": {
             "title": "Property Tax Adds to Monthly Payment",
             "paragraphs": [
-              "When you buy a home, your mortgage payment isn't the whole story. Property taxes are typically escrowed\u2014added to your monthly payment.",
+              "When you buy a home, your mortgage payment isn't the whole story. Property taxes are typically escrowed—added to your monthly payment.",
               "A $1,500 mortgage can become $1,900+ when property taxes (and insurance) are included."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "Even renters pay\u2014landlords factor property taxes into rent prices. High-tax areas = higher rents, all else being equal."
+              "icon": "💡",
+              "text": "Even renters pay—landlords factor property taxes into rent prices. High-tax areas = higher rents, all else being equal."
             }
           },
           "rightPanel": {
@@ -327,18 +328,19 @@
             "Understanding local tax structures is essential for making smart financial decisions throughout your life:"
           ],
           "bulletPoints": [
-            "<strong>Where to Rent:</strong> Factor in local sales taxes and services\u2014not just rent",
+            "<strong>Where to Rent:</strong> Factor in local sales taxes and services—not just rent",
             "<strong>Job Offer Comparisons:</strong> A higher salary in a high-tax city might leave you with LESS money",
-            "<strong>Home Purchases:</strong> Property taxes add hundreds to monthly costs\u2014you may afford less house than you think",
+            "<strong>Home Purchases:</strong> Property taxes add hundreds to monthly costs—you may afford less house than you think",
             "<strong>Voting Decisions:</strong> School levies and bond issues directly affect your tax bill",
             "<strong>Retirement Planning:</strong> Some retirees relocate specifically for lower property taxes",
             "<strong>Business Location:</strong> Entrepreneurs consider local taxes when choosing where to operate"
           ],
           "keyPoint": {
-            "text": "The key is doing the math BEFORE you make the decision\u2014not discovering high taxes after you've committed."
+            "text": "The key is doing the math BEFORE you make the decision—not discovering high taxes after you've committed."
           }
         }
-      }
+      },
+      "notes": "<strong>Common Misconceptions:</strong><br><table style='width:100%; border-collapse: collapse; margin-top: 8px;'><tr><th style='background: #fee2e2; color: #991b1b; padding: 6px; border: 1px solid #fca5a5; text-align: left;'>Misconception</th><th style='background: #dcfce7; color: #166534; padding: 6px; border: 1px solid #86efac; text-align: left;'>Clarification</th></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"Renters don't pay property taxes.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Renters pay indirectly through rent. Landlords factor property taxes into rental prices. High-tax areas = higher rents.</td></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"Assessed value = market value.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Many jurisdictions assess at less than 100% of market value. In {{STATE_NAME}}, the assessment ratio is {{STATE_ASSESSMENT_PERCENTAGE}}%. Always check the assessment ratio for your state.</td></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"Higher taxes always mean better services.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>Not necessarily. Some communities are more efficient. Others carry legacy debt or pension obligations. Research service quality independently.</td></tr><tr><td style='padding: 6px; border: 1px solid #e2e8f0;'>\"I can't appeal my property assessment.\"</td><td style='padding: 6px; border: 1px solid #e2e8f0;'>You absolutely can. If comparable homes sold for less than your assessed value, you have grounds to appeal. This can save hundreds annually.</td></tr></table>"
     },
     {
       "number": 12,
@@ -351,14 +353,14 @@
           "leftPanel": {
             "title": "Even Neighboring Cities Differ",
             "paragraphs": [
-              "Tax rates vary dramatically between jurisdictions\u2014even within {{STATE_NAME}}. A home that seems affordable based on price alone can become financially stressful once property taxes are factored in.",
+              "Tax rates vary dramatically between jurisdictions—even within {{STATE_NAME}}. A home that seems affordable based on price alone can become financially stressful once property taxes are factored in.",
               "<strong>Same $280,000 home in {{STATE_NAME}}:</strong>",
-              "\u2022 {{STATE_HIGH_TAX_CITY}}: {{STATE_HIGH_TAX_MILLAGE}} mills",
-              "\u2022 {{STATE_MEDIUM_TAX_CITY}}: {{STATE_MEDIUM_TAX_MILLAGE}} mills",
-              "\u2022 {{STATE_LOW_TAX_CITY}}: {{STATE_LOW_TAX_MILLAGE}} mills"
+              "• {{STATE_HIGH_TAX_CITY}}: {{STATE_HIGH_TAX_MILLAGE}} mills",
+              "• {{STATE_MEDIUM_TAX_CITY}}: {{STATE_MEDIUM_TAX_MILLAGE}} mills",
+              "• {{STATE_LOW_TAX_CITY}}: {{STATE_LOW_TAX_MILLAGE}} mills"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "The difference between highest and lowest millage rates can mean thousands of dollars per year!"
             }
           },
@@ -398,7 +400,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83c\udfe2",
+            "icon": "🏢",
             "name": "Mia Compares Two Apartments",
             "paragraphs": [
               "Mia, 19, is choosing her first apartment in {{STATE_NAME}}. She earns $38,000 and spends about <span class=\"highlight-text\">$1,000/month on taxable purchases</span>.",
@@ -439,14 +441,14 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83c\udfe0",
+            "icon": "🏠",
             "name": "The Rodriguez Family Home Purchase",
             "paragraphs": [
               "Carlos and Maria are teachers earning $85,000 combined in {{STATE_NAME}}. They're choosing between two homes:",
-              "<strong>Home A ({{STATE_HIGH_TAX_CITY}}):</strong> $280,000 \u2022 {{STATE_HIGH_TAX_MILLAGE}} mills \u2022 School rating: 9/10",
-              "<strong>Home B ({{STATE_LOW_TAX_CITY}}):</strong> $265,000 \u2022 {{STATE_LOW_TAX_MILLAGE}} mills \u2022 School rating: 7/10",
+              "<strong>Home A ({{STATE_HIGH_TAX_CITY}}):</strong> $280,000 • {{STATE_HIGH_TAX_MILLAGE}} mills • School rating: 9/10",
+              "<strong>Home B ({{STATE_LOW_TAX_CITY}}):</strong> $265,000 • {{STATE_LOW_TAX_MILLAGE}} mills • School rating: 7/10",
               "Home B saves $15,000 on price + <span class=\"highlight-text\">lower annual taxes</span>. Over 30 years, property tax savings add up significantly!",
-              "But as teachers who value education, they chose Home A\u2014the excellent schools are worth it to them."
+              "But as teachers who value education, they chose Home A—the excellent schools are worth it to them."
             ]
           },
           "outcomes": [
@@ -517,7 +519,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "<strong>Assessment Answer Key (Check Your Understanding):</strong><br><br><strong>Q1.</strong> <em>Answer:</em> A ($5,760). Calculation: $240,000 × 80% = $192,000 assessed value. $192,000 × 30 mills = $192,000 × 0.030 = $5,760.<br><br><strong>Q2.</strong> <em>Answer:</em> B (You pay $45 for every $1,000 of assessed value). This is the definition of millage.<br><br><strong>Q3.</strong> <em>Answer:</em> C (Social Security benefits). Social Security is funded by federal payroll taxes, not local property taxes.<br><br><strong>Q4.</strong> <em>Answer:</em> B (Reducing the assessed value subject to taxation). Homestead exemptions subtract from assessed value before applying millage rate.<br><br><strong>Q5.</strong> <em>Answer:</em> Renters DO pay property taxes indirectly. Landlords include property taxes in their costs and factor this into rent calculations. High property tax areas typically have higher rents. While renters don't receive a tax bill, they're still paying—the costs are just embedded in their rent."
     },
     {
       "number": 18,
@@ -531,22 +534,22 @@
             {
               "number": 1,
               "title": "Local Taxes Fund Your Community",
-              "description": "Property taxes pay for schools, police, fire, roads, parks\u2014services you use daily"
+              "description": "Property taxes pay for schools, police, fire, roads, parks—services you use daily"
             },
             {
               "number": 2,
-              "title": "Property Tax = Assessed Value \u00d7 Millage",
+              "title": "Property Tax = Assessed Value × Millage",
               "description": "One mill = $1 per $1,000 of value. Always calculate before buying or renting."
             },
             {
               "number": 3,
               "title": "Tax Rates Vary Dramatically",
-              "description": "Even neighboring cities can have vastly different rates\u2014research before you move"
+              "description": "Even neighboring cities can have vastly different rates—research before you move"
             },
             {
               "number": 4,
-              "title": "Higher Taxes \u2260 Always Bad",
-              "description": "Evaluate what you're getting for your tax dollars\u2014quality services may be worth it"
+              "title": "Higher Taxes ≠ Always Bad",
+              "description": "Evaluate what you're getting for your tax dollars—quality services may be worth it"
             }
           ]
         }
@@ -561,8 +564,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udcca Local Tax Impact Calculator",
+            "icon": "���",
+            "title": "��� Local Tax Impact Calculator",
             "description": "Use the Local Tax Impact Calculator to compare the total local tax burden across different jurisdictions in your state. You'll input property values, spending habits, and income to see how location choice affects your finances."
           },
           "steps": [
@@ -581,7 +584,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

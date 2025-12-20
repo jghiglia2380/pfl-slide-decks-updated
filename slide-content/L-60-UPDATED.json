@@ -2,7 +2,7 @@
   "metadata": {
     "lChapter": "L-60",
     "title": "Understanding Financial Contracts",
-    "subtitle": "Read Before You Sign\u2014Your Money Depends On It",
+    "subtitle": "Read Before You Sign—Your Money Depends On It",
     "totalSlides": 20,
     "hasStateVariables": false,
     "stateVariablesUsed": []
@@ -14,7 +14,7 @@
       "content": {
         "title": "Understanding Financial Contracts",
         "titleSize": "large",
-        "subtitle": "Read Before You Sign\u2014Your Money Depends On It"
+        "subtitle": "Read Before You Sign—Your Money Depends On It"
       }
     },
     {
@@ -22,9 +22,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Only <em>7% of people</em> read terms and conditions<br>before clicking \"I agree.\"<br><br>What could you be agreeing to without knowing?"
+        "question": "Only <em>7% of people</em> read terms and conditions<br>before clicking \"I agree.\" What could you be agreeing to without knowing? <br><br> What could you be agreeing to without knowing?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n• Ask: \"Who has ever clicked 'I agree' without reading the terms?\" (Most hands go up.)\n• Share the $3,800 lease penalty and $1,150 phone cancellation stories.\n• Key message: \"I didn't read it\" is not a legal defense. Courts enforce what you sign.\n"
     },
     {
       "number": 3,
@@ -75,7 +76,7 @@
             },
             {
               "term": "Consideration",
-              "definition": "Something of value exchanged between parties\u2014each must give something for the contract to be valid.",
+              "definition": "Something of value exchanged between parties—each must give something for the contract to be valid.",
               "example": "You pay rent; landlord provides housing. No consideration = gift, not contract."
             }
           ]
@@ -123,7 +124,7 @@
               "<strong>5. Legality:</strong> The contract's purpose must be legal."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "Missing any element = contract may be invalid or voidable."
             }
           },
@@ -163,10 +164,10 @@
           "bulletPoints": [
             "<strong>Lease Agreements:</strong> Rent, deposits, maintenance, termination penalties",
             "<strong>Loan Agreements:</strong> Principal, interest, payment schedule, default terms",
-            "<strong>Service Contracts:</strong> Phone plans, internet, gym\u2014watch for auto-renewal!",
+            "<strong>Service Contracts:</strong> Phone plans, internet, gym—watch for auto-renewal!",
             "<strong>Employment Contracts:</strong> Salary, benefits, non-compete clauses, termination",
-            "<strong>Purchase Agreements:</strong> Cars, real estate\u2014high stakes, read carefully",
-            "<strong>Credit Agreements:</strong> Cards, lines of credit\u2014know the APR and fees"
+            "<strong>Purchase Agreements:</strong> Cars, real estate—high stakes, read carefully",
+            "<strong>Credit Agreements:</strong> Cards, lines of credit—know the APR and fees"
           ],
           "keyPoint": {
             "text": "The more money involved, the more carefully you should read. Major contracts deserve hours of review, not minutes."
@@ -185,14 +186,14 @@
           "leftPanel": {
             "title": "Essential Reading Strategies",
             "paragraphs": [
-              "<strong>1. Read the ENTIRE contract</strong>\u2014never sign without complete review.",
+              "<strong>1. Read the ENTIRE contract</strong>—never sign without complete review.",
               "<strong>2. Identify ALL financial obligations:</strong> payments, fees, penalties.",
               "<strong>3. Locate termination terms:</strong> How do you exit? At what cost?",
               "<strong>4. Watch for automatic renewal:</strong> Does it continue unless you cancel?",
               "<strong>5. Find arbitration clauses:</strong> Do you give up the right to sue?"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "If you don't understand a term, research it or ask. Never assume it doesn't matter."
             }
           },
@@ -257,10 +258,10 @@
             "paragraphs": [
               "Signing contracts without reading can cost thousands of dollars and limit your future flexibility.",
               "Non-compete clauses can prevent you from taking better jobs for months or years.",
-              "Perpetual payment cycles prevent wealth building\u2014subscription services, gym memberships, and loans you can't afford."
+              "Perpetual payment cycles prevent wealth building—subscription services, gym memberships, and loans you can't afford."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "Contract literacy is empowerment. Understanding contracts lets you negotiate better terms and make informed decisions."
             }
           },
@@ -297,7 +298,7 @@
         "layoutData": {
           "title": "Protecting Your Financial Future",
           "paragraphs": [
-            "Understanding contracts isn't about avoiding all agreements\u2014it's about knowing what you're agreeing to:"
+            "Understanding contracts isn't about avoiding all agreements—it's about knowing what you're agreeing to:"
           ],
           "bulletPoints": [
             "<strong>Avoid Unexpected Costs:</strong> Know all fees, penalties, and conditions upfront",
@@ -311,7 +312,8 @@
             "text": "Taking 30 minutes to read a contract can save you thousands of dollars and years of frustration."
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"I didn't read it, so I'm not bound by it.\"\n   → Wrong. Your signature indicates acceptance. Courts assume you read what you signed. Ignorance of terms is not a defense.\n\n2. \"Contracts must be in writing to be enforceable.\"\n   → Many contracts are enforceable verbally. However, certain contracts (real estate, agreements over $500, agreements lasting more than one year) require writing under the Statute of Frauds.\n\n3. \"Standard contract terms aren't negotiable.\"\n   → Many terms ARE negotiable, especially in employment, leases, and major purchases. The worst they can say is no. Always ask about unfavorable terms.\n\n4. \"If a contract is unfair, courts will void it.\"\n   → Courts rarely void contracts for being \"unfair\" to one party. They'll void for fraud, duress, or illegality—but a bad deal you agreed to is usually enforceable.\n\n"
     },
     {
       "number": 12,
@@ -329,8 +331,8 @@
               "<strong>Approach professionally:</strong> Ask questions, express concerns, propose alternatives, get changes in writing."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "Employers often respect candidates who carefully review contracts\u2014it shows attention to detail and professionalism."
+              "icon": "💡",
+              "text": "Employers often respect candidates who carefully review contracts—it shows attention to detail and professionalism."
             }
           },
           "rightPanel": {
@@ -365,7 +367,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83c\udfe2",
+            "icon": "🏢",
             "name": "Aaliyah's Apartment Lease Trap",
             "paragraphs": [
               "Aaliyah signed a 12-month lease without carefully reading the 15-page agreement. Three months later, she got a great job offer in another city.",
@@ -405,7 +407,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udcbc",
+            "icon": "💼",
             "name": "Sofia's Informed Contract Negotiation",
             "paragraphs": [
               "Sofia received a job offer at $52,000. Instead of signing immediately, she <span class=\"highlight-text\">read all five pages carefully</span> and researched unfamiliar terms.",
@@ -442,7 +444,7 @@
       "variant": "amber",
       "content": {
         "badge": "Discussion",
-        "question": "What contracts have you already signed\u2014or will you sign soon?<br><br>What terms might you have accepted without fully understanding?"
+        "question": "What contracts have you already signed—or will you sign soon?<br><br>What terms might you have accepted without fully understanding?"
       }
     },
     {
@@ -481,7 +483,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. B (Notarization). Most contracts don't require notarization—only specific types like real estate deeds do.\n\n2. B (Requires disputes to be settled privately, not in court). Arbitration removes your access to the court system.\n\n3. B (One party can change terms without the other's consent). Typically the company can change prices, features, or terms at will.\n\n4. B (Voidable by the minor). Minors can typically void contracts they sign; they lack full capacity.\n\n5. Never sign under pressure. Ask for time (24-48 hours minimum) to read the entire lease. If the landlord won't wait, that's a red flag. Any legitimate offer will allow reasonable review time. Read every page, calculate total costs, and identify termination conditions before signing.\n\n"
     },
     {
       "number": 18,
@@ -500,7 +503,7 @@
             {
               "number": 2,
               "title": "Read Before Signing",
-              "description": "Your signature binds you\u2014\"I didn't read it\" provides no legal protection"
+              "description": "Your signature binds you—\"I didn't read it\" provides no legal protection"
             },
             {
               "number": 3,
@@ -510,7 +513,7 @@
             {
               "number": 4,
               "title": "Negotiation Is Often Possible",
-              "description": "Ask professionally\u2014many terms can be modified if you request it"
+              "description": "Ask professionally—many terms can be modified if you request it"
             }
           ]
         }
@@ -525,9 +528,9 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udccb Contract Analysis Tool",
-            "description": "Today we built the foundation \u2014 but the real test is what happens when you have to make a decision with tradeoffs. Practice identifying essential contract elements, key terms, and red flags in four real-world financial contracts. You'll analyze an apartment lease, phone contract, gym membership, and personal loan agreement."
+            "icon": "���",
+            "title": "��� Contract Analysis Tool",
+            "description": "Today we built the foundation — but the real test is what happens when you have to make a decision with tradeoffs. Practice identifying essential contract elements, key terms, and red flags in four real-world financial contracts. You'll analyze an apartment lease, phone contract, gym membership, and personal loan agreement."
           },
           "steps": [
             "Identify the 5 essential contract elements",
@@ -545,7 +548,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

@@ -29,9 +29,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "If you earn $70,000, would you keep more money living in <em>Texas</em> or <em>California</em>?<br><br>The answer might surprise you..."
+        "question": "Mia in California and Liam in Texas both earn $70,000 annually. After federal and state taxes, Mia takes home $51,100 while Liam takes home $54,900 with no state income tax—but Texas has significantly higher property taxes than California.<br><br>How does {{STATE_NAME}}'s tax structure compare to states you might consider living in?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read the comparison scenario featuring {{STATE_NAME}}'s {{STATE_INCOME_TAX_RATE}}% income tax rate vs. the national average. Ask the discussion question: 'How does {{STATE_NAME}}'s tax structure compare to states you might consider living in?' Allow 2-3 students to share where they've lived or might consider moving. This introduces the core concept that tax structures vary widely by state and significantly impact take-home income."
     },
     {
       "number": 3,
@@ -87,7 +88,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "Review the 5 key terms on this and the next slide. Draw a progressive tax bracket visual on the board showing how income is divided into brackets like a staircase. List the 7 states with no income tax (Alaska, Florida, Nevada, South Dakota, Tennessee, Texas, Wyoming) and discuss how they fund services differently than {{STATE_NAME}}—often through higher property taxes, sales taxes, or resource-based revenue. Clarify FICA clearly: 6.2% Social Security + 1.45% Medicare = 7.65% total that comes out of every paycheck."
     },
     {
       "number": 5,
@@ -342,7 +344,8 @@
             "infoCard": null
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS TO ADDRESS:\n\n1. 'Moving to a higher tax bracket means ALL my income is taxed at that rate' → CLARIFY: Only the income WITHIN each bracket is taxed at that rate. If you earn $50,000, only $5,275 is taxed at 22%—not all $50,000. This is the most important misconception to correct!\n\n2. 'States with no income tax are always cheaper than {{STATE_NAME}}' → CLARIFY: No-income-tax states often have higher property taxes, sales taxes, or fees. Total tax burden depends on individual circumstances. Compare {{STATE_NAME}}'s {{STATE_PROPERTY_TAX_AVG}}% property tax to Texas's ~1.8%.\n\n3. 'FICA taxes are optional' → CLARIFY: FICA (Social Security + Medicare) is mandatory for all wage earners. It funds programs you'll likely use in retirement. This is not optional and cannot be opted out of.\n\nAddress these proactively during discussion, especially #1 which causes significant confusion about how tax brackets work."
     },
     {
       "number": 12,
@@ -497,7 +500,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ANSWER KEY:\n\nQ1: No, being in the 22% tax bracket does NOT mean all income is taxed at 22%. Only the income WITHIN each bracket is taxed at that rate. For example, if you earn $50,000: the first $11,000 is taxed at 10% ($1,100), the next $33,725 is taxed at 12% ($4,047), and only the last $5,275 is taxed at 22% ($1,161). Total tax is $6,308, which is an effective rate of 12.6%—not 22%.\n\nQ2: FICA taxes fund Social Security (6.2%) and Medicare (1.45%), totaling 7.65% of your paycheck. Social Security provides retirement benefits, disability income, and survivor benefits. Medicare provides healthcare coverage for those 65+ and certain disabled individuals. Your employer matches this 7.65%, so 15.3% total goes to these programs.\n\nQ3: Someone in Texas might still pay similar total taxes to someone in California because while Texas has no state income tax (0%), it has significantly higher property taxes (~1.8% vs. California's 0.77%) and potentially higher sales taxes. The total tax burden depends on individual circumstances—homeowners, especially those with expensive properties, may pay more in Texas despite no income tax.\n\nQ4: Sales tax is considered regressive because lower-income people spend a higher percentage of their income on taxable goods, so sales tax takes a larger share of their total income compared to wealthy people who save/invest more. Even though everyone pays the same rate (e.g., {{STATE_SALES_TAX}}%), it represents a bigger burden for those with less income."
     },
     {
       "number": 18,

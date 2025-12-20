@@ -24,9 +24,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Maria checked her credit card statement and noticed several large purchases she didn't make—<em>electronics totaling nearly $3,000</em>, shipped to an unfamiliar address across the country.<br><br>She didn't know how her information was stolen, and she felt paralyzed about what to do next.<br><br><strong>What should Maria do immediately, and how could she have prevented this from happening?</strong>"
+        "question": "Maria discovered $3,000 in fraudulent electronics purchases on her credit card statement, shipped to an unknown address. She was unsure how her information was stolen or what steps to take.<br><br><strong>What should Maria do immediately, and how could she have prevented this from happening?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Maria's credit card fraud scenario aloud. Ask: 'How would you feel discovering $3,000 in charges you didn't make?' Discuss: How might her information have been stolen?"
     },
     {
       "number": 3,
@@ -296,7 +297,8 @@
             "text": "📝 IdentityTheft.gov creates a personalized recovery plan with pre-filled letters and step-by-step guidance."
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"Identity theft only happens online.\" → Physical methods like mail theft, dumpster diving, and skimming are still common. Protection requires securing both digital and physical information.\n• \"I'm too young to be a target.\" → Young people are actually attractive targets because they may not monitor their credit. Some discover theft only when applying for college loans or first jobs.\n• \"A fraud alert and credit freeze are the same.\" → A fraud alert warns creditors to verify identity but doesn't prevent new accounts. A freeze actually blocks access to your credit report."
     },
     {
       "number": 12,
@@ -455,7 +457,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\n1. A credit freeze blocks new credit inquiries; a fraud alert warns creditors to verify identity. Use a freeze for ongoing protection; use a fraud alert immediately after suspected theft.\n2. To claim the victim's tax refund. The thief files early with false income information and steals the refund before the real taxpayer files.\n3. (1) Call credit card company to report fraud and cancel card, (2) Review other accounts for suspicious activity, (3) Place a fraud alert with a credit bureau.\n4. Not all creditors report to all three bureaus, so fraudulent activity might appear on only one report. Checking all three ensures complete visibility of your credit profile."
     },
     {
       "number": 18,

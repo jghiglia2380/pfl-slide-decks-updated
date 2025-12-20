@@ -24,7 +24,8 @@
         "label": "The Challenge",
         "question": "The Martinez family's story spans three generations and two economic systems. In 1960, Carlos fled Cuba after Castro's revolution nationalized his father's grocery business.<br><br>Arriving in Miami with <em>$300</em>, Carlos worked two jobs, saved aggressively, and within 5 years opened a bodega. Over 30 years, he built a business worth <em>$600,000</em>. His daughter Elena expanded to 3 locations with 35 employees.<br><br>Meanwhile, relatives who stayed in Cuba earn <em>$30-50/month</em> with no path to wealth accumulation.<br><br><strong>Same family, same work ethic\u2014vastly different results. How does your economic system determine your opportunities?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "**Discussion Prompts:**\n- Why did Carlos succeed in America but his relatives couldn't succeed in Cuba with the same work ethic?\n- What specific features of the U.S. system enabled Carlos to build a $600,000 business?\n- How do economic systems create vastly different opportunities?"
     },
     {
       "number": 3,
@@ -338,7 +339,8 @@
             "infoCard": null
           }
         }
-      }
+      },
+      "notes": "## Common Misconceptions\n\n| Misconception | Clarification |\n|---------------|---------------|\n| \"The USA is pure capitalism.\" | The USA is a mixed economy with significant government roles: public education, Social Security, Medicare, environmental regulations, antitrust laws, etc. About 25% of GDP involves government spending. |\n| \"Socialism means everyone is equal and prosperous.\" | While socialism aims for equality, historical command economies (USSR, Cuba, North Korea) produced widespread poverty and shortages. Equality often meant everyone equally poor (except political elites). |\n| \"Capitalism causes all poverty and inequality.\" | While market economies can produce inequality, they've also produced unprecedented poverty reduction globally. Most poverty occurs in countries with weak market institutions and property rights, not strong capitalist systems. |"
     },
     {
       "number": 12,
@@ -488,7 +490,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "## Answer Key\n\n**Question 1:** B (Through voluntary exchanges between buyers and sellers—prices coordinate decisions). In capitalism, millions of individual decisions by consumers and producers determine what gets made. In socialism, central planners make these decisions.\n\n**Question 2:** Property rights enable: (1) **Home equity building**—you can own, improve, and sell your home; mortgage possible because lender can foreclose if you default; (2) **Business ownership**—you keep profits, can sell business, use it as loan collateral; (3) **Investment**—buy stocks knowing companies can't arbitrarily seize your ownership shares. Without property rights, lenders can't foreclose on homes or seize business assets if borrowers default, so banks won't lend because they have no way to recover money. This eliminates mortgages and business loans for most people.\n\n**Question 3:** Countries with more economic freedom have higher incomes because: (1) Property rights encourage investment and entrepreneurship; (2) Market prices coordinate resources efficiently; (3) Competition drives innovation and quality; (4) Profit incentives motivate productivity; (5) Economic freedom typically correlates with political freedom and rule of law. The data is clear: South Korea vs. North Korea (19x income gap), West vs. East Germany (3x gap), Chile vs. Venezuela show that systems matter more than culture, geography, or natural resources.\n\n**Question 4:** B (Mixed economy—mostly private ownership but with government providing public goods, regulation, and social programs). The US has private businesses alongside public schools, Social Security, Medicare, FDA regulation, environmental laws, antitrust enforcement, etc. About 25% of GDP involves government spending.\n\n**Additional Context:**\n- **Trade-off:** Freedom vs. security. Capitalism offers more individual choice and wealth potential but less guaranteed security; socialism offers more security but restricts freedom and typically produces less prosperity. Different people prefer different balances based on their risk tolerance, confidence in abilities, and values.\n- Personal opportunities in the US system include: starting businesses, choosing careers, negotiating salaries, investing in stocks/real estate, building wealth through property ownership, accessing credit markets."
     },
     {
       "number": 18,

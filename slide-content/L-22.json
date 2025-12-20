@@ -25,9 +25,10 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Marcus needs <em>$1,500</em> for an emergency car repair to keep his job. With a credit score of 650, he's comparing three options:<br><br>\u2022 Credit union personal loan: <em>8% APR</em><br>\u2022 Credit card: <em>18% APR</em><br>\u2022 Payday loan advertising 'quick cash': <em>400% APR</em> (fine print)<br><br>The payday loan seems easiest\u2014same-day approval!<br><br>How can Marcus determine which credit source will cost him the least and keep him out of a debt trap?"
+        "question": "Marcus needs <em>$1,500</em> for an emergency car repair to keep his job. With a credit score of 650, he's comparing three options: • Credit union personal loan: <em>8% APR</em><br>• Credit card: <em>18% APR</em><br>• Payday loan advertising 'quick cash': <em>400% APR</em> (fine print)   How can Marcus determine which credit source will cost him the least and keep him out of a debt trap?    How can Marcus determine which credit source will cost him the least and keep him out of a debt trap? <br><br>   How can Marcus determine which credit source will cost him the least and keep him out of a debt trap?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "DISCUSSION PROMPTS:\nTHE CHALLENGE (5 min):\n• Read Marcus's emergency car repair scenario aloud.\n• Discussion: \"Why might someone choose a payday loan even knowing it costs more?\"\n• Introduce the concept of predatory lending as exploiting urgent needs.\n"
     },
     {
       "number": 3,
@@ -78,8 +79,8 @@
             },
             {
               "term": "Payday Lender",
-              "definition": "A lender offering small, short-term loans with extremely high interest rates\u2014often 300-500% APR when annualized.",
-              "example": "Borrowing $500 for 2 weeks might cost $75 in fees\u2014that's 391% APR!"
+              "definition": "A lender offering small, short-term loans with extremely high interest rates—often 300-500% APR when annualized.",
+              "example": "Borrowing $500 for 2 weeks might cost $75 in fees—that's 391% APR!"
             }
           ]
         }
@@ -125,10 +126,10 @@
               "<strong>3. Online Lenders:</strong> Convenient, rates vary widely",
               "<strong>4. Credit Cards:</strong> Easy access, 15-25% APR",
               "<strong>5. Consumer Finance:</strong> 20-35% APR, fewer requirements",
-              "<strong>6. Payday/Title Lenders:</strong> 300-500%+ APR\u2014AVOID!"
+              "<strong>6. Payday/Title Lenders:</strong> 300-500%+ APR—AVOID!"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "The easier it is to get approved, the more expensive the credit usually is."
             }
           },
@@ -164,7 +165,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83e\udd1d",
+            "icon": "🤝",
             "title": "CREDIT UNIONS",
             "items": [
               "Member-owned (you're an owner!)",
@@ -176,7 +177,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83c\udfe6",
+            "icon": "🏦",
             "title": "BANKS",
             "items": [
               "Shareholder-owned (profit motive)",
@@ -208,8 +209,8 @@
               "<strong>The average payday borrower</strong> is in debt for 5 months of the year."
             ],
             "highlightBox": {
-              "icon": "\u26a0\ufe0f",
-              "text": "That $75 'fee' on $500 for 2 weeks = 391% APR. It's not a small fee\u2014it's predatory interest."
+              "icon": "⚠️",
+              "text": "That $75 'fee' on $500 for 2 weeks = 391% APR. It's not a small fee—it's predatory interest."
             }
           },
           "rightPanel": {
@@ -248,12 +249,12 @@
             "Let's calculate what Marcus actually pays for his $1,500 car repair:"
           ],
           "bulletPoints": [
-            "<strong>Credit Union (8% APR, 12 months):</strong> Monthly payment $130, Total interest $60 \u2192 <strong>Total: $1,560</strong>",
-            "<strong>Credit Card (18% APR, 12 months):</strong> Monthly payment $138, Total interest $156 \u2192 <strong>Total: $1,656</strong>",
-            "<strong>Payday Loan (400% APR, 2 weeks):</strong> Single term $1,730... but if rolled over 4 times \u2192 <strong>Total: $2,420</strong>"
+            "<strong>Credit Union (8% APR, 12 months):</strong> Monthly payment $130, Total interest $60 → <strong>Total: $1,560</strong>",
+            "<strong>Credit Card (18% APR, 12 months):</strong> Monthly payment $138, Total interest $156 → <strong>Total: $1,656</strong>",
+            "<strong>Payday Loan (400% APR, 2 weeks):</strong> Single term $1,730... but if rolled over 4 times → <strong>Total: $2,420</strong>"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcb0 The payday loan costs Marcus $860 MORE than the credit union\u2014enough to cover another repair!"
+            "text": "💰 The payday loan costs Marcus $860 MORE than the credit union—enough to cover another repair!"
           }
         }
       }
@@ -279,7 +280,7 @@
             "<strong>Encouraging you to borrow more:</strong> 'You qualify for $5,000!' when you asked for $500"
           ],
           "keyPoint": {
-            "text": "\ud83d\udea8 If it seems too easy or too good to be true, it probably is. Always read the fine print!"
+            "text": "🚨 If it seems too easy or too good to be true, it probably is. Always read the fine print!"
           }
         }
       }
@@ -319,7 +320,8 @@
             }
           }
         }
-      }
+      },
+      "notes": "COMMON MISCONCEPTIONS:\n\n1. \"Payday loans are only for irresponsible people.\"\n   → Many borrowers are working people facing emergencies without access to traditional credit. The problem is the product design, not the borrower.\n\n2. \"Credit unions are only for certain jobs or groups.\"\n   → Many credit unions now have open membership or easy-to-meet criteria. Check local options—most people can join at least one.\n\n3. \"Banks always have the best rates.\"\n   → Credit unions often beat bank rates because they're not-for-profit. Online lenders can also be competitive for borrowers with good credit.\n\n"
     },
     {
       "number": 12,
@@ -337,12 +339,12 @@
             "<strong>Check your credit score first:</strong> Know what you qualify for before shopping",
             "<strong>Get quotes from multiple sources:</strong> Credit union, bank, online lender (rate shopping within 14-45 days counts as one inquiry)",
             "<strong>Compare APR, not just interest rate:</strong> APR includes fees in the true cost",
-            "<strong>Calculate total cost:</strong> Multiply monthly payment \u00d7 months, add all fees",
+            "<strong>Calculate total cost:</strong> Multiply monthly payment × months, add all fees",
             "<strong>Read the fine print:</strong> Prepayment penalties? Variable rates? Late fees?",
             "<strong>Consider the term:</strong> Longer terms = lower payments but MORE total interest"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcca A 10% APR loan for 5 years costs MORE in total interest than 12% APR for 3 years. Do the math!"
+            "text": "📊 A 10% APR loan for 5 years costs MORE in total interest than 12% APR for 3 years. Do the math!"
           }
         }
       }
@@ -356,10 +358,10 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc64",
+            "icon": "👤",
             "name": "Marcus's Smart Choice",
             "paragraphs": [
-              "Marcus has a 650 credit score\u2014not great, but fair. He needs $1,500 for his car repair urgently to keep his job.",
+              "Marcus has a 650 credit score—not great, but fair. He needs $1,500 for his car repair urgently to keep his job.",
               "The payday lender offers same-day approval. The credit union needs 3 days but offers 8% APR. Marcus talks to his employer and gets a 3-day extension on his deadline."
             ]
           },
@@ -395,7 +397,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69",
+            "icon": "👩",
             "name": "Jasmine's Home Purchase",
             "paragraphs": [
               "Jasmine has excellent credit (780) and is buying her first home. She gets quotes from her bank (6.5% APR), credit union (6.25% APR), and an online lender (6.75% APR).",
@@ -470,7 +472,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "ANSWER KEY:\n\n1. C (Credit unions)\n\n2. Credit unions are not-for-profit and member-owned. Profits go back to members as lower rates and fewer fees rather than to shareholders.\n\n3. $161 × 36 = $5,796 + $100 fee = $5,896 total cost\n\n4. Credit union total: $1,560. Payday 4× rollover: $2,420. Savings: $860\n\n5. Response should include specific alternatives (credit union, payment plan, community resources) and explain WHY payday loans are dangerous (debt cycle, extreme costs).\n\n"
     },
     {
       "number": 18,
@@ -489,7 +492,7 @@
             {
               "number": 2,
               "title": "Avoid Payday Lenders",
-              "description": "300-500% APR creates debt traps. The convenience isn't worth the cost\u2014explore alternatives first."
+              "description": "300-500% APR creates debt traps. The convenience isn't worth the cost—explore alternatives first."
             },
             {
               "number": 3,
@@ -514,9 +517,9 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udd0d",
+            "icon": "🔍",
             "title": "Credit Source Comparison Challenge",
-            "description": "Marcus made a smart choice\u2014but can you help others do the same? Tomorrow you'll analyze real borrowing scenarios, calculate true costs, and develop strategies to avoid predatory lending traps."
+            "description": "Marcus made a smart choice—but can you help others do the same? Tomorrow you'll analyze real borrowing scenarios, calculate true costs, and develop strategies to avoid predatory lending traps."
           },
           "steps": [
             "Match borrowing scenarios to the most appropriate credit source",
@@ -534,7 +537,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

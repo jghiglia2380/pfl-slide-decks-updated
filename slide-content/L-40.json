@@ -26,7 +26,8 @@
         "label": "The Challenge",
         "question": "How can you ensure your charitable donations<br>have the <em>greatest positive impact</em> and don't end up<br>supporting <em>ineffective or fraudulent</em> organizations?"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "speakerNotes": "Read Maria's scenario. Discuss the two legitimate charities AND the suspicious phone call. Ask: \"How would you know if a charity is trustworthy?\" Note that even well-intentioned donors can be deceived without proper research."
     },
     {
       "number": 3,
@@ -130,10 +131,10 @@
             "paragraphs": [
               "Charitable giving is powerful, but not all organizations use donations with the same <strong>efficiency or effectiveness</strong>.",
               "Some may allocate large portions of funds to <strong>administrative costs</strong> rather than direct programs.",
-              "Others might not be <strong>legitimate at all</strong>\u2014charity scams cost Americans hundreds of millions of dollars each year."
+              "Others might not be <strong>legitimate at all</strong>—charity scams cost Americans hundreds of millions of dollars each year."
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "By developing research skills, you become a more informed and impactful donor."
             }
           },
@@ -177,12 +178,12 @@
             "Several organizations provide free tools to help you research and compare charitable groups:"
           ],
           "bulletPoints": [
-            "<strong>\ud83c\udf1f Charity Navigator:</strong> Star ratings, financial health metrics, 9,000+ charities evaluated",
-            "<strong>\ud83d\udccb GuideStar:</strong> Access to Form 990 tax returns, transparency ratings, 1.8M+ organizations",
-            "<strong>\u2713 BBB Wise Giving Alliance:</strong> Evaluates against 20 accountability standards",
-            "<strong>\ud83d\udcca CharityWatch:</strong> Grades on financial efficiency, highlights concerns like excessive reserves"
+            "<strong>🌟 Charity Navigator:</strong> Star ratings, financial health metrics, 9,000+ charities evaluated",
+            "<strong>📋 GuideStar:</strong> Access to Form 990 tax returns, transparency ratings, 1.8M+ organizations",
+            "<strong>✓ BBB Wise Giving Alliance:</strong> Evaluates against 20 accountability standards",
+            "<strong>📊 CharityWatch:</strong> Grades on financial efficiency, highlights concerns like excessive reserves"
           ],
-          "keyPoint": "\ud83d\udca1 Use multiple sources\u2014each tool evaluates charities using different criteria, giving you a more complete picture."
+          "keyPoint": "💡 Use multiple sources—each tool evaluates charities using different criteria, giving you a more complete picture."
         }
       }
     },
@@ -203,7 +204,7 @@
               "<strong>Executive Compensation:</strong> Are leadership salaries reasonable for the organization's size?"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "Remember: Some overhead is necessary for effective operations. The key is finding the right balance."
             }
           },
@@ -244,7 +245,7 @@
             "<strong>E</strong>valuate: Research each organization using charity evaluation tools",
             "<strong>D</strong>ecide: Choose the organization that best meets your criteria"
           ],
-          "keyPoint": "\ud83d\udca1 Your criteria might include: program effectiveness, financial health, local vs. global impact, transparency, alignment with values."
+          "keyPoint": "💡 Your criteria might include: program effectiveness, financial health, local vs. global impact, transparency, alignment with values."
         }
       }
     },
@@ -259,11 +260,11 @@
           "leftPanel": {
             "title": "Watch Out For These Red Flags",
             "paragraphs": [
-              "\ud83d\udea9 <strong>Pressure for immediate donations:</strong> Legitimate charities give you time to research",
-              "\ud83d\udea9 <strong>Vague or emotional appeals:</strong> Look for specific program details and outcomes",
-              "\ud83d\udea9 <strong>Refusal to provide documentation:</strong> Legitimate charities share financial statements",
-              "\ud83d\udea9 <strong>Name confusion:</strong> Scammers use names similar to well-known charities",
-              "\ud83d\udea9 <strong>Cash-only donations:</strong> Legitimate charities accept checks and credit cards with receipts"
+              "🚩 <strong>Pressure for immediate donations:</strong> Legitimate charities give you time to research",
+              "🚩 <strong>Vague or emotional appeals:</strong> Look for specific program details and outcomes",
+              "🚩 <strong>Refusal to provide documentation:</strong> Legitimate charities share financial statements",
+              "🚩 <strong>Name confusion:</strong> Scammers use names similar to well-known charities",
+              "🚩 <strong>Cash-only donations:</strong> Legitimate charities accept checks and credit cards with receipts"
             ],
             "highlightBox": null
           },
@@ -276,7 +277,7 @@
               }
             ],
             "infoCard": {
-              "title": "\u2713 Legitimate Charities Will:",
+              "title": "✓ Legitimate Charities Will:",
               "color": "green",
               "items": [
                 "Give you time to research",
@@ -308,7 +309,7 @@
               "<strong>4. Review Form 990:</strong> Available on GuideStar and the organization's website"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "If an organization refuses to provide their EIN or tax documentation, that's a major red flag."
             }
           },
@@ -326,7 +327,8 @@
             }
           }
         }
-      }
+      },
+      "speakerNotes": "COMMON MISCONCEPTIONS:\n• \"\"The lowest overhead percentage is always the best charity.\"\" → Extremely low overhead can indicate underinvestment in staff, research, or impact measurement. What matters is results, not just efficiency ratios.\n• \"\"If they called me, they must be legitimate.\"\" → Phone solicitation is a common scam tactic. Legitimate charities rarely pressure for immediate donations. Always research independently before giving.\n• \"\"I can trust charities with names I recognize.\"\" → Scammers deliberately use names similar to well-known organizations (e.g., \"American Cancer Fund\" vs. \"American Cancer Society\"). Always verify the exact organization."
     },
     {
       "number": 12,
@@ -341,13 +343,13 @@
             "paragraphs": [
               "Beyond financial metrics, effective charities track and report their <strong>actual impact</strong>:",
               "",
-              "\u2022 How many people were served?",
-              "\u2022 What specific outcomes were achieved?",
-              "\u2022 How do results compare to goals?",
-              "\u2022 What evidence supports their effectiveness?"
+              "• How many people were served?",
+              "• What specific outcomes were achieved?",
+              "• How do results compare to goals?",
+              "• What evidence supports their effectiveness?"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
+              "icon": "💡",
               "text": "The best charities publish annual impact reports with specific metrics and stories demonstrating real results."
             }
           },
@@ -377,7 +379,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83c\udf31",
+            "icon": "🌱",
             "name": "Maria's PACED Analysis",
             "paragraphs": [
               "Maria has $500 to donate for environmental conservation. She wants to make sure her money has real impact, so she researched two organizations using evaluation tools:",
@@ -386,7 +388,7 @@
               "",
               "<strong>Green Planet Alliance:</strong> 75% to programs, global policy focus on climate legislation, 8 years operating, detailed impact reports with specific metrics, experiencing rapid growth",
               "",
-              "Using the PACED model, Maria decided EcoAction better aligned with her values\u2014she prefers supporting local environmental efforts with lower overhead and a proven track record, even though they have less detailed reporting."
+              "Using the PACED model, Maria decided EcoAction better aligned with her values—she prefers supporting local environmental efforts with lower overhead and a proven track record, even though they have less detailed reporting."
             ]
           },
           "outcomes": [
@@ -421,7 +423,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udea8",
+            "icon": "🚨",
             "name": "John Identifies a Scam",
             "paragraphs": [
               "John received a phone call from \"Children's Cancer Relief Fund\" pressuring him for an immediate credit card donation. The caller mentioned a \"matching gift deadline\" expiring in 30 minutes and used high-pressure emotional appeals.",
@@ -504,7 +506,8 @@
             }
           ]
         }
-      }
+      },
+      "speakerNotes": "ASSESSMENT ANSWER KEY:\nQ2 Red Flags:Any FOUR of: pressure for immediate donations, refuses to provide detailed information, names similar to well-known organizations, no tax ID or proof of 501(c)(3) status, no financial transparency, vague mission, unusually high administrative costs, no physical address, new/hastily created website.\nCYU 1:B (The percentage of funds going directly to programs vs. overhead)\nCYU 2:C (Being new is not a red flag; many legitimate charities are young. The other options ARE legitimate concerns.)\nCYU 3:Form 990 contains: revenue sources, expenses/program costs, assets and liabilities, executive compensation, mission and program activities.\nCYU 4:A lower program expense ratio might be justified by: better impact measurement, research-based approaches, advocacy that creates systemic change, professional staff for complex issues, or transparency about how overhead improves outcomes."
     },
     {
       "number": 18,
@@ -518,7 +521,7 @@
             {
               "number": 1,
               "title": "Research Before Giving",
-              "description": "Not all charities are equally effective\u2014researching ensures your donations have real impact"
+              "description": "Not all charities are equally effective—researching ensures your donations have real impact"
             },
             {
               "number": 2,
@@ -548,7 +551,7 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d\udd0d",
+            "icon": "🔍",
             "title": "Charity Research Activity",
             "description": "Practice researching a real charitable organization to ensure your future donations have maximum positive impact. Choose a charity you're familiar with or interested in supporting, then use evaluation tools to gather information."
           },
@@ -568,7 +571,7 @@
       "content": {
         "tagline": "\"Informed giving multiplies your impact\"",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

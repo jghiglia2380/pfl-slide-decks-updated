@@ -26,7 +26,8 @@
         "label": "The Challenge",
         "question": "Priya, 24, landed her first full-time job earning <em>$45,000 annually</em>. Feeling overwhelmed by investment choices, she researched simple strategies.<br><br>She decided to invest 15% of her income (<em>$563/month</em>) split between two low-cost index ETFs: 80% stocks, 20% bonds\u2014both with expense ratios under 0.05%.<br><br>By age 30, her disciplined approach built a portfolio worth <em>over $52,000</em> despite market volatility\u2014all from a simple two-fund strategy.<br><br><strong>How can understanding different investment types help you build wealth aligned with your financial goals and risk tolerance?</strong>"
       },
-      "headerColor": "amber"
+      "headerColor": "amber",
+      "notes": "**Discussion Prompts:**\n- Why do you think Priya chose a simple two-fund approach rather than trying to pick individual stocks?\n- What advantages do low-cost index ETFs provide for beginning investors?\n- How does understanding investment types remove the intimidation from investing?"
     },
     {
       "number": 3,
@@ -314,7 +315,8 @@
             "text": "\ud83d\udcc5 The younger you are, the more stocks you can hold. As you age, gradually shift toward bonds."
           }
         }
-      }
+      },
+      "notes": "## Common Misconceptions\n\n| Misconception | Clarification |\n|---------------|---------------|\n| \"Investing is only for wealthy people.\" | Many ETFs can be purchased for under $100 per share, and some brokerages offer fractional shares. Starting with $50-100/month is perfectly reasonable and compounds significantly over time. |\n| \"You need to pick individual stocks to make money.\" | Research consistently shows that most professional investors can't beat simple index funds over time. Low-cost index funds outperform most active stock pickers after fees. |\n| \"Bonds are always safe.\" | Bonds carry interest rate risk (prices fall when rates rise) and credit risk (issuer might default). They're typically less volatile than stocks but not risk-free. |"
     },
     {
       "number": 12,
@@ -477,7 +479,8 @@
             }
           ]
         }
-      }
+      },
+      "notes": "## Answer Key\n\n**Question 1:** B (Stocks—historically ~10% average returns but with significant year-to-year swings)\n\n**Question 2:** B (Lower fees and intraday trading flexibility; ETFs often charge 0.03-0.25% vs. 0.5-1.5% for mutual funds)\n\n**Question 3:** Approximately $133,000. Using the fee comparison: Low-cost ETF (0.03%) final value: $733,904; High-cost fund (1.25%) final value: $600,430. Difference: $133,474 — equivalent to about 22 years of contributions lost to fees!\n\n**Question 4:** With only 3 years, there isn't enough time to recover from a market downturn. Stocks can lose 30%+ in a bad year. A crash right before needing the money could delay the goal by years. Short timelines require stable investments like bonds, CDs, or high-yield savings.\n\n**Additional Context:**\n- Diversification reduces risk because different assets don't move together. When stocks fall, bonds often rise. When one industry struggles, others may thrive. This smooths out returns without reducing expected growth—you get risk reduction \"for free.\"\n- Young investors have time to recover from market downturns, so they can accept volatility for higher returns. Older investors need to protect accumulated wealth and have less time to recover, so they shift toward stable bonds.\n- Personal investment plans should include: realistic assessment of time horizon, consideration of risk tolerance, recognition of need for diversification, and specific steps like opening an account or starting with a target-date fund."
     },
     {
       "number": 18,
