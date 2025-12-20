@@ -2,7 +2,7 @@
   "metadata": {
     "lChapter": "L-18",
     "title": "UnderstandingMoney Risks",
-    "subtitle": "Identifying and Managing Financial Risks in {{STATE_NAME}}",
+    "subtitle": "Identifying and Managing Financial Risks",
     "totalSlides": 20,
     "hasStateVariables": true,
     "stateVariablesUsed": [
@@ -16,21 +16,22 @@
       "content": {
         "title": "UnderstandingMoney Risks",
         "titleSize": "large",
-        "subtitle": "Identifying and Managing Financial Risks in {{STATE_NAME}}"
+        "subtitle": "Identifying and Managing Financial Risks"
       }
     },
     {
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question in {{STATE_NAME}}",
-        "question": "What could go wrong with your <em>savings and investments</em>?<br><br>And how can you <em>protect yourself</em> from financial risks? in {{STATE_NAME}}"
-      }
+        "label": "The Challenge",
+        "question": "What could go wrong with your <em>savings and investments</em>?<br><br>And how can you <em>protect yourself</em> from financial risks?"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -63,21 +64,21 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
-              "term": "Market Risk in {{STATE_NAME}}",
-              "definition": "The possibility of losses due to factors affecting the overall financial markets—recessions, global events, policy changes.",
-              "example": "Tech stocks fell 30% during a market downturn—affecting all investors in that sector"
+              "term": "Market Risk",
+              "definition": "The possibility of losses due to factors affecting the overall financial markets\u2014recessions, global events, policy changes.",
+              "example": "Tech stocks fell 30% during a market downturn\u2014affecting all investors in that sector"
             },
             {
-              "term": "Financial Risk in {{STATE_NAME}}",
+              "term": "Financial Risk",
               "definition": "Risk related to a specific company's ability to manage debt and meet its financial obligations.",
-              "example": "A company goes bankrupt and can't repay bondholders—investors lose money"
+              "example": "A company goes bankrupt and can't repay bondholders\u2014investors lose money"
             }
           ]
         }
@@ -86,19 +87,19 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
-              "term": "Inflation Risk in {{STATE_NAME}}",
-              "definition": "The risk that your money's purchasing power decreases over time as prices rise—the \"silent thief.\"",
+              "term": "Inflation Risk",
+              "definition": "The risk that your money's purchasing power decreases over time as prices rise\u2014the \"silent thief.\"",
               "example": "$10,000 earning 1% while inflation is 3% = losing 2% buying power yearly"
             },
             {
-              "term": "Fraud Risk in {{STATE_NAME}}",
+              "term": "Fraud Risk",
               "definition": "The danger of losing money to scams, deceptive practices, or fraudulent investment schemes.",
               "example": "\"Guaranteed 20% returns with no risk\" = almost always a scam!"
             }
@@ -109,7 +110,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "What is Financial Risk?",
         "layout": "balanced-layout",
@@ -121,15 +122,15 @@
               "This can mean:"
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚠️ It's impossible to eliminate all risk—but you CAN manage it with the right strategies!"
+              "icon": "\ud83d\udca1",
+              "text": "\u26a0\ufe0f It's impossible to eliminate all risk\u2014but you CAN manage it with the right strategies!"
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "4 in {{STATE_NAME}}",
-                "label": "Main Types of Financial Risk in {{STATE_NAME}}",
+                "value": "4",
+                "label": "Main Types of Financial Risk",
                 "color": "rose"
               }
             ],
@@ -150,38 +151,38 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Market Risk: When Markets Move Against You",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "📉 in {{STATE_NAME}}",
-            "name": "Anna's Tech Stock Investment in {{STATE_NAME}}",
+            "icon": "\ud83d\udcc9",
+            "name": "Anna's Tech Stock Investment",
             "paragraphs": [
               "Anna invested <strong>$5,000</strong> in a technology company's stock, believing in the industry's growth potential.",
-              "When a new competitor entered the market and tech stocks generally declined, her investment dropped to <span class=\"highlight-text\">$4,200</span>—a loss of $800.",
-              "<strong>Key Lesson:</strong> Market-wide factors (recessions, political events, industry shifts) can affect individual investments—even good companies can lose value when the whole market drops."
+              "When a new competitor entered the market and tech stocks generally declined, her investment dropped to <span class=\"highlight-text\">$4,200</span>\u2014a loss of $800.",
+              "<strong>Key Lesson:</strong> Market-wide factors (recessions, political events, industry shifts) can affect individual investments\u2014even good companies can lose value when the whole market drops."
             ]
           },
           "outcomes": [
             {
               "type": "before",
-              "label": "Anna's Investment in {{STATE_NAME}}",
-              "value": "$5,000 in {{STATE_NAME}}",
-              "detail": "Initial investment in {{STATE_NAME}}"
+              "label": "Anna's Investment",
+              "value": "$5,000",
+              "detail": "Initial investment"
             },
             {
               "type": "before",
-              "label": "After Market Decline in {{STATE_NAME}}",
-              "value": "$4,200 in {{STATE_NAME}}",
-              "detail": "-16% loss in {{STATE_NAME}}"
+              "label": "After Market Decline",
+              "value": "$4,200",
+              "detail": "-16% loss"
             },
             {
               "type": "after",
-              "label": "Protection Strategy in {{STATE_NAME}}",
-              "value": "Diversify in {{STATE_NAME}}",
-              "detail": "Don't put all in one sector in {{STATE_NAME}}"
+              "label": "Protection Strategy",
+              "value": "Diversify",
+              "detail": "Don't put all in one sector"
             }
           ]
         }
@@ -190,7 +191,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Financial Risk & Inflation Risk",
         "layout": "balanced-layout",
@@ -217,7 +218,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Fraud Risk: Protecting Yourself from Scams",
         "layout": "balanced-layout",
@@ -230,15 +231,15 @@
               "By recognizing these <strong>red flags</strong>, Taylor avoided a potential scam!"
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚠️ If it sounds too good to be true, it probably IS too good to be true!"
+              "icon": "\ud83d\udca1",
+              "text": "\u26a0\ufe0f If it sounds too good to be true, it probably IS too good to be true!"
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "$4.6B in {{STATE_NAME}}",
-                "label": "Lost to Investment Fraud (2023) in {{STATE_NAME}}",
+                "value": "$4.6B",
+                "label": "Lost to Investment Fraud (2023)",
                 "color": "rose"
               }
             ],
@@ -260,7 +261,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Understanding Your Risk Tolerance",
         "layout": "concept-full",
@@ -276,7 +277,7 @@
             "<strong>Key factors:</strong> Your age, time horizon, financial goals, income stability, and emotional response to losses."
           ],
           "keyPoint": {
-            "text": "🎯 Knowing your risk tolerance helps you choose investments you can stick with through market ups and downs!"
+            "text": "\ud83c\udfaf Knowing your risk tolerance helps you choose investments you can stick with through market ups and downs!"
           }
         }
       }
@@ -284,7 +285,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Managing Risk Through Diversification",
         "layout": "balanced-layout",
@@ -293,19 +294,19 @@
             "title": "Don't Put All Your Eggs in One Basket",
             "paragraphs": [
               "<strong>Diversification</strong> means spreading your money across different types of investments to reduce risk.",
-              "Different assets respond differently to economic events. When one investment goes down, others might go up—smoothing out your overall returns.",
+              "Different assets respond differently to economic events. When one investment goes down, others might go up\u2014smoothing out your overall returns.",
               "<strong>The Power:</strong> If all your money is in one stock and it tanks, you could lose everything. But if you're spread across 20 investments, one failure won't devastate you."
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "🥚 Diversification is one of the few \"free lunches\" in investing—reduce risk without sacrificing returns!"
+              "icon": "\ud83d\udca1",
+              "text": "\ud83e\udd5a Diversification is one of the few \"free lunches\" in investing\u2014reduce risk without sacrificing returns!"
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "↓ Risk in {{STATE_NAME}}",
-                "label": "More Diversification in {{STATE_NAME}}",
+                "value": "\u2193 Risk",
+                "label": "More Diversification",
                 "color": "green"
               }
             ],
@@ -326,7 +327,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Asset Allocation: Dividing Your Portfolio",
         "layout": "balanced-layout",
@@ -340,25 +341,25 @@
               "<strong>Cash/Equivalents:</strong> Lower risk, lower return. Safe but doesn't grow much."
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚖️ Your ideal mix depends on when you need the money and how much volatility you can handle!"
+              "icon": "\ud83d\udca1",
+              "text": "\u2696\ufe0f Your ideal mix depends on when you need the money and how much volatility you can handle!"
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "Aggressive in {{STATE_NAME}}",
-                "label": "80% stocks / 20% bonds in {{STATE_NAME}}",
+                "value": "Aggressive",
+                "label": "80% stocks / 20% bonds",
                 "color": "purple"
               },
               {
-                "value": "Moderate in {{STATE_NAME}}",
-                "label": "60% stocks / 40% bonds in {{STATE_NAME}}",
+                "value": "Moderate",
+                "label": "60% stocks / 40% bonds",
                 "color": "teal"
               },
               {
-                "value": "Conservative in {{STATE_NAME}}",
-                "label": "30% stocks / 70% bonds in {{STATE_NAME}}",
+                "value": "Conservative",
+                "label": "30% stocks / 70% bonds",
                 "color": "green"
               }
             ],
@@ -370,14 +371,14 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example: The Danger of No Diversification",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "😰 in {{STATE_NAME}}",
-            "name": "Jamie's Single-Stock Disaster in {{STATE_NAME}}",
+            "icon": "\ud83d\ude30",
+            "name": "Jamie's Single-Stock Disaster",
             "paragraphs": [
               "Jamie loved a particular tech company and invested their entire <strong>$20,000</strong> savings in that one stock.",
               "When the company faced unexpected competition and regulatory issues, the stock dropped 70%. Jamie's $20,000 became <span class=\"highlight-text\">$6,000</span>.",
@@ -387,21 +388,21 @@
           "outcomes": [
             {
               "type": "before",
-              "label": "Starting Investment in {{STATE_NAME}}",
-              "value": "$20,000 in {{STATE_NAME}}",
-              "detail": "100% in one stock in {{STATE_NAME}}"
+              "label": "Starting Investment",
+              "value": "$20,000",
+              "detail": "100% in one stock"
             },
             {
               "type": "before",
-              "label": "After Stock Crashed in {{STATE_NAME}}",
-              "value": "$6,000 in {{STATE_NAME}}",
-              "detail": "-70% loss! in {{STATE_NAME}}"
+              "label": "After Stock Crashed",
+              "value": "$6,000",
+              "detail": "-70% loss!"
             },
             {
               "type": "after",
-              "label": "If Diversified in {{STATE_NAME}}",
-              "value": "~$16,000 in {{STATE_NAME}}",
-              "detail": "Loss would be cushioned in {{STATE_NAME}}"
+              "label": "If Diversified",
+              "value": "~$16,000",
+              "detail": "Loss would be cushioned"
             }
           ]
         }
@@ -410,14 +411,14 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example: The Power of Diversification",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "😊 in {{STATE_NAME}}",
-            "name": "Morgan's Diversified Portfolio in {{STATE_NAME}}",
+            "icon": "\ud83d\ude0a",
+            "name": "Morgan's Diversified Portfolio",
             "paragraphs": [
               "Morgan invested the same <strong>$20,000</strong> but spread it across an index fund covering 500 companies.",
               "When that same tech company crashed, Morgan's portfolio only dropped about 15% because the loss was just a small part of the total.",
@@ -427,21 +428,21 @@
           "outcomes": [
             {
               "type": "before",
-              "label": "Starting Investment in {{STATE_NAME}}",
-              "value": "$20,000 in {{STATE_NAME}}",
-              "detail": "Spread across 500 companies in {{STATE_NAME}}"
+              "label": "Starting Investment",
+              "value": "$20,000",
+              "detail": "Spread across 500 companies"
             },
             {
               "type": "after",
-              "label": "During Market Dip in {{STATE_NAME}}",
-              "value": "$17,000 in {{STATE_NAME}}",
-              "detail": "Only -15% (vs Jamie's -70%) in {{STATE_NAME}}"
+              "label": "During Market Dip",
+              "value": "$17,000",
+              "detail": "Only -15% (vs Jamie's -70%)"
             },
             {
               "type": "after",
-              "label": "One Year Later in {{STATE_NAME}}",
-              "value": "$22,000 in {{STATE_NAME}}",
-              "detail": "Recovered and grew! in {{STATE_NAME}}"
+              "label": "One Year Later",
+              "value": "$22,000",
+              "detail": "Recovered and grew!"
             }
           ]
         }
@@ -452,8 +453,8 @@
       "type": "discussion",
       "variant": "teal",
       "content": {
-        "badge": "Discussion in {{STATE_NAME}}",
-        "question": "Which of the four risk types (market, financial, inflation, fraud) do you think is most dangerous to young investors?<br><br>Why do you think so? in {{STATE_NAME}}"
+        "badge": "Discussion",
+        "question": "Which of the four risk types (market, financial, inflation, fraud) do you think is most dangerous to young investors?<br><br>Why do you think so?"
       }
     },
     {
@@ -461,16 +462,16 @@
       "type": "discussion",
       "variant": "purple",
       "content": {
-        "badge": "Personal Reflection in {{STATE_NAME}}",
-        "question": "Based on what you know about yourself—your goals, timeline, and comfort with uncertainty—would you describe yourself as Conservative, Moderate, or Aggressive?<br><br>Why? in {{STATE_NAME}}"
+        "badge": "Personal Reflection",
+        "question": "Based on what you know about yourself\u2014your goals, timeline, and comfort with uncertainty\u2014would you describe yourself as Conservative, Moderate, or Aggressive?<br><br>Why?"
       }
     },
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -497,7 +498,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -506,12 +507,12 @@
             {
               "number": 1,
               "title": "Know the Four Risks",
-              "description": "Market, financial, inflation, and fraud risks can all affect your investments—be aware of each"
+              "description": "Market, financial, inflation, and fraud risks can all affect your investments\u2014be aware of each"
             },
             {
               "number": 2,
               "title": "Understand Your Tolerance",
-              "description": "Your risk tolerance determines which investments are right for you—conservative to aggressive"
+              "description": "Your risk tolerance determines which investments are right for you\u2014conservative to aggressive"
             },
             {
               "number": 3,
@@ -521,7 +522,7 @@
             {
               "number": 4,
               "title": "Watch for Fraud",
-              "description": "If it promises high returns with no risk, it's probably a scam—always research before investing"
+              "description": "If it promises high returns with no risk, it's probably a scam\u2014always research before investing"
             }
           ]
         }
@@ -530,7 +531,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -554,9 +555,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "Building Financial Futures, One Lesson at a Time in {{STATE_NAME}}",
-        "website": "www.pflacademy.co in {{STATE_NAME}}",
-        "copyright": "© 2025 PFL Academy. All rights reserved. in {{STATE_NAME}}"
+        "tagline": "Building Financial Futures, One Lesson at a Time",
+        "website": "www.pflacademy.co",
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

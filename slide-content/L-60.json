@@ -2,7 +2,7 @@
   "metadata": {
     "lChapter": "L-60",
     "title": "Understanding Financial Contracts",
-    "subtitle": "Read Before You Sign—Your Money Depends On It",
+    "subtitle": "Read Before You Sign\u2014Your Money Depends On It",
     "totalSlides": 20,
     "hasStateVariables": false,
     "stateVariablesUsed": []
@@ -14,21 +14,22 @@
       "content": {
         "title": "Understanding Financial Contracts",
         "titleSize": "large",
-        "subtitle": "Read Before You Sign—Your Money Depends On It"
+        "subtitle": "Read Before You Sign\u2014Your Money Depends On It"
       }
     },
     {
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
+        "label": "The Challenge",
         "question": "Only <em>7% of people</em> read terms and conditions<br>before clicking \"I agree.\"<br><br>What could you be agreeing to without knowing?"
-      }
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -61,9 +62,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -74,7 +75,7 @@
             },
             {
               "term": "Consideration",
-              "definition": "Something of value exchanged between parties—each must give something for the contract to be valid.",
+              "definition": "Something of value exchanged between parties\u2014each must give something for the contract to be valid.",
               "example": "You pay rent; landlord provides housing. No consideration = gift, not contract."
             }
           ]
@@ -84,9 +85,9 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -107,7 +108,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "5 Elements of a Valid Contract",
         "layout": "balanced-layout",
@@ -122,7 +123,7 @@
               "<strong>5. Legality:</strong> The contract's purpose must be legal."
             ],
             "highlightBox": {
-              "icon": "💡",
+              "icon": "\ud83d\udca1",
               "text": "Missing any element = contract may be invalid or voidable."
             }
           },
@@ -150,7 +151,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Types of Financial Contracts",
         "layout": "concept-full",
@@ -162,10 +163,10 @@
           "bulletPoints": [
             "<strong>Lease Agreements:</strong> Rent, deposits, maintenance, termination penalties",
             "<strong>Loan Agreements:</strong> Principal, interest, payment schedule, default terms",
-            "<strong>Service Contracts:</strong> Phone plans, internet, gym—watch for auto-renewal!",
+            "<strong>Service Contracts:</strong> Phone plans, internet, gym\u2014watch for auto-renewal!",
             "<strong>Employment Contracts:</strong> Salary, benefits, non-compete clauses, termination",
-            "<strong>Purchase Agreements:</strong> Cars, real estate—high stakes, read carefully",
-            "<strong>Credit Agreements:</strong> Cards, lines of credit—know the APR and fees"
+            "<strong>Purchase Agreements:</strong> Cars, real estate\u2014high stakes, read carefully",
+            "<strong>Credit Agreements:</strong> Cards, lines of credit\u2014know the APR and fees"
           ],
           "keyPoint": {
             "text": "The more money involved, the more carefully you should read. Major contracts deserve hours of review, not minutes."
@@ -176,7 +177,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "How to Read Contract Language",
         "layout": "balanced-layout",
@@ -184,14 +185,14 @@
           "leftPanel": {
             "title": "Essential Reading Strategies",
             "paragraphs": [
-              "<strong>1. Read the ENTIRE contract</strong>—never sign without complete review.",
+              "<strong>1. Read the ENTIRE contract</strong>\u2014never sign without complete review.",
               "<strong>2. Identify ALL financial obligations:</strong> payments, fees, penalties.",
               "<strong>3. Locate termination terms:</strong> How do you exit? At what cost?",
               "<strong>4. Watch for automatic renewal:</strong> Does it continue unless you cancel?",
               "<strong>5. Find arbitration clauses:</strong> Do you give up the right to sue?"
             ],
             "highlightBox": {
-              "icon": "💡",
+              "icon": "\ud83d\udca1",
               "text": "If you don't understand a term, research it or ask. Never assume it doesn't matter."
             }
           },
@@ -220,7 +221,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Fine Print Matters",
         "layout": "concept-full",
@@ -246,7 +247,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "The Cost of Contract Illiteracy",
         "layout": "balanced-layout",
@@ -256,10 +257,10 @@
             "paragraphs": [
               "Signing contracts without reading can cost thousands of dollars and limit your future flexibility.",
               "Non-compete clauses can prevent you from taking better jobs for months or years.",
-              "Perpetual payment cycles prevent wealth building—subscription services, gym memberships, and loans you can't afford."
+              "Perpetual payment cycles prevent wealth building\u2014subscription services, gym memberships, and loans you can't afford."
             ],
             "highlightBox": {
-              "icon": "💡",
+              "icon": "\ud83d\udca1",
               "text": "Contract literacy is empowerment. Understanding contracts lets you negotiate better terms and make informed decisions."
             }
           },
@@ -289,14 +290,14 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Contract Literacy Matters",
         "layout": "concept-full",
         "layoutData": {
           "title": "Protecting Your Financial Future",
           "paragraphs": [
-            "Understanding contracts isn't about avoiding all agreements—it's about knowing what you're agreeing to:"
+            "Understanding contracts isn't about avoiding all agreements\u2014it's about knowing what you're agreeing to:"
           ],
           "bulletPoints": [
             "<strong>Avoid Unexpected Costs:</strong> Know all fees, penalties, and conditions upfront",
@@ -315,7 +316,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Contracts CAN Be Negotiated",
         "layout": "balanced-layout",
@@ -328,8 +329,8 @@
               "<strong>Approach professionally:</strong> Ask questions, express concerns, propose alternatives, get changes in writing."
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "Employers often respect candidates who carefully review contracts—it shows attention to detail and professionalism."
+              "icon": "\ud83d\udca1",
+              "text": "Employers often respect candidates who carefully review contracts\u2014it shows attention to detail and professionalism."
             }
           },
           "rightPanel": {
@@ -358,13 +359,13 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "🏢",
+            "icon": "\ud83c\udfe2",
             "name": "Aaliyah's Apartment Lease Trap",
             "paragraphs": [
               "Aaliyah signed a 12-month lease without carefully reading the 15-page agreement. Three months later, she got a great job offer in another city.",
@@ -398,13 +399,13 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "💼",
+            "icon": "\ud83d\udcbc",
             "name": "Sofia's Informed Contract Negotiation",
             "paragraphs": [
               "Sofia received a job offer at $52,000. Instead of signing immediately, she <span class=\"highlight-text\">read all five pages carefully</span> and researched unfamiliar terms.",
@@ -441,7 +442,7 @@
       "variant": "teal",
       "content": {
         "badge": "Discussion",
-        "question": "What contracts have you already signed—or will you sign soon?<br><br>What terms might you have accepted without fully understanding?"
+        "question": "What contracts have you already signed\u2014or will you sign soon?<br><br>What terms might you have accepted without fully understanding?"
       }
     },
     {
@@ -456,9 +457,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -485,7 +486,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -499,7 +500,7 @@
             {
               "number": 2,
               "title": "Read Before Signing",
-              "description": "Your signature binds you—\"I didn't read it\" provides no legal protection"
+              "description": "Your signature binds you\u2014\"I didn't read it\" provides no legal protection"
             },
             {
               "number": 3,
@@ -509,7 +510,7 @@
             {
               "number": 4,
               "title": "Negotiation Is Often Possible",
-              "description": "Ask professionally—many terms can be modified if you request it"
+              "description": "Ask professionally\u2014many terms can be modified if you request it"
             }
           ]
         }
@@ -518,7 +519,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -544,7 +545,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

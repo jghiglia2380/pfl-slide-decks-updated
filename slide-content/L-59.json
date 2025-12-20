@@ -37,14 +37,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
+        "label": "The Challenge",
         "question": "Two identical apartments. Same rent. One costs you<br><em>$1,200 more per year</em> to live in.<br><br>How is this possible?"
-      }
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -77,9 +78,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -100,9 +101,9 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -123,7 +124,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "What Local Taxes Fund",
         "layout": "balanced-layout",
@@ -135,7 +136,7 @@
               "Property taxes are the #1 source of local government revenue, funding essential services you use every day."
             ],
             "highlightBox": {
-              "icon": "💡",
+              "icon": "\ud83d\udca1",
               "text": "Higher taxes often = better schools, safer neighborhoods, well-maintained roads. The question is: are you getting good value?"
             }
           },
@@ -165,7 +166,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "High-Tax vs. Low-Tax Communities",
         "layout": "comparison-grid",
@@ -200,7 +201,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "How Property Tax Is Calculated",
         "layout": "balanced-layout",
@@ -214,8 +215,8 @@
               "<strong>Step 4:</strong> Multiply by millage rate"
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "Formula: (Assessed Value - Exemptions) × Millage Rate ÷ 1,000 = Annual Tax"
+              "icon": "\ud83d\udca1",
+              "text": "Formula: (Assessed Value - Exemptions) \u00d7 Millage Rate \u00f7 1,000 = Annual Tax"
             }
           },
           "rightPanel": {
@@ -227,7 +228,7 @@
               },
               {
                 "value": "{{STATE_ASSESSMENT_PERCENTAGE}}%",
-                "label": "Assessment Ratio in {{STATE_NAME}}",
+                "label": "Assessment Ratio",
                 "color": "purple"
               },
               {
@@ -244,7 +245,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Types of Local Taxes",
         "layout": "concept-full",
@@ -262,7 +263,7 @@
             "<strong>Vehicle Registration:</strong> Local fees added to state registration"
           ],
           "keyPoint": {
-            "text": "The same home in different jurisdictions can cost thousands more annually in local taxes—always calculate the TOTAL burden."
+            "text": "The same home in different jurisdictions can cost thousands more annually in local taxes\u2014always calculate the TOTAL burden."
           }
         }
       }
@@ -270,7 +271,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Local Taxes and Housing Costs",
         "layout": "balanced-layout",
@@ -278,12 +279,12 @@
           "leftPanel": {
             "title": "Property Tax Adds to Monthly Payment",
             "paragraphs": [
-              "When you buy a home, your mortgage payment isn't the whole story. Property taxes are typically escrowed—added to your monthly payment.",
+              "When you buy a home, your mortgage payment isn't the whole story. Property taxes are typically escrowed\u2014added to your monthly payment.",
               "A $1,500 mortgage can become $1,900+ when property taxes (and insurance) are included."
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "Even renters pay—landlords factor property taxes into rent prices. High-tax areas = higher rents, all else being equal."
+              "icon": "\ud83d\udca1",
+              "text": "Even renters pay\u2014landlords factor property taxes into rent prices. High-tax areas = higher rents, all else being equal."
             }
           },
           "rightPanel": {
@@ -316,7 +317,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Local Taxes Matter for Your Future",
         "layout": "concept-full",
@@ -326,15 +327,15 @@
             "Understanding local tax structures is essential for making smart financial decisions throughout your life:"
           ],
           "bulletPoints": [
-            "<strong>Where to Rent:</strong> Factor in local sales taxes and services—not just rent",
+            "<strong>Where to Rent:</strong> Factor in local sales taxes and services\u2014not just rent",
             "<strong>Job Offer Comparisons:</strong> A higher salary in a high-tax city might leave you with LESS money",
-            "<strong>Home Purchases:</strong> Property taxes add hundreds to monthly costs—you may afford less house than you think",
+            "<strong>Home Purchases:</strong> Property taxes add hundreds to monthly costs\u2014you may afford less house than you think",
             "<strong>Voting Decisions:</strong> School levies and bond issues directly affect your tax bill",
             "<strong>Retirement Planning:</strong> Some retirees relocate specifically for lower property taxes",
             "<strong>Business Location:</strong> Entrepreneurs consider local taxes when choosing where to operate"
           ],
           "keyPoint": {
-            "text": "The key is doing the math BEFORE you make the decision—not discovering high taxes after you've committed."
+            "text": "The key is doing the math BEFORE you make the decision\u2014not discovering high taxes after you've committed."
           }
         }
       }
@@ -342,7 +343,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Tax Rates Vary Dramatically",
         "layout": "balanced-layout",
@@ -350,14 +351,14 @@
           "leftPanel": {
             "title": "Even Neighboring Cities Differ",
             "paragraphs": [
-              "Tax rates vary dramatically between jurisdictions—even within {{STATE_NAME}}. A home that seems affordable based on price alone can become financially stressful once property taxes are factored in.",
+              "Tax rates vary dramatically between jurisdictions\u2014even within {{STATE_NAME}}. A home that seems affordable based on price alone can become financially stressful once property taxes are factored in.",
               "<strong>Same $280,000 home in {{STATE_NAME}}:</strong>",
-              "• {{STATE_HIGH_TAX_CITY}}: {{STATE_HIGH_TAX_MILLAGE}} mills",
-              "• {{STATE_MEDIUM_TAX_CITY}}: {{STATE_MEDIUM_TAX_MILLAGE}} mills",
-              "• {{STATE_LOW_TAX_CITY}}: {{STATE_LOW_TAX_MILLAGE}} mills"
+              "\u2022 {{STATE_HIGH_TAX_CITY}}: {{STATE_HIGH_TAX_MILLAGE}} mills",
+              "\u2022 {{STATE_MEDIUM_TAX_CITY}}: {{STATE_MEDIUM_TAX_MILLAGE}} mills",
+              "\u2022 {{STATE_LOW_TAX_CITY}}: {{STATE_LOW_TAX_MILLAGE}} mills"
             ],
             "highlightBox": {
-              "icon": "💡",
+              "icon": "\ud83d\udca1",
               "text": "The difference between highest and lowest millage rates can mean thousands of dollars per year!"
             }
           },
@@ -391,13 +392,13 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "🏢",
+            "icon": "\ud83c\udfe2",
             "name": "Mia Compares Two Apartments",
             "paragraphs": [
               "Mia, 19, is choosing her first apartment in {{STATE_NAME}}. She earns $38,000 and spends about <span class=\"highlight-text\">$1,000/month on taxable purchases</span>.",
@@ -432,20 +433,20 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "🏠",
+            "icon": "\ud83c\udfe0",
             "name": "The Rodriguez Family Home Purchase",
             "paragraphs": [
               "Carlos and Maria are teachers earning $85,000 combined in {{STATE_NAME}}. They're choosing between two homes:",
-              "<strong>Home A ({{STATE_HIGH_TAX_CITY}}):</strong> $280,000 • {{STATE_HIGH_TAX_MILLAGE}} mills • School rating: 9/10",
-              "<strong>Home B ({{STATE_LOW_TAX_CITY}}):</strong> $265,000 • {{STATE_LOW_TAX_MILLAGE}} mills • School rating: 7/10",
+              "<strong>Home A ({{STATE_HIGH_TAX_CITY}}):</strong> $280,000 \u2022 {{STATE_HIGH_TAX_MILLAGE}} mills \u2022 School rating: 9/10",
+              "<strong>Home B ({{STATE_LOW_TAX_CITY}}):</strong> $265,000 \u2022 {{STATE_LOW_TAX_MILLAGE}} mills \u2022 School rating: 7/10",
               "Home B saves $15,000 on price + <span class=\"highlight-text\">lower annual taxes</span>. Over 30 years, property tax savings add up significantly!",
-              "But as teachers who value education, they chose Home A—the excellent schools are worth it to them."
+              "But as teachers who value education, they chose Home A\u2014the excellent schools are worth it to them."
             ]
           },
           "outcomes": [
@@ -492,9 +493,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -521,7 +522,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -530,22 +531,22 @@
             {
               "number": 1,
               "title": "Local Taxes Fund Your Community",
-              "description": "Property taxes pay for schools, police, fire, roads, parks—services you use daily"
+              "description": "Property taxes pay for schools, police, fire, roads, parks\u2014services you use daily"
             },
             {
               "number": 2,
-              "title": "Property Tax = Assessed Value × Millage",
+              "title": "Property Tax = Assessed Value \u00d7 Millage",
               "description": "One mill = $1 per $1,000 of value. Always calculate before buying or renting."
             },
             {
               "number": 3,
               "title": "Tax Rates Vary Dramatically",
-              "description": "Even neighboring cities can have vastly different rates—research before you move"
+              "description": "Even neighboring cities can have vastly different rates\u2014research before you move"
             },
             {
               "number": 4,
-              "title": "Higher Taxes ≠ Always Bad",
-              "description": "Evaluate what you're getting for your tax dollars—quality services may be worth it"
+              "title": "Higher Taxes \u2260 Always Bad",
+              "description": "Evaluate what you're getting for your tax dollars\u2014quality services may be worth it"
             }
           ]
         }
@@ -554,7 +555,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -580,7 +581,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

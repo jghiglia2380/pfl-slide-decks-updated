@@ -21,14 +21,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
+        "label": "The Challenge",
         "question": "Two students buy the <em>same stock</em> at the <em>same moment</em>.<br>One pays $50.05, the other pays $50.00.<br>What's happening?"
-      }
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -61,9 +62,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -84,9 +85,9 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -107,7 +108,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "How Stock Markets Operate",
         "layout": "balanced-layout",
@@ -117,7 +118,7 @@
             "paragraphs": [
               "When you click \"buy\" on 10 shares of Apple, your brokerage routes your order to an exchange (NYSE, NASDAQ).",
               "Electronic systems match your buy order with a seller in <strong>milliseconds</strong>.",
-              "Prices are determined by supply and demand—more buyers than sellers pushes price up, and vice versa."
+              "Prices are determined by supply and demand\u2014more buyers than sellers pushes price up, and vice versa."
             ],
             "highlightBox": {
               "icon": "\ud83d",
@@ -153,7 +154,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Bid-Ask Spread: A Hidden Cost",
         "layout": "balanced-layout",
@@ -166,8 +167,8 @@
               "Narrower spreads = more liquid stocks (like Apple: $0.01-$0.03)<br> Wider spreads = less liquid stocks (small caps: $0.10-$0.50+)"
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚠️ \"Commission-free\" doesn't mean free! Spreads are a real cost on every trade."
+              "icon": "\ud83d\udca1",
+              "text": "\u26a0\ufe0f \"Commission-free\" doesn't mean free! Spreads are a real cost on every trade."
             }
           },
           "rightPanel": {
@@ -199,7 +200,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Market Orders vs. Limit Orders",
         "layout": "comparison-grid",
@@ -234,7 +235,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "When to Use Each Order Type",
         "layout": "concept-full",
@@ -247,10 +248,10 @@
             "<strong>Market Order OK:</strong> Highly liquid stocks (Apple, Microsoft) with penny spreads. Need immediate execution.",
             "<strong>Limit Order Better:</strong> Less liquid stocks with wide spreads. You can wait for better price.",
             "<strong>Limit Order Essential:</strong> Volatile conditions after news. Market open when prices swing wildly.",
-            "<strong>Pro Tip:</strong> Split the spread! If bid is $49.95 and ask is $50.05, place limit at $50.00—might save $0.05/share."
+            "<strong>Pro Tip:</strong> Split the spread! If bid is $49.95 and ask is $50.05, place limit at $50.00\u2014might save $0.05/share."
           ],
           "keyPoint": {
-            "text": "🎯 No rush? Use limit orders. You're not a day trader—patience saves money."
+            "text": "\ud83c\udfaf No rush? Use limit orders. You're not a day trader\u2014patience saves money."
           }
         }
       }
@@ -258,7 +259,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Trading Costs Compound Over Time",
         "layout": "balanced-layout",
@@ -266,8 +267,8 @@
           "leftPanel": {
             "title": "The True Cost of Frequent Trading",
             "paragraphs": [
-              "<strong>Frequent Trader:</strong><br> 100 trades/year × $0.15 spread × 50 shares<br> = <strong>$750/year</strong> in spread costs",
-              "<strong>Buy-and-Hold Investor:</strong><br> 4 trades/year × $0.02 spread × 200 shares<br> = <strong>$16/year</strong> in spread costs",
+              "<strong>Frequent Trader:</strong><br> 100 trades/year \u00d7 $0.15 spread \u00d7 50 shares<br> = <strong>$750/year</strong> in spread costs",
+              "<strong>Buy-and-Hold Investor:</strong><br> 4 trades/year \u00d7 $0.02 spread \u00d7 200 shares<br> = <strong>$16/year</strong> in spread costs",
               "Over 30 years at 7% returns, that $734 annual difference compounds to <strong>$69,000</strong> in lost wealth!"
             ],
             "highlightBox": {
@@ -301,7 +302,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Reading a Stock Quote",
         "layout": "concept-full",
@@ -319,7 +320,7 @@
             "<strong>Market Cap:</strong> Total company value. Large-cap = typically more stable."
           ],
           "keyPoint": {
-            "text": "📊 High volume + narrow spread = easy to trade. Low volume + wide spread = use limit orders!"
+            "text": "\ud83d\udcca High volume + narrow spread = easy to trade. Low volume + wide spread = use limit orders!"
           }
         }
       }
@@ -327,7 +328,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Market Hours and Timing",
         "layout": "balanced-layout",
@@ -337,11 +338,11 @@
             "paragraphs": [
               "<strong>Regular Trading Hours:</strong><br> 9:30 AM - 4:00 PM Eastern Time<br> Monday through Friday (except holidays)",
               "<strong>Pre-Market:</strong> 4:00 AM - 9:30 AM<br> <strong>After-Hours:</strong> 4:00 PM - 8:00 PM<br> (Extended hours have wider spreads, less liquidity, more risk!)",
-              "<strong>Orders placed when closed</strong> queue until next open—prices may be very different!"
+              "<strong>Orders placed when closed</strong> queue until next open\u2014prices may be very different!"
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⏰ Weekend panic? Your market order won't execute until Monday at potentially a VERY different price."
+              "icon": "\ud83d\udca1",
+              "text": "\u23f0 Weekend panic? Your market order won't execute until Monday at potentially a VERY different price."
             }
           },
           "rightPanel": {
@@ -369,18 +370,18 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩‍💻",
+            "icon": "\ud83d\udc69\u200d\ud83d\udcbb",
             "name": "Sofia: The Power of Limit Orders",
             "paragraphs": [
               "Sofia wanted to buy 6 shares of an ETF trading around $125. She checked the quote: <span class=\"highlight-text\">Bid $124.96, Ask $125.04</span>.",
-              "Instead of using a market order at $125.04, she placed a <strong>limit order at $125.00</strong>—splitting the spread. After 17 minutes, her order executed when the price dipped.",
-              "Savings: $0.24 on this trade. Over 20 trades/year × $2 average savings × 40 years at 7% = <span class=\"highlight-text\">$8,500 extra wealth</span> just from using limit orders!"
+              "Instead of using a market order at $125.04, she placed a <strong>limit order at $125.00</strong>\u2014splitting the spread. After 17 minutes, her order executed when the price dipped.",
+              "Savings: $0.24 on this trade. Over 20 trades/year \u00d7 $2 average savings \u00d7 40 years at 7% = <span class=\"highlight-text\">$8,500 extra wealth</span> just from using limit orders!"
             ]
           },
           "outcomes": [
@@ -409,18 +410,18 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "⚠️",
+            "icon": "\u26a0\ufe0f",
             "name": "Marcus: Market Hours Lesson",
             "paragraphs": [
               "Marcus read bad news about his stock Sunday evening. Panicking, he placed a <strong>market order to sell</strong> at the displayed price of $85.00.",
               "Problem: Markets were <span class=\"highlight-text\">closed until Monday 9:30 AM</span>. His order sat in queue. Overnight, more bad news emerged.",
-              "Monday open: Stock gapped down to $78.50. His market order executed at that price—<strong>$325 less</strong> than he expected. A limit order at $84 would have protected him."
+              "Monday open: Stock gapped down to $78.50. His market order executed at that price\u2014<strong>$325 less</strong> than he expected. A limit order at $84 would have protected him."
             ]
           },
           "outcomes": [
@@ -467,9 +468,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -496,7 +497,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -515,7 +516,7 @@
             {
               "number": 3,
               "title": "Know Market Hours",
-              "description": "US markets: 9:30 AM - 4:00 PM Eastern, weekdays. Orders placed when closed execute at next open—potentially at very different prices."
+              "description": "US markets: 9:30 AM - 4:00 PM Eastern, weekdays. Orders placed when closed execute at next open\u2014potentially at very different prices."
             },
             {
               "number": 4,
@@ -529,7 +530,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -555,7 +556,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

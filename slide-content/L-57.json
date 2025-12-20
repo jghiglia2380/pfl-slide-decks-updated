@@ -26,14 +26,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
+        "label": "The Challenge",
         "question": "What if the difference between a <em>5% interest rate</em> and an <em>8% rate</em> on a loan cost you <em>$2,000 extra</em>?"
-      }
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -66,7 +67,7 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Terms to Know",
         "layout": "vocab-container",
@@ -80,7 +81,7 @@
             {
               "term": "Debt-to-Income Ratio (DTI)",
               "definition": "The percentage of your gross monthly income that goes toward debt payments. Lenders prefer DTI below 36-43%.",
-              "example": "$800 debt payments ÷ $4,000 income = 20% DTI"
+              "example": "$800 debt payments \u00f7 $4,000 income = 20% DTI"
             }
           ]
         }
@@ -89,7 +90,7 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "More Key Terms",
         "layout": "vocab-container",
@@ -112,7 +113,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Five C's of Credit",
         "layout": "concept-full",
@@ -131,9 +132,9 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Current Loan Rates in {{STATE_NAME}}",
+        "headerTitle": "Current Loan Rates",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
@@ -173,13 +174,13 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "How Interest Rates Affect Your Payments",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "✓",
+            "icon": "\u2713",
             "title": "Excellent Credit (740+)",
             "items": [
               "Interest Rate: {{STATE_AVG_AUTO_LOAN_RATE_NEW}}%",
@@ -188,7 +189,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "✗",
+            "icon": "\u2717",
             "title": "Poor Credit (Below 620)",
             "items": [
               "Interest Rate: 15%+",
@@ -203,7 +204,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Documentation You'll Need",
         "layout": "concept-full",
@@ -225,13 +226,13 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Loan Types & Approval Timelines",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "🚗",
+            "icon": "\ud83d\ude97",
             "title": "Auto Loans",
             "items": [
               "<strong>Amount:</strong> $10K-$50K",
@@ -240,7 +241,7 @@
             ]
           },
           "centerColumn": {
-            "icon": "💳",
+            "icon": "\ud83d\udcb3",
             "title": "Personal Loans",
             "items": [
               "<strong>Amount:</strong> $1K-$50K",
@@ -249,7 +250,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "🏠",
+            "icon": "\ud83c\udfe0",
             "title": "Mortgages",
             "items": [
               "<strong>Amount:</strong> $100K-$500K+",
@@ -263,16 +264,16 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Application",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩",
+            "icon": "\ud83d\udc69",
             "name": "Carmen's Prepared Auto Loan Application",
             "paragraphs": [
-              "Living in {{STATE_NAME}}",
+              "Living",
               "",
               "Carmen researched financing <strong>3 months before shopping</strong>. She checked her credit score (680), paid off an old medical bill, disputed a credit report error, and gathered all documentation.",
               "",
@@ -304,7 +305,7 @@
         "layoutData": {
           "title": "Key Insight",
           "paragraphs": [
-            "The loan application process isn't random—lenders use predictable criteria.",
+            "The loan application process isn't random\u2014lenders use predictable criteria.",
             "",
             "By understanding what they look for and preparing in advance, you can dramatically improve your approval odds and secure better terms."
           ],
@@ -315,7 +316,7 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Strategies to Strengthen Your Application",
         "layout": "takeaway-grid",
@@ -349,7 +350,7 @@
             {
               "number": 6,
               "title": "Consider a Co-signer",
-              "description": "A co-signer with strong credit can help if your profile is weak—use carefully."
+              "description": "A co-signer with strong credit can help if your profile is weak\u2014use carefully."
             }
           ]
         }
@@ -367,13 +368,13 @@
     {
       "number": 16,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Common Mistakes to Avoid",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "✗",
+            "icon": "\u2717",
             "title": "What NOT to Do",
             "items": [
               "Apply without checking your credit first",
@@ -384,7 +385,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "✓",
+            "icon": "\u2713",
             "title": "What TO Do",
             "items": [
               "Check and improve credit 3-6 months before",
@@ -400,7 +401,7 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -433,9 +434,9 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -462,13 +463,13 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Day 2: Loan Application Simulator",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "🔬",
+            "icon": "\ud83d\udd2c",
             "title": "Coming Tomorrow",
             "description": "Apply your knowledge in hands-on loan application practice"
           },
@@ -486,7 +487,7 @@
       "content": {
         "tagline": "\"Building financial futures, one lesson at a time\"",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

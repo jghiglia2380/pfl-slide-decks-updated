@@ -21,14 +21,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
-        "question": "Should We Break Up Big Tech?<br><br><strong>Arguments FOR:</strong> Too much market power, stifle competition, privacy concerns, prices higher than with competition<br><br><strong>Arguments AGAINST:</strong> Services are free, innovation benefits users, breaking up reduces efficiency, successful companies shouldn't be punished<br><br><em>Today you'll learn WHEN government intervention makes economic sense—and when it doesn't!</em>"
-      }
+        "label": "The Challenge",
+        "question": "Should We Break Up Big Tech?<br><br><strong>Arguments FOR:</strong> Too much market power, stifle competition, privacy concerns, prices higher than with competition<br><br><strong>Arguments AGAINST:</strong> Services are free, innovation benefits users, breaking up reduces efficiency, successful companies shouldn't be punished<br><br><em>Today you'll learn WHEN government intervention makes economic sense\u2014and when it doesn't!</em>"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -61,9 +62,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -89,16 +90,16 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
               "term": "Monopoly Power",
               "definition": "When one or few sellers control a market, restricting output and raising prices above competitive levels",
-              "example": "Your electric company—only one provider in your area"
+              "example": "Your electric company\u2014only one provider in your area"
             },
             {
               "term": "Information Asymmetry",
@@ -117,7 +118,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Five Market Failures",
         "layout": "concept-full",
@@ -133,7 +134,7 @@
             "<strong>4. Public Goods:</strong> Free-rider problem, underprovided (national defense, parks)",
             "<strong>5. Information Asymmetry:</strong> One party knows more than other (used cars, insurance)"
           ],
-          "keyPoint": "Not all market failures justify intervention—must weigh costs vs. benefits of government action"
+          "keyPoint": "Not all market failures justify intervention\u2014must weigh costs vs. benefits of government action"
         }
       }
     },
@@ -149,15 +150,15 @@
             "title": "The Problem",
             "paragraphs": [
               "<strong>What happens:</strong>",
-              "• Single seller (or few) restricts output",
-              "• Raises prices above competitive level",
-              "• Reduces consumer surplus",
-              "• Creates deadweight loss (inefficiency)",
+              "\u2022 Single seller (or few) restricts output",
+              "\u2022 Raises prices above competitive level",
+              "\u2022 Reduces consumer surplus",
+              "\u2022 Creates deadweight loss (inefficiency)",
               "",
-              "<strong>Example:</strong> Your electric company—only one provider, you pay their rate with no alternatives!"
+              "<strong>Example:</strong> Your electric company\u2014only one provider, you pay their rate with no alternatives!"
             ],
             "highlightBox": {
-              "icon": "⚠️",
+              "icon": "\u26a0\ufe0f",
               "text": "Without competition, monopolies have no incentive to lower prices or improve quality"
             }
           },
@@ -167,8 +168,8 @@
               "title": "Government Solutions",
               "color": "amber",
               "items": [
-                "✂️ <strong>Antitrust Enforcement:</strong> Break up monopolies (Standard Oil 1911, AT&T 1982)",
-                "📋 <strong>Regulate Natural Monopolies:</strong> Set maximum prices for utilities where competition is impossible",
+                "\u2702\ufe0f <strong>Antitrust Enforcement:</strong> Break up monopolies (Standard Oil 1911, AT&T 1982)",
+                "\ud83d\udccb <strong>Regulate Natural Monopolies:</strong> Set maximum prices for utilities where competition is impossible",
                 "",
                 "<strong>Trade-off:</strong> Protection vs. enforcement costs"
               ]
@@ -180,35 +181,35 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Market Failure #2: Externalities",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "🌫️",
+            "icon": "\ud83c\udf2b\ufe0f",
             "title": "Negative Externalities",
             "items": [
               "<strong>Third parties are HARMED</strong>",
-              "• Pollution harms downstream residents",
-              "• Your driving slows everyone else",
-              "• Secondhand smoke harms non-smokers",
+              "\u2022 Pollution harms downstream residents",
+              "\u2022 Your driving slows everyone else",
+              "\u2022 Secondhand smoke harms non-smokers",
               "",
-              "<strong>Problem:</strong> Market ignores these costs → Overproduction",
+              "<strong>Problem:</strong> Market ignores these costs \u2192 Overproduction",
               "",
               "<strong>Solution:</strong> TAX the activity (carbon tax, cigarette tax, gas tax)"
             ]
           },
           "rightColumn": {
-            "icon": "💉",
+            "icon": "\ud83d\udc89",
             "title": "Positive Externalities",
             "items": [
               "<strong>Third parties BENEFIT</strong>",
-              "• Vaccination protects everyone (herd immunity)",
-              "• Education benefits society beyond the individual",
-              "• R&D benefits extend beyond the inventor",
+              "\u2022 Vaccination protects everyone (herd immunity)",
+              "\u2022 Education benefits society beyond the individual",
+              "\u2022 R&D benefits extend beyond the inventor",
               "",
-              "<strong>Problem:</strong> Individual doesn't capture all benefits → Underproduction",
+              "<strong>Problem:</strong> Individual doesn't capture all benefits \u2192 Underproduction",
               "",
               "<strong>Solution:</strong> SUBSIDIZE the activity (free K-12, vaccine programs)"
             ]
@@ -219,7 +220,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Market Failure #3: Public Goods",
         "layout": "balanced-layout",
@@ -231,13 +232,13 @@
               "<strong>2. Non-rivalrous:</strong> One person's use doesn't reduce availability for others",
               "",
               "<strong>Examples:</strong>",
-              "🛡️ National defense protects everyone",
-              "💡 Street lights illuminate for all",
-              "🌲 Public parks are open to everyone",
-              "📚 Basic research benefits all"
+              "\ud83d\udee1\ufe0f National defense protects everyone",
+              "\ud83d\udca1 Street lights illuminate for all",
+              "\ud83c\udf32 Public parks are open to everyone",
+              "\ud83d\udcda Basic research benefits all"
             ],
             "highlightBox": {
-              "icon": "🚫",
+              "icon": "\ud83d\udeab",
               "text": "The Free-Rider Problem: People benefit without paying, so private companies won't provide"
             }
           },
@@ -247,7 +248,7 @@
               "title": "Government Solution",
               "color": "green",
               "items": [
-                "🏛️ Government provides directly",
+                "\ud83c\udfdb\ufe0f Government provides directly",
                 "Funds with taxes from everyone",
                 "Everyone pays, everyone benefits",
                 "",
@@ -261,21 +262,21 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Market Failure #4: Information Asymmetry",
         "layout": "concept-full",
         "layoutData": {
           "title": "When one party knows more than the other in a transaction",
           "paragraphs": [
-            "<strong>🚗 Used Cars (The Lemons Problem):</strong>",
+            "<strong>\ud83d\ude97 Used Cars (The Lemons Problem):</strong>",
             "Seller knows problems, buyers assume all are 'lemons,' good cars exit market",
             "",
-            "<strong>💓 Health Insurance (Adverse Selection):</strong>",
+            "<strong>\ud83d\udc93 Health Insurance (Adverse Selection):</strong>",
             "You know your health, sick people buy while healthy skip, leading to market collapse",
             "",
-            "<strong>📈 Financial Products:</strong>",
-            "Sellers know risks, buyers often don't—2008 financial crisis example"
+            "<strong>\ud83d\udcc8 Financial Products:</strong>",
+            "Sellers know risks, buyers often don't\u20142008 financial crisis example"
           ],
           "bulletPoints": [
             "<strong>Disclosure Requirements:</strong> Nutrition labels, ingredient lists",
@@ -283,7 +284,7 @@
             "<strong>Licensing:</strong> Doctors, lawyers, contractors must meet standards",
             "<strong>Consumer Protection Laws:</strong> Lemon laws, return policies"
           ],
-          "keyPoint": "Information asymmetry can cause markets to collapse entirely—government can restore function through disclosure and standards"
+          "keyPoint": "Information asymmetry can cause markets to collapse entirely\u2014government can restore function through disclosure and standards"
         }
       }
     },
@@ -298,12 +299,12 @@
           "title": "Beyond market failure correction, government provides essential economic functions",
           "paragraphs": [],
           "bulletPoints": [
-            "⚖️ <strong>1. Enforce Property Rights:</strong> Courts, police, legal system that enables market transactions",
-            "🛡️ <strong>2. Provide Public Goods:</strong> Defense, parks, street lights that markets won't provide",
-            "🌫️ <strong>3. Correct Externalities:</strong> Tax pollution, subsidize education to align private/social costs",
-            "📋 <strong>4. Regulate Markets:</strong> Antitrust, safety standards, disclosure requirements",
-            "📊 <strong>5. Stabilize Economy:</strong> Fiscal and monetary policy to reduce business cycles (L-53)",
-            "💵 <strong>6. Redistribute Income:</strong> Progressive taxes and safety nets to reduce inequality"
+            "\u2696\ufe0f <strong>1. Enforce Property Rights:</strong> Courts, police, legal system that enables market transactions",
+            "\ud83d\udee1\ufe0f <strong>2. Provide Public Goods:</strong> Defense, parks, street lights that markets won't provide",
+            "\ud83c\udf2b\ufe0f <strong>3. Correct Externalities:</strong> Tax pollution, subsidize education to align private/social costs",
+            "\ud83d\udccb <strong>4. Regulate Markets:</strong> Antitrust, safety standards, disclosure requirements",
+            "\ud83d\udcca <strong>5. Stabilize Economy:</strong> Fiscal and monetary policy to reduce business cycles (L-53)",
+            "\ud83d\udcb5 <strong>6. Redistribute Income:</strong> Progressive taxes and safety nets to reduce inequality"
           ],
           "keyPoint": "Even supporters of free markets recognize these roles as necessary for markets to function properly"
         }
@@ -321,18 +322,18 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example: How Taxes Affect Markets",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "⛽",
+            "icon": "\u26fd",
             "name": "The Gasoline Tax Story",
             "paragraphs": [
               "When government taxes gasoline:",
               "",
-              "<strong>Supply curve shifts LEFT (up)</strong>—sellers receive less, buyers pay more",
+              "<strong>Supply curve shifts LEFT (up)</strong>\u2014sellers receive less, buyers pay more",
               "",
               "<strong>Both consumers and producers share the tax burden</strong>",
               "",
@@ -368,12 +369,12 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "🚜",
+            "icon": "\ud83d\ude9c",
             "name": "Agricultural Subsidies in Action",
             "paragraphs": [
               "When government subsidizes corn production:",
               "",
-              "<strong>Supply curve shifts RIGHT (down)</strong>—lower costs for producers",
+              "<strong>Supply curve shifts RIGHT (down)</strong>\u2014lower costs for producers",
               "",
               "<strong>Consumers pay lower prices</strong>",
               "",
@@ -420,14 +421,14 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "⬇️",
+            "icon": "\u2b07\ufe0f",
             "title": "Price Ceiling (Maximum Price)",
             "items": [
               "<strong>Example:</strong> Rent Control",
               "<strong>Intent:</strong> Affordable housing",
               "",
               "<strong>Actual Effects:</strong>",
-              "⚠️ Shortage (demand > supply)",
+              "\u26a0\ufe0f Shortage (demand > supply)",
               "Landlords don't maintain properties",
               "Black markets develop",
               "Reduces new construction",
@@ -437,17 +438,17 @@
             ]
           },
           "rightColumn": {
-            "icon": "⬆️",
+            "icon": "\u2b06\ufe0f",
             "title": "Price Floor (Minimum Price)",
             "items": [
               "<strong>Example:</strong> Minimum Wage",
               "<strong>Intent:</strong> Higher income for workers",
               "",
               "<strong>Actual Effects:</strong>",
-              "🚫 Some unemployment possible (debated)",
+              "\ud83d\udeab Some unemployment possible (debated)",
               "Higher prices for consumers",
               "Reduced hours or automation",
-              "✓ Workers who keep jobs earn more",
+              "\u2713 Workers who keep jobs earn more",
               "",
               "Winners: Workers who keep jobs",
               "Losers: Some workers lose jobs (magnitude debated)"
@@ -459,9 +460,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -488,7 +489,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -507,12 +508,12 @@
             {
               "number": 3,
               "title": "Taxes shift supply LEFT",
-              "description": "Leading to higher prices and lower quantities—used to discourage negative externalities or raise revenue"
+              "description": "Leading to higher prices and lower quantities\u2014used to discourage negative externalities or raise revenue"
             },
             {
               "number": 4,
               "title": "Subsidies shift supply RIGHT",
-              "description": "Leading to lower prices and higher quantities—used to encourage positive externalities"
+              "description": "Leading to lower prices and higher quantities\u2014used to encourage positive externalities"
             },
             {
               "number": 5,
@@ -522,7 +523,7 @@
             {
               "number": 6,
               "title": "Every policy has trade-offs",
-              "description": "Benefits vs. costs, winners vs. losers—smart citizens evaluate whether intervention improves outcomes"
+              "description": "Benefits vs. costs, winners vs. losers\u2014smart citizens evaluate whether intervention improves outcomes"
             }
           ]
         }
@@ -531,13 +532,13 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Skill Builder: Government Services Analyzer",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "🔍",
+            "icon": "\ud83d\udd0d",
             "title": "Tomorrow's Learning Lab",
             "description": "Apply your knowledge by analyzing real government policies and their economic impact"
           },
@@ -555,9 +556,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "\"Understanding when markets need government—and when they don't\"",
+        "tagline": "\"Understanding when markets need government\u2014and when they don't\"",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

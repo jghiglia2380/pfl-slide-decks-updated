@@ -31,14 +31,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
+        "label": "The Challenge",
         "question": "In <em>{{STATE_NAME}}</em>, is it smarter to <em>rent and invest</em> the difference,<br>or <em>buy a home</em> and build equity?"
-      }
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -57,7 +58,7 @@
             {
               "number": 3,
               "verb": "Evaluate",
-              "description": "Assess how personal circumstances—career stability, family plans, and financial position—affect which housing choice is optimal."
+              "description": "Assess how personal circumstances\u2014career stability, family plans, and financial position\u2014affect which housing choice is optimal."
             },
             {
               "number": 4,
@@ -71,9 +72,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -84,7 +85,7 @@
             },
             {
               "term": "Equity",
-              "definition": "The difference between a property's current market value and the amount still owed on the mortgage—your ownership stake.",
+              "definition": "The difference between a property's current market value and the amount still owed on the mortgage\u2014your ownership stake.",
               "example": "Home worth ${{STATE_MEDIAN_HOME_PRICE}} with $350K mortgage = significant equity (your net worth in the property)"
             }
           ]
@@ -94,9 +95,9 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -117,9 +118,9 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Renting in {{STATE_NAME}}",
+        "headerTitle": "Renting",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
@@ -127,11 +128,11 @@
             "paragraphs": [
               "Renting involves paying a property owner for the right to live in their property for a specific period governed by a lease agreement.",
               "<strong>Monthly costs include:</strong> Rent payment, renter's insurance ($15-30/mo), utilities, and sometimes parking.",
-              "<strong>Upfront costs:</strong> Security deposit (1-2 months' rent) and first month's rent—typically $3,000-$5,000 total in {{STATE_NAME}}."
+              "<strong>Upfront costs:</strong> Security deposit (1-2 months' rent) and first month's rent\u2014typically $3,000-$5,000 total in {{STATE_NAME}}."
             ],
             "highlightBox": {
               "icon": "\ud83d",
-              "text": "\udca1 Renters are NOT responsible for major repairs, property taxes, or maintenance—the landlord covers these costs."
+              "text": "\udca1 Renters are NOT responsible for major repairs, property taxes, or maintenance\u2014the landlord covers these costs."
             }
           },
           "rightPanel": {
@@ -164,7 +165,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Renting vs. Owning: A Comparison",
         "layout": "comparison-grid",
@@ -199,9 +200,9 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Homeownership in {{STATE_NAME}}",
+        "headerTitle": "Homeownership",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
@@ -213,7 +214,7 @@
             ],
             "highlightBox": {
               "icon": "\ud83d",
-              "text": "\udcb0 Each mortgage payment builds equity—your ownership stake grows over time as you pay down the loan."
+              "text": "\udcb0 Each mortgage payment builds equity\u2014your ownership stake grows over time as you pay down the loan."
             }
           },
           "rightPanel": {
@@ -246,14 +247,14 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Factors in Your Decision",
         "layout": "concept-full",
         "layoutData": {
           "title": "What Should Guide Your Housing Choice?",
           "paragraphs": [
-            "The rent vs. buy decision is deeply personal and depends on multiple interconnected factors. There's no universally \"right\" answer—only what's right for your specific situation in {{STATE_NAME}}."
+            "The rent vs. buy decision is deeply personal and depends on multiple interconnected factors. There's no universally \"right\" answer\u2014only what's right for your specific situation in {{STATE_NAME}}."
           ],
           "bulletPoints": [
             "<strong>Financial Readiness:</strong> Savings for down payment, credit score, stable income, emergency fund",
@@ -269,13 +270,13 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "{{STATE_NAME}} Cost Comparison",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
-            "title": "Renting Costs in {{STATE_NAME}}",
+            "title": "Renting Costs",
             "paragraphs": [
               "<strong>Monthly expenses:</strong>"
             ],
@@ -291,7 +292,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why This Matters for Your Future",
         "layout": "concept-full",
@@ -314,7 +315,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Housing in Today's {{STATE_NAME}} Market",
         "layout": "balanced-layout",
@@ -323,7 +324,7 @@
             "title": "Current Housing Reality",
             "paragraphs": [
               "Today's housing market presents unique challenges for young adults. Rising prices, higher interest rates, and limited inventory have made homeownership increasingly difficult.",
-              "Many successful financial strategies now include renting while investing the difference—sometimes outperforming homeownership in high-cost markets.",
+              "Many successful financial strategies now include renting while investing the difference\u2014sometimes outperforming homeownership in high-cost markets.",
               "<strong>The key is making an informed decision</strong> based on your specific circumstances in {{STATE_NAME}}, not following outdated rules or social pressure."
             ],
             "highlightBox": {
@@ -351,7 +352,7 @@
                 "Consider house hacking (rent out rooms)",
                 "Explore first-time buyer programs",
                 "Compare price-to-rent ratios locally",
-                "Don't rush—patience pays off"
+                "Don't rush\u2014patience pays off"
               ]
             }
           }
@@ -361,14 +362,14 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example: Renting",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩‍💻",
-            "name": "Amy's Smart Renting Decision in {{STATE_NAME}}",
+            "icon": "\ud83d\udc69\u200d\ud83d\udcbb",
+            "name": "Amy's Smart Renting Decision",
             "paragraphs": [
               "Amy is a 25-year-old software developer who recently started her career in {{STATE_NAME}}. She chose to rent an apartment near downtown for <span class=\"highlight-text\">${{STATE_MEDIAN_RENT}}/month</span>, close to her workplace and entertainment options.",
               "<strong>Her reasoning:</strong> As a young professional, Amy values <span class=\"highlight-text\">flexibility to accept job opportunities</span> in different locations. Instead of saving for a down payment, she invests the difference in her 401(k) and index funds.",
@@ -401,14 +402,14 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example: Buying",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👫",
-            "name": "John & Maria's Homeownership in {{STATE_NAME}}",
+            "icon": "\ud83d\udc6b",
+            "name": "John & Maria's Homeownership",
             "paragraphs": [
               "John and Maria, a married couple in their 30s with stable careers in {{STATE_NAME}}, purchased a home at the median price of <span class=\"highlight-text\">${{STATE_MEDIAN_HOME_PRICE}}</span> with a 10% down payment and closing costs.",
               "<strong>Their reasoning:</strong> With established careers and plans to start a family, they wanted <span class=\"highlight-text\">stability and the ability to build equity</span>. A fixed-rate mortgage at {{STATE_AVG_MORTGAGE_RATE}}% gives them predictable payments.",
@@ -459,9 +460,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -488,7 +489,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -497,12 +498,12 @@
             {
               "number": 1,
               "title": "No Universal \"Right\" Answer",
-              "description": "The best housing choice depends on your personal financial situation, career, and life goals in {{STATE_NAME}}"
+              "description": "The best housing choice depends on your personal financial situation, career, and life goals"
             },
             {
               "number": 2,
               "title": "Renting Has Advantages",
-              "description": "Flexibility, lower upfront costs, no maintenance—renting is NOT \"throwing money away\""
+              "description": "Flexibility, lower upfront costs, no maintenance\u2014renting is NOT \"throwing money away\""
             },
             {
               "number": 3,
@@ -521,7 +522,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -547,7 +548,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

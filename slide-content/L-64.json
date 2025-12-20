@@ -23,12 +23,13 @@
       "content": {
         "label": "The $420,000 Question",
         "question": "<strong>You're 22 Years Old</strong> - Investing for retirement at age 65<br><br><strong>Investment A:</strong> Steady 3% annual returns, virtually no risk, your money will absolutely be there. $10,000 over 40 years = <strong>$32,620</strong><br><br><strong>Investment B:</strong> Average 10% annual returns, some years lose 30%, significant volatility along the way. $10,000 over 40 years = <strong>$452,593</strong><br><br><strong>Which should you choose?</strong><br><br>The difference: <strong>$419,973</strong><br><br>Understanding risk-return changes everything."
-      }
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "What You'll Learn Today",
         "layout": "objectives-expanded",
@@ -37,27 +38,27 @@
             {
               "number": 1,
               "verb": "Analyze",
-              "description": "the risk-return relationship—why higher returns require higher risk"
+              "description": "the risk-return relationship\u2014why higher returns require higher risk"
             },
             {
               "number": 2,
               "verb": "Evaluate",
-              "description": "different types of risk—systematic vs. unsystematic, and what you can control"
+              "description": "different types of risk\u2014systematic vs. unsystematic, and what you can control"
             },
             {
               "number": 3,
               "verb": "Calculate",
-              "description": "and interpret risk metrics—standard deviation, beta, and Sharpe ratio"
+              "description": "and interpret risk metrics\u2014standard deviation, beta, and Sharpe ratio"
             },
             {
               "number": 4,
               "verb": "Assess",
-              "description": "personal risk tolerance—matching investments to your situation"
+              "description": "personal risk tolerance\u2014matching investments to your situation"
             },
             {
               "number": 5,
               "verb": "Create",
-              "description": "age-appropriate strategies—balancing risk and return for your goals"
+              "description": "age-appropriate strategies\u2014balancing risk and return for your goals"
             }
           ]
         }
@@ -66,7 +67,7 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Essential Vocabulary (Part 1)",
         "layout": "vocab-container",
@@ -74,12 +75,12 @@
           "terms": [
             {
               "term": "Investment Risk",
-              "definition": "The possibility that actual returns differ from expected returns—including potential loss of some or all of your investment",
+              "definition": "The possibility that actual returns differ from expected returns\u2014including potential loss of some or all of your investment",
               "example": "Stocks losing 30% in one year despite long-term average of 10%"
             },
             {
               "term": "Return",
-              "definition": "Gain or loss on an investment expressed as percentage—includes price appreciation plus income (dividends/interest)",
+              "definition": "Gain or loss on an investment expressed as percentage\u2014includes price appreciation plus income (dividends/interest)",
               "example": "Stock rises from $100 to $110 plus $5 dividend = 15% return"
             },
             {
@@ -94,13 +95,13 @@
             },
             {
               "term": "Systematic Risk",
-              "definition": "Market-wide risk affecting all investments—recession, inflation, interest rates. Cannot be eliminated through diversification.",
+              "definition": "Market-wide risk affecting all investments\u2014recession, inflation, interest rates. Cannot be eliminated through diversification.",
               "example": "2008 financial crisis affecting entire market"
             },
             {
               "term": "Unsystematic Risk",
-              "definition": "Company-specific risk—management, product recalls, lawsuits. CAN be eliminated through diversification.",
-              "example": "One company's CEO resigning—barely affects diversified portfolio"
+              "definition": "Company-specific risk\u2014management, product recalls, lawsuits. CAN be eliminated through diversification.",
+              "example": "One company's CEO resigning\u2014barely affects diversified portfolio"
             }
           ]
         }
@@ -109,7 +110,7 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Essential Vocabulary (Part 2)",
         "layout": "vocab-container",
@@ -142,7 +143,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Risk-Return Tradeoff",
         "layout": "concept-full",
@@ -155,54 +156,54 @@
             "<strong>Stocks:</strong> 8-12% return, higher risk",
             "<strong>Speculative:</strong> ???% return, extreme risk"
           ],
-          "keyPoint": "🚨 Red Flag Alert: 'Guaranteed high returns with no risk' = FRAUD. The risk-return tradeoff is economic law that cannot be broken."
+          "keyPoint": "\ud83d\udea8 Red Flag Alert: 'Guaranteed high returns with no risk' = FRAUD. The risk-return tradeoff is economic law that cannot be broken."
         }
       }
     },
     {
       "number": 7,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Two Types of Risk",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "🌐",
+            "icon": "\ud83c\udf10",
             "title": "Systematic Risk (Market Risk)",
             "items": [
               "<strong>Affects the entire market</strong>",
               "",
-              "❌ Cannot be eliminated through diversification",
+              "\u274c Cannot be eliminated through diversification",
               "",
               "<strong>Examples:</strong>",
-              "• Economic recession",
-              "• Inflation surge",
-              "• Interest rate changes",
-              "• Pandemic",
-              "• Political instability",
+              "\u2022 Economic recession",
+              "\u2022 Inflation surge",
+              "\u2022 Interest rate changes",
+              "\u2022 Pandemic",
+              "\u2022 Political instability",
               "",
               "<em>'The price of admission to investing'</em>"
             ]
           },
           "rightColumn": {
-            "icon": "🏢",
+            "icon": "\ud83c\udfe2",
             "title": "Unsystematic Risk (Company Risk)",
             "items": [
               "<strong>Affects individual companies</strong>",
               "",
-              "✅ CAN be eliminated through diversification",
+              "\u2705 CAN be eliminated through diversification",
               "",
               "<strong>Examples:</strong>",
-              "• CEO resigns unexpectedly",
-              "• Product recall",
-              "• Lawsuit against company",
-              "• New competitor emerges",
-              "• Factory burns down",
+              "\u2022 CEO resigns unexpectedly",
+              "\u2022 Product recall",
+              "\u2022 Lawsuit against company",
+              "\u2022 New competitor emerges",
+              "\u2022 Factory burns down",
               "",
               "<em>'Risk you can control'</em>",
               "",
-              "<strong>Key:</strong> Owning 30-40 different stocks eliminates most unsystematic risk—one company's problems barely affect you."
+              "<strong>Key:</strong> Owning 30-40 different stocks eliminates most unsystematic risk\u2014one company's problems barely affect you."
             ]
           }
         }
@@ -217,7 +218,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "📊",
+            "icon": "\ud83d\udcca",
             "title": "Stock A",
             "items": [
               "Average return: <strong>10%</strong>",
@@ -229,7 +230,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "📊",
+            "icon": "\ud83d\udcca",
             "title": "Stock B",
             "items": [
               "Average return: <strong>10%</strong>",
@@ -248,13 +249,13 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Beta and Sharpe Ratio",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "β",
+            "icon": "\u03b2",
             "title": "Beta: Relative Volatility",
             "items": [
               "Measures movement relative to the market",
@@ -262,13 +263,13 @@
               "<strong>Beta = 1.0:</strong> Moves with market",
               "<strong>Beta > 1.0:</strong> More volatile (1.5 = 50% more)",
               "<strong>Beta < 1.0:</strong> Less volatile (0.7 = 30% less)",
-              "<strong>Beta ≈ 0:</strong> No correlation (bonds)",
+              "<strong>Beta \u2248 0:</strong> No correlation (bonds)",
               "",
               "<strong>Example:</strong> Market rises 10%, stock with beta 1.3 rises ~13%. But if market falls 10%, it falls ~13%."
             ]
           },
           "rightColumn": {
-            "icon": "📐",
+            "icon": "\ud83d\udcd0",
             "title": "Sharpe Ratio: Risk-Adjusted Return",
             "items": [
               "<strong>Formula:</strong> (Return - Risk-Free Rate) / Standard Deviation",
@@ -288,16 +289,16 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Your Personal Risk Tolerance",
         "layout": "concept-full",
         "layoutData": {
           "title": "Three Factors That Determine Your Risk Tolerance",
           "bulletPoints": [
-            "<strong>⏰ Time Horizon (Most important factor!):</strong> 40 years to retirement? → Take more risk. 2 years to goal? → Minimize risk. Stocks never negative over 20 years historically.",
-            "<strong>💰 Financial Situation:</strong> ✓ Stable income, emergency fund, low debt → More risk OK. ✗ Paycheck-to-paycheck → Minimize risk.",
-            "<strong>🧠 Emotional Temperament (Be honest with yourself!):</strong> Can you watch 20% drop without panic-selling? Do you check balances daily and stress? Have you made emotional decisions before?"
+            "<strong>\u23f0 Time Horizon (Most important factor!):</strong> 40 years to retirement? \u2192 Take more risk. 2 years to goal? \u2192 Minimize risk. Stocks never negative over 20 years historically.",
+            "<strong>\ud83d\udcb0 Financial Situation:</strong> \u2713 Stable income, emergency fund, low debt \u2192 More risk OK. \u2717 Paycheck-to-paycheck \u2192 Minimize risk.",
+            "<strong>\ud83e\udde0 Emotional Temperament (Be honest with yourself!):</strong> Can you watch 20% drop without panic-selling? Do you check balances daily and stress? Have you made emotional decisions before?"
           ],
           "keyPoint": "Critical Insight: A conservative portfolio you maintain is better than an aggressive portfolio you abandon at the worst moment. Match investments to your ACTUAL risk tolerance, not theoretical."
         }
@@ -306,7 +307,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Age-Appropriate Investment Strategies",
         "layout": "balanced-layout",
@@ -349,16 +350,16 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩‍💼",
+            "icon": "\ud83d\udc69\u200d\ud83d\udcbc",
             "name": "Emma's Investment Choice",
             "paragraphs": [
               "<strong>Her Situation:</strong>",
               "Emma, 24, just started first job earning $52,000. Has $3,000 emergency fund. Contributing $300/month to 401(k).",
               "",
               "<strong>Her Options:</strong>",
-              "• Stable Value: 2.5% (safe but low)",
-              "• Balanced Fund: 6% (moderate)",
-              "• Aggressive Growth: 10% (volatile)",
+              "\u2022 Stable Value: 2.5% (safe but low)",
+              "\u2022 Balanced Fund: 6% (moderate)",
+              "\u2022 Aggressive Growth: 10% (volatile)",
               "",
               "<strong>The Math Over 40 Years:</strong>",
               "Stable @ 2.5%: $227,000",
@@ -385,7 +386,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👤",
+            "icon": "\ud83d\udc64",
             "name": "Marcus's High-Risk Gamble",
             "paragraphs": [
               "<strong>The Setup:</strong>",
@@ -415,13 +416,13 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Jasmine's Risk-Adjusted Decision",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👤",
+            "icon": "\ud83d\udc64",
             "name": "Jasmine Compares Two Funds",
             "paragraphs": [
               "<strong>Two Fund Options:</strong>",
@@ -463,13 +464,13 @@
       "variant": "purple",
       "content": {
         "badge": "Personal Reflection",
-        "question": "<strong>The Honest Risk Tolerance Test</strong><br><br>Imagine this scenario: You invest $1,000 today. Six months later, due to market decline, it's worth <strong>$700</strong>. Headlines scream: 'Market Crash! Sell Now!' Friends are selling. You check your balance every day, feeling sick...<br><br><strong>Honestly, what would you do?</strong><br><br>A) Panic and sell to stop the losses<br>B) Feel anxious but hold steady<br>C) Stay calm—volatility is normal<br>D) Invest MORE—assets are 'on sale'<br><br><strong>Critical Insight:</strong> If your answer is A, you need a more conservative portfolio. Panic-selling at the bottom is the most wealth-destroying behavior in investing. Your honest answer reveals your true risk tolerance."
+        "question": "<strong>The Honest Risk Tolerance Test</strong><br><br>Imagine this scenario: You invest $1,000 today. Six months later, due to market decline, it's worth <strong>$700</strong>. Headlines scream: 'Market Crash! Sell Now!' Friends are selling. You check your balance every day, feeling sick...<br><br><strong>Honestly, what would you do?</strong><br><br>A) Panic and sell to stop the losses<br>B) Feel anxious but hold steady<br>C) Stay calm\u2014volatility is normal<br>D) Invest MORE\u2014assets are 'on sale'<br><br><strong>Critical Insight:</strong> If your answer is A, you need a more conservative portfolio. Panic-selling at the bottom is the most wealth-destroying behavior in investing. Your honest answer reveals your true risk tolerance."
       }
     },
     {
       "number": 17,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "emerald",
       "content": {
         "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
@@ -498,7 +499,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -541,13 +542,13 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Skill Builder: Risk-Return Analyzer",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "📊",
+            "icon": "\ud83d\udcca",
             "title": "Build Age-Appropriate Portfolios",
             "description": "Analyze six investment options and create three portfolios for different life stages"
           },
@@ -564,9 +565,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "\"The goal isn't to eliminate risk—it's to understand it, measure it, and manage it appropriately for YOUR situation.\"",
+        "tagline": "\"The goal isn't to eliminate risk\u2014it's to understand it, measure it, and manage it appropriately for YOUR situation.\"",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

@@ -23,12 +23,13 @@
       "content": {
         "label": "The Power of Strategy",
         "question": "<strong>Investor A:</strong> Perfectly picks individual stocks, 50/50 stock/bond allocation<br><strong>Investor B:</strong> Uses simple index funds, 80/20 stock/bond allocation<br><br>Over 30 years, <em>Investor B's simple allocation decision matters far more than Investor A's stock-picking genius.</em><br><br><strong>Asset allocation explains over 90% of portfolio performance variance.</strong>"
-      }
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -61,7 +62,7 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Essential Vocabulary (Part 1)",
         "layout": "vocab-container",
@@ -74,12 +75,12 @@
             },
             {
               "term": "Rebalancing",
-              "definition": "Periodically buying and selling to return portfolio to target allocation—typically done annually or when allocations drift significantly",
+              "definition": "Periodically buying and selling to return portfolio to target allocation\u2014typically done annually or when allocations drift significantly",
               "example": "Selling stocks that grew to 75% to bring back to target 60%"
             },
             {
               "term": "Target Date Fund",
-              "definition": "Fund that automatically adjusts allocation to become more conservative as retirement approaches—'set it and forget it'",
+              "definition": "Fund that automatically adjusts allocation to become more conservative as retirement approaches\u2014'set it and forget it'",
               "example": "Target Date 2050 Fund for someone retiring in 2050"
             },
             {
@@ -99,7 +100,7 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Essential Vocabulary (Part 2)",
         "layout": "vocab-container",
@@ -112,7 +113,7 @@
             },
             {
               "term": "Dollar-Cost Averaging",
-              "definition": "Investing fixed amounts at regular intervals regardless of market conditions—reduces impact of timing and volatility",
+              "definition": "Investing fixed amounts at regular intervals regardless of market conditions\u2014reduces impact of timing and volatility",
               "example": "Invest $500 every month automatically"
             },
             {
@@ -122,7 +123,7 @@
             },
             {
               "term": "Home Country Bias",
-              "definition": "Tendency to overweight domestic investments—potentially missing international diversification benefits (U.S. = 60% of global market)",
+              "definition": "Tendency to overweight domestic investments\u2014potentially missing international diversification benefits (U.S. = 60% of global market)",
               "example": "Portfolio with 90% U.S. stocks despite global opportunities"
             }
           ]
@@ -132,13 +133,13 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Asset Allocation: The Foundation",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "📈",
+            "icon": "\ud83d\udcc8",
             "title": "Stocks",
             "items": [
               "Higher long-term returns but significant volatility",
@@ -147,7 +148,7 @@
             ]
           },
           "centerColumn": {
-            "icon": "📋",
+            "icon": "\ud83d\udccb",
             "title": "Bonds",
             "items": [
               "Lower returns but greater stability",
@@ -157,7 +158,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "💵",
+            "icon": "\ud83d\udcb5",
             "title": "Cash",
             "items": [
               "Liquidity and safety",
@@ -204,7 +205,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Diversification Strategies",
         "layout": "concept-full",
@@ -217,20 +218,20 @@
             "<strong>Real Assets:</strong> REITs, commodities provide inflation hedge",
             "<strong>Alternative Investments:</strong> May include hedge strategies for sophisticated investors"
           ],
-          "keyPoint": "True diversification means not all investments move together—reducing overall portfolio risk while maintaining return potential."
+          "keyPoint": "True diversification means not all investments move together\u2014reducing overall portfolio risk while maintaining return potential."
         }
       }
     },
     {
       "number": 9,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Passive vs. Active Management",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "📊",
+            "icon": "\ud83d\udcca",
             "title": "Passive (Index Funds)",
             "items": [
               "Track market indexes (S&P 500, Total Market)",
@@ -241,7 +242,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "🎯",
+            "icon": "\ud83c\udfaf",
             "title": "Active Management",
             "items": [
               "Professional managers try to beat the market",
@@ -265,7 +266,7 @@
           "title": "Why and When to Rebalance",
           "paragraphs": [
             "Over time, winners grow and losers shrink, shifting your allocation away from targets.",
-            "Example: 60/40 stocks/bonds → After great stock year becomes 70/30 → Higher risk than intended!",
+            "Example: 60/40 stocks/bonds \u2192 After great stock year becomes 70/30 \u2192 Higher risk than intended!",
             "Rebalancing forces you to 'sell high' (trim winners) and 'buy low' (add to losers)."
           ],
           "bulletPoints": [
@@ -288,13 +289,13 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Tax-Loss Harvesting",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "💡",
+            "icon": "\ud83d\udca1",
             "name": "Smart Tax Strategy",
             "paragraphs": [
               "You bought Stock A for $10,000. It's now worth $8,000 (down $2,000).",
@@ -331,7 +332,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "✗",
+            "icon": "\u2717",
             "title": "What NOT to Do",
             "items": [
               "Chase last year's winners",
@@ -342,7 +343,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "✓",
+            "icon": "\u2713",
             "title": "What TO Do",
             "items": [
               "Stick to your allocation plan",
@@ -358,7 +359,7 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Asset Location Strategy",
         "layout": "balanced-layout",
@@ -367,9 +368,9 @@
             "title": "Tax-Advantaged Accounts (IRA, 401k)",
             "paragraphs": [
               "Put tax-inefficient investments here:",
-              "• Bonds (generate ordinary income)",
-              "• REITs (high dividend distributions)",
-              "• Actively managed funds (frequent trading)"
+              "\u2022 Bonds (generate ordinary income)",
+              "\u2022 REITs (high dividend distributions)",
+              "\u2022 Actively managed funds (frequent trading)"
             ]
           },
           "rightPanel": {
@@ -379,9 +380,9 @@
               "color": "teal",
               "items": [
                 "Put tax-efficient investments here:",
-                "• Index funds (low turnover)",
-                "• Growth stocks (no dividends until sold)",
-                "• Municipal bonds (tax-free interest)",
+                "\u2022 Index funds (low turnover)",
+                "\u2022 Growth stocks (no dividends until sold)",
+                "\u2022 Municipal bonds (tax-free interest)",
                 "",
                 "<strong>Strategy:</strong> Maximize after-tax returns by placing right investments in right accounts"
               ]
@@ -396,7 +397,7 @@
       "variant": "purple",
       "content": {
         "badge": "Reflection",
-        "question": "Many investors feel uncomfortable rebalancing—it means selling winners and buying losers, which feels wrong emotionally. How can understanding the mathematics of rebalancing help you overcome this psychological barrier? What discipline would you need to develop?"
+        "question": "Many investors feel uncomfortable rebalancing\u2014it means selling winners and buying losers, which feels wrong emotionally. How can understanding the mathematics of rebalancing help you overcome this psychological barrier? What discipline would you need to develop?"
       }
     },
     {
@@ -416,9 +417,9 @@
             "<strong>Fund 3:</strong> Total Bond Market Index (20%)",
             "",
             "This simple allocation captures:",
-            "• Entire U.S. stock market (Large, mid, small cap)",
-            "• Entire developed + emerging international market",
-            "• Entire U.S. bond market"
+            "\u2022 Entire U.S. stock market (Large, mid, small cap)",
+            "\u2022 Entire developed + emerging international market",
+            "\u2022 Entire U.S. bond market"
           ],
           "keyPoint": "With just three low-cost index funds, you can build a globally diversified portfolio that most professional managers fail to beat."
         }
@@ -427,7 +428,7 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -436,7 +437,7 @@
             {
               "number": 1,
               "title": "Asset allocation matters most",
-              "description": "Explains 90%+ of portfolio performance—more important than security selection"
+              "description": "Explains 90%+ of portfolio performance\u2014more important than security selection"
             },
             {
               "number": 2,
@@ -465,9 +466,9 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -494,13 +495,13 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Portfolio Builder Tool",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "📊",
+            "icon": "\ud83d\udcca",
             "title": "Tomorrow's Learning Lab",
             "description": "Use the Portfolio Builder to design your own investment strategy"
           },
@@ -520,7 +521,7 @@
       "content": {
         "tagline": "\"Time in the market beats timing the market.\"",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

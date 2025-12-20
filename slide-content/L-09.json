@@ -1,8 +1,8 @@
 {
   "metadata": {
     "lChapter": "L-09",
-    "title": "Tax Deductions& Credits",
-    "subtitle": "Strategies to Reduce Your Tax Burden in {{STATE_NAME}}",
+    "title": "Tax Deductions & Credits",
+    "subtitle": "Strategies to Reduce Your Tax Burden",
     "totalSlides": 20,
     "hasStateVariables": true,
     "stateVariablesUsed": [
@@ -14,23 +14,24 @@
       "number": 1,
       "type": "title",
       "content": {
-        "title": "Tax Deductions& Credits",
+        "title": "Tax Deductions & Credits",
         "titleSize": "large",
-        "subtitle": "Strategies to Reduce Your Tax Burden in {{STATE_NAME}}"
+        "subtitle": "Strategies to Reduce Your Tax Burden"
       }
     },
     {
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
+        "label": "The Challenge",
         "question": "What's the difference between<br><em>reducing your taxable income</em> and<br><em>reducing your actual tax bill</em>?"
-      }
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -63,9 +64,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -86,21 +87,21 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
               "term": "Standard Deduction",
-              "definition": "A fixed amount based on filing status that reduces taxable income—no itemizing needed. Used by ~90% of filers.",
-              "example": "Single: $13,850 • Married Filing Jointly: $27,700 • Head of Household: $20,800"
+              "definition": "A fixed amount based on filing status that reduces taxable income\u2014no itemizing needed. Used by ~90% of filers.",
+              "example": "Single: $13,850 \u2022 Married Filing Jointly: $27,700 \u2022 Head of Household: $20,800"
             },
             {
               "term": "Refundable vs. Nonrefundable",
               "definition": "Refundable credits can result in a refund if they exceed your tax bill. Nonrefundable credits can only reduce your tax to zero.",
-              "example": "EITC (refundable) → can get $ back • Child Care Credit (nonrefundable) → only reduces to $0"
+              "example": "EITC (refundable) \u2192 can get $ back \u2022 Child Care Credit (nonrefundable) \u2192 only reduces to $0"
             }
           ]
         }
@@ -109,7 +110,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "How Tax Deductions Work",
         "layout": "balanced-layout",
@@ -121,8 +122,8 @@
               "The actual tax savings depends on your <strong>marginal tax rate</strong> (tax bracket). Higher bracket = more valuable deductions."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udca1 A $10,000 deduction in the 22% bracket saves $2,200. The same deduction in the 12% bracket saves only $1,200."
+              "icon": "\ud83d\udca1",
+              "text": "A $10,000 deduction in the 22% bracket saves $2,200. The same deduction in the 12% bracket saves only $1,200."
             }
           },
           "rightPanel": {
@@ -130,20 +131,20 @@
               {
                 "value": "$13,850",
                 "label": "Standard Deduction (Single)",
-                "color": "teal"
+                "color": "indigo"
               },
               {
                 "value": "90%",
                 "label": "Filers Use Standard Deduction",
-                "color": "purple"
+                "color": "indigo"
               }
             ],
             "infoCard": {
               "title": "Deduction Math Example:",
-              "color": "blue",
+              "color": "indigo",
               "items": [
                 "Gross income: $50,000",
-                "Deductions: −$13,850",
+                "Deductions: \u2212$13,850",
                 "Taxable income: $36,150",
                 "You only pay tax on $36,150!"
               ]
@@ -155,14 +156,14 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Tax Deductions vs. Tax Credits",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d",
-            "title": "\udccb Deductions",
+            "icon": "\ud83d\udcc9",
+            "title": "Deductions",
             "items": [
               "Reduce taxable INCOME",
               "Applied BEFORE tax calculated",
@@ -173,8 +174,8 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d",
-            "title": "\udcb5 Credits",
+            "icon": "\ud83d\udcb0",
+            "title": "Credits",
             "items": [
               "Reduce TAX BILL directly",
               "Applied AFTER tax calculated",
@@ -190,7 +191,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Power of Tax Credits",
         "layout": "balanced-layout",
@@ -199,11 +200,11 @@
             "title": "Credits: Dollar-for-Dollar Savings",
             "paragraphs": [
               "A tax credit directly reduces the amount of tax you owe. If you owe $5,000 in taxes and have a $1,000 credit, you now owe <strong>$4,000</strong>.",
-              "This makes credits particularly powerful—a $1,000 credit saves exactly $1,000, <strong>regardless of your tax bracket</strong>."
+              "This makes credits particularly powerful\u2014a $1,000 credit saves exactly $1,000, <strong>regardless of your tax bracket</strong>."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udcb0 A relatively small tax credit can be MORE valuable than a larger tax deduction, especially for lower-income taxpayers."
+              "icon": "\ud83d\udca1",
+              "text": "A relatively small tax credit can be MORE valuable than a larger tax deduction, especially for lower-income taxpayers."
             }
           },
           "rightPanel": {
@@ -216,7 +217,7 @@
               {
                 "value": "$2,000",
                 "label": "Child Tax Credit (per child)",
-                "color": "teal"
+                "color": "indigo"
               }
             ],
             "infoCard": {
@@ -236,7 +237,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Common Tax Deductions",
         "layout": "concept-full",
@@ -247,7 +248,7 @@
           ],
           "bulletPoints": [
             "<strong>Mortgage Interest:</strong> Interest on home loans up to $750,000",
-            "<strong>State &amp; Local Taxes (SALT):</strong> Up to $10,000 in state income, property, and sales taxes",
+            "<strong>State & Local Taxes (SALT):</strong> Up to $10,000 in state income, property, and sales taxes",
             "<strong>Charitable Donations:</strong> Gifts to qualified organizations",
             "<strong>Medical Expenses:</strong> Amounts exceeding 7.5% of your income",
             "<strong>Student Loan Interest:</strong> Up to $2,500 (even with standard deduction!)",
@@ -259,7 +260,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Common Tax Credits",
         "layout": "balanced-layout",
@@ -276,12 +277,12 @@
               {
                 "value": "$7,430",
                 "label": "Max EITC (3+ children)",
-                "color": "teal"
+                "color": "indigo"
               },
               {
                 "value": "40%",
                 "label": "AOC is Refundable (up to $1,000)",
-                "color": "purple"
+                "color": "indigo"
               }
             ],
             "infoCard": {
@@ -301,7 +302,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why This Matters for Your Future",
         "layout": "concept-full",
@@ -324,7 +325,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Strategic Tax Planning",
         "layout": "balanced-layout",
@@ -336,8 +337,8 @@
               "<strong>\"Bunching\" deductions:</strong> If your itemized deductions are close to the standard deduction, consider making two years' worth of charitable donations in one year to exceed the threshold."
             ],
             "highlightBox": {
-              "icon": "\ud83c",
-              "text": "\udfaf Tax planning isn't about cheating—it's about using legal strategies to keep more of what you earn."
+              "icon": "\ud83d\udca1",
+              "text": "Tax planning isn't about cheating\u2014it's about using legal strategies to keep more of what you earn."
             }
           },
           "rightPanel": {
@@ -345,7 +346,7 @@
               {
                 "value": "$4K+",
                 "label": "Potential Annual Savings",
-                "color": "purple"
+                "color": "indigo"
               },
               {
                 "value": "3x",
@@ -355,7 +356,7 @@
             ],
             "infoCard": {
               "title": "Key Planning Strategies:",
-              "color": "blue",
+              "color": "indigo",
               "items": [
                 "Maximize retirement contributions",
                 "Time income and expenses wisely",
@@ -370,13 +371,13 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Real-World Example",
+        "headerTitle": "Apply It",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩‍🎓",
+            "icon": "\ud83d\udc69\u200d\ud83c\udf93",
             "name": "Emily: Recent Graduate Power Planning",
             "paragraphs": [
               "Emily just graduated and started her first job earning <strong>$40,000</strong>. She paid $2,800 in student loan interest, contributed $3,000 to her IRA, and completed a certification that qualifies for the Lifetime Learning Credit.",
@@ -410,17 +411,17 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Real-World Example",
+        "headerTitle": "Apply It",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👨‍👩‍👧‍👦",
+            "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
             "name": "The Smith Family: Standard vs. Itemized Decision",
             "paragraphs": [
               "Matt and Sarah Smith are married with two children. Combined income: <strong>$105,000</strong>. Their potential itemized deductions:",
-              "<span class=\"highlight-text\">Standard deduction for MFJ: $27,700</span> — The Smiths should take the standard deduction and save $924 more in taxes!"
+              "<span class=\"highlight-text\">Standard deduction for MFJ: $27,700</span> \u2014 The Smiths should take the standard deduction and save $924 more in taxes!"
             ]
           },
           "outcomes": [
@@ -449,16 +450,16 @@
     {
       "number": 15,
       "type": "discussion",
-      "variant": "teal",
+      "variant": "amber",
       "content": {
         "badge": "Discussion",
-        "question": "A $1,000 tax deduction or a $300 tax credit—<br>which saves more money for someone in the 22% tax bracket?<br><br>How would your answer change if the person were in the 10% bracket?"
+        "question": "A $1,000 tax deduction or a $300 tax credit\u2014<br>which saves more money for someone in the 22% tax bracket?<br><br>How would your answer change if the person were in the 10% bracket?"
       }
     },
     {
       "number": 16,
       "type": "discussion",
-      "variant": "purple",
+      "variant": "indigo",
       "content": {
         "badge": "Personal Reflection",
         "question": "What tax deductions or credits might you qualify for<br>now or in the next few years?<br><br>How might this knowledge influence your decisions<br>about education, saving, or charitable giving?"
@@ -467,9 +468,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -496,7 +497,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -510,17 +511,17 @@
             {
               "number": 2,
               "title": "Credits Are Powerful",
-              "description": "A $1,000 credit saves $1,000 regardless of tax bracket—often more valuable than deductions"
+              "description": "A $1,000 credit saves $1,000 regardless of tax bracket\u2014often more valuable than deductions"
             },
             {
               "number": 3,
               "title": "Standard vs. Itemized",
-              "description": "About 90% of filers benefit from the standard deduction—only itemize if your total exceeds it"
+              "description": "About 90% of filers benefit from the standard deduction\u2014only itemize if your total exceeds it"
             },
             {
               "number": 4,
               "title": "Plan Ahead",
-              "description": "Strategic timing of income and deductions can save thousands—tax planning is year-round"
+              "description": "Strategic timing of income and deductions can save thousands\u2014tax planning is year-round"
             }
           ]
         }
@@ -529,15 +530,15 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Student Activity",
+        "headerTitle": "Tomorrow's Challenge",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udccb Tax Deduction vs. Credit Comparison",
-            "description": "Complete a comparison chart and work through real scenarios to determine which tax benefit provides the greatest savings. This activity will help you understand when deductions outperform credits and vice versa—essential knowledge for tax planning!"
+            "icon": "\ud83d\udccb",
+            "title": "Tax Deduction vs. Credit Comparison",
+            "description": "Complete a comparison chart and work through real scenarios to determine which tax benefit provides the greatest savings. This activity will help you understand when deductions outperform credits and vice versa\u2014essential knowledge for tax planning!"
           },
           "steps": [
             "Complete the comparison chart for deductions vs. credits",
@@ -555,7 +556,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

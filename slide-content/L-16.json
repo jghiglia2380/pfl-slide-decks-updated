@@ -2,7 +2,7 @@
   "metadata": {
     "lChapter": "L-16",
     "title": "Evaluating Saving &Investment Strategies",
-    "subtitle": "Making Informed Financial Decisions for Your Goals in {{STATE_NAME}}",
+    "subtitle": "Making Informed Financial Decisions for Your Goals",
     "totalSlides": 20,
     "hasStateVariables": true,
     "stateVariablesUsed": [
@@ -16,21 +16,22 @@
       "content": {
         "title": "Evaluating Saving &Investment Strategies",
         "titleSize": "large",
-        "subtitle": "Making Informed Financial Decisions for Your Goals in {{STATE_NAME}}"
+        "subtitle": "Making Informed Financial Decisions for Your Goals"
       }
     },
     {
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question in {{STATE_NAME}}",
-        "question": "How do I evaluate different <em>saving and investment strategies</em><br>to meet my <em>financial goals</em>? in {{STATE_NAME}}"
-      }
+        "label": "The Challenge",
+        "question": "How do I evaluate different <em>saving and investment strategies</em><br>to meet my <em>financial goals</em>?"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -63,19 +64,19 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
-              "term": "Certificate of Deposit (CD) in {{STATE_NAME}}",
+              "term": "Certificate of Deposit (CD)",
               "definition": "A savings product with a fixed interest rate and maturity date; funds are locked in for a specific period.",
-              "example": "A 12-month CD paying 4% APY—withdraw early and you pay a penalty"
+              "example": "A 12-month CD paying 4% APY\u2014withdraw early and you pay a penalty"
             },
             {
-              "term": "Risk Tolerance in {{STATE_NAME}}",
+              "term": "Risk Tolerance",
               "definition": "The degree of variability in investment returns that an individual is willing to accept based on their goals and situation.",
               "example": "A young investor may accept more volatility; someone near retirement prefers stability"
             }
@@ -86,20 +87,20 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
-              "term": "Liquidity in {{STATE_NAME}}",
+              "term": "Liquidity",
               "definition": "How quickly and easily an asset can be converted to cash without losing significant value.",
               "example": "A savings account is highly liquid; real estate is not (takes time to sell)"
             },
             {
-              "term": "Diversification in {{STATE_NAME}}",
-              "definition": "Spreading investments across different asset types to reduce overall risk—\"don't put all your eggs in one basket.\"",
+              "term": "Diversification",
+              "definition": "Spreading investments across different asset types to reduce overall risk\u2014\"don't put all your eggs in one basket.\"",
               "example": "Owning stocks, bonds, AND real estate instead of only one company's stock"
             }
           ]
@@ -109,7 +110,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Saving vs. Investing",
         "layout": "balanced-layout",
@@ -117,7 +118,7 @@
           "leftPanel": {
             "title": "Two Different Approaches",
             "paragraphs": [
-              "<strong>Saving</strong> focuses on security and accessibility for short-term needs—preserving what you have.",
+              "<strong>Saving</strong> focuses on security and accessibility for short-term needs\u2014preserving what you have.",
               "<strong>Investing</strong> aims for growth over longer periods but involves accepting more risk for potentially higher returns.",
               "Understanding the relationship between <strong>risk and return</strong> is essential for making informed financial choices."
             ],
@@ -129,13 +130,13 @@
           "rightPanel": {
             "stats": [
               {
-                "value": "1-3 yrs in {{STATE_NAME}}",
-                "label": "Saving Time Horizon in {{STATE_NAME}}",
+                "value": "1-3 yrs",
+                "label": "Saving Time Horizon",
                 "color": "teal"
               },
               {
-                "value": "4+ yrs in {{STATE_NAME}}",
-                "label": "Investing Time Horizon in {{STATE_NAME}}",
+                "value": "4+ yrs",
+                "label": "Investing Time Horizon",
                 "color": "purple"
               }
             ],
@@ -155,7 +156,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Saving vs. Investing: A Comparison",
         "layout": "comparison-grid",
@@ -190,7 +191,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Common Saving Options",
         "layout": "balanced-layout",
@@ -204,19 +205,19 @@
             ],
             "highlightBox": {
               "icon": "\ud83d",
-              "text": "\udd12 FDIC insurance protects up to $250,000 per depositor, per bank—your money is safe!"
+              "text": "\udd12 FDIC insurance protects up to $250,000 per depositor, per bank\u2014your money is safe!"
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "$250K in {{STATE_NAME}}",
-                "label": "FDIC Insurance Limit in {{STATE_NAME}}",
+                "value": "$250K",
+                "label": "FDIC Insurance Limit",
                 "color": "green"
               },
               {
-                "value": "4-5% in {{STATE_NAME}}",
-                "label": "High-Yield Savings APY in {{STATE_NAME}}",
+                "value": "4-5%",
+                "label": "High-Yield Savings APY",
                 "color": "teal"
               }
             ],
@@ -236,7 +237,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Common Investment Options",
         "layout": "concept-full",
@@ -259,7 +260,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "The Risk-Return Relationship",
         "layout": "balanced-layout",
@@ -272,25 +273,25 @@
               "Your job is to find the right <strong>balance</strong> between risk and return based on your goals, timeline, and comfort level."
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚖️ The risk-return tradeoff: More risk = potential for more reward, but also potential for more loss."
+              "icon": "\ud83d\udca1",
+              "text": "\u2696\ufe0f The risk-return tradeoff: More risk = potential for more reward, but also potential for more loss."
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "~5% in {{STATE_NAME}}",
-                "label": "Low Risk Returns (CDs) in {{STATE_NAME}}",
+                "value": "~5%",
+                "label": "Low Risk Returns (CDs)",
                 "color": "green"
               },
               {
-                "value": "~7% in {{STATE_NAME}}",
-                "label": "Moderate Risk (Bonds) in {{STATE_NAME}}",
+                "value": "~7%",
+                "label": "Moderate Risk (Bonds)",
                 "color": "teal"
               },
               {
-                "value": "~10% in {{STATE_NAME}}",
-                "label": "Higher Risk (Stocks) in {{STATE_NAME}}",
+                "value": "~10%",
+                "label": "Higher Risk (Stocks)",
                 "color": "purple"
               }
             ],
@@ -302,23 +303,23 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Time Horizon Matters",
         "layout": "concept-full",
         "layoutData": {
           "title": "Match Your Strategy to Your Timeline",
           "paragraphs": [
-            "Your <strong>time horizon</strong>—how long until you need the money—is crucial for choosing the right strategy. Longer timelines allow you to take more risk because you have time to recover from market downturns."
+            "Your <strong>time horizon</strong>\u2014how long until you need the money\u2014is crucial for choosing the right strategy. Longer timelines allow you to take more risk because you have time to recover from market downturns."
           ],
           "bulletPoints": [
-            "<strong>Short-term (1-3 years):</strong> Savings accounts, CDs, money markets—prioritize safety and liquidity",
-            "<strong>Medium-term (3-7 years):</strong> Balanced mix of bonds and conservative funds—some growth with protection",
-            "<strong>Long-term (7+ years):</strong> Stock-heavy portfolio—maximize growth potential, ride out volatility",
-            "<strong>Very long-term (20+ years):</strong> Aggressive growth investments—compound returns over decades"
+            "<strong>Short-term (1-3 years):</strong> Savings accounts, CDs, money markets\u2014prioritize safety and liquidity",
+            "<strong>Medium-term (3-7 years):</strong> Balanced mix of bonds and conservative funds\u2014some growth with protection",
+            "<strong>Long-term (7+ years):</strong> Stock-heavy portfolio\u2014maximize growth potential, ride out volatility",
+            "<strong>Very long-term (20+ years):</strong> Aggressive growth investments\u2014compound returns over decades"
           ],
           "keyPoint": {
-            "text": "🕐 Time is your greatest asset as a young investor. Starting early gives you decades for compound growth to work its magic!"
+            "text": "\ud83d\udd50 Time is your greatest asset as a young investor. Starting early gives you decades for compound growth to work its magic!"
           }
         }
       }
@@ -326,7 +327,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Investing in Today's Economy",
         "layout": "balanced-layout",
@@ -339,20 +340,20 @@
               "However, more options also means more opportunities to make mistakes. <strong>Education and research are more important than ever.</strong>"
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚠️ Beware of \"get rich quick\" schemes and meme stocks. Build wealth slowly through diversified, long-term investing."
+              "icon": "\ud83d\udca1",
+              "text": "\u26a0\ufe0f Beware of \"get rich quick\" schemes and meme stocks. Build wealth slowly through diversified, long-term investing."
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "$1 in {{STATE_NAME}}",
-                "label": "Minimum to Start Investing in {{STATE_NAME}}",
+                "value": "$1",
+                "label": "Minimum to Start Investing",
                 "color": "purple"
               },
               {
-                "value": "$0 in {{STATE_NAME}}",
-                "label": "Commission at Many Brokers in {{STATE_NAME}}",
+                "value": "$0",
+                "label": "Commission at Many Brokers",
                 "color": "teal"
               }
             ],
@@ -373,14 +374,14 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "🚗 in {{STATE_NAME}}",
-            "name": "Liam's Short-Term Car Savings Goal in {{STATE_NAME}}",
+            "icon": "\ud83d\ude97",
+            "name": "Liam's Short-Term Car Savings Goal",
             "paragraphs": [
               "Liam wants to buy a car in <strong>18 months</strong>. He has $5,000 saved but needs $8,000 total for the car he wants.",
               "He chooses a <span class=\"highlight-text\">1-year CD with a 4% interest rate</span>. While this won't get him to his full goal alone, it provides security and some growth while he continues to save additional money each month.",
@@ -390,21 +391,21 @@
           "outcomes": [
             {
               "type": "before",
-              "label": "Starting Point in {{STATE_NAME}}",
-              "value": "$5,000 in {{STATE_NAME}}",
-              "detail": "Current savings in {{STATE_NAME}}"
+              "label": "Starting Point",
+              "value": "$5,000",
+              "detail": "Current savings"
             },
             {
               "type": "after",
-              "label": "After 1 Year CD in {{STATE_NAME}}",
-              "value": "$5,200 in {{STATE_NAME}}",
-              "detail": "+$200 from 4% interest in {{STATE_NAME}}"
+              "label": "After 1 Year CD",
+              "value": "$5,200",
+              "detail": "+$200 from 4% interest"
             },
             {
               "type": "after",
-              "label": "Key Strategy in {{STATE_NAME}}",
-              "value": "Safe + Growth in {{STATE_NAME}}",
-              "detail": "Plus monthly contributions in {{STATE_NAME}}"
+              "label": "Key Strategy",
+              "value": "Safe + Growth",
+              "detail": "Plus monthly contributions"
             }
           ]
         }
@@ -413,38 +414,38 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩‍🎓 in {{STATE_NAME}}",
-            "name": "Julia's Long-Term Retirement Strategy in {{STATE_NAME}}",
+            "icon": "\ud83d\udc69\u200d\ud83c\udf93",
+            "name": "Julia's Long-Term Retirement Strategy",
             "paragraphs": [
               "Julia is <strong>17 years old</strong> and wants to start saving for retirement. She invests $1,000 in a mutual fund that historically returns 7% annually.",
-              "If she adds just <span class=\"highlight-text\">$50 monthly for the next 40 years</span>, she could have over $140,000 by retirement—even though she only contributed about $25,000 of her own money!",
-              "<strong>Why stocks make sense:</strong> Julia has 40+ years until retirement. Short-term volatility doesn't matter—she has time to ride out market dips and benefit from compound growth."
+              "If she adds just <span class=\"highlight-text\">$50 monthly for the next 40 years</span>, she could have over $140,000 by retirement\u2014even though she only contributed about $25,000 of her own money!",
+              "<strong>Why stocks make sense:</strong> Julia has 40+ years until retirement. Short-term volatility doesn't matter\u2014she has time to ride out market dips and benefit from compound growth."
             ]
           },
           "outcomes": [
             {
               "type": "before",
-              "label": "Her Contributions in {{STATE_NAME}}",
-              "value": "$25,000 in {{STATE_NAME}}",
-              "detail": "$1K + $50/mo for 40 years in {{STATE_NAME}}"
+              "label": "Her Contributions",
+              "value": "$25,000",
+              "detail": "$1K + $50/mo for 40 years"
             },
             {
               "type": "after",
-              "label": "Growth from Investing in {{STATE_NAME}}",
-              "value": "$115,000+ in {{STATE_NAME}}",
-              "detail": "Compound interest magic! in {{STATE_NAME}}"
+              "label": "Growth from Investing",
+              "value": "$115,000+",
+              "detail": "Compound interest magic!"
             },
             {
               "type": "after",
-              "label": "Total at Retirement in {{STATE_NAME}}",
-              "value": "$140,000+ in {{STATE_NAME}}",
-              "detail": "5.6x her contributions! in {{STATE_NAME}}"
+              "label": "Total at Retirement",
+              "value": "$140,000+",
+              "detail": "5.6x her contributions!"
             }
           ]
         }
@@ -455,8 +456,8 @@
       "type": "discussion",
       "variant": "teal",
       "content": {
-        "badge": "Discussion in {{STATE_NAME}}",
-        "question": "Why did Liam choose a CD while Julia chose a mutual fund?<br><br>How did their different time horizons affect their strategy choices? in {{STATE_NAME}}"
+        "badge": "Discussion",
+        "question": "Why did Liam choose a CD while Julia chose a mutual fund?<br><br>How did their different time horizons affect their strategy choices?"
       }
     },
     {
@@ -464,16 +465,16 @@
       "type": "discussion",
       "variant": "purple",
       "content": {
-        "badge": "Personal Reflection in {{STATE_NAME}}",
-        "question": "What is one short-term financial goal and one long-term goal you have?<br><br>Which saving or investment strategy would work best for each? in {{STATE_NAME}}"
+        "badge": "Personal Reflection",
+        "question": "What is one short-term financial goal and one long-term goal you have?<br><br>Which saving or investment strategy would work best for each?"
       }
     },
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -500,7 +501,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -509,7 +510,7 @@
             {
               "number": 1,
               "title": "Risk and Return Are Linked",
-              "description": "Higher potential returns always come with higher risk—there are no shortcuts to guaranteed wealth"
+              "description": "Higher potential returns always come with higher risk\u2014there are no shortcuts to guaranteed wealth"
             },
             {
               "number": 2,
@@ -524,7 +525,7 @@
             {
               "number": 4,
               "title": "Start Early, Benefit More",
-              "description": "Compound growth rewards those who start investing young—time is your greatest advantage"
+              "description": "Compound growth rewards those who start investing young\u2014time is your greatest advantage"
             }
           ]
         }
@@ -533,7 +534,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -557,9 +558,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "Building Financial Futures, One Lesson at a Time in {{STATE_NAME}}",
-        "website": "www.pflacademy.co in {{STATE_NAME}}",
-        "copyright": "© 2025 PFL Academy. All rights reserved. in {{STATE_NAME}}"
+        "tagline": "Building Financial Futures, One Lesson at a Time",
+        "website": "www.pflacademy.co",
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

@@ -5,7 +5,10 @@
     "subtitle": "Critical Analysis Skills to Protect Your Financial Interests",
     "totalSlides": 20,
     "hasStateVariables": true,
-    "stateVariablesUsed": ["STATE_NAME", "STATE_CONSUMER_PROTECTION_AGENCY"]
+    "stateVariablesUsed": [
+      "STATE_NAME",
+      "STATE_CONSUMER_PROTECTION_AGENCY"
+    ]
   },
   "slides": [
     {
@@ -22,13 +25,14 @@
       "type": "hook",
       "content": {
         "label": "The $600 Mistake",
-        "question": "A college student signed up for a 'free trial' subscription requiring credit card info. Buried in fine print: 'Free for 7 days, then $49.99/month, 12-month minimum commitment, $299 early termination fee.' She forgot to cancel. One year = $600 she didn't intend to spend.<br><br><strong>Key Statistics:</strong><br>• 91% of consumers don't read terms of service<br>• $600+ average cost of unread contracts<br>• 7 minutes to review could save thousands<br><br><em>How could this have been prevented?</em>"
-      }
+        "question": "A college student signed up for a 'free trial' subscription requiring credit card info. Buried in fine print: 'Free for 7 days, then $49.99/month, 12-month minimum commitment, $299 early termination fee.' She forgot to cancel. One year = $600 she didn't intend to spend.<br><br><strong>Key Statistics:</strong><br>\u2022 91% of consumers don't read terms of service<br>\u2022 $600+ average cost of unread contracts<br>\u2022 7 minutes to review could save thousands<br><br><em>How could this have been prevented?</em>"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -61,9 +65,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -89,15 +93,15 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
               "term": "Liquidated Damages",
-              "definition": "Pre-determined amounts you must pay if you break the contract—can be reasonable or excessive penalties",
+              "definition": "Pre-determined amounts you must pay if you break the contract\u2014can be reasonable or excessive penalties",
               "example": "Wedding venue charging $5,000 non-refundable deposit for cancellation a year in advance"
             },
             {
@@ -117,12 +121,12 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Understanding Unfair Contract Terms",
         "layout": "concept-full",
         "layoutData": {
-          "title": "Not all terms are enforceable—some are so one-sided courts may refuse to enforce them as \"unconscionable\"",
+          "title": "Not all terms are enforceable\u2014some are so one-sided courts may refuse to enforce them as \"unconscionable\"",
           "paragraphs": [
             "<strong>Excessive Fees:</strong> Gym membership with $40/month dues but $500 early termination fee. Cancellation cost exceeds reasonable damages.",
             "",
@@ -138,7 +142,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Consumer Rights and Legal Protections",
         "layout": "balanced-layout",
@@ -146,9 +150,9 @@
           "leftPanel": {
             "title": "You have rights that cannot be waived or signed away, regardless of what contracts claim",
             "paragraphs": [
-              "<strong>FTC Act:</strong> Prohibits deceptive and unfair business practices. If ads promise one thing but contract says another—that's deceptive.",
+              "<strong>FTC Act:</strong> Prohibits deceptive and unfair business practices. If ads promise one thing but contract says another\u2014that's deceptive.",
               "",
-              "<strong>Truth in Lending Act (TILA):</strong> Requires clear disclosure of credit terms—interest rates, fees, payment schedules in standardized formats."
+              "<strong>Truth in Lending Act (TILA):</strong> Requires clear disclosure of credit terms\u2014interest rates, fees, payment schedules in standardized formats."
             ],
             "highlightBox": null
           },
@@ -170,26 +174,26 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Red Flags in Contract Language",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "🚩",
+            "icon": "\ud83d\udea9",
             "title": "Immediate Warning Signs",
             "items": [
-              "<strong>\"As-Is\" / \"With All Faults\":</strong> You accept the product in its current condition. If a used car engine fails leaving the lot—no recourse",
+              "<strong>\"As-Is\" / \"With All Faults\":</strong> You accept the product in its current condition. If a used car engine fails leaving the lot\u2014no recourse",
               "<strong>\"Non-Refundable\":</strong> $5,000 wedding venue deposit a year in advance may exceed reasonable compensation",
               "<strong>\"Binding Arbitration\":</strong> Waives your right to court or class actions. Makes pursuing small claims ($50-$200) impractical"
             ]
           },
           "rightColumn": {
-            "icon": "⚠️",
+            "icon": "\u26a0\ufe0f",
             "title": "Additional Red Flags",
             "items": [
               "<strong>\"Automatic Renewal\":</strong> Renews annually unless you cancel with 60+ days written notice. Forgetting = another year locked in",
-              "<strong>\"Indemnify and Hold Harmless\":</strong> You agree to pay the company's legal costs if they get sued—even if they were at fault",
+              "<strong>\"Indemnify and Hold Harmless\":</strong> You agree to pay the company's legal costs if they get sued\u2014even if they were at fault",
               "<strong>\"Company May Terminate at Any Time\":</strong> One-sided rights: they can end it instantly, but you must give 30-60 days notice plus fees"
             ]
           }
@@ -199,7 +203,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "6-Step Contract Analysis Process",
         "layout": "balanced-layout",
@@ -236,13 +240,13 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Contract Evaluation Matters",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "💸",
+            "icon": "\ud83d\udcb8",
             "title": "Personal Consequences",
             "items": [
               "<strong>Financial Impact:</strong> Early termination fees run into thousands. Gym auto-renewals charge for years after you stop going",
@@ -250,7 +254,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "🏛️",
+            "icon": "\ud83c\udfdb\ufe0f",
             "title": "Broader Impact",
             "items": [
               "<strong>Predatory Contracts:</strong> Auto title loans at 300% APR. Rent-to-own paying $3,000 for $800 TV. Payday loan rollovers trapping borrowers",
@@ -263,14 +267,14 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Contracts in the Digital Age",
         "layout": "concept-full",
         "layoutData": {
           "title": "The modern reality: You probably agree to 3-5 contracts per week without reading them",
           "paragraphs": [
-            "<strong>Click-Through Agreements:</strong> Terms of service you agree to with one click. Often thousands of words. Studies show 91% don't read them—yet they're legally binding.",
+            "<strong>Click-Through Agreements:</strong> Terms of service you agree to with one click. Often thousands of words. Studies show 91% don't read them\u2014yet they're legally binding.",
             "",
             "<strong>Subscription Economy:</strong> Average American has 12+ subscriptions. Auto-renewal everywhere. Free trials convert to paid. Cancellation intentionally difficult.",
             "",
@@ -287,28 +291,28 @@
       "variant": "teal",
       "content": {
         "badge": "Discussion",
-        "question": "Contract Scenarios to Consider:<br><br>• You buy a used car sold \"as-is.\" The engine fails the next day. Do you have any recourse? What consumer protections might apply?<br><br>• Your credit card company changes terms mid-contract—raising your interest rate. Can they do that? What disclosures are required?<br><br>• Your apartment lease says the landlord can enter anytime without notice. Is that legal? What are your tenant rights?<br><br><em>Just because something is written in a contract doesn't mean it's enforceable—or that you have to accept it.</em>"
+        "question": "Contract Scenarios to Consider:<br><br>\u2022 You buy a used car sold \"as-is.\" The engine fails the next day. Do you have any recourse? What consumer protections might apply?<br><br>\u2022 Your credit card company changes terms mid-contract\u2014raising your interest rate. Can they do that? What disclosures are required?<br><br>\u2022 Your apartment lease says the landlord can enter anytime without notice. Is that legal? What are your tenant rights?<br><br><em>Just because something is written in a contract doesn't mean it's enforceable\u2014or that you have to accept it.</em>"
       }
     },
     {
       "number": 13,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example: Taylor's Apartment Lease",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "🏠",
+            "icon": "\ud83c\udfe0",
             "name": "Taylor's Lease Analysis: Resisting Pressure Tactics",
             "paragraphs": [
-              "<strong>The Situation:</strong> Taylor, 24, found affordable apartment. Landlord pressed: \"Three other people want this unit—sign today or it's gone.\"",
+              "<strong>The Situation:</strong> Taylor, 24, found affordable apartment. Landlord pressed: \"Three other people want this unit\u2014sign today or it's gone.\"",
               "",
               "<strong>What She Found:</strong>",
-              "• 90-day written notice to vacate (forgot = another year)",
-              "• Landlord can enter \"at any time for any reason\"",
-              "• Tenant liable for ALL repairs (even age-related)",
-              "• Tenant pays landlord's attorney fees in any dispute",
+              "\u2022 90-day written notice to vacate (forgot = another year)",
+              "\u2022 Landlord can enter \"at any time for any reason\"",
+              "\u2022 Tenant liable for ALL repairs (even age-related)",
+              "\u2022 Tenant pays landlord's attorney fees in any dispute",
               "",
               "<strong>Her Action:</strong> Took lease home despite pressure. Researched {{STATE_NAME}} tenant rights through {{STATE_CONSUMER_PROTECTION_AGENCY}}. Drafted amendments: 60-day notice, 24-hour entry, landlord repairs non-tenant damage, mutual attorney fees."
             ]
@@ -333,29 +337,29 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example: Marcus's Gym Membership",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "🏋️",
+            "icon": "\ud83c\udfcb\ufe0f",
             "name": "Marcus's Gym Battle: Ads vs. Reality",
             "paragraphs": [
               "<strong>The Advertisement:</strong> \"$20/month, cancel anytime!\"",
               "",
               "<strong>The Contract Reality:</strong>",
-              "• One-year commitment required",
-              "• $200 early termination fee",
-              "• \"Cancel anytime\" = after first year",
-              "• Auto-renews unless 45-day written notice",
-              "• Authorized to keep charging even if disputed",
+              "\u2022 One-year commitment required",
+              "\u2022 $200 early termination fee",
+              "\u2022 \"Cancel anytime\" = after first year",
+              "\u2022 Auto-renews unless 45-day written notice",
+              "\u2022 Authorized to keep charging even if disputed",
               "",
               "<strong>What Happened:</strong>",
-              "• Moved after 4 months → $200 termination fee",
-              "• A year later: $275 in charges he didn't notice",
-              "• Auto-renewed because he missed 45-day window",
-              "• Renewal email went to spam"
+              "\u2022 Moved after 4 months \u2192 $200 termination fee",
+              "\u2022 A year later: $275 in charges he didn't notice",
+              "\u2022 Auto-renewed because he missed 45-day window",
+              "\u2022 Renewal email went to spam"
             ]
           },
           "outcomes": [
@@ -363,13 +367,13 @@
               "type": "before",
               "label": "Expected Cost",
               "value": "$80",
-              "detail": "4 months × $20/month for gym he used"
+              "detail": "4 months \u00d7 $20/month for gym he used"
             },
             {
               "type": "after",
               "label": "Actual Cost",
               "value": "$475",
-              "detail": "$200 termination + $275 auto-renewal = nearly 6× expected cost"
+              "detail": "$200 termination + $275 auto-renewal = nearly 6\u00d7 expected cost"
             }
           ]
         }
@@ -381,29 +385,29 @@
       "variant": "purple",
       "content": {
         "badge": "Personal Reflection",
-        "question": "When Would You Walk Away From a Contract?<br><br>Consider these terms:<br>• Mandatory arbitration with class action waiver<br>• Company can change any terms at any time<br>• Non-refundable $500 deposit<br>• You waive all claims for negligence<br>• Perpetual auto-renewal with 90-day cancellation notice<br><br><strong>Reflect:</strong> Which of these terms are dealbreakers for you? Which would you try to negotiate? What alternatives would you seek? How does the type of contract affect your tolerance?<br><br><em>Remember: Walking away is powerful leverage. If a deal isn't available after you've had time to review carefully, it probably wasn't a good deal to begin with.</em>"
+        "question": "When Would You Walk Away From a Contract?<br><br>Consider these terms:<br>\u2022 Mandatory arbitration with class action waiver<br>\u2022 Company can change any terms at any time<br>\u2022 Non-refundable $500 deposit<br>\u2022 You waive all claims for negligence<br>\u2022 Perpetual auto-renewal with 90-day cancellation notice<br><br><strong>Reflect:</strong> Which of these terms are dealbreakers for you? Which would you try to negotiate? What alternatives would you seek? How does the type of contract affect your tolerance?<br><br><em>Remember: Walking away is powerful leverage. If a deal isn't available after you've had time to review carefully, it probably wasn't a good deal to begin with.</em>"
       }
     },
     {
       "number": 16,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example: Jordan's Extended Warranty",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "💻",
+            "icon": "\ud83d\udcbb",
             "name": "Jordan's Warranty Evaluation: Reading the Fine Print",
             "paragraphs": [
-              "<strong>The Offer:</strong> $1,200 laptop + $350 extended warranty (3 years beyond manufacturer's 1 year). Salesperson: \"Laptops break all the time—this covers everything!\"",
+              "<strong>The Offer:</strong> $1,200 laptop + $350 extended warranty (3 years beyond manufacturer's 1 year). Salesperson: \"Laptops break all the time\u2014this covers everything!\"",
               "",
               "<strong>What She Found:</strong>",
-              "• Excluded \"misuse\" (vague, company defines)",
-              "• Excluded battery degradation, cosmetic, software",
-              "• $75 deductible per claim",
-              "• Must register within 30 days or void",
-              "• Manufacturer already covers year 1",
+              "\u2022 Excluded \"misuse\" (vague, company defines)",
+              "\u2022 Excluded battery degradation, cosmetic, software",
+              "\u2022 $75 deductible per claim",
+              "\u2022 Must register within 30 days or void",
+              "\u2022 Manufacturer already covers year 1",
               "",
               "<strong>Her Math:</strong> Warranty cost: $350 + $75 deductibles. Major repair: ~$500. One repair: pay $425 via warranty OR $500 self-pay. Only saves $75 in best case."
             ]
@@ -428,9 +432,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -457,7 +461,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -466,7 +470,7 @@
             {
               "number": 1,
               "title": "Read everything before signing",
-              "description": "Contracts are legally binding regardless of whether you read them. Take time to review carefully—7 minutes can save thousands"
+              "description": "Contracts are legally binding regardless of whether you read them. Take time to review carefully\u20147 minutes can save thousands"
             },
             {
               "number": 2,
@@ -486,7 +490,7 @@
             {
               "number": 5,
               "title": "Many terms are negotiable",
-              "description": "Even \"standard contracts\" can often be amended. Ask for changes to unfair terms—companies negotiate more than you think"
+              "description": "Even \"standard contracts\" can often be amended. Ask for changes to unfair terms\u2014companies negotiate more than you think"
             },
             {
               "number": 6,
@@ -500,13 +504,13 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Skill Builder: Contract Analyzer",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "📋",
+            "icon": "\ud83d\udccb",
             "title": "Contract Analyzer Tool",
             "description": "Use the Contract Analyzer tool to evaluate three real-world contracts: Apartment Lease, Cell Phone Service Agreement, and Online Service Terms of Service"
           },
@@ -526,7 +530,7 @@
       "content": {
         "tagline": "\"Never let pressure tactics rush you into signing contracts you haven't thoroughly read and understood\"",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

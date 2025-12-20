@@ -38,14 +38,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
-        "question": "In <em>{{STATE_NAME}}</em>, why do some people pay<br><em>$100,000 more</em> for vehicles over their lifetime—<br>even if they drive <em>similar cars</em>?"
-      }
+        "label": "The Challenge",
+        "question": "In <em>{{STATE_NAME}}</em>, why do some people pay<br><em>$100,000 more</em> for vehicles over their lifetime\u2014<br>even if they drive <em>similar cars</em>?"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -78,9 +79,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -92,7 +93,7 @@
             {
               "term": "Total Cost of Ownership",
               "definition": "Complete cost: purchase, financing, insurance, fuel, maintenance, repairs, and depreciation.",
-              "example": "In {{STATE_NAME}}, monthly payment is only part—add {{STATE_SALES_TAX}}% sales tax, registration, insurance."
+              "example": "In {{STATE_NAME}}, monthly payment is only part\u2014add {{STATE_SALES_TAX}}% sales tax, registration, insurance."
             }
           ]
         }
@@ -101,9 +102,9 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -124,9 +125,9 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Vehicle Costs in {{STATE_NAME}}",
+        "headerTitle": "Vehicle Costs",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
@@ -136,8 +137,8 @@
               "When you add {{STATE_NAME}}-specific costs like insurance, fuel, registration, and maintenance, the true monthly cost is closer to <strong>$800+/month</strong>."
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚠️ Financial experts recommend total vehicle costs stay under 15-20% of take-home pay."
+              "icon": "\ud83d\udca1",
+              "text": "\u26a0\ufe0f Financial experts recommend total vehicle costs stay under 15-20% of take-home pay."
             }
           },
           "rightPanel": {
@@ -170,7 +171,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Buying vs. Leasing",
         "layout": "comparison-grid",
@@ -192,7 +193,7 @@
             "title": "\udd04 Leasing",
             "items": [
               "Lower monthly payments",
-              "Never own—always return",
+              "Never own\u2014always return",
               "10-15K mile/year limits",
               "No modifications allowed",
               "Perpetual payment cycle",
@@ -205,9 +206,9 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "First Year Costs in {{STATE_NAME}}",
+        "headerTitle": "First Year Costs",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
@@ -251,7 +252,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Understanding Depreciation",
         "layout": "concept-full",
@@ -262,14 +263,14 @@
           ],
           "bulletPoints": [
             "<strong>Year 1:</strong> Loses 20-30% of value (drive off lot = instant loss)",
-            "<strong>Year 2:</strong> Loses another 15-18% ($40K car → ~$28K)",
-            "<strong>Year 3:</strong> Loses another 12-15% ($40K car → ~$22K)",
-            "<strong>Year 5:</strong> Worth only ~40% of original ($40K → ~$16K)",
+            "<strong>Year 2:</strong> Loses another 15-18% ($40K car \u2192 ~$28K)",
+            "<strong>Year 3:</strong> Loses another 12-15% ($40K car \u2192 ~$22K)",
+            "<strong>Year 5:</strong> Worth only ~40% of original ($40K \u2192 ~$16K)",
             "<strong>Years 6+:</strong> Depreciation slows significantly",
             "<strong>Sweet Spot:</strong> 2-3 year old used car avoids steepest decline"
           ],
           "keyPoint": {
-            "text": "💡 <strong>Strategy:</strong> Buy a 2-3 year old certified pre-owned vehicle and let someone else absorb the steepest depreciation."
+            "text": "\ud83d\udca1 <strong>Strategy:</strong> Buy a 2-3 year old certified pre-owned vehicle and let someone else absorb the steepest depreciation."
           }
         }
       }
@@ -277,9 +278,9 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Loan Terms in {{STATE_NAME}}",
+        "headerTitle": "Loan Terms",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
@@ -290,8 +291,8 @@
               "36 months: Higher payment, <strong>~$2,600 interest</strong><br>60 months: Medium payment, <strong>~$4,400 interest</strong><br>72 months: Low payment, <strong>~$5,300 interest</strong>"
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚠️ With 72-month loans, you may owe more than the car is worth for 4+ years!"
+              "icon": "\ud83d\udca1",
+              "text": "\u26a0\ufe0f With 72-month loans, you may owe more than the car is worth for 4+ years!"
             }
           },
           "rightPanel": {
@@ -324,7 +325,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Vehicle Decisions Matter",
         "layout": "concept-full",
@@ -342,7 +343,7 @@
             "<strong>Compound Effect:</strong> Every $100/mo saved now = $120K over 30 years"
           ],
           "keyPoint": {
-            "text": "🎯 <strong>The Goal:</strong> Transportation that meets your needs at the lowest total cost, freeing money for wealth-building."
+            "text": "\ud83c\udfaf <strong>The Goal:</strong> Transportation that meets your needs at the lowest total cost, freeing money for wealth-building."
           }
         }
       }
@@ -350,7 +351,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "The Opportunity Cost",
         "layout": "balanced-layout",
@@ -394,18 +395,18 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example: Smart Buyer",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩",
-            "name": "Mia's Buy-and-Keep Strategy in {{STATE_NAME}}",
+            "icon": "\ud83d\udc69",
+            "name": "Mia's Buy-and-Keep Strategy",
             "paragraphs": [
               "Mia considered leasing a new SUV for $450/mo but instead purchased a <span class=\"highlight-text\">certified pre-owned sedan for $18,000</span> in {{STATE_NAME}}.",
               "$3,000 down, $15,000 financed at {{STATE_AVG_AUTO_LOAN_RATE_USED}}% for 48 months = <strong>~$350/month</strong>",
-              "After 4 years she owned it outright. For the next 3 years, she drove <strong>payment-free</strong> while saving $350/month—that's $12,600 saved or invested!"
+              "After 4 years she owned it outright. For the next 3 years, she drove <strong>payment-free</strong> while saving $350/month\u2014that's $12,600 saved or invested!"
             ]
           },
           "outcomes": [
@@ -434,14 +435,14 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example: Perpetual Leaser",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👨",
-            "name": "James's Perpetual Lease Cycle in {{STATE_NAME}}",
+            "icon": "\ud83d\udc68",
+            "name": "James's Perpetual Lease Cycle",
             "paragraphs": [
               "James loved having the newest truck with latest features. He leased in {{STATE_NAME}} for <strong>$499/month + $2,000 down</strong> on a 36-month lease.",
               "When it ended, he leased again: <strong>$525/month + $2,000 down</strong> for another 36 months.",
@@ -492,9 +493,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -521,7 +522,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -535,12 +536,12 @@
             {
               "number": 2,
               "title": "Buying Builds Equity",
-              "description": "Ownership means payment-free years after payoff and an asset you can sell—leasing means perpetual payments"
+              "description": "Ownership means payment-free years after payoff and an asset you can sell\u2014leasing means perpetual payments"
             },
             {
               "number": 3,
               "title": "Depreciation Matters",
-              "description": "New cars lose 20-30% in year one—buying used avoids the steepest decline"
+              "description": "New cars lose 20-30% in year one\u2014buying used avoids the steepest decline"
             },
             {
               "number": 4,
@@ -554,7 +555,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -580,7 +581,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

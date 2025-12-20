@@ -25,14 +25,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
-        "question": "What does it <em>really take</em> to buy a home—<br>and is it the right financial move <em>for you</em>?"
-      }
+        "label": "The Challenge",
+        "question": "What does it <em>really take</em> to buy a home\u2014<br>and is it the right financial move <em>for you</em>?"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -51,7 +52,7 @@
             {
               "number": 3,
               "verb": "Calculate",
-              "description": "Determine the true costs of homeownership—upfront, ongoing, and hidden expenses—beyond just the purchase price."
+              "description": "Determine the true costs of homeownership\u2014upfront, ongoing, and hidden expenses\u2014beyond just the purchase price."
             },
             {
               "number": 4,
@@ -65,9 +66,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -88,20 +89,20 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
               "term": "PMI",
-              "definition": "Private Mortgage Insurance—required when down payment is less than 20%, protecting the lender if you default.",
+              "definition": "Private Mortgage Insurance\u2014required when down payment is less than 20%, protecting the lender if you default.",
               "example": "Adds 0.5-1% of loan annually; can be removed once you reach 20% equity"
             },
             {
               "term": "Home Equity",
-              "definition": "The difference between your home's market value and what you still owe—your ownership stake.",
+              "definition": "The difference between your home's market value and what you still owe\u2014your ownership stake.",
               "example": "Home worth $350K, mortgage balance $250K = $100K equity (your wealth)"
             }
           ]
@@ -111,14 +112,14 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "The Home Buying Process",
         "layout": "concept-full",
         "layoutData": {
           "title": "6 Steps from Preparation to Keys in Hand",
           "paragraphs": [
-            "Purchasing a home typically takes <strong>2-3 months</strong> from offer to closing—but <strong>preparation starts 6-12 months earlier</strong>."
+            "Purchasing a home typically takes <strong>2-3 months</strong> from offer to closing\u2014but <strong>preparation starts 6-12 months earlier</strong>."
           ],
           "bulletPoints": [
             "<strong>1. Financial Prep (6-12 mo):</strong> Improve credit, save for down payment, reduce debt",
@@ -134,7 +135,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Types of Mortgages",
         "layout": "balanced-layout",
@@ -148,7 +149,7 @@
             ],
             "highlightBox": {
               "icon": "\ud83c",
-              "text": "\udfe0 Special programs exist for veterans (VA loans) and rural buyers (USDA loans)—both offer 0% down options."
+              "text": "\udfe0 Special programs exist for veterans (VA loans) and rural buyers (USDA loans)\u2014both offer 0% down options."
             }
           },
           "rightPanel": {
@@ -181,7 +182,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Fixed-Rate vs. Adjustable-Rate",
         "layout": "balanced-layout",
@@ -189,7 +190,7 @@
           "leftPanel": {
             "title": "Understanding PITI Payments",
             "paragraphs": [
-              "Your total monthly mortgage payment includes four components—<strong>PITI</strong>:"
+              "Your total monthly mortgage payment includes four components\u2014<strong>PITI</strong>:"
             ],
             "highlightBox": null
           },
@@ -218,7 +219,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "True Costs: Upfront Expenses",
         "layout": "balanced-layout",
@@ -260,7 +261,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "True Costs: Ongoing Expenses",
         "layout": "concept-full",
@@ -275,10 +276,10 @@
             "<strong>PMI (if applicable):</strong> 0.5-1% of loan amount annually",
             "<strong>HOA Fees:</strong> $100-$700+ monthly in applicable communities",
             "<strong>Maintenance:</strong> Budget ~1% of home value annually ($2,500 for $250K home)",
-            "<strong>Utilities:</strong> All utilities now your responsibility—budget $200-$400+/month"
+            "<strong>Utilities:</strong> All utilities now your responsibility\u2014budget $200-$400+/month"
           ],
           "keyPoint": {
-            "text": "💡 A common mistake: only budgeting for the mortgage. Total housing costs are typically 30-50% higher."
+            "text": "\ud83d\udca1 A common mistake: only budgeting for the mortgage. Total housing costs are typically 30-50% higher."
           }
         }
       }
@@ -286,29 +287,29 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Benefits & Challenges",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "✓",
-            "title": "✓ Benefits",
+            "icon": "\u2713",
+            "title": "\u2713 Benefits",
             "items": [
               "Building equity with each payment",
               "Potential home appreciation",
               "Tax deductions available",
-              "Stability—no landlord surprises",
+              "Stability\u2014no landlord surprises",
               "Freedom to customize",
               "Legacy asset for family"
             ]
           },
           "rightColumn": {
             "icon": "",
-            "title": "✗ Challenges",
+            "title": "\u2717 Challenges",
             "items": [
               "Large down payment required",
-              "Market risk—values can drop",
+              "Market risk\u2014values can drop",
               "All maintenance is your problem",
               "Less flexibility to relocate",
               "Money tied up (illiquid)",
@@ -321,7 +322,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Are You Ready to Buy?",
         "layout": "balanced-layout",
@@ -369,13 +370,13 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👨‍👩‍👧",
+            "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
             "name": "The Garcias' First Home Purchase",
             "paragraphs": [
               "David and Sofia Garcia, ages 32 and 30, saved for 4 years while renting. They purchased a <span class=\"highlight-text\">${{STATE_MEDIAN_HOME_PRICE}} home in {{STATE_NAME}}</span> using an FHA loan with 3.5% down payment.",
@@ -409,7 +410,7 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Common Misconceptions",
         "layout": "concept-full",
@@ -421,7 +422,7 @@
           "bulletPoints": [
             "<strong>\"You need 20% down\":</strong> Many programs allow 3-3.5% down (though you'll pay PMI)",
             "<strong>\"Buying is always better than renting\":</strong> Depends on how long you stay, market conditions, opportunity cost",
-            "<strong>\"Real estate always goes up\":</strong> Values can and do decline—see 2008",
+            "<strong>\"Real estate always goes up\":</strong> Values can and do decline\u2014see 2008",
             "<strong>\"Mortgage payment = housing cost\":</strong> True cost includes taxes, insurance, maintenance, repairs",
             "<strong>\"Buy the most expensive home you qualify for\":</strong> Being house-poor leaves no room for other goals",
             "<strong>\"Renting is throwing money away\":</strong> Renting provides flexibility and frees capital for other investments"
@@ -450,9 +451,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -479,7 +480,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -488,22 +489,22 @@
             {
               "number": 1,
               "title": "Preparation Is Key",
-              "description": "Start preparing 6-12 months before buying—credit, savings, and debt all matter"
+              "description": "Start preparing 6-12 months before buying\u2014credit, savings, and debt all matter"
             },
             {
               "number": 2,
               "title": "Know Your True Costs",
-              "description": "Budget for PITI plus maintenance, repairs, and utilities—not just the mortgage"
+              "description": "Budget for PITI plus maintenance, repairs, and utilities\u2014not just the mortgage"
             },
             {
               "number": 3,
               "title": "Choose the Right Loan",
-              "description": "Different mortgage types suit different situations—FHA, VA, conventional each have pros/cons"
+              "description": "Different mortgage types suit different situations\u2014FHA, VA, conventional each have pros/cons"
             },
             {
               "number": 4,
               "title": "It's Personal",
-              "description": "Homeownership isn't for everyone at every stage—align with your goals and timeline"
+              "description": "Homeownership isn't for everyone at every stage\u2014align with your goals and timeline"
             }
           ]
         }
@@ -512,7 +513,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -538,7 +539,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

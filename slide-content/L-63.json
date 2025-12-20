@@ -22,13 +22,14 @@
       "type": "hook",
       "content": {
         "label": "The Complexity Question",
-        "question": "<strong>Warren Buffett, worth $100+ billion, recommends most people invest in a simple S&P 500 index fund.</strong><br><br>Not because he doesn't know about alternatives. He knows them all.<br><br><strong>Today's Focus:</strong> Learn about alternatives and advanced concepts—not because you NEED them, but so you can evaluate them intelligently.<br><br><strong>Critical Truth:</strong> You've learned investment types (L-47) and portfolio strategies (L-62). You could stop there and build substantial wealth. Today's concepts are OPTIONS, not REQUIREMENTS."
-      }
+        "question": "<strong>Warren Buffett, worth $100+ billion, recommends most people invest in a simple S&P 500 index fund.</strong><br><br>Not because he doesn't know about alternatives. He knows them all.<br><br><strong>Today's Focus:</strong> Learn about alternatives and advanced concepts\u2014not because you NEED them, but so you can evaluate them intelligently.<br><br><strong>Critical Truth:</strong> You've learned investment types (L-47) and portfolio strategies (L-62). You could stop there and build substantial wealth. Today's concepts are OPTIONS, not REQUIREMENTS."
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "What You'll Learn Today",
         "layout": "objectives-expanded",
@@ -66,7 +67,7 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Essential Vocabulary (Part 1)",
         "layout": "vocab-container",
@@ -79,7 +80,7 @@
             },
             {
               "term": "REIT",
-              "definition": "Real Estate Investment Trust—company owning income-producing real estate. Trade like stocks, must distribute 90% of income as dividends.",
+              "definition": "Real Estate Investment Trust\u2014company owning income-producing real estate. Trade like stocks, must distribute 90% of income as dividends.",
               "example": "Publicly traded company owning apartment buildings, offices, or warehouses"
             },
             {
@@ -109,7 +110,7 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Essential Vocabulary (Part 2)",
         "layout": "vocab-container",
@@ -122,7 +123,7 @@
             },
             {
               "term": "Hedge",
-              "definition": "Investment position taken to reduce risk. Like insurance—costs money but protects against adverse scenarios.",
+              "definition": "Investment position taken to reduce risk. Like insurance\u2014costs money but protects against adverse scenarios.",
               "example": "Buying put options to protect against portfolio decline"
             },
             {
@@ -142,43 +143,43 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real Estate: Direct vs. REITs",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "🏠",
+            "icon": "\ud83c\udfe0",
             "title": "Direct Property Ownership",
             "items": [
               "<strong>Pros:</strong>",
-              "• Leverage (20% down controls 100%)",
-              "• Tax benefits (depreciation, 1031 exchange)",
-              "• Control over property decisions",
-              "• Potential for high returns",
+              "\u2022 Leverage (20% down controls 100%)",
+              "\u2022 Tax benefits (depreciation, 1031 exchange)",
+              "\u2022 Control over property decisions",
+              "\u2022 Potential for high returns",
               "",
               "<strong>Cons:</strong>",
-              "• Requires significant capital",
-              "• Time-intensive management",
-              "• Illiquid (can't sell quickly)",
-              "• Concentrated risk in one property"
+              "\u2022 Requires significant capital",
+              "\u2022 Time-intensive management",
+              "\u2022 Illiquid (can't sell quickly)",
+              "\u2022 Concentrated risk in one property"
             ]
           },
           "rightColumn": {
-            "icon": "🏢",
+            "icon": "\ud83c\udfe2",
             "title": "REITs (Real Estate Investment Trusts)",
             "items": [
               "<strong>Pros:</strong>",
-              "• Liquid (trade like stocks)",
-              "• Diversified across many properties",
-              "• Professional management",
-              "• Low minimums (buy one share)",
-              "• High dividends (90% payout required)",
+              "\u2022 Liquid (trade like stocks)",
+              "\u2022 Diversified across many properties",
+              "\u2022 Professional management",
+              "\u2022 Low minimums (buy one share)",
+              "\u2022 High dividends (90% payout required)",
               "",
               "<strong>Cons:</strong>",
-              "• No leverage benefits",
-              "• Interest rate sensitive",
-              "• Dividends taxed as ordinary income",
+              "\u2022 No leverage benefits",
+              "\u2022 Interest rate sensitive",
+              "\u2022 Dividends taxed as ordinary income",
               "",
               "<strong>For most investors:</strong> REITs provide real estate exposure without landlord responsibilities. 10% REIT allocation adds diversification simply."
             ]
@@ -232,7 +233,7 @@
       "type": "content",
       "headerColor": "amber",
       "content": {
-        "headerTitle": "⚠️ Cryptocurrency: Extreme Caution",
+        "headerTitle": "\u26a0\ufe0f Cryptocurrency: Extreme Caution",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
@@ -244,16 +245,16 @@
               "2024: $45,000+ (recovery)",
               "",
               "<strong>The Problem:</strong>",
-              "• No intrinsic value (no earnings, dividends)",
-              "• Regulatory uncertainty",
-              "• Security/hacking risks",
-              "• Thousands of cryptos have gone to $0"
+              "\u2022 No intrinsic value (no earnings, dividends)",
+              "\u2022 Regulatory uncertainty",
+              "\u2022 Security/hacking risks",
+              "\u2022 Thousands of cryptos have gone to $0"
             ]
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "⚠️",
+                "value": "\u26a0\ufe0f",
                 "label": "Reality Check",
                 "color": "rose"
               }
@@ -267,11 +268,11 @@
                 "Survivorship bias. For every winner, many lost everything. Has your friend sold and locked in gains, or still holding hoping for more?",
                 "",
                 "<strong>If investing:</strong>",
-                "• <strong>Max 1-5% of portfolio</strong>",
-                "• Money you can lose completely",
-                "• Treat as speculation, not investment",
-                "• Understand blockchain deeply first",
-                "• Never invest due to FOMO"
+                "\u2022 <strong>Max 1-5% of portfolio</strong>",
+                "\u2022 Money you can lose completely",
+                "\u2022 Treat as speculation, not investment",
+                "\u2022 Understand blockchain deeply first",
+                "\u2022 Never invest due to FOMO"
               ]
             }
           }
@@ -287,7 +288,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "📜",
+            "icon": "\ud83d\udcdc",
             "title": "Options & Futures Basics",
             "items": [
               "<strong>Call option:</strong> Right to BUY at set price",
@@ -301,7 +302,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "🎯",
+            "icon": "\ud83c\udfaf",
             "title": "Critical Warnings",
             "items": [
               "<strong>Reality Check:</strong>",
@@ -321,7 +322,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Simple Beats Complex",
         "layout": "balanced-layout",
@@ -358,7 +359,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "When Alternatives Might Fit",
         "layout": "concept-full",
@@ -369,33 +370,33 @@
             "<strong>Gold (5-10%):</strong> As portfolio 'insurance' against catastrophic scenarios. Small allocation. Not for speculation or wealth building.",
             "<strong>Crypto (1-5% max):</strong> Only if: you deeply understand blockchain, can afford total loss, won't panic-sell. Money you can completely lose."
           ],
-          "keyPoint": "<strong>Decision Framework Questions:</strong> Why does this fit my portfolio better than traditional investments? • What unique risks does it carry? • What fees will I pay? • How liquid is it? • Do I truly understand this, or am I attracted by novelty/FOMO?"
+          "keyPoint": "<strong>Decision Framework Questions:</strong> Why does this fit my portfolio better than traditional investments? \u2022 What unique risks does it carry? \u2022 What fees will I pay? \u2022 How liquid is it? \u2022 Do I truly understand this, or am I attracted by novelty/FOMO?"
         }
       }
     },
     {
       "number": 12,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Cameron's REIT Strategy",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👤",
+            "icon": "\ud83d\udc64",
             "name": "Cameron's REIT Strategy",
             "paragraphs": [
               "<strong>Starting Point:</strong>",
               "Cameron, 38: $240,000 in stock/bond index funds. Wanted real estate exposure but not landlord responsibilities.",
               "",
               "<strong>His Approach:</strong>",
-              "• Allocated 10% ($24,000) to diversified REIT index fund",
-              "• Holdings: residential, commercial, industrial, healthcare",
-              "• Reinvested 6-8% annual dividends",
-              "• Rebalanced annually",
+              "\u2022 Allocated 10% ($24,000) to diversified REIT index fund",
+              "\u2022 Holdings: residential, commercial, industrial, healthcare",
+              "\u2022 Reinvested 6-8% annual dividends",
+              "\u2022 Rebalanced annually",
               "",
               "<strong>2020 Pandemic Test:</strong>",
-              "Stocks fell 30%. REIT index held better—residential strong (people need housing), office/retail struggled. Diversified REIT = 95% of value.",
+              "Stocks fell 30%. REIT index held better\u2014residential strong (people need housing), office/retail struggled. Diversified REIT = 95% of value.",
               "",
               "Cameron rebalanced into REITs at low prices. Two years later: full recovery + growth captured."
             ]
@@ -405,7 +406,7 @@
               "type": "after",
               "label": "By Age 48",
               "value": "$510,000",
-              "detail": "REIT allocation provided diversification, income stream, and rebalancing opportunities—without landlord work. Lesson: Modest REIT allocation = real estate exposure done simply"
+              "detail": "REIT allocation provided diversification, income stream, and rebalancing opportunities\u2014without landlord work. Lesson: Modest REIT allocation = real estate exposure done simply"
             }
           ]
         }
@@ -420,7 +421,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👤",
+            "icon": "\ud83d\udc64",
             "name": "Jade's Cryptocurrency Journey",
             "paragraphs": [
               "<strong>The Excitement:</strong>",
@@ -442,7 +443,7 @@
               "type": "before",
               "label": "Total Damage",
               "value": "-50%",
-              "detail": "$10,000 invested → $5,000 remaining = $5,000 loss (50%). Now keeps only 2% in crypto—money she can lose completely. Lesson: FOMO leads to buying peaks. Volatility works both directions."
+              "detail": "$10,000 invested \u2192 $5,000 remaining = $5,000 loss (50%). Now keeps only 2% in crypto\u2014money she can lose completely. Lesson: FOMO leads to buying peaks. Volatility works both directions."
             }
           ]
         }
@@ -457,7 +458,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👤",
+            "icon": "\ud83d\udc64",
             "name": "Marcus: Rental vs. REIT Analysis",
             "paragraphs": [
               "<strong>The Decision:</strong>",
@@ -483,7 +484,7 @@
               "type": "after",
               "label": "By Age 50",
               "value": "$780,000",
-              "detail": "REITs provided real estate exposure, diversification, income—without ever fixing a leaky faucet. Lesson: Traditional investment vehicles can provide alternative asset exposure"
+              "detail": "REITs provided real estate exposure, diversification, income\u2014without ever fixing a leaky faucet. Lesson: Traditional investment vehicles can provide alternative asset exposure"
             }
           ]
         }
@@ -504,13 +505,13 @@
       "variant": "purple",
       "content": {
         "badge": "Personal Reflection",
-        "question": "<strong>Portfolio Exercise:</strong> If you had $100,000 to invest for 30 years, what percentage (if any) would you put in alternatives?<br><br>• U.S. Stocks: ____%<br>• International Stocks: ____%<br>• Bonds: ____%<br>• REITs: ____%<br>• Gold/Commodities: ____%<br>• Cryptocurrency: ____%<br><br><strong>Reflection Questions:</strong><br>• Why did you choose these allocations?<br>• What diversification benefit do you expect?<br>• Could you handle total loss of your alternative allocation?<br>• Are you investing based on fundamentals or excitement/fear?<br><br><strong>Valid Answer:</strong> '0% alternatives—I'll stick with stocks and bonds.' That's a perfectly sound strategy that's built more wealth than most alternative-heavy portfolios."
+        "question": "<strong>Portfolio Exercise:</strong> If you had $100,000 to invest for 30 years, what percentage (if any) would you put in alternatives?<br><br>\u2022 U.S. Stocks: ____%<br>\u2022 International Stocks: ____%<br>\u2022 Bonds: ____%<br>\u2022 REITs: ____%<br>\u2022 Gold/Commodities: ____%<br>\u2022 Cryptocurrency: ____%<br><br><strong>Reflection Questions:</strong><br>\u2022 Why did you choose these allocations?<br>\u2022 What diversification benefit do you expect?<br>\u2022 Could you handle total loss of your alternative allocation?<br>\u2022 Are you investing based on fundamentals or excitement/fear?<br><br><strong>Valid Answer:</strong> '0% alternatives\u2014I'll stick with stocks and bonds.' That's a perfectly sound strategy that's built more wealth than most alternative-heavy portfolios."
       }
     },
     {
       "number": 17,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "emerald",
       "content": {
         "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
@@ -539,7 +540,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -582,13 +583,13 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Skill Builder: Alternative Investment Analyzer",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "📊",
+            "icon": "\ud83d\udcca",
             "title": "Explore & Compare Alternatives",
             "description": "Analyze four alternative categories and build your decision framework"
           },
@@ -599,7 +600,7 @@
             "<strong>Advanced Strategies:</strong> Learn private equity basics",
             "<strong>Historical Crisis Test:</strong> How did alternatives perform in 2008 and 2020?",
             "<strong>Crypto Scenarios:</strong> Model 1%, 5%, and 15% crypto allocations through optimistic, base, and pessimistic outcomes",
-            "<strong>Your Decision Framework:</strong> For any future alternative investment, check: ✓ I can explain how it works ✓ I can afford total loss ✓ I understand all fees ✓ I'm not investing due to FOMO"
+            "<strong>Your Decision Framework:</strong> For any future alternative investment, check: \u2713 I can explain how it works \u2713 I can afford total loss \u2713 I understand all fees \u2713 I'm not investing due to FOMO"
           ]
         }
       }
@@ -608,9 +609,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "\"Your financial success depends primarily on savings rate, asset allocation, cost management, and discipline—not access to exotic investments.\"",
+        "tagline": "\"Your financial success depends primarily on savings rate, asset allocation, cost management, and discipline\u2014not access to exotic investments.\"",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

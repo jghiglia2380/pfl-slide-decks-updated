@@ -2,7 +2,7 @@
   "metadata": {
     "lChapter": "L-31",
     "title": "Rental Costs & Responsibilities",
-    "subtitle": "Understanding What Renting Really Costs in {{STATE_NAME}}",
+    "subtitle": "Understanding What Renting Really Costs",
     "totalSlides": 20,
     "hasStateVariables": true,
     "stateVariablesUsed": [
@@ -18,21 +18,22 @@
       "content": {
         "title": "Rental Costs & Responsibilities",
         "titleSize": "large",
-        "subtitle": "Understanding What Renting Really Costs in {{STATE_NAME}}"
+        "subtitle": "Understanding What Renting Really Costs"
       }
     },
     {
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question in {{STATE_NAME}}",
-        "question": "How much does it <em>really cost</em> to rent your first apartment—<br>and what should you know <em>before signing a lease</em>? in {{STATE_NAME}}"
-      }
+        "label": "The Challenge",
+        "question": "How much does it <em>really cost</em> to rent your first apartment\u2014<br>and what should you know <em>before signing a lease</em>?"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -65,20 +66,20 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
-              "term": "Lease in {{STATE_NAME}}",
+              "term": "Lease",
               "definition": "A legally binding contract between a landlord and tenant outlining rental terms, typically for 6-12 months.",
               "example": "Rent amount, due dates, late fees, security deposit terms, policies, move-out notice requirements"
             },
             {
-              "term": "Security Deposit in {{STATE_NAME}}",
-              "definition": "Money paid upfront to cover potential damages beyond normal wear and tear—typically refundable.",
+              "term": "Security Deposit",
+              "definition": "Money paid upfront to cover potential damages beyond normal wear and tear\u2014typically refundable.",
               "example": "Usually 1-2 months' rent; returned within 14-30 days after move-out (varies by state)"
             }
           ]
@@ -88,19 +89,19 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
-              "term": "Renter's Insurance in {{STATE_NAME}}",
+              "term": "Renter's Insurance",
               "definition": "Insurance policy that protects a tenant's personal belongings and provides liability coverage.",
-              "example": "Landlord insurance only covers the building—YOUR stuff isn't protected without renter's insurance"
+              "example": "Landlord insurance only covers the building\u2014YOUR stuff isn't protected without renter's insurance"
             },
             {
-              "term": "Utilities in {{STATE_NAME}}",
+              "term": "Utilities",
               "definition": "Services like electricity, water, gas, internet, and trash that may or may not be included in rent.",
               "example": "Electric $50-$150, Gas $30-$150, Internet $40-$100, Water $20-$60"
             }
@@ -111,14 +112,14 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Understanding Your Lease",
         "layout": "concept-full",
         "layoutData": {
           "title": "7 Key Components of Every Lease Agreement",
           "paragraphs": [
-            "A lease is a legally binding contract. <strong>Read every word before signing</strong>—you're agreeing to follow these terms for the entire lease duration."
+            "A lease is a legally binding contract. <strong>Read every word before signing</strong>\u2014you're agreeing to follow these terms for the entire lease duration."
           ],
           "bulletPoints": [
             "<strong>Names &amp; Addresses:</strong> All tenants listed, property address, landlord contact info",
@@ -135,7 +136,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Lease Red Flags to Watch For",
         "layout": "balanced-layout",
@@ -149,20 +150,20 @@
               "<strong>Excessive fees</strong> for basic services or common situations."
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚠️ Never sign a lease that requires you to waive legal rights or contains clauses that violate tenant protection laws."
+              "icon": "\ud83d\udca1",
+              "text": "\u26a0\ufe0f Never sign a lease that requires you to waive legal rights or contains clauses that violate tenant protection laws."
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "2-3 mo in {{STATE_NAME}}",
-                "label": "Typical Early Termination Fee in {{STATE_NAME}}",
+                "value": "2-3 mo",
+                "label": "Typical Early Termination Fee",
                 "color": "rose"
               },
               {
-                "value": "5-10% in {{STATE_NAME}}",
-                "label": "Common Late Fee Percentage in {{STATE_NAME}}",
+                "value": "5-10%",
+                "label": "Common Late Fee Percentage",
                 "color": "purple"
               }
             ],
@@ -183,7 +184,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The True Costs: Upfront Expenses",
         "layout": "balanced-layout",
@@ -191,7 +192,7 @@
           "leftPanel": {
             "title": "What You'll Pay Before Move-In",
             "paragraphs": [
-              "Moving into a rental requires significant upfront investment—often <strong>3-4 months of rent</strong> before you ever unpack a box.",
+              "Moving into a rental requires significant upfront investment\u2014often <strong>3-4 months of rent</strong> before you ever unpack a box.",
               "<strong>Typical upfront costs include:</strong>"
             ],
             "highlightBox": null
@@ -199,13 +200,13 @@
           "rightPanel": {
             "stats": [
               {
-                "value": "${{STATE_MEDIAN_RENT}} × 3+ in {{STATE_NAME}}",
-                "label": "Typical Move-In Costs in {{STATE_NAME}}",
+                "value": "${{STATE_MEDIAN_RENT}} \u00d7 3+",
+                "label": "Typical Move-In Costs",
                 "color": "teal"
               },
               {
-                "value": "3-4x in {{STATE_NAME}}",
-                "label": "Months' Rent Upfront in {{STATE_NAME}}",
+                "value": "3-4x",
+                "label": "Months' Rent Upfront",
                 "color": "purple"
               }
             ],
@@ -226,7 +227,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The True Costs: Monthly Expenses",
         "layout": "concept-full",
@@ -244,7 +245,7 @@
             "<strong>Parking:</strong> $0-$300/month (city apartments can be expensive)"
           ],
           "keyPoint": {
-            "text": "💡 Always ask \"What's included in rent?\" and budget 25-35% extra for utilities and fees."
+            "text": "\ud83d\udca1 Always ask \"What's included in rent?\" and budget 25-35% extra for utilities and fees."
           }
         }
       }
@@ -252,7 +253,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Hidden & Unexpected Costs",
         "layout": "balanced-layout",
@@ -261,7 +262,7 @@
             "title": "Costs That Surprise New Renters",
             "paragraphs": [
               "Even careful budgeters can be caught off guard by fees and costs that aren't obvious upfront.",
-              "<strong>Late payment fees</strong> are typically 5-10% of your rent—a $1,200 rent could mean a $60-$120 late fee.",
+              "<strong>Late payment fees</strong> are typically 5-10% of your rent\u2014a $1,200 rent could mean a $60-$120 late fee.",
               "<strong>Annual rent increases</strong> of 3-5% are standard. A $1,200 apartment could be $1,260 next year.",
               "<strong>Early termination fees</strong> if you need to break your lease are often 2-3 months' rent."
             ],
@@ -273,13 +274,13 @@
           "rightPanel": {
             "stats": [
               {
-                "value": "3-5% in {{STATE_NAME}}",
-                "label": "Annual Rent Increase in {{STATE_NAME}}",
+                "value": "3-5%",
+                "label": "Annual Rent Increase",
                 "color": "rose"
               },
               {
-                "value": "$50+ in {{STATE_NAME}}",
-                "label": "Typical Admin Fees in {{STATE_NAME}}",
+                "value": "$50+",
+                "label": "Typical Admin Fees",
                 "color": "teal"
               }
             ],
@@ -300,14 +301,14 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Renting: Pros & Cons",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "✓",
-            "title": "✓ Advantages",
+            "icon": "\u2713",
+            "title": "\u2713 Advantages",
             "items": [
               "Flexibility to relocate easily",
               "Predictable monthly costs",
@@ -319,7 +320,7 @@
           },
           "rightColumn": {
             "icon": "",
-            "title": "✗ Disadvantages",
+            "title": "\u2717 Disadvantages",
             "items": [
               "No equity building",
               "Limited control over space",
@@ -335,7 +336,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Know Your Tenant Rights",
         "layout": "balanced-layout",
@@ -349,20 +350,20 @@
               "<strong>Right to Security Deposit Protection:</strong> Laws regulate how deposits are held and returned."
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "⚖️ If your landlord violates your rights, document everything and know how to file complaints with local housing authorities."
+              "icon": "\ud83d\udca1",
+              "text": "\u2696\ufe0f If your landlord violates your rights, document everything and know how to file complaints with local housing authorities."
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "24-48hr in {{STATE_NAME}}",
-                "label": "Typical Entry Notice Required in {{STATE_NAME}}",
+                "value": "24-48hr",
+                "label": "Typical Entry Notice Required",
                 "color": "green"
               },
               {
-                "value": "14-30 in {{STATE_NAME}}",
-                "label": "Days to Return Deposit in {{STATE_NAME}}",
+                "value": "14-30",
+                "label": "Days to Return Deposit",
                 "color": "purple"
               }
             ],
@@ -383,14 +384,14 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩‍💼 in {{STATE_NAME}}",
-            "name": "Emma's First Apartment in {{STATE_NAME}}",
+            "icon": "\ud83d\udc69\u200d\ud83d\udcbc",
+            "name": "Emma's First Apartment",
             "paragraphs": [
               "Emma recently graduated from college and moved to a new city for her first job. She found a one-bedroom apartment for <span class=\"highlight-text\">$1,200/month</span> in a convenient location near work.",
               "<strong>Before signing, Emma calculated:</strong>"
@@ -399,21 +400,21 @@
           "outcomes": [
             {
               "type": "before",
-              "label": "Total Upfront Cost in {{STATE_NAME}}",
-              "value": "$4,300 in {{STATE_NAME}}",
-              "detail": "Needed before move-in in {{STATE_NAME}}"
+              "label": "Total Upfront Cost",
+              "value": "$4,300",
+              "detail": "Needed before move-in"
             },
             {
               "type": "after",
-              "label": "Monthly Expenses in {{STATE_NAME}}",
-              "value": "$1,405 in {{STATE_NAME}}",
-              "detail": "Rent + utilities + insurance in {{STATE_NAME}}"
+              "label": "Monthly Expenses",
+              "value": "$1,405",
+              "detail": "Rent + utilities + insurance"
             },
             {
               "type": "after",
-              "label": "Income Needed in {{STATE_NAME}}",
-              "value": "$56K+ in {{STATE_NAME}}",
-              "detail": "To keep housing under 30% in {{STATE_NAME}}"
+              "label": "Income Needed",
+              "value": "$56K+",
+              "detail": "To keep housing under 30%"
             }
           ]
         }
@@ -422,7 +423,7 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Your Responsibilities as a Tenant",
         "layout": "concept-full",
@@ -435,7 +436,7 @@
             "<strong>Pay Rent on Time:</strong> Late payments = fees + negative rental history",
             "<strong>Maintain the Property:</strong> Keep it clean, don't cause damage beyond normal wear",
             "<strong>Report Problems Promptly:</strong> Small issues become big (expensive) problems",
-            "<strong>Follow Lease Terms:</strong> Pets, guests, noise—violations can lead to eviction",
+            "<strong>Follow Lease Terms:</strong> Pets, guests, noise\u2014violations can lead to eviction",
             "<strong>Provide Proper Notice:</strong> Usually 30-60 days before moving out",
             "<strong>Allow Reasonable Access:</strong> Let landlord in for repairs/inspections with notice"
           ]
@@ -447,8 +448,8 @@
       "type": "discussion",
       "variant": "teal",
       "content": {
-        "badge": "Discussion in {{STATE_NAME}}",
-        "question": "Looking at Emma's situation, what monthly income would she need to comfortably afford her apartment?<br><br>What expenses might she have overlooked in her budget? in {{STATE_NAME}}"
+        "badge": "Discussion",
+        "question": "Looking at Emma's situation, what monthly income would she need to comfortably afford her apartment?<br><br>What expenses might she have overlooked in her budget?"
       }
     },
     {
@@ -456,16 +457,16 @@
       "type": "discussion",
       "variant": "purple",
       "content": {
-        "badge": "Personal Reflection in {{STATE_NAME}}",
-        "question": "What would be most important to you in a first apartment—location, price, size, amenities, or something else?<br><br>How would you prioritize these factors? in {{STATE_NAME}}"
+        "badge": "Personal Reflection",
+        "question": "What would be most important to you in a first apartment\u2014location, price, size, amenities, or something else?<br><br>How would you prioritize these factors?"
       }
     },
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -492,7 +493,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -501,12 +502,12 @@
             {
               "number": 1,
               "title": "Read Your Lease Carefully",
-              "description": "Every clause matters—understand fees, policies, and termination terms before signing"
+              "description": "Every clause matters\u2014understand fees, policies, and termination terms before signing"
             },
             {
               "number": 2,
               "title": "Budget for True Costs",
-              "description": "Rent is just the beginning—utilities, insurance, and fees add 25-35% to monthly costs"
+              "description": "Rent is just the beginning\u2014utilities, insurance, and fees add 25-35% to monthly costs"
             },
             {
               "number": 3,
@@ -516,7 +517,7 @@
             {
               "number": 4,
               "title": "Know Your Rights",
-              "description": "Tenants have legal protections—learn local laws and document any issues"
+              "description": "Tenants have legal protections\u2014learn local laws and document any issues"
             }
           ]
         }
@@ -525,7 +526,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -549,9 +550,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "Building Financial Futures, One Lesson at a Time in {{STATE_NAME}}",
-        "website": "www.pflacademy.co in {{STATE_NAME}}",
-        "copyright": "© 2025 PFL Academy. All rights reserved. in {{STATE_NAME}}"
+        "tagline": "Building Financial Futures, One Lesson at a Time",
+        "website": "www.pflacademy.co",
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

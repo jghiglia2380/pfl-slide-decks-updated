@@ -21,14 +21,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
-        "question": "What if you could turn <em>your skills and passions</em><br>into income—while keeping your day job<br>or building something <em>entirely your own</em>?"
-      }
+        "label": "The Challenge",
+        "question": "What if you could turn <em>your skills and passions</em><br>into income\u2014while keeping your day job<br>or building something <em>entirely your own</em>?"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -61,9 +62,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -84,9 +85,9 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -97,7 +98,7 @@
             },
             {
               "term": "Bootstrapping",
-              "definition": "Building a company from the ground up using personal finances and revenue—no outside investors.",
+              "definition": "Building a company from the ground up using personal finances and revenue\u2014no outside investors.",
               "example": "You maintain full ownership and control of your business decisions and profits."
             }
           ]
@@ -107,7 +108,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "What Is Entrepreneurship?",
         "layout": "balanced-layout",
@@ -116,11 +117,11 @@
             "title": "Creating Value Through Innovation",
             "paragraphs": [
               "Entrepreneurs identify opportunities, secure resources, and take <strong>calculated risks</strong> to create value through new products, services, or ways of doing business.",
-              "Entrepreneurship offers an alternative or complement to traditional employment—allowing you to pursue passions and create additional income streams."
+              "Entrepreneurship offers an alternative or complement to traditional employment\u2014allowing you to pursue passions and create additional income streams."
             ],
             "highlightBox": {
               "icon": "\ud83d",
-              "text": "\udca1 In today's economy, entrepreneurial skills are valuable even if you never start a business—they create adaptability and resilience."
+              "text": "\udca1 In today's economy, entrepreneurial skills are valuable even if you never start a business\u2014they create adaptability and resilience."
             }
           },
           "rightPanel": {
@@ -153,7 +154,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Entrepreneurial Mindset",
         "layout": "generic",
@@ -174,14 +175,14 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Types of Side Hustles",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
             "icon": "\ud83d",
-            "title": "\udee0️ Service-Based",
+            "title": "\udee0\ufe0f Service-Based",
             "items": [
               "Freelance writing, design, coding",
               "Tutoring or coaching",
@@ -207,7 +208,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Identifying Opportunities",
         "layout": "concept-full",
@@ -225,7 +226,7 @@
             "<strong>Underserved Markets:</strong> Groups whose needs aren't fully met"
           ],
           "keyPoint": {
-            "text": "💡 <strong>Key Question:</strong> What problem do I see every day that I'm uniquely positioned to solve?"
+            "text": "\ud83d\udca1 <strong>Key Question:</strong> What problem do I see every day that I'm uniquely positioned to solve?"
           }
         }
       }
@@ -233,7 +234,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Evaluating Your Ideas",
         "layout": "balanced-layout",
@@ -278,7 +279,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Side Hustles Matter Financially",
         "layout": "concept-full",
@@ -296,7 +297,7 @@
             "<strong>Business Asset:</strong> Potential to sell or scale into full-time"
           ],
           "keyPoint": {
-            "text": "💰 <strong>$810/month invested at 8% for 30 years = $1.1 million</strong>—side hustles can fund your retirement."
+            "text": "\ud83d\udcb0 <strong>$810/month invested at 8% for 30 years = $1.1 million</strong>\u2014side hustles can fund your retirement."
           }
         }
       }
@@ -304,7 +305,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "From Idea to Implementation",
         "layout": "balanced-layout",
@@ -344,13 +345,13 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👨‍💻",
+            "icon": "\ud83d\udc68\u200d\ud83d\udcbb",
             "name": "Jordan's Tutoring Side Hustle",
             "paragraphs": [
               "Jordan, a CS major, noticed classmates struggling with programming. Instead of just helping friends for free, he saw <span class=\"highlight-text\">a business opportunity</span>.",
@@ -383,13 +384,13 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩‍🎨",
+            "icon": "\ud83d\udc69\u200d\ud83c\udfa8",
             "name": "Maya's Jewelry Business Journey",
             "paragraphs": [
               "Maya worked full-time as an admin assistant while making jewelry as a hobby. Friends encouraged her to sell, so she <span class=\"highlight-text\">started on Etsy with 10 designs</span>.",
@@ -441,9 +442,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -470,7 +471,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -479,7 +480,7 @@
             {
               "number": 1,
               "title": "Start With Your Strengths",
-              "description": "The best side hustles leverage skills you already have—turning expertise into income"
+              "description": "The best side hustles leverage skills you already have\u2014turning expertise into income"
             },
             {
               "number": 2,
@@ -503,7 +504,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -529,7 +530,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

@@ -21,14 +21,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
-        "question": "2008 Financial Crisis: When the Economy Nearly Collapsed<br><br><strong>What Happened:</strong> Bear Stearns collapses (March 2008), Lehman Brothers fails (Sept 2008), Stock market crashes 40%, Unemployment: 5% → 10%, Home values drop 30%<br><br><strong>What Government Did:</strong> Federal Reserve cut rates to 0% and bought $4 trillion in bonds. Congress passed $700B bank bailout + $800B stimulus.<br><br><em>Today's goal: Understand HOW government tries to stabilize the economy and WHETHER it works!</em>"
-      }
+        "label": "The Challenge",
+        "question": "2008 Financial Crisis: When the Economy Nearly Collapsed<br><br><strong>What Happened:</strong> Bear Stearns collapses (March 2008), Lehman Brothers fails (Sept 2008), Stock market crashes 40%, Unemployment: 5% \u2192 10%, Home values drop 30%<br><br><strong>What Government Did:</strong> Federal Reserve cut rates to 0% and bought $4 trillion in bonds. Congress passed $700B bank bailout + $800B stimulus.<br><br><em>Today's goal: Understand HOW government tries to stabilize the economy and WHETHER it works!</em>"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -61,9 +62,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -79,7 +80,7 @@
             },
             {
               "term": "Federal Funds Rate",
-              "definition": "Interest rate banks charge each other for overnight loans—influences ALL other interest rates",
+              "definition": "Interest rate banks charge each other for overnight loans\u2014influences ALL other interest rates",
               "example": "Currently 5.25-5.50%, affects mortgage and credit card rates"
             }
           ]
@@ -89,9 +90,9 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -108,7 +109,7 @@
             {
               "term": "Contractionary Policy",
               "definition": "Policies that cool down the economy: less spending, higher taxes, higher interest rates",
-              "example": "Used to fight inflation—Fed raising rates in 2022"
+              "example": "Used to fight inflation\u2014Fed raising rates in 2022"
             }
           ]
         }
@@ -117,7 +118,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "The Business Cycle",
         "layout": "concept-full",
@@ -131,10 +132,10 @@
           ],
           "bulletPoints": [
             "Cycles typically last 5-10 years from peak to peak",
-            "Government tries to smooth cycles—stimulate during downturns, cool during booms",
+            "Government tries to smooth cycles\u2014stimulate during downturns, cool during booms",
             "No two cycles are identical in length or severity"
           ],
-          "keyPoint": "Countercyclical Policy: Act OPPOSITE to the cycle—stimulate during recession, cool during boom to reduce volatility"
+          "keyPoint": "Countercyclical Policy: Act OPPOSITE to the cycle\u2014stimulate during recession, cool during boom to reduce volatility"
         }
       }
     },
@@ -149,14 +150,14 @@
           "leftPanel": {
             "title": "Government Spending (~$6 trillion/year)",
             "paragraphs": [
-              "<strong>Mandatory (65%):</strong> Social Security, Medicare—required by law",
-              "<strong>Discretionary (30%):</strong> Defense, education, infrastructure—decided annually",
+              "<strong>Mandatory (65%):</strong> Social Security, Medicare\u2014required by law",
+              "<strong>Discretionary (30%):</strong> Defense, education, infrastructure\u2014decided annually",
               "<strong>Interest (5%):</strong> Debt payments on national debt",
               "",
-              "<strong>Effect:</strong> ↑ Spending → More jobs created → GDP increases"
+              "<strong>Effect:</strong> \u2191 Spending \u2192 More jobs created \u2192 GDP increases"
             ],
             "highlightBox": {
-              "icon": "💰",
+              "icon": "\ud83d\udcb0",
               "text": "Government is the single largest spender in the economy"
             }
           },
@@ -181,7 +182,7 @@
                 "Payroll tax: 36% (Social Security/Medicare)",
                 "Corporate tax: 7%",
                 "",
-                "<strong>Effect:</strong> ↓ Taxes → More disposable income → GDP increases"
+                "<strong>Effect:</strong> \u2193 Taxes \u2192 More disposable income \u2192 GDP increases"
               ]
             }
           }
@@ -191,7 +192,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Multiplier Effect",
         "layout": "concept-full",
@@ -208,7 +209,7 @@
             "<strong>Total economic impact: $150-200B!</strong>"
           ],
           "bulletPoints": [
-            "Multiplier works in reverse too—spending cuts reduce GDP by more than the cut",
+            "Multiplier works in reverse too\u2014spending cuts reduce GDP by more than the cut",
             "Size of multiplier depends on how much people save vs. spend",
             "Direct spending (roads, schools) has larger multiplier than tax cuts"
           ],
@@ -232,12 +233,12 @@
               "<strong>Annual Deficit:</strong> $2 trillion",
               "",
               "<strong>National Debt:</strong> ~$33 trillion",
-              "• Per person: ~$100,000",
-              "• As % of GDP: ~120%",
-              "• Annual interest: ~$1 trillion"
+              "\u2022 Per person: ~$100,000",
+              "\u2022 As % of GDP: ~120%",
+              "\u2022 Annual interest: ~$1 trillion"
             ],
             "highlightBox": {
-              "icon": "⚠️",
+              "icon": "\u26a0\ufe0f",
               "text": "Deficit = annual shortfall; Debt = total accumulated deficits over time"
             }
           },
@@ -248,14 +249,14 @@
               "color": "amber",
               "items": [
                 "<strong>Arguments FOR Deficit:</strong>",
-                "• Necessary during recessions",
-                "• Prevents worse outcomes (depression)",
-                "• Can pay back during boom times",
+                "\u2022 Necessary during recessions",
+                "\u2022 Prevents worse outcomes (depression)",
+                "\u2022 Can pay back during boom times",
                 "",
                 "<strong>Arguments AGAINST:</strong>",
-                "• Burdens future generations (you!)",
-                "• Interest crowds out other spending",
-                "• May cause inflation if excessive"
+                "\u2022 Burdens future generations (you!)",
+                "\u2022 Interest crowds out other spending",
+                "\u2022 May cause inflation if excessive"
               ]
             }
           }
@@ -265,37 +266,37 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Expansionary vs. Contractionary Fiscal Policy",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "📈",
+            "icon": "\ud83d\udcc8",
             "title": "Expansionary (Used During Recession)",
             "items": [
               "<strong>Tools:</strong>",
-              "• Increase government spending",
-              "• Cut taxes (stimulus checks)",
+              "\u2022 Increase government spending",
+              "\u2022 Cut taxes (stimulus checks)",
               "",
               "<strong>Goal:</strong> Create more jobs, increase GDP",
               "<strong>Result:</strong> Larger budget deficits",
               "",
-              "<strong>Example:</strong> 2020 COVID response—$5 trillion in stimulus spending and tax cuts"
+              "<strong>Example:</strong> 2020 COVID response\u2014$5 trillion in stimulus spending and tax cuts"
             ]
           },
           "rightColumn": {
-            "icon": "📉",
+            "icon": "\ud83d\udcc9",
             "title": "Contractionary (Used During Inflation)",
             "items": [
               "<strong>Tools:</strong>",
-              "• Decrease government spending",
-              "• Raise taxes",
+              "\u2022 Decrease government spending",
+              "\u2022 Raise taxes",
               "",
               "<strong>Goal:</strong> Reduce inflation, slow economy",
               "<strong>Result:</strong> Smaller budget deficits",
               "",
-              "<strong>Reality:</strong> Rarely used—politicians don't like cutting spending or raising taxes!"
+              "<strong>Reality:</strong> Rarely used\u2014politicians don't like cutting spending or raising taxes!"
             ]
           }
         }
@@ -304,7 +305,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "The Federal Reserve",
         "layout": "balanced-layout",
@@ -313,17 +314,17 @@
             "title": "What Is the Fed?",
             "paragraphs": [
               "<strong>Structure:</strong>",
-              "• Independent central bank (not part of government)",
-              "• Chair: Jerome Powell",
-              "• 12 regional banks + Board of Governors",
+              "\u2022 Independent central bank (not part of government)",
+              "\u2022 Chair: Jerome Powell",
+              "\u2022 12 regional banks + Board of Governors",
               "",
               "<strong>Key Feature: Independence</strong>",
-              "• Not controlled by Congress or President",
-              "• Can make unpopular decisions (like raising rates)",
-              "• Protects from political pressure for short-term gains"
+              "\u2022 Not controlled by Congress or President",
+              "\u2022 Can make unpopular decisions (like raising rates)",
+              "\u2022 Protects from political pressure for short-term gains"
             ],
             "highlightBox": {
-              "icon": "🏛️",
+              "icon": "\ud83c\udfdb\ufe0f",
               "text": "Fed independence is crucial for credible monetary policy"
             }
           },
@@ -358,7 +359,7 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Federal Funds Rate: Most Important Tool",
         "layout": "concept-full",
@@ -368,13 +369,13 @@
             "<strong>How It Works:</strong>",
             "",
             "Fed sets target rate (currently 5.25-5.50%)",
-            "↓",
+            "\u2193",
             "This influences ALL other interest rates in the economy",
-            "↓",
-            "🏠 Mortgages | 🚗 Auto Loans | 💳 Credit Cards | 🎓 Student Loans | 🏦 Savings Rates",
-            "↓",
+            "\u2193",
+            "\ud83c\udfe0 Mortgages | \ud83d\ude97 Auto Loans | \ud83d\udcb3 Credit Cards | \ud83c\udf93 Student Loans | \ud83c\udfe6 Savings Rates",
+            "\u2193",
             "Affects everyone's borrowing, saving, and spending decisions",
-            "↓",
+            "\u2193",
             "Ultimately affects GDP, employment, and inflation"
           ],
           "bulletPoints": [
@@ -395,32 +396,32 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "⬇️",
+            "icon": "\u2b07\ufe0f",
             "title": "Fed LOWERS Rates (Expansionary)",
             "items": [
               "<strong>Immediate Effects:</strong>",
-              "• Borrowing becomes cheaper → More borrowing",
-              "• Saving less attractive → Less saving",
-              "• More spending and investment",
+              "\u2022 Borrowing becomes cheaper \u2192 More borrowing",
+              "\u2022 Saving less attractive \u2192 Less saving",
+              "\u2022 More spending and investment",
               "",
               "<strong>Economic Result:</strong>",
-              "GDP ↑, Unemployment ↓, Inflation ↑",
+              "GDP \u2191, Unemployment \u2193, Inflation \u2191",
               "",
               "<strong>Winners:</strong> Borrowers, job seekers, homebuyers",
               "<strong>Losers:</strong> Savers (earn less interest)"
             ]
           },
           "rightColumn": {
-            "icon": "⬆️",
+            "icon": "\u2b06\ufe0f",
             "title": "Fed RAISES Rates (Contractionary)",
             "items": [
               "<strong>Immediate Effects:</strong>",
-              "• Borrowing becomes expensive → Less borrowing",
-              "• Saving more attractive → More saving",
-              "• Less spending and investment",
+              "\u2022 Borrowing becomes expensive \u2192 Less borrowing",
+              "\u2022 Saving more attractive \u2192 More saving",
+              "\u2022 Less spending and investment",
               "",
               "<strong>Economic Result:</strong>",
-              "GDP ↓, Unemployment ↑, Inflation ↓",
+              "GDP \u2193, Unemployment \u2191, Inflation \u2193",
               "",
               "<strong>Winners:</strong> Savers, inflation fighters",
               "<strong>Losers:</strong> Borrowers, homebuyers, job seekers"
@@ -447,35 +448,35 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "📉",
+            "icon": "\ud83d\udcc9",
             "title": "Response to Recession",
             "items": [
               "<strong>Fiscal Policy:</strong>",
-              "• ↑ Government spending (infrastructure, aid)",
-              "• ↓ Taxes (stimulus checks, tax cuts)",
-              "• Accept larger budget deficits",
+              "\u2022 \u2191 Government spending (infrastructure, aid)",
+              "\u2022 \u2193 Taxes (stimulus checks, tax cuts)",
+              "\u2022 Accept larger budget deficits",
               "",
               "<strong>Monetary Policy:</strong>",
-              "• ↓ Federal funds rate (make borrowing cheaper)",
-              "• Quantitative easing if rates already at 0%",
+              "\u2022 \u2193 Federal funds rate (make borrowing cheaper)",
+              "\u2022 Quantitative easing if rates already at 0%",
               "",
-              "<strong>Example:</strong> 2020 COVID—$5T fiscal stimulus + Fed cut rates to 0%"
+              "<strong>Example:</strong> 2020 COVID\u2014$5T fiscal stimulus + Fed cut rates to 0%"
             ]
           },
           "rightColumn": {
-            "icon": "🔥",
+            "icon": "\ud83d\udd25",
             "title": "Response to High Inflation",
             "items": [
               "<strong>Fiscal Policy:</strong>",
-              "• ↓ Government spending",
-              "• ↑ Taxes to reduce demand",
-              "• (Rarely used—very unpopular!)",
+              "\u2022 \u2193 Government spending",
+              "\u2022 \u2191 Taxes to reduce demand",
+              "\u2022 (Rarely used\u2014very unpopular!)",
               "",
               "<strong>Monetary Policy:</strong>",
-              "• ↑ Federal funds rate (make borrowing expensive)",
-              "• Accept slower growth and higher unemployment",
+              "\u2022 \u2191 Federal funds rate (make borrowing expensive)",
+              "\u2022 Accept slower growth and higher unemployment",
               "",
-              "<strong>Example:</strong> 2022-2024—Fed raised rates from 0% to 5.5% to fight inflation"
+              "<strong>Example:</strong> 2022-2024\u2014Fed raised rates from 0% to 5.5% to fight inflation"
             ]
           }
         }
@@ -484,9 +485,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -513,7 +514,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -522,22 +523,22 @@
             {
               "number": 1,
               "title": "Business cycles are natural",
-              "description": "Economies go through expansion, peak, recession, and trough—government tries to smooth these cycles"
+              "description": "Economies go through expansion, peak, recession, and trough\u2014government tries to smooth these cycles"
             },
             {
               "number": 2,
               "title": "Fiscal policy uses spending and taxes",
-              "description": "Controlled by Congress and President—powerful but slow and politically difficult"
+              "description": "Controlled by Congress and President\u2014powerful but slow and politically difficult"
             },
             {
               "number": 3,
               "title": "Monetary policy uses interest rates",
-              "description": "Controlled by independent Federal Reserve—faster and less political than fiscal policy"
+              "description": "Controlled by independent Federal Reserve\u2014faster and less political than fiscal policy"
             },
             {
               "number": 4,
               "title": "Federal funds rate is the key tool",
-              "description": "Influences all other interest rates—affects borrowing, saving, spending, and investment decisions"
+              "description": "Influences all other interest rates\u2014affects borrowing, saving, spending, and investment decisions"
             },
             {
               "number": 5,
@@ -547,7 +548,7 @@
             {
               "number": 6,
               "title": "Contractionary policies fight inflation",
-              "description": "Cool economy: decrease spending, raise taxes, raise interest rates—politically unpopular"
+              "description": "Cool economy: decrease spending, raise taxes, raise interest rates\u2014politically unpopular"
             }
           ]
         }
@@ -556,13 +557,13 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Skill Builder: Policy Impact Simulator",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "🎮",
+            "icon": "\ud83c\udfae",
             "title": "Tomorrow's Learning Lab",
             "description": "Apply your knowledge by simulating Fed Chair decisions and analyzing real policy impacts"
           },
@@ -582,7 +583,7 @@
       "content": {
         "tagline": "\"Understanding the tools government uses to manage the economy\"",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

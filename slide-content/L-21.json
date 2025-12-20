@@ -2,7 +2,7 @@
   "metadata": {
     "lChapter": "L-21",
     "title": "Cost of Borrowing",
-    "subtitle": "Understanding Interest, Fees, and Loan Types in {{STATE_NAME}}",
+    "subtitle": "Understanding Interest, Fees, and Loan Types",
     "totalSlides": 20,
     "hasStateVariables": true,
     "stateVariablesUsed": [
@@ -16,21 +16,22 @@
       "content": {
         "title": "Cost of Borrowing",
         "titleSize": "large",
-        "subtitle": "Understanding Interest, Fees, and Loan Types in {{STATE_NAME}}"
+        "subtitle": "Understanding Interest, Fees, and Loan Types"
       }
     },
     {
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question in {{STATE_NAME}}",
-        "question": "How can borrowing the <em>same $10,000</em> cost you $2,400... or <em>$15,000</em> in interest? in {{STATE_NAME}}"
-      }
+        "label": "The Challenge",
+        "question": "How can borrowing the <em>same $10,000</em> cost you $2,400... or <em>$15,000</em> in interest?"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -63,20 +64,20 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
-              "term": "Principal in {{STATE_NAME}}",
+              "term": "Principal",
               "definition": "The original amount of money borrowed, before any interest or fees are added.",
-              "example": "You borrow $20,000 for a car—$20,000 is your principal amount"
+              "example": "You borrow $20,000 for a car\u2014$20,000 is your principal amount"
             },
             {
-              "term": "APR in {{STATE_NAME}}",
-              "definition": "Annual Percentage Rate—the yearly cost of borrowing, including interest AND fees.",
+              "term": "APR",
+              "definition": "Annual Percentage Rate\u2014the yearly cost of borrowing, including interest AND fees.",
               "example": "APR lets you compare true costs; a 6% rate with fees may have a 7% APR"
             }
           ]
@@ -86,21 +87,21 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
-              "term": "Secured Credit in {{STATE_NAME}}",
+              "term": "Secured Credit",
               "definition": "Credit backed by collateral that the lender can claim if you don't repay.",
-              "example": "Auto loans, mortgages—the car or house is the collateral"
+              "example": "Auto loans, mortgages\u2014the car or house is the collateral"
             },
             {
-              "term": "Unsecured Credit in {{STATE_NAME}}",
+              "term": "Unsecured Credit",
               "definition": "Credit not backed by collateral; lender relies on your promise to repay.",
-              "example": "Credit cards, personal loans, student loans—higher interest rates"
+              "example": "Credit cards, personal loans, student loans\u2014higher interest rates"
             }
           ]
         }
@@ -109,7 +110,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Secured vs. Unsecured Credit",
         "layout": "balanced-layout",
@@ -117,7 +118,7 @@
           "leftPanel": {
             "title": "Collateral Affects Everything",
             "paragraphs": [
-              "<strong>Secured credit</strong> requires you to pledge an asset. If you fail to pay, the lender can take the asset—this reduces their risk.",
+              "<strong>Secured credit</strong> requires you to pledge an asset. If you fail to pay, the lender can take the asset\u2014this reduces their risk.",
               "<strong>Unsecured credit</strong> has no collateral backing it. The lender has only your promise to repay, increasing their risk."
             ],
             "highlightBox": {
@@ -128,13 +129,13 @@
           "rightPanel": {
             "stats": [
               {
-                "value": "3-7% in {{STATE_NAME}}",
-                "label": "Typical Auto Loan (Secured) in {{STATE_NAME}}",
+                "value": "3-7%",
+                "label": "Typical Auto Loan (Secured)",
                 "color": "teal"
               },
               {
-                "value": "15-25% in {{STATE_NAME}}",
-                "label": "Typical Credit Card (Unsecured) in {{STATE_NAME}}",
+                "value": "15-25%",
+                "label": "Typical Credit Card (Unsecured)",
                 "color": "rose"
               }
             ],
@@ -154,7 +155,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Installment vs. Non-Installment Credit",
         "layout": "comparison-grid",
@@ -187,13 +188,13 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The True Cost of Borrowing",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
-            "title": "Same $10,000 — Wildly Different Costs",
+            "title": "Same $10,000 \u2014 Wildly Different Costs",
             "paragraphs": [
               "The interest rate and repayment strategy dramatically affect how much you actually pay:",
               "<strong>Student Loan @ 4.5%, 10 years:</strong>",
@@ -206,13 +207,13 @@
           "rightPanel": {
             "stats": [
               {
-                "value": "$2.4K in {{STATE_NAME}}",
-                "label": "Student Loan Interest in {{STATE_NAME}}",
+                "value": "$2.4K",
+                "label": "Student Loan Interest",
                 "color": "green"
               },
               {
-                "value": "$15.4K in {{STATE_NAME}}",
-                "label": "Credit Card Interest in {{STATE_NAME}}",
+                "value": "$15.4K",
+                "label": "Credit Card Interest",
                 "color": "rose"
               }
             ],
@@ -233,7 +234,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "When Borrowing Makes Sense",
         "layout": "concept-full",
@@ -251,7 +252,7 @@
             "<strong>Appreciating assets:</strong> Borrowing for things that gain value over time"
           ],
           "keyPoint": {
-            "text": "🎯 Ask yourself: \"Will this loan help me earn more, save more, or build wealth over time?\""
+            "text": "\ud83c\udfaf Ask yourself: \"Will this loan help me earn more, save more, or build wealth over time?\""
           }
         }
       }
@@ -259,7 +260,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "When to Avoid Borrowing",
         "layout": "balanced-layout",
@@ -274,13 +275,13 @@
           "rightPanel": {
             "stats": [
               {
-                "value": "-50% in {{STATE_NAME}}",
-                "label": "Car Value After 3 Years in {{STATE_NAME}}",
+                "value": "-50%",
+                "label": "Car Value After 3 Years",
                 "color": "rose"
               },
               {
-                "value": "$0 in {{STATE_NAME}}",
-                "label": "Value of Consumed Goods in {{STATE_NAME}}",
+                "value": "$0",
+                "label": "Value of Consumed Goods",
                 "color": "purple"
               }
             ],
@@ -301,7 +302,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Understanding Borrowing Matters",
         "layout": "concept-full",
@@ -324,7 +325,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Factors That Affect Loan Costs",
         "layout": "balanced-layout",
@@ -361,14 +362,14 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👩‍🎓 in {{STATE_NAME}}",
-            "name": "Julia's Student Loan Decision in {{STATE_NAME}}",
+            "icon": "\ud83d\udc69\u200d\ud83c\udf93",
+            "name": "Julia's Student Loan Decision",
             "paragraphs": [
               "Julia is choosing between two options for a <strong>$20,000 student loan</strong> to be repaid over 10 years:",
               "Julia calculated the total cost and considered additional benefits. The federal loan also offers <span class=\"highlight-text\">income-driven repayment options and potential loan forgiveness</span>."
@@ -377,21 +378,21 @@
           "outcomes": [
             {
               "type": "after",
-              "label": "Federal Loan Total in {{STATE_NAME}}",
-              "value": "$24,874 in {{STATE_NAME}}",
-              "detail": "$4,874 in interest in {{STATE_NAME}}"
+              "label": "Federal Loan Total",
+              "value": "$24,874",
+              "detail": "$4,874 in interest"
             },
             {
               "type": "before",
-              "label": "Private Loan Total in {{STATE_NAME}}",
-              "value": "$27,619 in {{STATE_NAME}}",
-              "detail": "$7,619 in interest in {{STATE_NAME}}"
+              "label": "Private Loan Total",
+              "value": "$27,619",
+              "detail": "$7,619 in interest"
             },
             {
               "type": "after",
-              "label": "Julia's Savings in {{STATE_NAME}}",
-              "value": "$2,745 in {{STATE_NAME}}",
-              "detail": "By choosing federal loan in {{STATE_NAME}}"
+              "label": "Julia's Savings",
+              "value": "$2,745",
+              "detail": "By choosing federal loan"
             }
           ]
         }
@@ -400,14 +401,14 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "🚗 in {{STATE_NAME}}",
-            "name": "Ravi's Car Purchase Decision in {{STATE_NAME}}",
+            "icon": "\ud83d\ude97",
+            "name": "Ravi's Car Purchase Decision",
             "paragraphs": [
               "Ravi needs a reliable car for work. He has <strong>$15,000 saved</strong> and is deciding between two options:",
               "Ravi chose the <span class=\"highlight-text\">used car paid in cash</span> because it preserved his cash flow flexibility and avoided years of payments and interest costs."
@@ -416,21 +417,21 @@
           "outcomes": [
             {
               "type": "after",
-              "label": "Cash Purchase in {{STATE_NAME}}",
-              "value": "$15,000 in {{STATE_NAME}}",
-              "detail": "$0 interest, no payments in {{STATE_NAME}}"
+              "label": "Cash Purchase",
+              "value": "$15,000",
+              "detail": "$0 interest, no payments"
             },
             {
               "type": "before",
-              "label": "Financed Purchase in {{STATE_NAME}}",
-              "value": "$28,978 in {{STATE_NAME}}",
-              "detail": "$3,978 in interest over 5 years in {{STATE_NAME}}"
+              "label": "Financed Purchase",
+              "value": "$28,978",
+              "detail": "$3,978 in interest over 5 years"
             },
             {
               "type": "after",
-              "label": "Ravi's Savings in {{STATE_NAME}}",
-              "value": "$13,978 in {{STATE_NAME}}",
-              "detail": "By paying cash + lower insurance in {{STATE_NAME}}"
+              "label": "Ravi's Savings",
+              "value": "$13,978",
+              "detail": "By paying cash + lower insurance"
             }
           ]
         }
@@ -441,8 +442,8 @@
       "type": "discussion",
       "variant": "teal",
       "content": {
-        "badge": "Discussion in {{STATE_NAME}}",
-        "question": "What factors did Julia and Ravi consider beyond just the interest rate when making their borrowing decisions?<br><br>When might Ravi's financing option have been the better choice? in {{STATE_NAME}}"
+        "badge": "Discussion",
+        "question": "What factors did Julia and Ravi consider beyond just the interest rate when making their borrowing decisions?<br><br>When might Ravi's financing option have been the better choice?"
       }
     },
     {
@@ -450,16 +451,16 @@
       "type": "discussion",
       "variant": "purple",
       "content": {
-        "badge": "Personal Reflection in {{STATE_NAME}}",
-        "question": "Think about a situation where borrowing money might be a good idea and one where it would be a bad idea.<br><br>What factors make the difference between smart and harmful borrowing? in {{STATE_NAME}}"
+        "badge": "Personal Reflection",
+        "question": "Think about a situation where borrowing money might be a good idea and one where it would be a bad idea.<br><br>What factors make the difference between smart and harmful borrowing?"
       }
     },
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -486,7 +487,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -495,7 +496,7 @@
             {
               "number": 1,
               "title": "Collateral Matters",
-              "description": "Secured loans have lower rates because lenders have less risk—they can take your asset if you don't pay"
+              "description": "Secured loans have lower rates because lenders have less risk\u2014they can take your asset if you don't pay"
             },
             {
               "number": 2,
@@ -505,7 +506,7 @@
             {
               "number": 3,
               "title": "Borrow Strategically",
-              "description": "Borrow for education, housing, and wealth-building—avoid borrowing for wants and consumables"
+              "description": "Borrow for education, housing, and wealth-building\u2014avoid borrowing for wants and consumables"
             },
             {
               "number": 4,
@@ -519,7 +520,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Student Activity",
         "layout": "activity-layout",
@@ -543,9 +544,9 @@
       "number": 20,
       "type": "closing",
       "content": {
-        "tagline": "Building Financial Futures, One Lesson at a Time in {{STATE_NAME}}",
-        "website": "www.pflacademy.co in {{STATE_NAME}}",
-        "copyright": "© 2025 PFL Academy. All rights reserved. in {{STATE_NAME}}"
+        "tagline": "Building Financial Futures, One Lesson at a Time",
+        "website": "www.pflacademy.co",
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

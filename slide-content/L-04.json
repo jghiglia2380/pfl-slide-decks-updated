@@ -23,14 +23,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
-        "question": "How do clear financial goals transform vague wishes into concrete achievements that shape your future?<br><br>Financial goals are the foundation of effective money management—they give purpose and direction to every financial decision you make"
-      }
+        "label": "The Challenge",
+        "question": "How do clear financial goals transform vague wishes into concrete achievements that shape your future?<br><br>Financial goals are the foundation of effective money management\u2014they give purpose and direction to every financial decision you make"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -63,9 +64,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -76,7 +77,7 @@
             },
             {
               "term": "SMART Criteria",
-              "definition": "Framework for creating effective goals: Specific, Measurable, Achievable, Relevant, Time-bound—a proven structure for goal success",
+              "definition": "Framework for creating effective goals: Specific, Measurable, Achievable, Relevant, Time-bound\u2014a proven structure for goal success",
               "example": "Each component ensures your goal is clear and actionable"
             }
           ]
@@ -86,9 +87,9 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -109,7 +110,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why Financial Goals Matter",
         "layout": "balanced-layout",
@@ -119,11 +120,11 @@
             "paragraphs": [
               "Without clear goals, it's easy to spend impulsively and never afford what truly matters to you.",
               "",
-              "• Transform vague wishes into actionable plans",
-              "• Allocate resources more effectively",
-              "• Measure progress objectively",
-              "• Experience satisfaction of achievement",
-              "• Build lifelong positive money habits"
+              "\u2022 Transform vague wishes into actionable plans",
+              "\u2022 Allocate resources more effectively",
+              "\u2022 Measure progress objectively",
+              "\u2022 Experience satisfaction of achievement",
+              "\u2022 Build lifelong positive money habits"
             ]
           },
           "rightPanel": {
@@ -131,12 +132,12 @@
               {
                 "value": "42%",
                 "label": "More likely to achieve goals when written down",
-                "color": "teal"
+                "color": "indigo"
               },
               {
                 "value": "3x",
                 "label": "Higher success rate with specific deadlines",
-                "color": "purple"
+                "color": "indigo"
               },
               {
                 "value": "76%",
@@ -152,13 +153,13 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Short-Term vs. Long-Term Goals",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "⏰",
+            "icon": "\u23f0",
             "title": "Short-Term Goals",
             "items": [
               "Achievable within 1 year",
@@ -170,7 +171,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "📅",
+            "icon": "\ud83d\udcc5",
             "title": "Long-Term Goals",
             "items": [
               "Take more than 1 year to achieve",
@@ -187,7 +188,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The SMART Framework",
         "layout": "concept-full",
@@ -207,7 +208,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "SMART Goal in Action",
         "layout": "balanced-layout",
@@ -215,9 +216,9 @@
           "leftPanel": {
             "title": "Transforming a Vague Goal",
             "paragraphs": [
-              "❌ <strong>NOT SMART:</strong> \"I want to save money for a laptop.\"",
+              "\u274c <strong>NOT SMART:</strong> \"I want to save money for a laptop.\"",
               "",
-              "✅ <strong>SMART Version:</strong> \"I will save $800 for a new laptop by saving $100 per month for 8 months, tracking my progress in a savings app.\""
+              "\u2705 <strong>SMART Version:</strong> \"I will save $800 for a new laptop by saving $100 per month for 8 months, tracking my progress in a savings app.\""
             ]
           },
           "rightPanel": {
@@ -226,11 +227,11 @@
               "title": "Why It Works:",
               "color": "amber",
               "items": [
-                "✓ <strong>Specific:</strong> $800 for a laptop",
-                "✓ <strong>Measurable:</strong> $100 monthly",
-                "✓ <strong>Achievable:</strong> Realistic amount",
-                "✓ <strong>Relevant:</strong> Needed for school",
-                "✓ <strong>Time-bound:</strong> 8 months"
+                "\u2713 <strong>Specific:</strong> $800 for a laptop",
+                "\u2713 <strong>Measurable:</strong> $100 monthly",
+                "\u2713 <strong>Achievable:</strong> Realistic amount",
+                "\u2713 <strong>Relevant:</strong> Needed for school",
+                "\u2713 <strong>Time-bound:</strong> 8 months"
               ]
             }
           }
@@ -240,7 +241,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Prioritizing Your Goals",
         "layout": "balanced-layout",
@@ -250,9 +251,9 @@
             "paragraphs": [
               "Prioritization helps you allocate limited resources effectively without abandoning any goal entirely.",
               "",
-              "⏰ <strong>Urgency:</strong> Which goals have time-sensitive deadlines?",
-              "⭐ <strong>Importance:</strong> Which will have the biggest life impact?",
-              "🎯 <strong>Feasibility:</strong> Which can you realistically achieve now?"
+              "\u23f0 <strong>Urgency:</strong> Which goals have time-sensitive deadlines?",
+              "\u2b50 <strong>Importance:</strong> Which will have the biggest life impact?",
+              "\ud83c\udfaf <strong>Feasibility:</strong> Which can you realistically achieve now?"
             ]
           },
           "rightPanel": {
@@ -260,15 +261,15 @@
               {
                 "value": "4",
                 "label": "Key Factors in Goal Prioritization",
-                "color": "blue"
+                "color": "indigo"
               },
               {
                 "value": "1st",
                 "label": "Emergency fund often recommended first",
-                "color": "teal"
+                "color": "indigo"
               },
               {
-                "value": "✓",
+                "value": "\u2713",
                 "label": "Sequence matters: some goals are prerequisites",
                 "color": "green"
               }
@@ -281,7 +282,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Why It Matters",
         "layout": "balanced-layout",
@@ -291,11 +292,11 @@
             "paragraphs": [
               "Financial goal setting has far-reaching implications for your overall well-being and future success.",
               "",
-              "• <strong>Financial Security:</strong> Clear path to stability, reducing money stress",
-              "• <strong>Better Decisions:</strong> Goals filter spending choices",
-              "• <strong>Life Planning:</strong> Connect money to life aspirations",
-              "• <strong>Confidence:</strong> Achieve goals = build self-efficacy",
-              "• <strong>Positive Habits:</strong> Establish lifelong money skills"
+              "\u2022 <strong>Financial Security:</strong> Clear path to stability, reducing money stress",
+              "\u2022 <strong>Better Decisions:</strong> Goals filter spending choices",
+              "\u2022 <strong>Life Planning:</strong> Connect money to life aspirations",
+              "\u2022 <strong>Confidence:</strong> Achieve goals = build self-efficacy",
+              "\u2022 <strong>Positive Habits:</strong> Establish lifelong money skills"
             ]
           },
           "rightPanel": {
@@ -303,12 +304,12 @@
               {
                 "value": "Life",
                 "label": "Goals you set today shape your relationship with money forever",
-                "color": "purple"
+                "color": "indigo"
               },
               {
                 "value": "Every",
                 "label": "Life stage benefits: education, housing, retirement",
-                "color": "teal"
+                "color": "indigo"
               }
             ],
             "infoCard": null
@@ -319,7 +320,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Modern Goal Setting",
         "layout": "balanced-layout",
@@ -329,12 +330,12 @@
             "paragraphs": [
               "Technology makes tracking and achieving financial goals easier than ever before.",
               "",
-              "• Savings apps with automatic transfers",
-              "• Progress tracking and visualization",
-              "• Goal-based savings accounts",
-              "• Budgeting tools with goal features",
-              "• Social accountability through apps",
-              "• Round-up savings programs"
+              "\u2022 Savings apps with automatic transfers",
+              "\u2022 Progress tracking and visualization",
+              "\u2022 Goal-based savings accounts",
+              "\u2022 Budgeting tools with goal features",
+              "\u2022 Social accountability through apps",
+              "\u2022 Round-up savings programs"
             ]
           },
           "rightPanel": {
@@ -347,12 +348,12 @@
               {
                 "value": "$150",
                 "label": "Average monthly auto-savings by goal setters",
-                "color": "blue"
+                "color": "indigo"
               },
               {
                 "value": "2.5x",
                 "label": "Faster goal achievement with tracking apps",
-                "color": "purple"
+                "color": "indigo"
               }
             ],
             "infoCard": null
@@ -363,13 +364,13 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Real-World Example",
+        "headerTitle": "Apply It",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👤",
+            "icon": "\ud83d\udc64",
             "name": "Riley's Success with SMART Goals",
             "paragraphs": [
               "Riley wants to buy an $800 laptop for college in 8 months. Using the SMART framework, Riley creates a specific plan: save $100 each month through automatic transfers to a dedicated savings account and track progress using a savings app.",
@@ -403,13 +404,13 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Real-World Example",
+        "headerTitle": "Apply It",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "👤",
+            "icon": "\ud83d\udc64",
             "name": "Morgan's Struggles with Vague Goals",
             "paragraphs": [
               "Morgan wants to \"save some money for the future.\" Without specific amounts or deadlines, Morgan doesn't feel any urgency to save consistently. Some months, Morgan puts away $50; other months, nothing at all.",
@@ -443,27 +444,27 @@
     {
       "number": 15,
       "type": "discussion",
-      "variant": "teal",
+      "variant": "amber",
       "content": {
         "badge": "Discussion",
-        "question": "Which approach—Riley's or Morgan's—would help you achieve your goals, and why?<br><br><strong>Prompts:</strong> What made Riley's approach successful? • What could Morgan do differently? • How do you currently set financial goals?"
+        "question": "Which approach\u2014Riley's or Morgan's\u2014would help you achieve your goals, and why?<br><br><strong>Prompts:</strong> What made Riley's approach successful? \u2022 What could Morgan do differently? \u2022 How do you currently set financial goals?"
       }
     },
     {
       "number": 16,
       "type": "discussion",
-      "variant": "purple",
+      "variant": "indigo",
       "content": {
         "badge": "Personal Reflection",
-        "question": "What specific financial goal would make the biggest positive impact on your life right now?<br><br><strong>Prompts:</strong> How can SMART criteria help you achieve it? • What potential obstacles might you face? • How will achieving this goal affect other areas of your life?"
+        "question": "What specific financial goal would make the biggest positive impact on your life right now?<br><br><strong>Prompts:</strong> How can SMART criteria help you achieve it? \u2022 What potential obstacles might you face? \u2022 How will achieving this goal affect other areas of your life?"
       }
     },
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -490,7 +491,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -509,7 +510,7 @@
             {
               "number": 3,
               "title": "Prioritize Strategically",
-              "description": "Prioritize goals based on urgency, importance, feasibility, and sequence—but don't abandon any goal entirely"
+              "description": "Prioritize goals based on urgency, importance, feasibility, and sequence\u2014but don't abandon any goal entirely"
             },
             {
               "number": 4,
@@ -523,13 +524,13 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Skill Builder: SMART Goals Worksheet",
+        "headerTitle": "Tomorrow's Challenge",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "📋",
+            "icon": "\ud83d\udccb",
             "title": "Create Your SMART Goals",
             "description": "Practice turning financial aspirations into actionable, achievable goals using the SMART framework for both short-term and long-term objectives. Materials: SMART Goals Worksheet, calculator, savings app (optional)"
           },
@@ -549,7 +550,7 @@
       "content": {
         "tagline": "Set Goals. Take Action. Build Your Future.",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]

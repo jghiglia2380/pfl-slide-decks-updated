@@ -28,14 +28,15 @@
       "number": 2,
       "type": "hook",
       "content": {
-        "label": "Essential Question",
+        "label": "The Challenge",
         "question": "What if you could add <em>$200,000+</em> to your lifetime wealth<br>without picking better stocks—just by being <em>smarter about taxes</em>?<br><br>In {{STATE_NAME}}, your state tax rate of <em>{{STATE_INCOME_TAX_RATE}}%</em> impacts every investment decision."
-      }
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -68,9 +69,9 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -91,9 +92,9 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
@@ -114,7 +115,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Three Pillars of Tax-Efficient Investing",
         "layout": "generic",
@@ -149,7 +150,7 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "{{STATE_NAME}}'s Tax Impact on Your Investments",
         "layout": "balanced-layout",
@@ -196,7 +197,7 @@
     {
       "number": 8,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Short-Term vs. Long-Term Capital Gains",
         "layout": "comparison-grid",
@@ -229,7 +230,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Asset Location: Where to Hold What",
         "layout": "balanced-layout",
@@ -251,7 +252,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Roth vs. Traditional: The Strategic Decision",
         "layout": "comparison-grid",
@@ -284,7 +285,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Compound Impact of Tax Efficiency",
         "layout": "concept-full",
@@ -308,7 +309,7 @@
     {
       "number": 12,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example: Jamal's Tax-Efficient Strategy",
         "layout": "scenario-layout",
@@ -348,14 +349,14 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Real-World Example: Maya's Tax-Loss Harvesting",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
             "icon": "📊",
-            "name": "Maya: Mid-Career Professional in {{STATE_NAME}}",
+            "name": "Maya: Mid-Career Professional",
             "paragraphs": [
               "Maya, 34, earning $90,000 in <span class=\"highlight-text\">{{STATE_NAME}}</span>, reviewed her taxable account in December. She had a <span class=\"highlight-text\">$6,000 capital gain</span> from selling stocks and noticed two positions with losses:",
               "<strong>Action:</strong> She sold a tech stock ($2,000 loss) and an international fund ($1,500 loss) to realize <span class=\"highlight-text\">$3,500 in losses</span>. Immediately purchased similar (not identical) funds to maintain allocation.",
@@ -397,7 +398,7 @@
     {
       "number": 15,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Zero-Tax States vs. {{STATE_NAME}}: Investment Impact",
         "layout": "generic",
@@ -435,7 +436,7 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
         "headerTitle": "Tax Mistakes That Destroy Wealth",
         "layout": "check-grid",
@@ -464,7 +465,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -497,7 +498,7 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Skill Builder Activity",
         "layout": "activity-layout",

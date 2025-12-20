@@ -22,13 +22,14 @@
       "type": "hook",
       "content": {
         "label": "Look at What You're Wearing Right Now",
-        "question": "Check the tags. <em>Where were your clothes made?</em> Probably Vietnam, Bangladesh, or China. Your shoes? China, Vietnam, Indonesia. Your phone? Assembled in China with parts from 43 countries.<br><br><strong>Your iPhone:</strong> Designed in California | Parts from 43 countries | Assembled in China | Software from USA | Sold worldwide<br><br><em>This is GLOBALIZATION—your everyday life depends on international trade!</em>"
-      }
+        "question": "Check the tags. <em>Where were your clothes made?</em> Probably Vietnam, Bangladesh, or China. Your shoes? China, Vietnam, Indonesia. Your phone? Assembled in China with parts from 43 countries.<br><br><strong>Your iPhone:</strong> Designed in California | Parts from 43 countries | Assembled in China | Software from USA | Sold worldwide<br><br><em>This is GLOBALIZATION\u2014your everyday life depends on international trade!</em>"
+      },
+      "headerColor": "amber"
     },
     {
       "number": 3,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Learning Objectives",
         "layout": "objectives-expanded",
@@ -61,16 +62,16 @@
     {
       "number": 4,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
               "term": "Comparative Advantage",
-              "definition": "Countries benefit by specializing in what they do relatively best—even if one country is better at everything",
-              "example": "USA focuses on high-tech and finance, China on manufacturing—both benefit from trade"
+              "definition": "Countries benefit by specializing in what they do relatively best\u2014even if one country is better at everything",
+              "example": "USA focuses on high-tech and finance, China on manufacturing\u2014both benefit from trade"
             },
             {
               "term": "Tariff",
@@ -89,20 +90,20 @@
     {
       "number": 5,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
-        "headerTitle": "Key Terms",
+        "headerTitle": "Core Concepts",
         "layout": "vocab-container",
         "layoutData": {
           "terms": [
             {
               "term": "Exchange Rate",
-              "definition": "Price of one currency in terms of another—determines how much foreign currency you get for your dollar",
+              "definition": "Price of one currency in terms of another\u2014determines how much foreign currency you get for your dollar",
               "example": "$1 USD = 150 Japanese Yen, 0.92 Euro, or 7.3 Chinese Yuan"
             },
             {
               "term": "Trade Deficit",
-              "definition": "When a country imports more than it exports—buying more from other countries than selling to them",
+              "definition": "When a country imports more than it exports\u2014buying more from other countries than selling to them",
               "example": "US imports more goods from China than it exports to China"
             },
             {
@@ -117,7 +118,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Why Countries Trade: Comparative Advantage",
         "layout": "balanced-layout",
@@ -135,8 +136,8 @@
               "<strong>Result:</strong> Both tasks done in less total time!"
             ],
             "highlightBox": {
-              "icon": "💡",
-              "text": "Specializing in your comparative advantage creates gains for both parties—even if one is absolutely better at everything!"
+              "icon": "\ud83d\udca1",
+              "text": "Specializing in your comparative advantage creates gains for both parties\u2014even if one is absolutely better at everything!"
             }
           },
           "rightPanel": {
@@ -175,7 +176,7 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "👤",
+            "icon": "\ud83d\udc64",
             "title": "For Consumers (YOU)",
             "items": [
               "<strong>Lower Prices:</strong> iPhone $800 vs. $2,000+ if made entirely in USA",
@@ -186,7 +187,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "🏢",
+            "icon": "\ud83c\udfe2",
             "title": "For Businesses & Economy",
             "items": [
               "<strong>Larger Markets:</strong> Sell to billions of customers globally",
@@ -236,9 +237,9 @@
               "color": "amber",
               "items": [
                 "Dependence on other countries for critical goods:",
-                "• Semiconductors (Taiwan) - 90% of advanced chips",
-                "• Rare earth minerals (China) - essential for tech",
-                "• Pharmaceuticals (India, China) - 80% of ingredients",
+                "\u2022 Semiconductors (Taiwan) - 90% of advanced chips",
+                "\u2022 Rare earth minerals (China) - essential for tech",
+                "\u2022 Pharmaceuticals (India, China) - 80% of ingredients",
                 "",
                 "<em>COVID-19 lesson: Supply chain disruption = shortages</em>"
               ]
@@ -250,7 +251,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Trade Policy: Tariffs",
         "layout": "balanced-layout",
@@ -268,29 +269,29 @@
               "This makes foreign cars more expensive, protecting domestic car manufacturers from competition."
             ],
             "highlightBox": {
-              "icon": "📋",
+              "icon": "\ud83d\udccb",
               "text": "Recent Example: Trump Tariffs (2018-19) imposed 25% tariffs on $250B of Chinese goods to protect US manufacturing. China retaliated with tariffs on US agriculture, hurting farmers."
             }
           },
           "rightPanel": {
             "stats": [
               {
-                "value": "✓",
-                "label": "Protects domestic jobs - Foreign goods more expensive → domestic more competitive",
+                "value": "\u2713",
+                "label": "Protects domestic jobs - Foreign goods more expensive \u2192 domestic more competitive",
                 "color": "green"
               },
               {
-                "value": "✓",
+                "value": "\u2713",
                 "label": "Government revenue - Tariff payments can fund programs",
                 "color": "green"
               },
               {
-                "value": "✗",
+                "value": "\u2717",
                 "label": "Hurts consumers - Higher prices, less choice, reduced purchasing power",
                 "color": "rose"
               },
               {
-                "value": "✗",
+                "value": "\u2717",
                 "label": "Retaliation risk - Trade wars hurt everyone, reducing exports",
                 "color": "rose"
               }
@@ -302,7 +303,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Exchange Rates",
         "layout": "balanced-layout",
@@ -318,8 +319,8 @@
               "$1 USD = 7.3 Chinese Yuan"
             ],
             "highlightBox": {
-              "icon": "✈️",
-              "text": "Travel Example: Hotel costs €100/night. At $1 = €0.92: €100/0.92 = $108.70. At $1 = €1.00: €100/1.00 = $100.00. Strong dollar = Cheaper travel abroad!"
+              "icon": "\u2708\ufe0f",
+              "text": "Travel Example: Hotel costs \u20ac100/night. At $1 = \u20ac0.92: \u20ac100/0.92 = $108.70. At $1 = \u20ac1.00: \u20ac100/1.00 = $100.00. Strong dollar = Cheaper travel abroad!"
             }
           },
           "rightPanel": {
@@ -356,7 +357,7 @@
     {
       "number": 11,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "What Determines Exchange Rates?",
         "layout": "concept-full",
@@ -364,9 +365,9 @@
           "title": "Three Key Factors Drive Exchange Rate Changes",
           "paragraphs": [],
           "bulletPoints": [
-            "<strong>Interest Rates:</strong> Higher US interest rates → Foreign investors buy dollars to earn higher returns → Dollar strengthens (Fed policy from L-53 directly affects exchange rates!)",
-            "<strong>Economic Growth:</strong> Strong US economic growth → Investors want dollars to invest in growing economy → Dollar strengthens",
-            "<strong>Inflation:</strong> Higher US inflation → Dollar loses purchasing power → Dollar weakens (L-54 connection: Inflation erodes currency value)"
+            "<strong>Interest Rates:</strong> Higher US interest rates \u2192 Foreign investors buy dollars to earn higher returns \u2192 Dollar strengthens (Fed policy from L-53 directly affects exchange rates!)",
+            "<strong>Economic Growth:</strong> Strong US economic growth \u2192 Investors want dollars to invest in growing economy \u2192 Dollar strengthens",
+            "<strong>Inflation:</strong> Higher US inflation \u2192 Dollar loses purchasing power \u2192 Dollar weakens (L-54 connection: Inflation erodes currency value)"
           ],
           "keyPoint": "Exchange rates connect to everything you've learned: Fed policy (L-53), inflation (L-54), and economic growth all influence the value of the dollar"
         }
@@ -384,13 +385,13 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example: Free Trade vs. Protectionism",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "🌍",
+            "icon": "\ud83c\udf0d",
             "title": "Free Trade Position",
             "items": [
               "<strong>Arguments FOR free trade:</strong>",
@@ -406,7 +407,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "🛡️",
+            "icon": "\ud83d\udee1\ufe0f",
             "title": "Protectionist Position",
             "items": [
               "<strong>Arguments FOR trade restrictions:</strong>",
@@ -427,13 +428,13 @@
     {
       "number": 14,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Real-World Example: The iPhone Dilemma",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "📱",
+            "icon": "\ud83d\udcf1",
             "name": "Should Apple Make iPhones in the USA?",
             "paragraphs": [
               "<strong>Current Situation:</strong> iPhones are designed in California but assembled in China using parts from 43 countries. This keeps costs low and allows Apple to sell iPhones for ~$800.",
@@ -474,13 +475,13 @@
     {
       "number": 16,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "The Economic Consensus",
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "✓",
+            "icon": "\u2713",
             "title": "What Most Economists Agree On",
             "items": [
               "Total benefits of trade > total costs",
@@ -492,7 +493,7 @@
             ]
           },
           "rightColumn": {
-            "icon": "⚠️",
+            "icon": "\u26a0\ufe0f",
             "title": "But They Acknowledge",
             "items": [
               "Job losses are REAL and PAINFUL for affected workers",
@@ -509,9 +510,9 @@
     {
       "number": 17,
       "type": "content",
-      "headerColor": "purple",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Check for Understanding",
+        "headerTitle": "Check Your Understanding",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -538,7 +539,7 @@
     {
       "number": 18,
       "type": "content",
-      "headerColor": "teal",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "Key Takeaways",
         "layout": "takeaway-grid",
@@ -576,13 +577,13 @@
     {
       "number": 19,
       "type": "content",
-      "headerColor": "blue",
+      "headerColor": "amber",
       "content": {
         "headerTitle": "Skill Builder: Currency Exchange Simulator",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "💱",
+            "icon": "\ud83d\udcb1",
             "title": "Tomorrow's Learning Lab",
             "description": "Use the Currency Exchange Simulator and Trade Impact Analyzer to see how global trade affects YOUR life and career"
           },
@@ -602,7 +603,7 @@
       "content": {
         "tagline": "\"In a globalized economy, understanding trade helps you make smarter consumer and career decisions\"",
         "website": "www.pflacademy.co",
-        "copyright": "© 2025 PFL Academy. All rights reserved."
+        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
       }
     }
   ]
