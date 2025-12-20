@@ -120,7 +120,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "amber",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Law of Demand",
         "layout": "balanced-layout",
@@ -259,7 +259,7 @@
     {
       "number": 9,
       "type": "content",
-      "headerColor": "amber",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "What Makes Demand Shift?",
         "layout": "concept-full",
@@ -360,9 +360,9 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "indigo",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Using Supply & Demand for Smarter Decisions",
+        "headerTitle": "Apply It",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
@@ -400,7 +400,7 @@
       "type": "content",
       "headerColor": "amber",
       "content": {
-        "headerTitle": "The Labor Market: You Are the Supply",
+        "headerTitle": "Apply It",
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
@@ -447,7 +447,7 @@
     {
       "number": 15,
       "type": "discussion",
-      "variant": "purple",
+      "variant": "amber",
       "content": {
         "badge": "Personal Reflection",
         "question": "What skills do you have (or could develop) where demand is high and supply is limited?<br><br>How can you use supply and demand thinking to maximize your earning potential?"
@@ -491,7 +491,7 @@
       "type": "content",
       "headerColor": "emerald",
       "content": {
-        "headerTitle": "Key Takeaways",
+        "headerTitle": "Check Your Understanding",
         "layout": "takeaway-grid",
         "layoutData": {
           "takeaways": [
@@ -524,7 +524,7 @@
       "type": "content",
       "headerColor": "indigo",
       "content": {
-        "headerTitle": "Check Your Understanding",
+        "headerTitle": "Key Takeaways",
         "layout": "check-grid",
         "layoutData": {
           "questions": [
@@ -553,7 +553,7 @@
       "type": "content",
       "headerColor": "amber",
       "content": {
-        "headerTitle": "Day 2 Learning Lab Preview",
+        "headerTitle": "Tomorrow's Challenge",
         "layout": "activity-layout",
         "layoutData": {
           "main": {

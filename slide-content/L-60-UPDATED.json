@@ -108,7 +108,7 @@
     {
       "number": 6,
       "type": "content",
-      "headerColor": "amber",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "5 Elements of a Valid Contract",
         "layout": "balanced-layout",
@@ -247,7 +247,7 @@
     {
       "number": 10,
       "type": "content",
-      "headerColor": "amber",
+      "headerColor": "indigo",
       "content": {
         "headerTitle": "The Cost of Contract Illiteracy",
         "layout": "balanced-layout",
@@ -359,9 +359,9 @@
     {
       "number": 13,
       "type": "content",
-      "headerColor": "indigo",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "Real-World Example",
+        "headerTitle": "Apply It",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
@@ -401,7 +401,7 @@
       "type": "content",
       "headerColor": "amber",
       "content": {
-        "headerTitle": "Real-World Example",
+        "headerTitle": "Apply It",
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
@@ -439,7 +439,7 @@
     {
       "number": 15,
       "type": "discussion",
-      "variant": "teal",
+      "variant": "amber",
       "content": {
         "badge": "Discussion",
         "question": "What contracts have you already signed\u2014or will you sign soon?<br><br>What terms might you have accepted without fully understanding?"
@@ -448,7 +448,7 @@
     {
       "number": 16,
       "type": "discussion",
-      "variant": "purple",
+      "variant": "indigo",
       "content": {
         "badge": "Personal Reflection",
         "question": "What three questions should you ALWAYS ask yourself<br>before signing any financial contract?"
@@ -521,13 +521,13 @@
       "type": "content",
       "headerColor": "amber",
       "content": {
-        "headerTitle": "Student Activity",
+        "headerTitle": "Tomorrow's Challenge",
         "layout": "activity-layout",
         "layoutData": {
           "main": {
             "icon": "\ud83d",
             "title": "\udccb Contract Analysis Tool",
-            "description": "Practice identifying essential contract elements, key terms, and red flags in four real-world financial contracts. You'll analyze an apartment lease, phone contract, gym membership, and personal loan agreement."
+            "description": "Today we built the foundation \u2014 but the real test is what happens when you have to make a decision with tradeoffs. Practice identifying essential contract elements, key terms, and red flags in four real-world financial contracts. You'll analyze an apartment lease, phone contract, gym membership, and personal loan agreement."
           },
           "steps": [
             "Identify the 5 essential contract elements",
