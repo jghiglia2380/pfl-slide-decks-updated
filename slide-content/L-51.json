@@ -4,8 +4,10 @@
     "title": "Market Structures and Consumer Choice",
     "subtitle": "Understanding How Competition Affects Markets",
     "totalSlides": 20,
-    "hasStateVariables": false,
-    "stateVariablesUsed": []
+    "hasStateVariables": true,
+    "stateVariablesUsed": [
+      "STATE_NAME"
+    ]
   },
   "slides": [
     {
@@ -22,7 +24,7 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Eliana notices that gasoline prices at nearby stations are nearly identical, but coffee shops charge wildly different prices. Her electric company raised rates, and she has no choice but to pay.<br><br><strong>What should be done in this situation?</strong>"
+        "question": "Eliana, a consumer in {{STATE_NAME}}, notices that gasoline prices at nearby stations are nearly identical, but coffee shops charge wildly different prices. Her electric company raised rates, and she has no choice but to pay.<br><br><strong>What market structures explain these differences in {{STATE_NAME}}?</strong>"
       },
       "headerColor": "amber",
       "notes": "**Discussion Prompts:**\n- \"Why do you think the electric company can charge so much when coffee shops compete for your business?\"\n- Connect to prior knowledge: Remind students of supply/demand from L-50.",

@@ -106,13 +106,13 @@
           "terms": [
             {
               "term": "Equilibrium",
-              "definition": "The price point where quantity demanded equals quantity supplied\u2014the market \"clears\" with no shortages or surpluses.",
+              "definition": "The price point where quantity demanded equals quantity supplied—the market \"clears\" with no shortages or surpluses.",
               "example": "At ${{STATE_MEDIAN_RENT}}/month, the number of renters equals available apartments in {{STATE_NAME}}."
             },
             {
               "term": "Market Shift",
               "definition": "When the entire supply or demand curve moves due to factors other than price (income, preferences, costs).",
-              "example": "{{STATE_NAME}} population grows \u2192 demand curve shifts RIGHT \u2192 equilibrium price rises."
+              "example": "{{STATE_NAME}} population grows → demand curve shifts RIGHT → equilibrium price rises."
             }
           ]
         }
@@ -127,16 +127,16 @@
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
-            "title": "Price Goes Up \u2192 Quantity Demanded Goes Down",
+            "title": "Price Goes Up → Quantity Demanded Goes Down",
             "paragraphs": [
               "<strong>Why does this happen?</strong> Three key reasons:",
-              "<strong>1. Substitution Effect:</strong> When prices rise, people switch to cheaper alternatives (beef \u2192 chicken, driving \u2192 public transit).",
-              "<strong>2. Income Effect:</strong> Higher prices reduce your purchasing power\u2014you effectively have less money.",
-              "<strong>3. Diminishing Utility:</strong> The 5th pizza slice isn't as satisfying as the 1st\u2014you'll only buy more at lower prices."
+              "<strong>1. Substitution Effect:</strong> When prices rise, people switch to cheaper alternatives (beef → chicken, driving → public transit).",
+              "<strong>2. Income Effect:</strong> Higher prices reduce your purchasing power—you effectively have less money.",
+              "<strong>3. Diminishing Utility:</strong> The 5th pizza slice isn't as satisfying as the 1st—you'll only buy more at lower prices."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udcc9 The demand curve always slopes DOWNWARD: Higher price = fewer buyers."
+              "icon": "���",
+              "text": "��� The demand curve always slopes DOWNWARD: Higher price = fewer buyers."
             }
           },
           "rightPanel": {
@@ -147,7 +147,7 @@
                 "color": "teal"
               },
               {
-                "value": "\u2193",
+                "value": "↓",
                 "label": "Higher Price = Fewer Renters",
                 "color": "rose"
               }
@@ -156,9 +156,9 @@
               "title": "Your Personal Demand Curve:",
               "color": "blue",
               "items": [
-                "$10/cup coffee \u2192 Once a month",
-                "$5/cup coffee \u2192 Few times a week",
-                "$2/cup coffee \u2192 Every day",
+                "$10/cup coffee → Once a month",
+                "$5/cup coffee → Few times a week",
+                "$2/cup coffee → Every day",
                 "You have a demand curve for everything!"
               ]
             }
@@ -175,16 +175,16 @@
         "layout": "balanced-layout",
         "layoutData": {
           "leftPanel": {
-            "title": "Price Goes Up \u2192 Quantity Supplied Goes Up",
+            "title": "Price Goes Up → Quantity Supplied Goes Up",
             "paragraphs": [
               "<strong>Why does this happen?</strong> Producers respond to incentives:",
-              "<strong>1. Profit Motive:</strong> Higher prices = higher profits \u2192 businesses produce more to capture that profit.",
+              "<strong>1. Profit Motive:</strong> Higher prices = higher profits → businesses produce more to capture that profit.",
               "<strong>2. New Entrants:</strong> High prices attract new producers to enter the market (more builders, more sellers).",
               "<strong>3. Opportunity Cost:</strong> Higher prices justify using more expensive production methods that weren't profitable before."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udcc8 The supply curve always slopes UPWARD: Higher price = more producers willing to sell."
+              "icon": "���",
+              "text": "��� The supply curve always slopes UPWARD: Higher price = more producers willing to sell."
             }
           },
           "rightPanel": {
@@ -195,7 +195,7 @@
                 "color": "green"
               },
               {
-                "value": "\u2191",
+                "value": "↑",
                 "label": "Higher Price = More Builders",
                 "color": "teal"
               }
@@ -204,9 +204,9 @@
               "title": "Supply in {{STATE_NAME}}:",
               "color": "green",
               "items": [
-                "High home prices \u2192 More construction",
-                "High wages \u2192 More workers enter field",
-                "High rents \u2192 More landlords rent units",
+                "High home prices → More construction",
+                "High wages → More workers enter field",
+                "High rents → More landlords rent units",
                 "Prices signal where resources should go"
               ]
             }
@@ -226,13 +226,13 @@
             "title": "The Price Where Markets Clear",
             "paragraphs": [
               "At <strong>equilibrium</strong>, quantity demanded = quantity supplied. No shortages, no surpluses.",
-              "<strong>Above equilibrium:</strong> Too many sellers, not enough buyers \u2192 prices fall (surplus)",
-              "<strong>Below equilibrium:</strong> Too many buyers, not enough sellers \u2192 prices rise (shortage)",
-              "Markets naturally move toward equilibrium through the price mechanism\u2014no central planner needed!"
+              "<strong>Above equilibrium:</strong> Too many sellers, not enough buyers → prices fall (surplus)",
+              "<strong>Below equilibrium:</strong> Too many buyers, not enough sellers → prices rise (shortage)",
+              "Markets naturally move toward equilibrium through the price mechanism—no central planner needed!"
             ],
             "highlightBox": {
-              "icon": "\ud83d\udca1",
-              "text": "\u2696\ufe0f Equilibrium is where the supply and demand curves INTERSECT."
+              "icon": "💡",
+              "text": "⚖️ Equilibrium is where the supply and demand curves INTERSECT."
             }
           },
           "rightPanel": {
@@ -270,15 +270,15 @@
             "When something OTHER than price changes, the whole demand curve shifts left or right:"
           ],
           "bulletPoints": [
-            "<strong>Income Changes:</strong> Rising incomes \u2192 demand increases (curve shifts RIGHT)",
-            "<strong>Population Growth:</strong> More buyers in {{STATE_NAME}} \u2192 demand shifts RIGHT",
+            "<strong>Income Changes:</strong> Rising incomes → demand increases (curve shifts RIGHT)",
+            "<strong>Population Growth:</strong> More buyers in {{STATE_NAME}} → demand shifts RIGHT",
             "<strong>Tastes &amp; Preferences:</strong> Trends, health concerns, or viral products shift demand",
-            "<strong>Price of Substitutes:</strong> Gas prices rise \u2192 demand for EVs increases",
-            "<strong>Price of Complements:</strong> Coffee prices fall \u2192 demand for creamer rises",
-            "<strong>Future Expectations:</strong> Expect prices to rise \u2192 buy now (demand shifts RIGHT)"
+            "<strong>Price of Substitutes:</strong> Gas prices rise → demand for EVs increases",
+            "<strong>Price of Complements:</strong> Coffee prices fall → demand for creamer rises",
+            "<strong>Future Expectations:</strong> Expect prices to rise → buy now (demand shifts RIGHT)"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcca {{STATE_NAME}} population: {{STATE_POPULATION}} with {{STATE_JOB_GROWTH}}% job growth \u2192 Demand for housing keeps shifting RIGHT."
+            "text": "📊 {{STATE_NAME}} population: {{STATE_POPULATION}} with {{STATE_JOB_GROWTH}}% job growth → Demand for housing keeps shifting RIGHT."
           }
         }
       }
@@ -296,15 +296,15 @@
             "When production costs or conditions change, the whole supply curve shifts:"
           ],
           "bulletPoints": [
-            "<strong>Input Costs:</strong> Lumber prices rise \u2192 supply of new homes decreases (shifts LEFT)",
-            "<strong>Technology:</strong> Better tech \u2192 can produce more efficiently (shifts RIGHT)",
-            "<strong>Number of Sellers:</strong> New builders enter {{STATE_NAME}} market \u2192 supply increases",
+            "<strong>Input Costs:</strong> Lumber prices rise → supply of new homes decreases (shifts LEFT)",
+            "<strong>Technology:</strong> Better tech → can produce more efficiently (shifts RIGHT)",
+            "<strong>Number of Sellers:</strong> New builders enter {{STATE_NAME}} market → supply increases",
             "<strong>Government Policy:</strong> Taxes decrease supply; subsidies increase it",
             "<strong>Natural Events:</strong> Drought, pandemic, disasters reduce supply (shifts LEFT)",
-            "<strong>Expectations:</strong> Expect higher prices \u2192 hold back supply now"
+            "<strong>Expectations:</strong> Expect higher prices → hold back supply now"
           ],
           "keyPoint": {
-            "text": "\ud83c\udfd7\ufe0f In {{STATE_NAME}}: Rising construction costs + zoning limits \u2192 Supply can't keep up with demand \u2192 Prices rise."
+            "text": "🏗️ In {{STATE_NAME}}: Rising construction costs + zoning limits → Supply can't keep up with demand → Prices rise."
           }
         }
       }
@@ -314,38 +314,17 @@
       "type": "content",
       "headerColor": "indigo",
       "content": {
-        "headerTitle": "{{STATE_NAME}} Housing Market Analysis",
-        "layout": "scenario-layout",
+        "headerTitle": "Price Ceilings & Rent Control",
+        "layout": "comparison-grid",
         "layoutData": {
-          "scenario": {
-            "icon": "\ud83c\udfe0",
-            "name": "Why Are {{STATE_NAME}} Home Prices So High?",
-            "paragraphs": [
-              "Let's analyze the {{STATE_NAME}} housing market using supply and demand:",
-              "<strong>DEMAND is HIGH because:</strong>",
-              "<strong>SUPPLY is LIMITED because:</strong>"
-            ]
+          "leftPanel": {
+            "title": "Economic Concept",
+            "content": "Price Ceilings set a maximum price landlords can charge."
           },
-          "outcomes": [
-            {
-              "type": "before",
-              "label": "Current Median Price",
-              "value": "${{STATE_MEDIAN_HOME_PRICE}}",
-              "detail": "Demand > Supply = Rising prices"
-            },
-            {
-              "type": "after",
-              "label": "Median Rent",
-              "value": "${{STATE_MEDIAN_RENT}}/mo",
-              "detail": "Same forces affect rentals"
-            },
-            {
-              "type": "after",
-              "label": "Unemployment Rate",
-              "value": "{{STATE_UNEMPLOYMENT_RATE}}%",
-              "detail": "Strong jobs = strong demand"
-            }
-          ]
+          "rightPanel": {
+            "title": "Real World Context",
+            "content": "In {{STATE_NAME}}, the median rent is currently ${{STATE_MEDIAN_RENT}}/mo."
+          }
         }
       },
       "notes": "Common Misconceptions:\n\n| Misconception | Clarification |\n|--------------|---------------|\n| \"High prices in {{STATE_NAME}} are just because of greed.\" | Prices reflect supply and demand balance. {{STATE_NAME}}'s home price of ${{STATE_MEDIAN_HOME_PRICE}} reflects its specific combination of demand factors (population growth: {{STATE_POPULATION_GROWTH}}, job growth: {{STATE_JOB_GROWTH}}) and supply factors (construction trends, land availability). |\n| \"Supply and demand only applies to goods, not services or labor.\" | Supply and demand applies to EVERYTHING with a price—including wages ({{STATE_NAME}}'s {{STATE_UNEMPLOYMENT_RATE}}% unemployment reflects labor market balance), rent ({{STATE_NAME}}'s ${{STATE_MEDIAN_RENT}}/mo), interest rates, and stock prices. |\n| \"If prices are high, they'll stay high forever.\" | High prices attract new supply (builders construct more housing, workers enter high-paying fields). Over time, increased supply puts downward pressure on prices. Markets self-correct—it's a question of how quickly. |\n| \"The government controls all prices.\" | While regulations affect some prices (minimum wage, rent control), most prices are determined by millions of individual supply and demand decisions. Government can shift supply or demand curves but rarely overrides market forces long-term. |"
@@ -356,7 +335,7 @@
       "variant": "teal",
       "content": {
         "badge": "Discussion",
-        "question": "Looking at {{STATE_NAME}}'s data\u2014population {{STATE_POPULATION}}, job growth {{STATE_JOB_GROWTH}}%, and {{STATE_HOUSING_INVENTORY}} months housing inventory\u2014what would need to change for home prices to decrease?"
+        "question": "Looking at {{STATE_NAME}}'s data—population {{STATE_POPULATION}}, job growth {{STATE_JOB_GROWTH}}%, and {{STATE_HOUSING_INVENTORY}} months housing inventory—what would need to change for home prices to decrease?"
       }
     },
     {
@@ -371,14 +350,14 @@
             "title": "Time Your Purchases Strategically",
             "paragraphs": [
               "Buy when supply is HIGH and demand is LOW:",
-              "<strong>\ud83d\ude97 Cars:</strong> End of model year (dealers clearing inventory) or winter months (low demand)",
-              "<strong>\u2708\ufe0f Travel:</strong> Tuesday/Wednesday flights (low demand) instead of weekends",
-              "<strong>\ud83c\udfe0 Housing:</strong> Winter months typically have fewer buyers competing",
-              "<strong>\ud83d\udc55 Clothing:</strong> Off-season purchases (winter coats in spring)"
+              "<strong>🚗 Cars:</strong> End of model year (dealers clearing inventory) or winter months (low demand)",
+              "<strong>✈️ Travel:</strong> Tuesday/Wednesday flights (low demand) instead of weekends",
+              "<strong>🏠 Housing:</strong> Winter months typically have fewer buyers competing",
+              "<strong>👕 Clothing:</strong> Off-season purchases (winter coats in spring)"
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udca1 In {{STATE_NAME}}, home prices are typically lowest in winter when fewer people are house-hunting."
+              "icon": "���",
+              "text": "��� In {{STATE_NAME}}, home prices are typically lowest in winter when fewer people are house-hunting."
             }
           },
           "rightPanel": {
@@ -412,11 +391,11 @@
               "<strong>Employers = Demand</strong> for workers with specific skills",
               "<strong>Workers = Supply</strong> of those skills",
               "When demand for your skills exceeds supply, your wages rise!",
-              "With {{STATE_NAME}}'s unemployment rate at <strong>{{STATE_UNEMPLOYMENT_RATE}}%</strong>, the labor market is tight\u2014employers are competing for workers."
+              "With {{STATE_NAME}}'s unemployment rate at <strong>{{STATE_UNEMPLOYMENT_RATE}}%</strong>, the labor market is tight—employers are competing for workers."
             ],
             "highlightBox": {
-              "icon": "\ud83c",
-              "text": "\udfaf Choose careers where demand is rising and supply is limited for maximum earning potential."
+              "icon": "���",
+              "text": "��� Choose careers where demand is rising and supply is limited for maximum earning potential."
             }
           },
           "rightPanel": {
@@ -465,7 +444,7 @@
         "layoutData": {
           "leftColumn": {
             "icon": "",
-            "title": "\u274c Don't Do This",
+            "title": "❌ Don't Do This",
             "items": [
               "Buy when demand peaks (holidays, summer)",
               "Panic buy during shortages (prices highest)",
@@ -475,8 +454,8 @@
             ]
           },
           "rightColumn": {
-            "icon": "\u2713",
-            "title": "\u2713 Do This Instead",
+            "icon": "✓",
+            "title": "✓ Do This Instead",
             "items": [
               "Buy during off-peak times (winter, weekdays)",
               "Wait for supply to catch up after disruptions",
@@ -500,17 +479,17 @@
             {
               "number": 1,
               "title": "Law of Demand",
-              "description": "Price \u2191 \u2192 Quantity Demanded \u2193. Higher prices mean fewer buyers (and vice versa)."
+              "description": "Price ↑ → Quantity Demanded ↓. Higher prices mean fewer buyers (and vice versa)."
             },
             {
               "number": 2,
               "title": "Law of Supply",
-              "description": "Price \u2191 \u2192 Quantity Supplied \u2191. Higher prices attract more producers and sellers."
+              "description": "Price ↑ → Quantity Supplied ↑. Higher prices attract more producers and sellers."
             },
             {
               "number": 3,
               "title": "Markets Self-Adjust",
-              "description": "Prices rise to eliminate shortages and fall to eliminate surpluses\u2014reaching equilibrium."
+              "description": "Prices rise to eliminate shortages and fall to eliminate surpluses—reaching equilibrium."
             },
             {
               "number": 4,
@@ -560,8 +539,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udcca Market Analysis Workshop",
+            "icon": "���",
+            "title": "��� Market Analysis Workshop",
             "description": "Tomorrow you'll apply supply and demand concepts to real {{STATE_NAME}} markets: Analyze actual market data, predict price movements, and develop strategies for timing major purchases and career decisions."
           },
           "steps": [
@@ -580,7 +559,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "© 2025 PFL Academy. All rights reserved."
       }
     }
   ]

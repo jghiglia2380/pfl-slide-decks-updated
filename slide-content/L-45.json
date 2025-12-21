@@ -4,8 +4,10 @@
     "title": "Entrepreneurship &Side Hustles",
     "subtitle": "Building Your Own Path to Financial Success",
     "totalSlides": 20,
-    "hasStateVariables": false,
-    "stateVariablesUsed": []
+    "hasStateVariables": true,
+    "stateVariablesUsed": [
+      "STATE_NAME"
+    ]
   },
   "slides": [
     {
@@ -22,7 +24,7 @@
       "type": "hook",
       "content": {
         "label": "The Challenge",
-        "question": "Jordan, a CS major, noticed classmates struggling with programming and turned this observation into a tutoring side hustle, earning $800-1K monthly while working just 10 hours a week around his classes. <br><br> What if you could turn <em>your skills and passions</em> into income\u2014while keeping your day job or building something <em>entirely your own</em>?"
+        "question": "Jordan, a CS major in {{STATE_NAME}}, noticed classmates struggling with programming and turned this observation into a tutoring side hustle, earning $800-1K monthly while working just 10 hours a week around his classes. <br><br> What if you could turn <em>your skills and passions</em> into income in {{STATE_NAME}}‚Äîwhile keeping your day job or building something <em>entirely your own</em>?"
       },
       "headerColor": "amber",
       "notes": "Discussion prompts:\n‚Ä¢ \"What problems do you see around you that people might pay to have solved?\"\n‚Ä¢ Preview how side hustles can start small and grow based on real customer needs."
@@ -99,7 +101,7 @@
             },
             {
               "term": "Bootstrapping",
-              "definition": "Building a company from the ground up using personal finances and revenue\u2014no outside investors.",
+              "definition": "Building a company from the ground up using personal finances and revenue‚Äîno outside investors.",
               "example": "You maintain full ownership and control of your business decisions and profits."
             }
           ]
@@ -118,11 +120,11 @@
             "title": "Creating Value Through Innovation",
             "paragraphs": [
               "Entrepreneurs identify opportunities, secure resources, and take <strong>calculated risks</strong> to create value through new products, services, or ways of doing business.",
-              "Entrepreneurship offers an alternative or complement to traditional employment\u2014allowing you to pursue passions and create additional income streams."
+              "Entrepreneurship offers an alternative or complement to traditional employment‚Äîallowing you to pursue passions and create additional income streams."
             ],
             "highlightBox": {
-              "icon": "\ud83d",
-              "text": "\udca1 In today's economy, entrepreneurial skills are valuable even if you never start a business\u2014they create adaptability and resilience."
+              "icon": "Ì†Ω",
+              "text": "Ì≤° In today's economy, entrepreneurial skills are valuable even if you never start a business‚Äîthey create adaptability and resilience."
             }
           },
           "rightPanel": {
@@ -182,8 +184,8 @@
         "layout": "comparison-grid",
         "layoutData": {
           "leftColumn": {
-            "icon": "\ud83d",
-            "title": "\udee0\ufe0f Service-Based",
+            "icon": "Ì†Ω",
+            "title": "Ìª†Ô∏è Service-Based",
             "items": [
               "Freelance writing, design, coding",
               "Tutoring or coaching",
@@ -193,8 +195,8 @@
             ]
           },
           "rightColumn": {
-            "icon": "\ud83d",
-            "title": "\udce6 Product-Based",
+            "icon": "Ì†Ω",
+            "title": "Ì≥¶ Product-Based",
             "items": [
               "Handcrafted goods (Etsy)",
               "Digital products (courses, ebooks)",
@@ -227,7 +229,7 @@
             "<strong>Underserved Markets:</strong> Groups whose needs aren't fully met"
           ],
           "keyPoint": {
-            "text": "\ud83d\udca1 <strong>Key Question:</strong> What problem do I see every day that I'm uniquely positioned to solve?"
+            "text": "üí° <strong>Key Question:</strong> What problem do I see every day that I'm uniquely positioned to solve?"
           }
         }
       }
@@ -298,7 +300,7 @@
             "<strong>Business Asset:</strong> Potential to sell or scale into full-time"
           ],
           "keyPoint": {
-            "text": "\ud83d\udcb0 <strong>$810/month invested at 8% for 30 years = $1.1 million</strong>\u2014side hustles can fund your retirement."
+            "text": "üí∞ <strong>$810/month invested at 8% for 30 years = $1.1 million</strong>‚Äîside hustles can fund your retirement."
           }
         }
       },
@@ -353,7 +355,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc68\u200d\ud83d\udcbb",
+            "icon": "üë®‚Äçüíª",
             "name": "Jordan's Tutoring Side Hustle",
             "paragraphs": [
               "Jordan, a CS major, noticed classmates struggling with programming. Instead of just helping friends for free, he saw <span class=\"highlight-text\">a business opportunity</span>.",
@@ -392,7 +394,7 @@
         "layout": "scenario-layout",
         "layoutData": {
           "scenario": {
-            "icon": "\ud83d\udc69\u200d\ud83c\udfa8",
+            "icon": "üë©‚Äçüé®",
             "name": "Maya's Jewelry Business Journey",
             "paragraphs": [
               "Maya worked full-time as an admin assistant while making jewelry as a hobby. Friends encouraged her to sell, so she <span class=\"highlight-text\">started on Etsy with 10 designs</span>.",
@@ -483,7 +485,7 @@
             {
               "number": 1,
               "title": "Start With Your Strengths",
-              "description": "The best side hustles leverage skills you already have\u2014turning expertise into income"
+              "description": "The best side hustles leverage skills you already have‚Äîturning expertise into income"
             },
             {
               "number": 2,
@@ -513,8 +515,8 @@
         "layout": "activity-layout",
         "layoutData": {
           "main": {
-            "icon": "\ud83d",
-            "title": "\udca1 Business Idea Brainstorm",
+            "icon": "Ì†Ω",
+            "title": "Ì≤° Business Idea Brainstorm",
             "description": "In the activity packet, you'll brainstorm potential side hustle ideas based on your <strong>skills, interests, and observations</strong> of problems around you. You'll evaluate your top ideas using the opportunity assessment criteria and create an initial action plan."
           },
           "steps": [
@@ -533,7 +535,7 @@
       "content": {
         "tagline": "Building Financial Futures, One Lesson at a Time",
         "website": "www.pflacademy.co",
-        "copyright": "\u00a9 2025 PFL Academy. All rights reserved."
+        "copyright": "¬© 2025 PFL Academy. All rights reserved."
       }
     }
   ]
