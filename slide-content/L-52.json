@@ -4,8 +4,11 @@
     "title": "Government and the Economy",
     "subtitle": "Understanding Government's Role in Markets",
     "totalSlides": 20,
-    "hasStateVariables": false,
-    "stateVariablesUsed": []
+    "hasStateVariables": true,
+    "stateVariablesUsed": [
+      "STATE_NAME",
+      "STATE_MIN_WAGE"
+    ]
   },
   "slides": [
     {
@@ -419,44 +422,18 @@
     {
       "number": 16,
       "type": "content",
-      "headerColor": "rose",
+      "headerColor": "emerald",
       "content": {
-        "headerTitle": "Price Controls: Ceilings and Floors",
+        "headerTitle": "Minimum Wage: Federal vs. State",
         "layout": "comparison-grid",
         "layoutData": {
-          "leftColumn": {
-            "icon": "⬇️",
-            "title": "Price Ceiling (Maximum Price)",
-            "items": [
-              "<strong>Example:</strong> Rent Control",
-              "<strong>Intent:</strong> Affordable housing",
-              "",
-              "<strong>Actual Effects:</strong>",
-              "⚠️ Shortage (demand > supply)",
-              "Landlords don't maintain properties",
-              "Black markets develop",
-              "Reduces new construction",
-              "",
-              "Winners: Those who get rent-controlled apartments",
-              "Losers: Those searching for housing"
-            ]
+          "leftPanel": {
+            "title": "Federal Minimum",
+            "content": "$7.25 / hour"
           },
-          "rightColumn": {
-            "icon": "⬆️",
-            "title": "Price Floor (Minimum Price)",
-            "items": [
-              "<strong>Example:</strong> Minimum Wage",
-              "<strong>Intent:</strong> Higher income for workers",
-              "",
-              "<strong>Actual Effects:</strong>",
-              "🚫 Some unemployment possible (debated)",
-              "Higher prices for consumers",
-              "Reduced hours or automation",
-              "✓ Workers who keep jobs earn more",
-              "",
-              "Winners: Workers who keep jobs",
-              "Losers: Some workers lose jobs (magnitude debated)"
-            ]
+          "rightPanel": {
+            "title": "In {{STATE_NAME}}",
+            "content": "Minimum Wage: ${{STATE_MIN_WAGE}} / hour"
           }
         }
       }

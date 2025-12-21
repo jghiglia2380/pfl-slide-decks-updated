@@ -157,22 +157,18 @@
     {
       "number": 7,
       "type": "content",
-      "headerColor": "indigo",
+      "headerColor": "amber",
       "content": {
-        "headerTitle": "The 50/30/20 Rule Explained",
-        "layout": "concept-full",
+        "headerTitle": "Housing Costs: National vs. Local",
+        "layout": "comparison-grid",
         "layoutData": {
-          "title": "A Simple Framework for Any Income Level",
-          "paragraphs": [
-            "This rule works whether you earn $2,000 or $10,000 per month\u2014the percentages scale with your income:"
-          ],
-          "bulletPoints": [
-            "<strong>50% NEEDS:</strong> Housing (rent/mortgage), utilities, groceries, transportation, healthcare, minimum debt payments, insurance",
-            "<strong>30% WANTS:</strong> Entertainment, dining out, hobbies, vacations, streaming services, extra clothing, upgrades",
-            "<strong>20% SAVINGS:</strong> Emergency fund, retirement savings, investments, extra debt payments, financial goals"
-          ],
-          "keyPoint": {
-            "text": "\ud83d\udcca In {{STATE_NAME}}, with median income of ${{STATE_MEDIAN_INCOME}}/year, that's roughly ${{STATE_MEDIAN_RENT}} for needs, allowing flexibility for the local cost of living."
+          "leftPanel": {
+            "title": "National Average",
+            "content": "Avg 1-Bedroom Rent: $1,200/mo"
+          },
+          "rightPanel": {
+            "title": "In {{STATE_NAME}}",
+            "content": "Median Rent: ${{STATE_MEDIAN_RENT}}/mo"
           }
         }
       }

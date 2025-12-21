@@ -194,28 +194,16 @@
       "type": "content",
       "headerColor": "indigo",
       "content": {
-        "headerTitle": "{{STATE_NAME}} Tax Profile",
+        "headerTitle": "Federal and State Tax Comparison",
         "layout": "comparison-grid",
         "layoutData": {
-          "leftColumn": {
-            "icon": "\ud83c\udfe0",
-            "title": "{{STATE_NAME}} ({{STATE_CODE}})",
-            "items": [
-              "State Income Tax: {{STATE_INCOME_TAX_RATE}}%",
-              "State Sales Tax: {{STATE_SALES_TAX}}%",
-              "Avg. Property Tax Rate: {{STATE_PROPERTY_TAX_AVG}}%",
-              "Gas Tax (per gallon): ${{STATE_GAS_TAX}}"
-            ]
+          "leftPanel": {
+            "title": "Federal Average",
+            "content": "The average American pays ~14% in federal income taxes."
           },
-          "rightColumn": {
-            "icon": "\ud83c\uddfa\ud83c\uddf8",
-            "title": "National Comparison",
-            "items": [
-              "States with No Income Tax: 7 states",
-              "Highest State Income Tax: 13.3% (CA)",
-              "Average State Sales Tax: 5.09%",
-              "Average Property Tax: 1.07%"
-            ]
+          "rightPanel": {
+            "title": "In {{STATE_NAME}}",
+            "content": "Your state income tax structure impacts your take-home pay differently here."
           }
         }
       }
