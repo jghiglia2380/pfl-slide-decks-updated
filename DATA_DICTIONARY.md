@@ -1,4 +1,123 @@
-PFL Academy - Data DictionaryDynamic State Variables for Hyper-Localized ContentVersion: 2.0 (Final Complete)Last Updated: December 21, 2025For: Engineering Team (Sebastian & Danik)OverviewThis document defines the complete variable data layer used across the PFL Academy slide decks. These variables replace static national averages with real-time state-specific data to ensure the curriculum is hyper-localized.CRITICAL: This data feeds not just the "Big 6" chapters, but 26 total chapters, including Auto Finance (L-46) and Education (L-02).Key Chapters Using State VariablesHousing: L-05, L-30, L-31, L-32, L-50, L-59Taxes: L-06, L-59, L-68Auto: L-46 (16 variables)Economy: L-45, L-51, L-52, L-54, L-58Education: L-02, L-25Variable Definitions1. Core IdentityVariableDescriptionExampleUpdate FreqFallbackSTATE_NAMEFull state name"California"Static"your state"STATE_CODETwo-letter postal code"CA"Static"XX"2. Housing & Cost of Living (L-05, L-30, L-50)VariableDescriptionExampleUpdate FreqFallbackSTATE_MEDIAN_RENTMedian monthly rent (1BR)1850Quarterly1200STATE_MEDIAN_HOME_PRICEMedian home sale price450000Quarterly350000STATE_AVG_MORTGAGE_RATEAvg 30-year fixed rate6.8Monthly7.0STATE_HOUSING_INVENTORYAvailable housing units125000Quarterly"varies"STATE_MEDIAN_INCOMEMedian household income75000Annually700003. Taxes (L-06, L-59, L-68)VariableDescriptionExampleUpdate FreqFallbackSTATE_INCOME_TAX_RATETop marginal income tax rate (%)9.3Annually5.0STATE_SALES_TAXCombined state sales tax rate (%)7.25Annually6.5STATE_PROPERTY_TAX_AVGEffective property tax rate (%)0.74Annually1.07STATE_GAS_TAXState gasoline excise tax ($/gal)0.539Annually0.30STATE_HOMESTEAD_EXEMPTIONProperty tax exemption amount7000Annually0STATE_ASSESSMENT_PERCENTAGE% of home value taxed100Static100STATE_CAPITAL_GAINS_TAXCap gains tax rate (%)9.3Annually5.04. Automotive & Transportation (L-46)VariableDescriptionExampleUpdate FreqFallbackSTATE_GAS_PRICECurrent avg gas price ($/gal)4.85Monthly3.50STATE_INSURANCE_AVG_TEENAvg annual premium (Teen Driver)4200Annually3500STATE_INSURANCE_AVG_ADULTAvg annual premium (Adult)1800Annually1500STATE_REGISTRATION_INITIALInitial vehicle reg/title fees350Annually200STATE_REGISTRATION_ANNUALAnnual renewal fee150Annually75STATE_AVG_AUTO_LOAN_RATE_NEWAvg APR (New Car)6.5Monthly6.0STATE_AVG_AUTO_LOAN_RATE_USEDAvg APR (Used Car)10.5Monthly10.05. Education (L-02, L-25)VariableDescriptionExampleUpdate FreqFallbackSTATE_TUITION_PUBLICAvg In-State Tuition (Public 4yr)11000Annually10500STATE_TUITION_COMMUNITYAvg Community College Tuition3500Annually3800STATE_GRANT_PROGRAMName of state aid program"Cal Grant"Static"State Grant"6. Labor & Economy (L-52, L-54)VariableDescriptionExampleUpdate FreqFallbackSTATE_MIN_WAGEState minimum wage ($/hr)15.50Annually7.25STATE_UNEMPLOYMENT_RATECurrent unemployment rate (%)4.2Monthly3.8STATE_JOB_GROWTHYoY job growth rate (%)2.1Annually1.57. Niche Context (L-13, L-61)VariableDescriptionExampleUpdate FreqFallbackSTATE_CONSUMER_PROTECTION_AGENCYAgency Name"Dept of Consumer Affairs"Static"Consumer Protection"STATE_AVG_OVERDRAFT_FEEAvg bank overdraft fee35.00Annually35.00Data SourcesRecommended Sources (Priority Order)BLS (Bureau of Labor Statistics): Unemployment, Wages, Job Growth.Census Bureau: Income, Population.Zillow/Redfin: Home Prices, Rents, Inventory.AAA / Bankrate: Gas Prices, Mortgage Rates, Auto Loan Rates.Tax Foundation: All Tax Rates.College Board: Tuition trends.Fallback StrategyCRITICAL FOR DEV TEAM:If a specific state data point returns NULL or fails to fetch:DO NOT leave the slide blank.DO NOT return an error string like {{ERROR}}.MUST fallback to the National Average defined in the tables above.Optional: Append "(National Avg)" to the display string for transparency.Database Implementation NotesSuggested Table SchemaSQLCREATE TABLE state_variables (
+# PFL Academy - Data Dictionary
+## Dynamic State Variables for Hyper-Localized Content
+
+**Version:** 2.0 (Final Complete)
+**Last Updated:** December 21, 2025
+**For:** Engineering Team (Sebastian & Danik)
+
+---
+
+## Overview
+
+This document defines the **complete variable data layer** used across the PFL Academy slide decks. These variables replace static national averages with real-time state-specific data to ensure the curriculum is hyper-localized.
+
+**CRITICAL:** This data feeds not just the "Big 6" chapters, but **26 total chapters**, including Auto Finance (L-46) and Education (L-02).
+
+### Key Chapters Using State Variables
+* **Housing:** L-05, L-30, L-31, L-32, L-50, L-59
+* **Taxes:** L-06, L-59, L-68
+* **Auto:** L-46 (16 variables)
+* **Economy:** L-45, L-51, L-52, L-54, L-58
+* **Education:** L-02, L-25
+
+---
+
+## Variable Definitions
+
+### 1. Core Identity
+
+| Variable | Description | Example | Update Freq | Fallback |
+| :--- | :--- | :--- | :--- | :--- |
+| `STATE_NAME` | Full state name | "California" | Static | "your state" |
+| `STATE_CODE` | Two-letter postal code | "CA" | Static | "XX" |
+
+### 2. Housing & Cost of Living (L-05, L-30, L-50)
+
+| Variable | Description | Example | Update Freq | Fallback |
+| :--- | :--- | :--- | :--- | :--- |
+| `STATE_MEDIAN_RENT` | Median monthly rent (1BR) | 1850 | **Quarterly** | 1200 |
+| `STATE_MEDIAN_HOME_PRICE` | Median home sale price | 450000 | **Quarterly** | 350000 |
+| `STATE_AVG_MORTGAGE_RATE` | Avg 30-year fixed rate | 6.8 | **Monthly** | 7.0 |
+| `STATE_HOUSING_INVENTORY` | Available housing units | 125000 | **Quarterly** | "varies" |
+| `STATE_MEDIAN_INCOME` | Median household income | 75000 | **Annually** | 70000 |
+
+### 3. Taxes (L-06, L-59, L-68)
+
+| Variable | Description | Example | Update Freq | Fallback |
+| :--- | :--- | :--- | :--- | :--- |
+| `STATE_INCOME_TAX_RATE` | Top marginal income tax rate (%) | 9.3 | **Annually** | 5.0 |
+| `STATE_SALES_TAX` | Combined state sales tax rate (%) | 7.25 | **Annually** | 6.5 |
+| `STATE_PROPERTY_TAX_AVG` | Effective property tax rate (%) | 0.74 | **Annually** | 1.07 |
+| `STATE_GAS_TAX` | State gasoline excise tax ($/gal) | 0.539 | **Annually** | 0.30 |
+| `STATE_HOMESTEAD_EXEMPTION` | Property tax exemption amount | 7000 | **Annually** | 0 |
+| `STATE_ASSESSMENT_PERCENTAGE`| % of home value taxed | 100 | **Static** | 100 |
+| `STATE_CAPITAL_GAINS_TAX` | Cap gains tax rate (%) | 9.3 | **Annually** | 5.0 |
+
+### 4. Automotive & Transportation (L-46)
+
+| Variable | Description | Example | Update Freq | Fallback |
+| :--- | :--- | :--- | :--- | :--- |
+| `STATE_GAS_PRICE` | Current avg gas price ($/gal) | 4.85 | **Monthly** | 3.50 |
+| `STATE_INSURANCE_AVG_TEEN` | Avg annual premium (Teen Driver) | 4200 | **Annually** | 3500 |
+| `STATE_INSURANCE_AVG_ADULT`| Avg annual premium (Adult) | 1800 | **Annually** | 1500 |
+| `STATE_REGISTRATION_INITIAL`| Initial vehicle reg/title fees | 350 | **Annually** | 200 |
+| `STATE_REGISTRATION_ANNUAL`| Annual renewal fee | 150 | **Annually** | 75 |
+| `STATE_AVG_AUTO_LOAN_RATE_NEW`| Avg APR (New Car) | 6.5 | **Monthly** | 6.0 |
+| `STATE_AVG_AUTO_LOAN_RATE_USED`| Avg APR (Used Car) | 10.5 | **Monthly** | 10.0 |
+
+### 5. Education (L-02, L-25)
+
+| Variable | Description | Example | Update Freq | Fallback |
+| :--- | :--- | :--- | :--- | :--- |
+| `STATE_TUITION_PUBLIC` | Avg In-State Tuition (Public 4yr) | 11000 | **Annually** | 10500 |
+| `STATE_TUITION_COMMUNITY`| Avg Community College Tuition | 3500 | **Annually** | 3800 |
+| `STATE_GRANT_PROGRAM` | Name of state aid program | "Cal Grant"| **Static** | "State Grant"|
+
+### 6. Labor & Economy (L-52, L-54)
+
+| Variable | Description | Example | Update Freq | Fallback |
+| :--- | :--- | :--- | :--- | :--- |
+| `STATE_MIN_WAGE` | State minimum wage ($/hr) | 15.50 | **Annually** | 7.25 |
+| `STATE_UNEMPLOYMENT_RATE` | Current unemployment rate (%) | 4.2 | **Monthly** | 3.8 |
+| `STATE_JOB_GROWTH` | YoY job growth rate (%) | 2.1 | **Annually** | 1.5 |
+
+### 7. Niche Context (L-13, L-61)
+
+| Variable | Description | Example | Update Freq | Fallback |
+| :--- | :--- | :--- | :--- | :--- |
+| `STATE_CONSUMER_PROTECTION_AGENCY` | Agency Name | "Dept of Consumer Affairs" | **Static** | "Consumer Protection" |
+| `STATE_AVG_OVERDRAFT_FEE`| Avg bank overdraft fee | 35.00 | **Annually** | 35.00 |
+
+---
+
+## Data Sources
+
+### Recommended Sources (Priority Order)
+1.  **BLS (Bureau of Labor Statistics):** Unemployment, Wages, Job Growth.
+2.  **Census Bureau:** Income, Population.
+3.  **Zillow/Redfin:** Home Prices, Rents, Inventory.
+4.  **AAA / Bankrate:** Gas Prices, Mortgage Rates, Auto Loan Rates.
+5.  **Tax Foundation:** All Tax Rates.
+6.  **College Board:** Tuition trends.
+
+---
+
+## Fallback Strategy
+
+**CRITICAL FOR DEV TEAM:**
+If a specific state data point returns `NULL` or fails to fetch:
+1.  **DO NOT** leave the slide blank.
+2.  **DO NOT** return an error string like `{{ERROR}}`.
+3.  **MUST** fallback to the **National Average** defined in the tables above.
+4.  *Optional:* Append "(National Avg)" to the display string for transparency.
+
+---
+
+## Database Implementation Notes
+
+### Suggested Table Schema
+```sql
+CREATE TABLE state_variables (
   state_code VARCHAR(2) PRIMARY KEY,
   median_rent INT,
   median_home_price INT,
