@@ -1,0 +1,713 @@
+{
+  "metadata": {
+    "lChapter": "L-71",
+    "title": "Introduction to Estate Planning",
+    "subtitle": "Protecting Yourself and Those You Care About Through Wills, Trusts, and Essential Legal Documents",
+    "totalSlides": 20,
+    "hasStateVariables": true,
+    "stateVariablesUsed": ["{{STATE_NAME}}", "{{STATE_ESTATE_TAX}}"]
+  },
+  "slides": [
+    {
+      "number": 1,
+      "type": "title",
+      "content": {
+        "title": "Introduction to Estate Planning",
+        "titleSize": "large",
+        "subtitle": "Protecting Yourself and Those You Care About in {{STATE_NAME}}"
+      }
+    },
+    {
+      "number": 2,
+      "type": "hook",
+      "content": {
+        "label": "When 24 Becomes Too Late",
+        "question": "<strong>Sarah (24)</strong> was critically injured in a car accident...<br><br><strong>Without healthcare directive:</strong> Estranged parents made medical decisions against her known wishes<br><strong>Without power of attorney:</strong> Partner couldn't access bank accounts to pay rent<br><strong>Cost to prevent this:</strong> Less than $300<br><br><strong>Today's Question:</strong> What documents protect you when you can't speak for yourself?"
+      },
+      "headerColor": "rose",
+      "notes": "DISCUSSION PROMPTS (5 min):\n• Ask: \"Why do you think most young adults don't have these documents?\"\n• Key insight: Estate planning isn't about death or taxes—it's about protection during incapacity.\n• Sarah's story shows real consequences—family conflict, financial chaos, ignored wishes.\n• Emphasize: These documents are MORE critical for young adults than seniors (longer potential incapacity period)."
+    },
+    {
+      "number": 3,
+      "type": "content",
+      "headerColor": "indigo",
+      "content": {
+        "headerTitle": "Learning Objectives",
+        "layout": "objectives-expanded",
+        "layoutData": {
+          "objectives": [
+            {
+              "number": 1,
+              "verb": "Define",
+              "description": "essential estate planning documents: wills, trusts, power of attorney, and healthcare directives"
+            },
+            {
+              "number": 2,
+              "verb": "Explain",
+              "description": "the probate process and strategies for avoiding or minimizing it"
+            },
+            {
+              "number": 3,
+              "verb": "Compare",
+              "description": "revocable and irrevocable trusts and understand when each is appropriate"
+            },
+            {
+              "number": 4,
+              "verb": "Analyze",
+              "description": "how beneficiary designations interact with wills and why they're critical"
+            },
+            {
+              "number": 5,
+              "verb": "Make",
+              "description": "informed decisions about basic estate planning needs appropriate for your life stage"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 4,
+      "type": "content",
+      "headerColor": "indigo",
+      "content": {
+        "headerTitle": "What Is Estate Planning?",
+        "layout": "concept-full",
+        "layoutData": {
+          "title": "Creating legal documents that answer five critical questions about your life and death",
+          "bulletPoints": [
+            "<strong>1.</strong> What happens to your assets when you die?",
+            "<strong>2.</strong> Who makes financial decisions if you can't?",
+            "<strong>3.</strong> Who makes medical decisions if you're incapacitated?",
+            "<strong>4.</strong> Who cares for your children if something happens to you?",
+            "<strong>5.</strong> How can you minimize legal complexity and cost for your family?"
+          ],
+          "keyPoint": "Estate planning is essential at <em>any age</em>. A 25-year-old needs healthcare directives as much as a 75-year-old—perhaps more, since younger people may face decades of care if seriously injured."
+        }
+      }
+    },
+    {
+      "number": 5,
+      "type": "content",
+      "headerColor": "indigo",
+      "content": {
+        "headerTitle": "Document 1: Wills (Last Will and Testament)",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "What Wills Do",
+            "paragraphs": [
+              "<strong>✅ Direct asset distribution</strong> (who gets what)",
+              "<strong>✅ Name executor</strong> (estate manager)",
+              "<strong>✅ Designate guardians</strong> for minor children",
+              "<strong>✅ Create testamentary trusts</strong> for beneficiaries",
+              "<strong>✅ Specify funeral preferences</strong>"
+            ]
+          },
+          "rightPanel": {
+            "stats": [],
+            "infoCard": {
+              "title": "What Wills DON'T Control",
+              "color": "rose",
+              "items": [
+                "❌ Retirement accounts (401k, IRA)",
+                "❌ Life insurance policies",
+                "❌ Payable-on-death bank accounts",
+                "❌ Transfer-on-death investments",
+                "❌ Property held in trust",
+                "",
+                "<strong>These pass by beneficiary designation, NOT your will!</strong>"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 6,
+      "type": "content",
+      "headerColor": "rose",
+      "content": {
+        "headerTitle": "Dying Without a Will: Intestate Succession",
+        "layout": "scenario-layout",
+        "layoutData": {
+          "scenario": {
+            "icon": "⚠️",
+            "name": "What Happens in {{STATE_NAME}} Without a Will",
+            "paragraphs": [
+              "When you die without a valid will, <strong>state intestacy laws</strong> determine who inherits.",
+              "",
+              "<strong>Common Outcomes:</strong>",
+              "• Unmarried partners receive <strong>NOTHING</strong>—even after decades together",
+              "• Assets divided by rigid formulas that rarely match your wishes",
+              "• Courts appoint guardians without knowing your preferences",
+              "• Entirely public process, expensive, time-consuming (6-24 months)",
+              "",
+              "<strong>In {{STATE_NAME}}:</strong> {{STATE_NAME}} intestacy laws follow state probate code formulas"
+            ]
+          },
+          "outcomes": [
+            {
+              "type": "before",
+              "label": "The Cost",
+              "value": "3-7%",
+              "detail": "Probate typically costs 3-7% of estate value ($3,000-$7,000 per $100,000) plus 6-24 months of delays"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 7,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Document 2: Trusts",
+        "layout": "comparison-grid",
+        "layoutData": {
+          "leftColumn": {
+            "icon": "✅",
+            "title": "Revocable Living Trust",
+            "items": [
+              "<strong>You can modify or cancel anytime</strong>",
+              "",
+              "✅ Avoids probate (faster, private)",
+              "✅ You control assets during your life",
+              "✅ Successor trustee distributes at death",
+              "",
+              "❌ No tax benefits or asset protection",
+              "",
+              "<strong>Cost:</strong> $1,500-$4,000",
+              "<strong>Best for:</strong> Avoiding probate on estates $500K+"
+            ]
+          },
+          "rightColumn": {
+            "icon": "🔒",
+            "title": "Irrevocable Trust",
+            "items": [
+              "<strong>Cannot be changed once created</strong>",
+              "",
+              "✅ Asset protection from creditors",
+              "✅ Estate tax reduction (large estates)",
+              "✅ Medicaid planning for long-term care",
+              "",
+              "❌ Permanent—inflexible",
+              "",
+              "<strong>Cost:</strong> $2,000-$5,000+",
+              "<strong>Best for:</strong> Advanced planning, asset protection, tax concerns"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "number": 8,
+      "type": "content",
+      "headerColor": "indigo",
+      "content": {
+        "headerTitle": "Trusts Aren't Just for the Wealthy",
+        "layout": "scenario-layout",
+        "layoutData": {
+          "scenario": {
+            "icon": "👨‍👩‍👧‍👦",
+            "name": "Young Parents: Marcus & Sarah (Ages 29/30)",
+            "paragraphs": [
+              "<strong>Situation:</strong> Two young children (ages 2 & 4), $600K life insurance, modest other assets",
+              "",
+              "<strong>Problem:</strong> Can't name children directly as life insurance beneficiaries—minors can't own assets",
+              "",
+              "<strong>Without Trust:</strong> Court appoints custodian until age 18, then $600K lump sum to teenager",
+              "",
+              "<strong>With Testamentary Trust:</strong>",
+              "• Life insurance pays into trust",
+              "• Trustee manages funds for children's benefit",
+              "• Controlled distribution (e.g., 1/3 at 25, 1/3 at 30, 1/3 at 35)",
+              "• Cost: $800"
+            ]
+          },
+          "outcomes": [
+            {
+              "type": "after",
+              "label": "Key Insight",
+              "value": "💡",
+              "detail": "Estate size matters less than family complexity. Young parents with life insurance need trusts more than wealthy retirees with adult children."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 9,
+      "type": "content",
+      "headerColor": "blue",
+      "content": {
+        "headerTitle": "Document 3: Financial Power of Attorney",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "What Is Financial POA?",
+            "paragraphs": [
+              "Authorizes someone to handle <strong>financial matters</strong> on your behalf if you're incapacitated",
+              "",
+              "<strong>Powers Granted:</strong>",
+              "• Pay bills & manage accounts",
+              "• File taxes",
+              "• Manage investments",
+              "• Sell property if needed",
+              "",
+              "<strong>Durable POA:</strong> Remains effective during incapacity (what you want)"
+            ]
+          },
+          "rightPanel": {
+            "stats": [],
+            "infoCard": {
+              "title": "Without Financial POA",
+              "color": "red",
+              "items": [
+                "⚠️ <strong>Conservatorship Required</strong>",
+                "",
+                "• Public, expensive court process",
+                "• Costs: $3,000-$8,000 in legal fees",
+                "• Timeline: 2-6 months",
+                "• Ongoing court supervision",
+                "",
+                "<strong>A $200 POA document prevents this nightmare</strong>"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 10,
+      "type": "content",
+      "headerColor": "purple",
+      "content": {
+        "headerTitle": "Document 4: Healthcare Power of Attorney & Living Will",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "Healthcare Power of Attorney",
+            "paragraphs": [
+              "Authorizes someone to make <strong>medical decisions</strong> when you can't",
+              "",
+              "<strong>Decisions Covered:</strong>",
+              "• Medical treatment choices",
+              "• End-of-life care decisions",
+              "• Physician communication",
+              "• Facility placement",
+              "",
+              "<strong>Choose:</strong> Someone who knows your values and will honor your wishes"
+            ]
+          },
+          "rightPanel": {
+            "stats": [],
+            "infoCard": {
+              "title": "Living Will (Advance Directive)",
+              "color": "indigo",
+              "items": [
+                "<strong>Specifies YOUR treatment preferences:</strong>",
+                "",
+                "• Life support decisions",
+                "• Organ donation wishes",
+                "• Quality of life priorities",
+                "• Pain management preferences",
+                "",
+                "<strong>Prevents family conflict</strong> over difficult medical decisions during crisis"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 11,
+      "type": "content",
+      "headerColor": "rose",
+      "content": {
+        "headerTitle": "Document 5: Beneficiary Designations — The Will Override",
+        "layout": "concept-full",
+        "layoutData": {
+          "title": "CRITICAL: Beneficiary designations TRUMP your will!",
+          "bulletPoints": [
+            "<strong>Assets that bypass wills:</strong> Retirement accounts (401k, IRA), life insurance, POD bank accounts, TOD investment accounts",
+            "<strong>Primary beneficiary:</strong> First in line to receive assets if alive at your death",
+            "<strong>Contingent beneficiary:</strong> Backup—receives assets only if primary has died before you",
+            "<strong>ALWAYS name contingent beneficiaries</strong>—without them, assets go to your estate (probate) if primary predeceases you"
+          ],
+          "keyPoint": "For most people, retirement accounts and life insurance represent the majority of wealth—these pass by beneficiary form, NOT will. Review beneficiaries annually and after all major life events (marriage, divorce, births, deaths)."
+        }
+      }
+    },
+    {
+      "number": 12,
+      "type": "content",
+      "headerColor": "rose",
+      "content": {
+        "headerTitle": "Common Beneficiary Mistakes (Preventable Disasters)",
+        "layout": "comparison-grid",
+        "layoutData": {
+          "leftColumn": {
+            "icon": "❌",
+            "title": "Mistake 1: Never Updated After Divorce",
+            "items": [
+              "Michael (42) divorced 8 years ago, remarried 5 years ago",
+              "",
+              "Never updated beneficiaries",
+              "",
+              "<strong>Result:</strong> Ex-wife gets $580K (life insurance + 401k)",
+              "",
+              "Current wife gets only $250K (home via will)",
+              "",
+              "18-month legal battle costs $45K",
+              "",
+              "<strong>Prevention:</strong> Update within 30 days of divorce!"
+            ]
+          },
+          "centerColumn": {
+            "icon": "❌",
+            "title": "Mistake 2: Minor Children Named Directly",
+            "items": [
+              "Amanda (35) named 8-year-old daughter directly on $250K life insurance",
+              "",
+              "Court custodianship until age 18",
+              "",
+              "Then $325K lump sum to teenager",
+              "",
+              "<strong>Result:</strong> Daughter depleted entire inheritance by age 24",
+              "",
+              "<strong>Prevention:</strong> Name TRUST as beneficiary, not child directly!"
+            ]
+          },
+          "rightColumn": {
+            "icon": "❌",
+            "title": "Mistake 3: No Contingent Beneficiaries",
+            "items": [
+              "Karen (67) named only her mother (89) as primary",
+              "",
+              "No contingent beneficiaries listed",
+              "",
+              "Mother died 6 months before Karen",
+              "",
+              "<strong>Result:</strong> $470K forced into probate",
+              "",
+              "Cost: $23.5K + 11-month delay",
+              "",
+              "<strong>Prevention:</strong> ALWAYS name contingent beneficiaries!"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "number": 13,
+      "type": "content",
+      "headerColor": "rose",
+      "content": {
+        "headerTitle": "For Parents: Guardian Designations (URGENT)",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "Why Guardian Designation Is Critical",
+            "paragraphs": [
+              "<strong>Without designated guardians:</strong>",
+              "",
+              "• Courts decide who raises your children WITHOUT knowing your preferences",
+              "• Children may go to foster care temporarily while relatives battle for custody",
+              "• Outcome may not be who you'd choose",
+              "• Family relationships damaged by custody battles",
+              "",
+              "<strong>Timeline:</strong> Can take 3-12 months to resolve"
+            ]
+          },
+          "rightPanel": {
+            "stats": [],
+            "infoCard": {
+              "title": "Choosing Guardians",
+              "color": "indigo",
+              "items": [
+                "<strong>Key Considerations:</strong>",
+                "",
+                "• Who shares your values & parenting philosophy?",
+                "• Who has energy/family situation for more children?",
+                "• Location & schools acceptable?",
+                "• Are they willing and capable?",
+                "• Have you discussed this with them?",
+                "",
+                "<strong>Consider:</strong> Guardian of person (raises children) vs. trustee (manages money) can be different people"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 14,
+      "type": "content",
+      "headerColor": "amber",
+      "content": {
+        "headerTitle": "Understanding Probate",
+        "layout": "concept-full",
+        "layoutData": {
+          "title": "The court-supervised legal process of validating a will, paying debts, and distributing assets",
+          "paragraphs": [
+            "<strong>Probate Process:</strong>",
+            "1. File will with court (if will exists)",
+            "2. Appoint executor/administrator",
+            "3. Inventory all assets",
+            "4. Pay debts, taxes, and expenses",
+            "5. Distribute remaining assets to heirs",
+            "",
+            "<strong>Probate Costs:</strong> 3-7% of estate value ($3,000-$7,000 per $100,000)",
+            "<strong>Timeline:</strong> 6-24 months in most states",
+            "<strong>Privacy:</strong> Entirely public record—anyone can see what you owned and who inherited"
+          ],
+          "keyPoint": "Strategies to avoid probate: Revocable living trust, beneficiary designations, joint ownership with right of survivorship, POD/TOD accounts"
+        }
+      }
+    },
+    {
+      "number": 15,
+      "type": "content",
+      "headerColor": "indigo",
+      "content": {
+        "headerTitle": "Estate Planning by Life Stage",
+        "layout": "comparison-grid",
+        "layoutData": {
+          "leftColumn": {
+            "icon": "🎓",
+            "title": "Young Singles (18-30, No Dependents)",
+            "items": [
+              "<strong>Priority Documents:</strong>",
+              "1. Healthcare directive (CRITICAL)",
+              "2. Financial power of attorney (CRITICAL)",
+              "3. Basic will (if assets > $25K or serious relationship)",
+              "",
+              "<strong>Cost:</strong> $100-500 total",
+              "",
+              "<strong>Why:</strong> Incapacity protection MORE important than death planning at this stage"
+            ]
+          },
+          "centerColumn": {
+            "icon": "💑",
+            "title": "Married/Serious Relationship",
+            "items": [
+              "<strong>Priority Documents:</strong>",
+              "1. Healthcare directive (CRITICAL)",
+              "2. Financial power of attorney (CRITICAL)",
+              "3. Will naming partner (CRITICAL)",
+              "4. Beneficiary review (CRITICAL)",
+              "",
+              "<strong>Cost:</strong> $300-800 total",
+              "",
+              "<strong>Why:</strong> Unmarried partners have NO automatic rights—will is essential"
+            ]
+          },
+          "rightColumn": {
+            "icon": "👨‍👩‍👧‍👦",
+            "title": "Parents of Minor Children",
+            "items": [
+              "<strong>Priority Documents:</strong>",
+              "1. Guardian designations (URGENT)",
+              "2. Trust for children (URGENT)",
+              "3. Healthcare directive (CRITICAL)",
+              "4. Financial POA (CRITICAL)",
+              "5. Beneficiary coordination (CRITICAL)",
+              "",
+              "<strong>Cost:</strong> $800-2,500 total",
+              "",
+              "<strong>Why:</strong> Protecting children is non-negotiable—do this NOW"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "number": 16,
+      "type": "content",
+      "headerColor": "amber",
+      "content": {
+        "headerTitle": "State-Specific Considerations: {{STATE_NAME}}",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "Estate & Inheritance Taxes in {{STATE_NAME}}",
+            "paragraphs": [
+              "{{STATE_ESTATE_TAX}}",
+              "",
+              "<strong>Federal Estate Tax:</strong>",
+              "• $13.61M exemption (2024)",
+              "• 40% tax rate above exemption",
+              "• Only affects very large estates",
+              "",
+              "<strong>Most people won't face estate taxes</strong>—but planning still essential for avoiding probate, protecting children, and ensuring wishes honored"
+            ]
+          },
+          "rightPanel": {
+            "stats": [],
+            "infoCard": {
+              "title": "{{STATE_NAME}} Probate & Intestacy",
+              "color": "amber",
+              "items": [
+                "<strong>Probate in {{STATE_NAME}}:</strong>",
+                "• Follows state-specific procedures",
+                "• Costs vary by county",
+                "• Timeline typically 6-18 months",
+                "",
+                "<strong>Intestacy Laws:</strong>",
+                "• {{STATE_NAME}} probate code determines asset distribution without will",
+                "• Formulas rarely match individual preferences",
+                "",
+                "<strong>Action:</strong> Consult {{STATE_NAME}} attorney for state-specific guidance"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 17,
+      "type": "content",
+      "headerColor": "rose",
+      "content": {
+        "headerTitle": "Common Estate Planning Mistakes",
+        "layout": "comparison-grid",
+        "layoutData": {
+          "leftColumn": {
+            "icon": "❌",
+            "title": "Procrastination",
+            "items": [
+              "\"I'm too young to need estate planning\"",
+              "",
+              "<strong>Reality:</strong> Incapacity doesn't discriminate by age",
+              "",
+              "Young adults face DECADES of potential care if seriously injured",
+              "",
+              "Healthcare directive & POA are MORE critical for young adults than seniors"
+            ]
+          },
+          "centerColumn": {
+            "icon": "❌",
+            "title": "Never Updating Documents",
+            "items": [
+              "Life changes require document updates:",
+              "",
+              "• Marriage or divorce",
+              "• Birth/adoption of children",
+              "• Death of beneficiary/guardian",
+              "• Significant asset changes",
+              "• Moving to new state",
+              "",
+              "<strong>Review:</strong> Every 3-5 years minimum"
+            ]
+          },
+          "rightColumn": {
+            "icon": "❌",
+            "title": "Ignoring Beneficiaries",
+            "items": [
+              "Beneficiary designations TRUMP wills",
+              "",
+              "Ex-spouses still getting assets years after divorce",
+              "",
+              "Minor children named directly (lump sum at 18)",
+              "",
+              "<strong>Solution:</strong> Annual beneficiary audit"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "number": 18,
+      "type": "content",
+      "headerColor": "emerald",
+      "content": {
+        "headerTitle": "Getting Started: Action Steps",
+        "layout": "balanced-layout",
+        "layoutData": {
+          "leftPanel": {
+            "title": "DIY vs. Attorney: When to Use Each",
+            "paragraphs": [
+              "<strong>Online Services / State Forms ($100-300):</strong>",
+              "• Simple situations",
+              "• No children or straightforward guardianship",
+              "• Modest assets",
+              "• No special circumstances",
+              "",
+              "<strong>Attorney Recommended ($500-2,000):</strong>",
+              "• Parents of minor children",
+              "• Blended families",
+              "• Business ownership",
+              "• Assets > $500K",
+              "• Complex family dynamics"
+            ]
+          },
+          "rightPanel": {
+            "stats": [],
+            "infoCard": {
+              "title": "30-Day Action Plan",
+              "color": "emerald",
+              "items": [
+                "<strong>Week 1:</strong> Identify your priority documents based on life stage",
+                "",
+                "<strong>Week 2:</strong> Choose agents (healthcare proxy, financial POA, guardians)",
+                "",
+                "<strong>Week 3:</strong> Create or update documents (attorney, online service, or state forms)",
+                "",
+                "<strong>Week 4:</strong> Review beneficiaries, store documents securely, inform family of locations"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "number": 19,
+      "type": "discussion",
+      "variant": "indigo",
+      "content": {
+        "badge": "Discussion",
+        "question": "<strong>1. Life Stage Assessment:</strong> Based on your current situation, which estate planning documents are most critical for YOU right now?<br><br><strong>2. Barriers:</strong> What prevents young adults from creating these documents? How can those barriers be overcome?<br><br><strong>3. Conversations:</strong> Who would you trust as your healthcare proxy? Financial agent? Guardian (if applicable)? Have you had these conversations with them?<br><br><strong>4. Commitment:</strong> What specific estate planning action will you take within 30 days?"
+      },
+      "headerColor": "indigo",
+      "notes": "DISCUSSION FACILITATION:\n\n1. Life stage: Help students self-identify priority documents. Everyone 18+ needs healthcare directive & POA. Parents need guardians URGENTLY.\n\n2. Barriers: Cost ($100-500 is manageable), perceived complexity (online services simplify), feeling \"too young\" (incapacity doesn't discriminate), procrastination (create 30-day timeline).\n\n3. Conversations: Emphasize that choosing agents requires difficult but important conversations. Don't assume—ASK if people are willing.\n\n4. Commitment: Encourage specific, time-bound actions: \"Create healthcare directive by March 30\" not \"look into estate planning someday.\""
+    },
+    {
+      "number": 20,
+      "type": "content",
+      "headerColor": "indigo",
+      "content": {
+        "headerTitle": "Key Takeaways",
+        "layout": "takeaway-grid",
+        "layoutData": {
+          "takeaways": [
+            {
+              "number": 1,
+              "title": "Estate Planning Is for Everyone 18+",
+              "description": "Healthcare directives and POAs protect you while LIVING. More immediately relevant than wills for young adults. Create these first."
+            },
+            {
+              "number": 2,
+              "title": "Parents Need Guardians Immediately",
+              "description": "If you have minor children, guardian designation is URGENT—not optional, regardless of age or assets. Do this NOW."
+            },
+            {
+              "number": 3,
+              "title": "Beneficiaries Trump Wills",
+              "description": "For most people, retirement accounts and life insurance represent majority of wealth. These pass by beneficiary form, NOT will. Review annually."
+            },
+            {
+              "number": 4,
+              "title": "Complexity > Estate Size for Trusts",
+              "description": "Young parents with life insurance need trusts more than wealthy singles. Family situation matters more than asset value."
+            },
+            {
+              "number": 5,
+              "title": "Cost of Planning << Cost of No Planning",
+              "description": "Basic planning costs $100-500. Probate costs 3-7% of estate ($3K-$7K per $100K). Conservatorship: $3K-$8K. Family conflict: priceless."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
