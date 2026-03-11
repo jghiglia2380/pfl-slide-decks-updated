@@ -7,9 +7,7 @@
     "hasStateVariables": true,
     "stateVariablesUsed": [
       "STATE_NAME",
-      "STATE_MIN_WAGE",
-      "STATE_COMMERCIAL_RENT",
-      "STATE_AVG_BUSINESS_LOAN_RATE"
+      "STATE_MIN_WAGE"
     ]
   },
   "slides": [
@@ -207,7 +205,7 @@
             "<strong>Capital</strong> (in economics) means manufactured goods used to produce other goods—machinery, computers, tools, buildings, vehicles. It does NOT mean money!",
             "The payment for providing capital is <strong>INTEREST</strong>—paid to those who lend money to buy capital equipment, or to investors who finance capital purchases.",
             "Businesses need capital to increase productivity. A bakery needs ovens, a construction company needs equipment, a tech startup needs computers. These capital investments often require loans.",
-            "In {{STATE_NAME}}, average business loan rates are around {{STATE_AVG_BUSINESS_LOAN_RATE}}% APR. A $100,000 equipment loan at 7% costs $700/month in interest—that's the capital payment."
+            "Average small business loan rates typically range from 7-10% APR depending on creditworthiness and loan term. A $100,000 equipment loan at 7% costs $700/month in interest—that's the capital payment."
           ],
           "callout": {
             "label": "Common Confusion",
